@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027836,1,1st,3:01,419,COL,10561,Taylor Makar,16,F,Slashing,2.00,1,0,10561,Taylor Makar,John Lindner,Nolan Bloyer,,
+1027836,1,1st,10:18,419,COL,7090,Tye Felhaber,48,F,Hooking,2.00,1,0,7090,Tye Felhaber,John Lindner,Nolan Bloyer,,
+1027836,1,1st,18:47,404,SD,9197,Noah Warren,2,D,Slashing,2.00,1,0,9197,Noah Warren,John Lindner,Nolan Bloyer,,
+1027836,2,2nd,0:25,404,SD,9193,Tyson Hinds,5,D,Tripping,2.00,1,0,9193,Tyson Hinds,John Lindner,Nolan Bloyer,,
+1027836,2,2nd,6:42,419,COL,7090,Tye Felhaber,48,F,Hooking,2.00,1,0,7090,Tye Felhaber,John Lindner,Nolan Bloyer,,
+1027836,2,2nd,8:32,404,SD,6080,Justin Bailey,12,RW,High-sticking,2.00,1,0,6080,Justin Bailey,John Lindner,Nolan Bloyer,,
+1027836,2,2nd,14:46,404,SD,6442,Nikolas Brouillard,15,D,Hooking,2.00,1,0,6442,Nikolas Brouillard,John Lindner,Nolan Bloyer,,
+1027836,2,2nd,17:45,419,COL,10561,Taylor Makar,16,F,Slashing,2.00,1,0,10561,Taylor Makar,John Lindner,Nolan Bloyer,,
+1027836,3,3rd,9:47,404,SD,10686,Tim Washe,10,C,High-sticking,2.00,1,0,10686,Tim Washe,John Lindner,Nolan Bloyer,,

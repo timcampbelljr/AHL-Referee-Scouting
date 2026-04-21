@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027839,1,1st,10:43,440,ABB,10919,Anri Ravinskis,73,LW,Cross-checking,2.00,1,0,10919,Anri Ravinskis,Bobby Jo Love,Mike Campbell,,
+1027839,1,1st,18:59,403,ONT,9043,Taylor Ward,34,F,Hooking,2.00,1,0,9043,Taylor Ward,Bobby Jo Love,Mike Campbell,,
+1027839,2,2nd,5:06,440,ABB,10090,Victor Mancini,90,D,Hooking,2.00,1,0,10090,Victor Mancini,Bobby Jo Love,Mike Campbell,,
+1027839,2,2nd,8:34,440,ABB,10452,Kirill Kudryavtsev,59,D,Hooking,2.00,1,0,10452,Kirill Kudryavtsev,Bobby Jo Love,Mike Campbell,,
+1027839,2,2nd,18:12,440,ABB,10077,Sawyer Mynio,45,D,Cross-checking,2.00,1,0,10077,Sawyer Mynio,Bobby Jo Love,Mike Campbell,,
+1027839,2,2nd,18:25,403,ONT,6784,Glenn Gawdin,21,F,Cross-checking,2.00,1,0,6784,Glenn Gawdin,Bobby Jo Love,Mike Campbell,,
+1027839,3,3rd,4:31,440,ABB,7696,Chase Wouters,21,C,Hooking,2.00,1,0,7696,Chase Wouters,Bobby Jo Love,Mike Campbell,,
+1027839,3,3rd,5:51,440,ABB,6462,Mackenzie MacEachern,20,LW,Hooking,2.00,1,0,6462,Mackenzie MacEachern,Bobby Jo Love,Mike Campbell,,
+1027839,3,3rd,13:44,403,ONT,7822,Samuel Bolduc,58,D,Interference,2.00,1,0,7822,Samuel Bolduc,Bobby Jo Love,Mike Campbell,,

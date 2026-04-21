@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027840,1,1st,2:54,445,CV,10181,Andrei Loshko,72,F,Holding the stick,2.00,1,0,10181,Andrei Loshko,Morgan MacPhee,Jesse Wood-Schatz,,
+1027840,1,1st,10:08,444,CGY,6453,Clark Bishop,19,C,Tripping,2.00,1,0,6453,Clark Bishop,Morgan MacPhee,Jesse Wood-Schatz,,
+1027840,2,2nd,16:16,444,CGY,9727,Artem Grushnikov,3,D,Interference,2.00,1,0,9727,Artem Grushnikov,Morgan MacPhee,Jesse Wood-Schatz,,
+1027840,2,2nd,20:00,445,CV,9762,Jacob Melanson,63,F,Tripping,2.00,1,0,9762,Jacob Melanson,Morgan MacPhee,Jesse Wood-Schatz,,
+1027840,3,3rd,3:41,444,CGY,9447,Jérémie Poirier,4,D,Interference,2.00,1,0,9447,Jérémie Poirier,Morgan MacPhee,Jesse Wood-Schatz,,
+1027840,3,3rd,11:24,444,CGY,9952,Lucas Ciona,17,LW,Tripping,2.00,1,0,9952,Lucas Ciona,Morgan MacPhee,Jesse Wood-Schatz,,
+1027840,3,3rd,16:29,445,CV,8625,Ian McKinnon,21,F,Fighting,5.00,0,0,8625,Ian McKinnon,Morgan MacPhee,Jesse Wood-Schatz,,
+1027840,3,3rd,16:29,444,CGY,9952,Lucas Ciona,17,LW,Fighting,5.00,0,0,9952,Lucas Ciona,Morgan MacPhee,Jesse Wood-Schatz,,
+1027840,OT,OT,0:44,444,CGY,6142,Alex Gallant,20,LW,Misconduct - Abuse of officials,10.00,0,0,6142,Alex Gallant,Morgan MacPhee,Jesse Wood-Schatz,,

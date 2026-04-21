@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027799,1,1st,3:45,415,LAV,9093,Lucas Condotta,42,LW,Holding,2.00,1,0,9093,Lucas Condotta,Ben Betker,Jacob Hicks,,
+1027799,1,1st,12:05,321,MB,9557,Brad Lambert,13,F,Tripping,2.00,1,0,9557,Brad Lambert,Ben Betker,Jacob Hicks,,
+1027799,1,1st,14:14,415,LAV,9522,Filip Mešár,48,RW,Hooking,2.00,1,0,9522,Filip Mešár,Ben Betker,Jacob Hicks,,
+1027799,1,1st,19:22,415,LAV,8554,Ryan O’Rourke,25,D,Holding,2.00,1,0,8554,Ryan O’Rourke,Ben Betker,Jacob Hicks,,
+1027799,2,2nd,0:56,321,MB,7113,Mason Shaw,18,RW,Holding,2.00,1,0,7113,Mason Shaw,Ben Betker,Jacob Hicks,,
+1027799,2,2nd,5:19,321,MB,9555,Tyrel Bauer,2,D,Roughing,2.00,1,0,9555,Tyrel Bauer,Ben Betker,Jacob Hicks,,
+1027799,2,2nd,14:46,415,LAV,9523,Xavier Simoneau,81,C,Cross-checking,2.00,1,0,9523,Xavier Simoneau,Ben Betker,Jacob Hicks,,
+1027799,3,3rd,5:59,415,LAV,9182,Joshua Roy,10,LW,Slashing,2.00,1,0,9182,Joshua Roy,Ben Betker,Jacob Hicks,,
+1027799,3,3rd,10:04,321,MB,8706,Walker Duehr,7,RW,Slashing,2.00,1,0,8706,Walker Duehr,Ben Betker,Jacob Hicks,,
+1027799,3,3rd,13:25,415,LAV,7849,Wyatte Wylie,38,D,Hooking,2.00,1,0,7849,Wyatte Wylie,Ben Betker,Jacob Hicks,,

@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027828,1,1st,5:10,372,RFD,10563,Taige Harding,47,D,Roughing,2.00,1,0,10563,Taige Harding,Jordan Deckard,David Elford,,
+1027828,1,1st,7:10,372,RFD,10563,Taige Harding,47,D,Tripping,2.00,1,0,10563,Taige Harding,Jordan Deckard,David Elford,,
+1027828,1,1st,11:31,372,RFD,10382,Kevin Korchinski,14,D,Slashing,2.00,1,0,10382,Kevin Korchinski,Jordan Deckard,David Elford,,
+1027828,1,1st,14:33,330,CHI,10882,Ivan Ryabkin,27,C,Roughing,2.00,1,0,10882,Ivan Ryabkin,Jordan Deckard,David Elford,,
+1027828,1,1st,19:00,372,RFD,9668,Paul Ludwinski,90,F,High-sticking,2.00,1,0,9668,Paul Ludwinski,Jordan Deckard,David Elford,,
+1027828,2,2nd,6:37,372,RFD,10382,Kevin Korchinski,14,D,High-sticking,2.00,1,0,10382,Kevin Korchinski,Jordan Deckard,David Elford,,
+1027828,2,2nd,6:41,330,CHI,10468,Bradly Nadeau,82,LW,Hooking,2.00,1,0,10468,Bradly Nadeau,Jordan Deckard,David Elford,,
+1027828,2,2nd,13:04,372,RFD,10317,Connor Mylymok,26,LW,Fighting,5.00,0,0,10317,Connor Mylymok,Jordan Deckard,David Elford,,
+1027828,2,2nd,13:04,330,CHI,6937,Yanick Turcotte,20,LW,Fighting,5.00,0,0,6937,Yanick Turcotte,Jordan Deckard,David Elford,,
+1027828,2,2nd,14:56,372,RFD,7027,Brett Seney,62,F,Interference,2.00,1,0,7027,Brett Seney,Jordan Deckard,David Elford,,
+1027828,3,3rd,10:16,330,CHI,8615,Nikita Pavlychev,15,C,Hooking,2.00,1,0,8615,Nikita Pavlychev,Jordan Deckard,David Elford,,
+1027828,3,3rd,15:51,330,CHI,8615,Nikita Pavlychev,15,C,Tripping,2.00,1,0,8615,Nikita Pavlychev,Jordan Deckard,David Elford,,

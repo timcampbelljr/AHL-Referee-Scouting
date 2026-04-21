@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027815,1,1st,11:53,372,RFD,7027,Brett Seney,62,F,Holding the stick,2.00,1,0,7027,Brett Seney,Jordan Deckard,David Elford,,
+1027815,2,2nd,3:14,372,RFD,7027,Brett Seney,62,F,Slashing,2.00,1,0,7027,Brett Seney,Jordan Deckard,David Elford,,
+1027815,2,2nd,7:41,330,CHI,9742,Skyler Brind’Amour,22,C,Hooking,2.00,1,0,9742,Skyler Brind’Amour,Jordan Deckard,David Elford,,
+1027815,2,2nd,12:31,372,RFD,9341,Andrew Perrott,75,D,Interference,2.00,1,0,9341,Andrew Perrott,Jordan Deckard,David Elford,,
+1027815,2,2nd,19:02,372,RFD,10142,Martin Misiak,68,F,Slashing,2.00,1,0,10142,Martin Misiak,Jordan Deckard,David Elford,,
+1027815,3,3rd,4:28,372,RFD,7027,Brett Seney,62,F,Goaltender interference,2.00,1,0,7027,Brett Seney,Jordan Deckard,David Elford,,
+1027815,3,3rd,9:38,372,RFD,10403,Dillon Boucher,36,F,Kneeing,2.00,1,0,10403,Dillon Boucher,Jordan Deckard,David Elford,,
+1027815,3,3rd,9:54,330,CHI,10462,Felix Unger Sörum,14,RW,Interference,2.00,1,0,10462,Felix Unger Sörum,Jordan Deckard,David Elford,,
+1027815,3,3rd,11:56,372,RFD,9833,Ethan Del Mastro,38,D,Tripping,2.00,1,0,9833,Ethan Del Mastro,Jordan Deckard,David Elford,,
+1027815,3,3rd,13:48,330,CHI,8615,Nikita Pavlychev,15,C,Slashing,2.00,1,0,8615,Nikita Pavlychev,Jordan Deckard,David Elford,,
+1027815,3,3rd,19:39,330,CHI,6633,Gavin Bayreuther,55,D,Cross-checking,2.00,1,0,6633,Gavin Bayreuther,Jordan Deckard,David Elford,,

@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027806,1,1st,5:56,307,HFD,10523,Jackson Dorrington,38,D,Hooking,2.00,1,0,10523,Jackson Dorrington,Riley Brace,Matt Mannella,,
+1027806,1,1st,6:57,307,HFD,8430,Dylan Garand,31,G,Delay of game,2.00,1,0,4957,Derrick Pouliot,Riley Brace,Matt Mannella,,
+1027806,1,1st,17:32,316,WBS,6865,Bokondji Imama,14,LW,Roughing,2.00,1,0,10851,Aaron Huglen,Riley Brace,Matt Mannella,,
+1027806,1,1st,17:32,316,WBS,6865,Bokondji Imama,14,LW,Roughing,2.00,0,0,6865,Bokondji Imama,Riley Brace,Matt Mannella,,
+1027806,1,1st,17:32,307,HFD,9970,Brennan Othmann,78,F,Roughing,2.00,0,0,9970,Brennan Othmann,Riley Brace,Matt Mannella,,
+1027806,2,2nd,4:28,307,HFD,9642,Brett Berard,9,F,Hooking,2.00,1,0,9642,Brett Berard,Riley Brace,Matt Mannella,,
+1027806,3,3rd,0:56,316,WBS,7802,Rafaël Harvey-Pinard,49,RW,Fighting,5.00,0,0,7802,Rafaël Harvey-Pinard,Riley Brace,Matt Mannella,,
+1027806,3,3rd,0:56,307,HFD,7569,Casey Fitzgerald,4,D,Unsportsmanlike conduct,2.00,1,0,9667,Bryce McConnell-Barker,Riley Brace,Matt Mannella,,
+1027806,3,3rd,0:56,307,HFD,7569,Casey Fitzgerald,4,D,Fighting,5.00,0,0,7569,Casey Fitzgerald,Riley Brace,Matt Mannella,,
+1027806,3,3rd,7:05,316,WBS,8664,Phil Kemp,52,D,High-sticking,2.00,1,0,8664,Phil Kemp,Riley Brace,Matt Mannella,,
+1027806,3,3rd,15:58,316,WBS,10326,Atley Calvert,84,LW,Delay of game,2.00,1,0,10326,Atley Calvert,Riley Brace,Matt Mannella,,

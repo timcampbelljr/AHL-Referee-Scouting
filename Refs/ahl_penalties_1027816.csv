@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027816,1,1st,10:34,313,LV,9260,Artem Guryev,57,D,Hooking,2.00,1,0,9260,Artem Guryev,Damian Figueira,Alex Joubert,,
+1027816,1,1st,12:30,373,CLE,10556,Guillaume Richard,26,D,Interference,2.00,1,0,10556,Guillaume Richard,Damian Figueira,Alex Joubert,,
+1027816,1,1st,14:35,313,LV,4334,Garrett Wilson,17,LW,Hooking,2.00,1,0,4334,Garrett Wilson,Damian Figueira,Alex Joubert,,
+1027816,1,1st,17:14,313,LV,4334,Garrett Wilson,17,LW,Slashing,2.00,1,0,4334,Garrett Wilson,Damian Figueira,Alex Joubert,,
+1027816,2,2nd,4:02,313,LV,7145,Dennis Gilbert,48,D,Hooking,2.00,1,0,7145,Dennis Gilbert,Damian Figueira,Alex Joubert,,
+1027816,2,2nd,7:57,373,CLE,9735,Stanislav Svozil,5,D,Roughing,2.00,0,0,9735,Stanislav Svozil,Damian Figueira,Alex Joubert,,
+1027816,2,2nd,7:57,313,LV,9825,Alexis Gendron,72,F,Roughing,2.00,0,0,9825,Alexis Gendron,Damian Figueira,Alex Joubert,,
+1027816,2,2nd,8:53,373,CLE,9634,Mikael Pyyhtiä,82,LW,Slashing,2.00,1,0,9634,Mikael Pyyhtiä,Damian Figueira,Alex Joubert,,
+1027816,2,2nd,11:20,313,LV,9628,Emil Andrae,6,D,Interference,2.00,1,0,9628,Emil Andrae,Damian Figueira,Alex Joubert,,
+1027816,2,2nd,19:22,373,CLE,9735,Stanislav Svozil,5,D,High-sticking,2.00,1,0,9735,Stanislav Svozil,Damian Figueira,Alex Joubert,,
+1027816,3,3rd,8:44,373,CLE,9980,Hunter McKown,41,C,Delay of game - Faceoff violation (batting puck with hand),2.00,1,0,9980,Hunter McKown,Damian Figueira,Alex Joubert,,

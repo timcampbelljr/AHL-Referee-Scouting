@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027821,1,1st,8:52,327,MIL,9876,Reid Schaefer,49,LW,Roughing,2.00,0,0,9876,Reid Schaefer,Jake Kamrass,Shaun Davis,,
+1027821,1,1st,8:52,380,TEX,4883,Curtis McKenzie,16,F,Roughing,2.00,0,0,4883,Curtis McKenzie,Jake Kamrass,Shaun Davis,,
+1027821,1,1st,15:10,327,MIL,6403,Andreas Englund,8,D,Fighting,5.00,0,0,6403,Andreas Englund,Jake Kamrass,Shaun Davis,,
+1027821,1,1st,15:10,380,TEX,9456,Jack Becker,27,F,Fighting,5.00,0,0,9456,Jack Becker,Jake Kamrass,Shaun Davis,,
+1027821,2,2nd,9:37,380,TEX,8692,Vladislav Kolyachonok,18,D,Holding,2.00,1,0,8692,Vladislav Kolyachonok,Jake Kamrass,Shaun Davis,,
+1027821,2,2nd,11:47,327,MIL,9876,Reid Schaefer,49,LW,Roughing,2.00,1,0,9876,Reid Schaefer,Jake Kamrass,Shaun Davis,,
+1027821,2,2nd,13:12,327,MIL,10185,Andrew Gibson,6,D,Elbowing,2.00,1,0,10185,Andrew Gibson,Jake Kamrass,Shaun Davis,,
+1027821,2,2nd,15:17,380,TEX,9961,Matthew Seminoff,13,F,Tripping,2.00,1,0,9961,Matthew Seminoff,Jake Kamrass,Shaun Davis,,
+1027821,3,3rd,10:59,380,TEX,6718,Kyle Capobianco,22,D,Cross-checking,2.00,1,0,6718,Kyle Capobianco,Jake Kamrass,Shaun Davis,,

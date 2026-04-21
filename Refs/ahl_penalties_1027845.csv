@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027845,1,1st,2:40,404,SD,10116,Konnor Smith,38,D,Hooking,2.00,1,0,10116,Konnor Smith,Koletrane Wilson,Tatu Kunto,,
+1027845,1,1st,12:58,437,HSK,10284,Kai Uchacz,77,F,Tripping,2.00,1,0,10284,Kai Uchacz,Koletrane Wilson,Tatu Kunto,,
+1027845,2,2nd,13:33,437,HSK,7267,Dylan Coghlan,52,D,Tripping,2.00,1,0,7267,Dylan Coghlan,Koletrane Wilson,Tatu Kunto,,
+1027845,2,2nd,19:00,437,HSK,10131,Mathieu Cataford,8,F,Tripping,2.00,1,0,10131,Mathieu Cataford,Koletrane Wilson,Tatu Kunto,,
+1027845,3,3rd,3:12,404,SD,10076,Nico Myatovic,21,LW,Holding,2.00,1,0,10076,Nico Myatovic,Koletrane Wilson,Tatu Kunto,,
+1027845,3,3rd,7:50,437,HSK,7267,Dylan Coghlan,52,D,Hooking,2.00,1,0,7267,Dylan Coghlan,Koletrane Wilson,Tatu Kunto,,

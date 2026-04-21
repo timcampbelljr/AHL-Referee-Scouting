@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027823,1,1st,6:20,437,HSK,7267,Dylan Coghlan,52,D,Roughing,2.00,1,0,7267,Dylan Coghlan,Ben Betker,Ben Solomon,,
+1027823,1,1st,9:31,404,SD,6080,Justin Bailey,12,RW,Unsportsmanlike conduct,2.00,1,0,6080,Justin Bailey,Ben Betker,Ben Solomon,,
+1027823,1,1st,10:32,437,HSK,10284,Kai Uchacz,77,F,Tripping,2.00,1,0,10284,Kai Uchacz,Ben Betker,Ben Solomon,,
+1027823,2,2nd,2:35,437,HSK,9951,Christoffer Sedoff,44,D,Tripping,2.00,1,0,9951,Christoffer Sedoff,Ben Betker,Ben Solomon,,
+1027823,2,2nd,11:26,437,HSK,8421,Riley McKay,89,F,Hooking,2.00,1,0,8421,Riley McKay,Ben Betker,Ben Solomon,,
+1027823,2,2nd,13:07,404,SD,10076,Nico Myatovic,21,LW,Slashing,2.00,1,0,10076,Nico Myatovic,Ben Betker,Ben Solomon,,
+1027823,3,3rd,1:35,404,SD,10274,Yegor Sidorov,19,LW,Interference,2.00,1,0,10274,Yegor Sidorov,Ben Betker,Ben Solomon,,
+1027823,3,3rd,12:00,437,HSK,5547,Jaycob Megna,88,D,Kneeing,2.00,1,0,5547,Jaycob Megna,Ben Betker,Ben Solomon,,
+1027823,3,3rd,18:27,437,HSK,9250,Braeden Bowman,42,F,Slashing,2.00,1,0,9250,Braeden Bowman,Ben Betker,Ben Solomon,,

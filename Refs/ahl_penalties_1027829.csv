@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027829,1,1st,3:14,319,HER,9012,Justin Nachbaur,32,LW,Fighting,5.00,0,0,9012,Justin Nachbaur,Stephen Hiff,Luke Stork,,
+1027829,1,1st,3:14,411,SPR,5039,Kale Kessy,13,LW,Fighting,5.00,0,0,5039,Kale Kessy,Stephen Hiff,Luke Stork,,
+1027829,1,1st,14:00,411,SPR,10846,Nikita Susuyev,91,F,Slashing,2.00,1,0,10846,Nikita Susuyev,Stephen Hiff,Luke Stork,,
+1027829,1,1st,16:18,319,HER,6917,Calle Rosén,43,D,Hooking,2.00,1,0,6917,Calle Rosén,Stephen Hiff,Luke Stork,,
+1027829,2,2nd,18:44,319,HER,10573,David Gucciardi,48,D,Cross-checking,2.00,1,0,10573,David Gucciardi,Stephen Hiff,Luke Stork,,
+1027829,3,3rd,2:07,319,HER,4026,Aaron Ness,27,D,Roughing,2.00,0,0,4026,Aaron Ness,Stephen Hiff,Luke Stork,,
+1027829,3,3rd,2:07,411,SPR,8718,Nikita Alexandrov,17,C,Roughing,2.00,0,0,8718,Nikita Alexandrov,Stephen Hiff,Luke Stork,,
+1027829,3,3rd,7:11,411,SPR,10846,Nikita Susuyev,91,F,Hooking,2.00,1,0,10846,Nikita Susuyev,Stephen Hiff,Luke Stork,,
+1027829,3,3rd,15:36,319,HER,10572,Ryan Chesley,5,D,Tripping,2.00,1,0,10572,Ryan Chesley,Stephen Hiff,Luke Stork,,

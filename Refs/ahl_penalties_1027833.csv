@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027833,1,1st,14:22,413,BEL,9906,Djibril Touré,44,D,Interference,2.00,1,0,9906,Djibril Touré,Riley Brace,Mitchell Hardy,,
+1027833,2,2nd,1:15,413,BEL,6653,Hayden Hodgson,42,RW,High-sticking,2.00,1,0,6653,Hayden Hodgson,Riley Brace,Mitchell Hardy,,
+1027833,2,2nd,9:40,415,LAV,7849,Wyatte Wylie,38,D,Interference,2.00,1,0,7849,Wyatte Wylie,Riley Brace,Mitchell Hardy,,
+1027833,2,2nd,18:24,415,LAV,10139,Florian Xhekaj,63,C,Holding,2.00,1,0,10139,Florian Xhekaj,Riley Brace,Mitchell Hardy,,
+1027833,3,3rd,4:59,413,BEL,6653,Hayden Hodgson,42,RW,Interference,2.00,1,0,6653,Hayden Hodgson,Riley Brace,Mitchell Hardy,,
+1027833,3,3rd,12:13,415,LAV,9796,Jared Davidson,49,F,Hooking,2.00,1,0,9796,Jared Davidson,Riley Brace,Mitchell Hardy,,

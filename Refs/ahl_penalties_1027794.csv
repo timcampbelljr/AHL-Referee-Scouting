@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027794,2,2nd,13:46,307,HFD,0,None None,0,,Too many men - Bench minor,2.00,1,1,9667,Bryce McConnell-Barker,Damian Figueira,Patrick Hanrahan,,
+1027794,2,2nd,15:43,316,WBS,8890,Sam Poulin,22,RW,Roughing,2.00,1,0,8890,Sam Poulin,Damian Figueira,Patrick Hanrahan,,
+1027794,2,2nd,17:26,307,HFD,4957,Derrick Pouliot,51,D,Interference,2.00,1,0,4957,Derrick Pouliot,Damian Figueira,Patrick Hanrahan,,
+1027794,3,3rd,0:25,307,HFD,10737,Gabe Perreault,94,F,Hooking,2.00,1,0,10737,Gabe Perreault,Damian Figueira,Patrick Hanrahan,,
+1027794,3,3rd,6:57,307,HFD,0,None None,0,,Too many men - Bench minor,2.00,1,1,9667,Bryce McConnell-Barker,Damian Figueira,Patrick Hanrahan,,

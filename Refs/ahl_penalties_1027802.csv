@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027802,1,1st,2:22,309,PRO,10541,Jake Schmaltz,8,C,Tripping,2.00,1,0,10541,Jake Schmaltz,Mike Sullivan,Cole MacDonald,,
+1027802,1,1st,6:31,317,BRI,2350,Chris Terry,25,F,Tripping,2.00,1,0,2350,Chris Terry,Mike Sullivan,Cole MacDonald,,
+1027802,1,1st,6:52,317,BRI,7627,Hunter Drew,36,RW,Elbowing,2.00,1,0,7627,Hunter Drew,Mike Sullivan,Cole MacDonald,,
+1027802,1,1st,11:51,317,BRI,10389,Isaiah George,4,D,Tripping,2.00,1,0,10389,Isaiah George,Mike Sullivan,Cole MacDonald,,
+1027802,2,2nd,14:05,317,BRI,10389,Isaiah George,4,D,Boarding,2.00,1,0,10389,Isaiah George,Mike Sullivan,Cole MacDonald,,
+1027802,2,2nd,18:31,317,BRI,10020,Luke Rowe,24,D,Interference,2.00,1,0,10020,Luke Rowe,Mike Sullivan,Cole MacDonald,,
+1027802,3,3rd,0:46,317,BRI,2350,Chris Terry,25,F,Hooking,2.00,1,0,2350,Chris Terry,Mike Sullivan,Cole MacDonald,,
+1027802,3,3rd,7:02,309,PRO,9729,Matthew Poitras,21,C,Cross-checking,2.00,1,0,9729,Matthew Poitras,Mike Sullivan,Cole MacDonald,,
+1027802,3,3rd,9:30,309,PRO,9533,Matěj Blümel,18,LW,Hooking,2.00,1,0,9533,Matěj Blümel,Mike Sullivan,Cole MacDonald,,
+1027802,3,3rd,13:50,317,BRI,9954,Eetu Liukas,26,F,Roughing,2.00,0,0,9954,Eetu Liukas,Mike Sullivan,Cole MacDonald,,
+1027802,3,3rd,13:50,309,PRO,7786,Jonathan Aspirot,48,D,Roughing,2.00,0,0,7786,Jonathan Aspirot,Mike Sullivan,Cole MacDonald,,
+1027802,3,3rd,17:15,309,PRO,7943,Riley Tufte,27,LW,Cross-checking,2.00,1,0,7943,Riley Tufte,Mike Sullivan,Cole MacDonald,,

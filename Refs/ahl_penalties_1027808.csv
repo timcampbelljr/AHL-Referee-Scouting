@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027808,1,1st,2:16,437,HSK,10285,Viliam Kmec,74,D,Tripping,2.00,1,0,10285,Viliam Kmec,Alex Lepkowski,Sydney Harris,,
+1027808,1,1st,2:22,403,ONT,9081,Andre Lee,26,F,Tripping,2.00,1,0,9081,Andre Lee,Alex Lepkowski,Sydney Harris,,
+1027808,2,2nd,4:09,437,HSK,5547,Jaycob Megna,88,D,Tripping,2.00,1,0,5547,Jaycob Megna,Alex Lepkowski,Sydney Harris,,
+1027808,2,2nd,4:56,437,HSK,9266,Jakub Brabenec,12,F,Hooking,2.00,1,0,9266,Jakub Brabenec,Alex Lepkowski,Sydney Harris,,
+1027808,2,2nd,12:27,403,ONT,9357,Cole Guttman,81,F,Tripping,2.00,1,0,9357,Cole Guttman,Alex Lepkowski,Sydney Harris,,
+1027808,3,3rd,8:53,403,ONT,7822,Samuel Bolduc,58,D,Cross-checking,2.00,1,0,7822,Samuel Bolduc,Alex Lepkowski,Sydney Harris,,
+1027808,3,3rd,10:48,437,HSK,8663,Raphael Lavoie,36,F,Slashing,2.00,1,0,8663,Raphael Lavoie,Alex Lepkowski,Sydney Harris,,
+1027808,3,3rd,16:51,403,ONT,8714,Martin Chromiak,8,F,Slashing,2.00,1,0,8714,Martin Chromiak,Alex Lepkowski,Sydney Harris,,
+1027808,3,3rd,17:45,403,ONT,9081,Andre Lee,26,F,High-sticking,2.00,1,0,9081,Andre Lee,Alex Lepkowski,Sydney Harris,,

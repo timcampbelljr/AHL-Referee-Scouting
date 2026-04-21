@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027812,1,1st,13:40,413,BEL,8590,Lassi Thomson,33,D,Interference,2.00,1,0,8590,Lassi Thomson,Liam Maaskant,Jon McIsaac,,
+1027812,2,2nd,7:02,335,TOR,9994,Henry Thrun,3,D,Tripping,2.00,1,0,9994,Henry Thrun,Liam Maaskant,Jon McIsaac,,
+1027812,2,2nd,11:28,413,BEL,9485,Olle Lycksell,15,LW,Tripping,2.00,1,0,9485,Olle Lycksell,Liam Maaskant,Jon McIsaac,,
+1027812,2,2nd,18:31,335,TOR,7693,Benoit-Olivier Groulx,29,C,Tripping,2.00,1,0,7693,Benoit-Olivier Groulx,Liam Maaskant,Jon McIsaac,,
+1027812,3,3rd,6:51,335,TOR,7383,Michael Pezzetta,61,LW,Roughing,2.00,0,0,7383,Michael Pezzetta,Liam Maaskant,Jon McIsaac,,
+1027812,3,3rd,6:51,335,TOR,7383,Michael Pezzetta,61,LW,Fighting,5.00,0,0,7383,Michael Pezzetta,Liam Maaskant,Jon McIsaac,,
+1027812,3,3rd,6:51,413,BEL,6653,Hayden Hodgson,42,LW,Kneeing,2.00,0,0,6653,Hayden Hodgson,Liam Maaskant,Jon McIsaac,,
+1027812,3,3rd,6:51,413,BEL,6653,Hayden Hodgson,42,LW,Fighting,5.00,0,0,6653,Hayden Hodgson,Liam Maaskant,Jon McIsaac,,

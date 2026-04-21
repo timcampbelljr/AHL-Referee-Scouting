@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027838,1,1st,3:52,313,LV,10046,Hunter McDonald,19,D,Roughing,2.00,1,0,10046,Hunter McDonald,Liam Maaskant,Rob Hennessey,,
+1027838,1,1st,19:54,316,WBS,10504,Chase Pietila,44,D,Interference,2.00,1,0,10504,Chase Pietila,Liam Maaskant,Rob Hennessey,,
+1027838,2,2nd,6:37,316,WBS,10848,Finn Harding,50,D,Boarding,2.00,1,0,10848,Finn Harding,Liam Maaskant,Rob Hennessey,,
+1027838,2,2nd,9:01,313,LV,8451,Zayde Wisdom,74,C,Delay of game,2.00,1,0,8451,Zayde Wisdom,Liam Maaskant,Rob Hennessey,,
+1027838,3,3rd,1:30,316,WBS,7802,Rafaël Harvey-Pinard,49,LW,Interference,2.00,1,0,7802,Rafaël Harvey-Pinard,Liam Maaskant,Rob Hennessey,,

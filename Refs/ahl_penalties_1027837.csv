@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027837,1,1st,6:45,445,CV,9755,Jagger Firkus,57,F,Roughing,2.00,1,0,9755,Jagger Firkus,Tyler Spott,Tatu Kunto,,
+1027837,1,1st,9:57,405,SJ,9177,Braden Hache,86,D,Interference,2.00,1,0,9177,Braden Hache,Tyler Spott,Tatu Kunto,,
+1027837,1,1st,18:23,445,CV,8625,Ian McKinnon,21,F,Tripping,2.00,1,0,8625,Ian McKinnon,Tyler Spott,Tatu Kunto,,
+1027837,1,1st,19:24,405,SJ,10086,Filip Bystedt,18,F,Slashing,2.00,1,0,10086,Filip Bystedt,Tyler Spott,Tatu Kunto,,
+1027837,2,2nd,6:16,405,SJ,10086,Filip Bystedt,18,F,Holding,2.00,1,0,10086,Filip Bystedt,Tyler Spott,Tatu Kunto,,
+1027837,2,2nd,9:01,445,CV,10181,Andrei Loshko,72,F,Interference,2.00,1,0,10181,Andrei Loshko,Tyler Spott,Tatu Kunto,,
+1027837,2,2nd,17:20,445,CV,0,None None,0,,Too many men - Bench minor,2.00,1,1,9755,Jagger Firkus,Tyler Spott,Tatu Kunto,,
+1027837,2,2nd,18:10,405,SJ,0,None None,0,,Too many men - Bench minor,2.00,1,1,10231,Kasper Halttunen,Tyler Spott,Tatu Kunto,,
+1027837,3,3rd,2:47,445,CV,10179,Kaden Hammell,47,D,Roughing,2.00,1,0,10179,Kaden Hammell,Tyler Spott,Tatu Kunto,,
+1027837,3,3rd,3:38,405,SJ,10692,Cam Lund,46,F,Hooking,2.00,1,0,10692,Cam Lund,Tyler Spott,Tatu Kunto,,
+1027837,3,3rd,12:47,405,SJ,10226,Luca Cagnoni,42,D,Holding,2.00,1,0,10226,Luca Cagnoni,Tyler Spott,Tatu Kunto,,
+1027837,3,3rd,15:21,405,SJ,10234,Quentin Musty,13,F,Slashing,2.00,1,0,10234,Quentin Musty,Tyler Spott,Tatu Kunto,,

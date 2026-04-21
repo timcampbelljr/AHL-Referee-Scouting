@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027809,1,1st,3:08,380,TEX,9456,Jack Becker,27,F,Roughing,2.00,0,0,9456,Jack Becker,Jordan Deckard,Jake Kamrass,,
+1027809,1,1st,3:08,372,RFD,10403,Dillon Boucher,36,F,Roughing,2.00,0,0,10403,Dillon Boucher,Jordan Deckard,Jake Kamrass,,
+1027809,1,1st,3:08,372,RFD,10403,Dillon Boucher,36,F,Roughing,2.00,1,0,9720,Gavin Hayes,Jordan Deckard,Jake Kamrass,,
+1027809,1,1st,6:05,372,RFD,6799,Cavan Fitzgerald,23,D,Cross-checking,2.00,1,0,6799,Cavan Fitzgerald,Jordan Deckard,Jake Kamrass,,
+1027809,1,1st,10:59,380,TEX,9548,Cross Hanas,32,F,Holding,2.00,1,0,9548,Cross Hanas,Jordan Deckard,Jake Kamrass,,
+1027809,1,1st,12:14,380,TEX,10451,Justin Ertel,10,LW,Slashing,2.00,1,0,10451,Justin Ertel,Jordan Deckard,Jake Kamrass,,
+1027809,2,2nd,0:17,380,TEX,10450,Arttu Hyry,12,C,Fighting,5.00,0,0,10450,Arttu Hyry,Jordan Deckard,Jake Kamrass,,
+1027809,2,2nd,0:17,372,RFD,10403,Dillon Boucher,36,F,Fighting,5.00,0,0,10403,Dillon Boucher,Jordan Deckard,Jake Kamrass,,
+1027809,2,2nd,0:17,372,RFD,10403,Dillon Boucher,36,F,Goaltender interference,2.00,0,0,10403,Dillon Boucher,Jordan Deckard,Jake Kamrass,,
+1027809,2,2nd,0:17,380,TEX,10450,Arttu Hyry,12,C,Cross-checking,2.00,0,0,10450,Arttu Hyry,Jordan Deckard,Jake Kamrass,,
+1027809,2,2nd,2:16,372,RFD,9341,Andrew Perrott,75,D,Interference,2.00,1,0,9341,Andrew Perrott,Jordan Deckard,Jake Kamrass,,
+1027809,3,3rd,18:13,372,RFD,10891,Oliver Moore,11,F,Delay of game,2.00,1,0,10891,Oliver Moore,Jordan Deckard,Jake Kamrass,,

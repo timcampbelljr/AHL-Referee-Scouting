@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027798,1,1st,2:30,313,LV,10552,Ty Murchison,4,D,Interference,2.00,1,0,10552,Ty Murchison,Mathieu Menniti,Austin O’Rourke,,
+1027798,1,1st,9:05,313,LV,6872,Lane Pederson,25,C,Hooking,2.00,1,0,6872,Lane Pederson,Mathieu Menniti,Austin O’Rourke,,
+1027798,1,1st,13:06,316,WBS,6354,Danton Heinen,43,C,Tripping,2.00,1,0,6354,Danton Heinen,Mathieu Menniti,Austin O’Rourke,,
+1027798,2,2nd,3:10,313,LV,8777,Samu Tuomaala,27,F,Holding,2.00,1,0,8777,Samu Tuomaala,Mathieu Menniti,Austin O’Rourke,,
+1027798,2,2nd,15:01,316,WBS,7632,Alex Alexeyev,56,D,Tripping,2.00,1,0,7632,Alex Alexeyev,Mathieu Menniti,Austin O’Rourke,,
+1027798,2,2nd,16:29,316,WBS,10504,Chase Pietila,44,D,Tripping,2.00,1,0,10504,Chase Pietila,Mathieu Menniti,Austin O’Rourke,,
+1027798,3,3rd,6:49,313,LV,10720,Denver Barkey,52,F,Slashing,2.00,1,0,10720,Denver Barkey,Mathieu Menniti,Austin O’Rourke,,
+1027798,3,3rd,15:05,313,LV,8777,Samu Tuomaala,27,F,Slashing,2.00,1,0,8777,Samu Tuomaala,Mathieu Menniti,Austin O’Rourke,,

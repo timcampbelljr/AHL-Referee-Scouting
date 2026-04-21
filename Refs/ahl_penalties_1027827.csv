@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027827,2,2nd,2:16,413,BEL,10048,Stephen Halliday,34,C,Slashing,2.00,1,0,10048,Stephen Halliday,Liam Maaskant,Nick Isaacson,,
+1027827,2,2nd,12:37,413,BEL,6653,Hayden Hodgson,42,RW,Elbowing,2.00,1,0,6653,Hayden Hodgson,Liam Maaskant,Nick Isaacson,,
+1027827,2,2nd,15:25,324,SYR,10526,Cooper Flinton,20,RW,Cross-checking,2.00,1,0,10526,Cooper Flinton,Liam Maaskant,Nick Isaacson,,
+1027827,2,2nd,18:33,324,SYR,4910,Scott Sabourin,49,RW,Fighting,5.00,0,0,4910,Scott Sabourin,Liam Maaskant,Nick Isaacson,,
+1027827,2,2nd,18:33,413,BEL,6653,Hayden Hodgson,42,RW,Fighting,5.00,0,0,6653,Hayden Hodgson,Liam Maaskant,Nick Isaacson,,
+1027827,3,3rd,10:14,413,BEL,10883,Landen Hookey,39,C,Roughing,2.00,1,0,10883,Landen Hookey,Liam Maaskant,Nick Isaacson,,
+1027827,3,3rd,19:47,413,BEL,6653,Hayden Hodgson,42,RW,Tripping,2.00,1,0,6653,Hayden Hodgson,Liam Maaskant,Nick Isaacson,,

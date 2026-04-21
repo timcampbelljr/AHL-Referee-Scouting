@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027847,1,1st,10:15,411,SPR,10143,Dylan Peterson,22,F,Tripping,2.00,1,0,10143,Dylan Peterson,Mike Dietrich,Will Kelly,,
+1027847,1,1st,14:41,411,SPR,10329,Dalibor Dvorský,15,F,Tripping,2.00,1,0,10329,Dalibor Dvorský,Mike Dietrich,Will Kelly,,
+1027847,2,2nd,0:30,411,SPR,6733,Matt Luff,39,RW,Slashing,2.00,1,0,6733,Matt Luff,Mike Dietrich,Will Kelly,,
+1027847,2,2nd,16:09,309,PRO,7943,Riley Tufte,27,LW,Roughing,2.00,1,0,7943,Riley Tufte,Mike Dietrich,Will Kelly,,
+1027847,2,2nd,19:28,309,PRO,7943,Riley Tufte,27,LW,Slashing,2.00,1,0,7943,Riley Tufte,Mike Dietrich,Will Kelly,,

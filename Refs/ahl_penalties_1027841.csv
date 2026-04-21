@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027841,1,1st,8:02,384,CLT,9745,Marek Alscher,27,D,Cross-checking,2.00,1,0,9745,Marek Alscher,Beau Halkidis,Sydney Harris,,
+1027841,1,1st,11:25,316,WBS,8890,Sam Poulin,22,LW,Holding,2.00,1,0,8890,Sam Poulin,Beau Halkidis,Sydney Harris,,
+1027841,1,1st,14:20,316,WBS,9649,Ville Koivunen,41,RW,Goaltender interference,2.00,1,0,9649,Ville Koivunen,Beau Halkidis,Sydney Harris,,
+1027841,2,2nd,1:10,384,CLT,7106,Jack Studnicka,23,F,Double minor - High-sticking,4.00,1,0,7106,Jack Studnicka,Beau Halkidis,Sydney Harris,,
+1027841,2,2nd,9:54,316,WBS,9673,Owen Pickering,38,D,Hooking,2.00,1,0,9673,Owen Pickering,Beau Halkidis,Sydney Harris,,
+1027841,2,2nd,11:35,316,WBS,10326,Atley Calvert,84,LW,Hooking,2.00,1,0,10326,Atley Calvert,Beau Halkidis,Sydney Harris,,
+1027841,2,2nd,12:49,384,CLT,10056,Ben Steeves,6,F,Slashing,2.00,1,0,10056,Ben Steeves,Beau Halkidis,Sydney Harris,,
+1027841,2,2nd,19:55,384,CLT,10456,Sandis Vilmanis,29,F,Illegal check to the head,2.00,1,0,10456,Sandis Vilmanis,Beau Halkidis,Sydney Harris,,
+1027841,3,3rd,14:17,316,WBS,6865,Bokondji Imama,14,LW,Cross-checking,2.00,1,0,6865,Bokondji Imama,Beau Halkidis,Sydney Harris,,
+1027841,3,3rd,19:16,384,CLT,8011,MacKenzie Entwistle,18,RW,High-sticking,2.00,1,0,8011,MacKenzie Entwistle,Beau Halkidis,Sydney Harris,,

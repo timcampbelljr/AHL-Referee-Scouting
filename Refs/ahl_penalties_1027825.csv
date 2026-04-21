@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027825,1,1st,16:04,444,CGY,9669,William Strömgren,11,LW,Cross-checking,2.00,0,0,9669,William Strömgren,Graedy Hamilton,Taylor Burzminski,,
+1027825,1,1st,16:04,412,TUC,7069,Austin Poganski,27,RW,Holding,2.00,0,0,7069,Austin Poganski,Graedy Hamilton,Taylor Burzminski,,
+1027825,2,2nd,2:42,444,CGY,6142,Alex Gallant,20,LW,Roughing,2.00,1,0,6142,Alex Gallant,Graedy Hamilton,Taylor Burzminski,,
+1027825,2,2nd,6:40,412,TUC,9217,Max Szuber,55,D,Interference,2.00,1,0,9217,Max Szuber,Graedy Hamilton,Taylor Burzminski,,
+1027825,2,2nd,19:17,412,TUC,10668,Michal Kunc,23,F,Holding,2.00,1,0,10668,Michal Kunc,Graedy Hamilton,Taylor Burzminski,,
+1027825,3,3rd,6:27,412,TUC,8519,Scott Perunovich,7,D,Hooking,2.00,1,0,8519,Scott Perunovich,Graedy Hamilton,Taylor Burzminski,,
+1027825,3,3rd,8:32,412,TUC,10218,Artem Duda,8,D,Tripping,2.00,1,0,10218,Artem Duda,Graedy Hamilton,Taylor Burzminski,,
+1027825,3,3rd,11:21,444,CGY,6142,Alex Gallant,20,LW,Tripping,2.00,1,0,6142,Alex Gallant,Graedy Hamilton,Taylor Burzminski,,
+1027825,3,3rd,11:30,444,CGY,6367,Dryden Hunt,15,LW,Delay of game,2.00,1,0,6367,Dryden Hunt,Graedy Hamilton,Taylor Burzminski,,
+1027825,3,3rd,15:14,412,TUC,9217,Max Szuber,55,D,Delay of game,2.00,1,0,9217,Max Szuber,Graedy Hamilton,Taylor Burzminski,,
+1027825,OT,OT,0:26,444,CGY,6367,Dryden Hunt,15,LW,High-sticking,2.00,1,0,6367,Dryden Hunt,Graedy Hamilton,Taylor Burzminski,,

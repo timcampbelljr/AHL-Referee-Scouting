@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027796,1,1st,2:19,324,SYR,10566,Lucas Mercuri,11,C,Tripping,2.00,1,0,10566,Lucas Mercuri,Austin Rook,Damian Figueira,,
+1027796,1,1st,5:00,324,SYR,0,None None,0,,Too many men - Bench minor,2.00,1,1,10607,Ethan Gauthier,Austin Rook,Damian Figueira,,
+1027796,1,1st,10:03,319,HER,10133,Cam Allen,2,D,Tripping,2.00,1,0,10133,Cam Allen,Austin Rook,Damian Figueira,,
+1027796,1,1st,13:42,324,SYR,9749,Roman Schmidt,76,D,Roughing,2.00,0,0,9749,Roman Schmidt,Austin Rook,Damian Figueira,,
+1027796,1,1st,13:42,319,HER,10133,Cam Allen,2,D,Slashing,2.00,0,0,10133,Cam Allen,Austin Rook,Damian Figueira,,
+1027796,1,1st,16:31,324,SYR,6779,Boris Katchouk,61,LW,High-sticking,2.00,1,0,6779,Boris Katchouk,Austin Rook,Damian Figueira,,
+1027796,2,2nd,2:20,319,HER,10133,Cam Allen,2,D,Interference,2.00,1,0,10133,Cam Allen,Austin Rook,Damian Figueira,,
+1027796,2,2nd,4:52,324,SYR,10566,Lucas Mercuri,11,C,Fighting,5.00,0,0,10566,Lucas Mercuri,Austin Rook,Damian Figueira,,
+1027796,2,2nd,4:52,319,HER,10573,David Gucciardi,48,D,Fighting,5.00,0,0,10573,David Gucciardi,Austin Rook,Damian Figueira,,
+1027796,2,2nd,12:32,324,SYR,4910,Scott Sabourin,49,RW,Tripping,2.00,1,0,4910,Scott Sabourin,Austin Rook,Damian Figueira,,
+1027796,3,3rd,9:45,319,HER,9972,Ivan Miroshnichenko,10,LW,Hooking,2.00,1,0,9972,Ivan Miroshnichenko,Austin Rook,Damian Figueira,,

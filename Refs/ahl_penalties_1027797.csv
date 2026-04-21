@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027797,1,1st,2:56,372,RFD,10317,Connor Mylymok,26,LW,Illegal check to the head,2.00,1,0,10317,Connor Mylymok,Alex Lepkowski,Simon Desbiens,,
+1027797,1,1st,6:45,389,IA,8576,Jean-Luc Foudy,86,RW,Hooking,2.00,1,0,8576,Jean-Luc Foudy,Alex Lepkowski,Simon Desbiens,,
+1027797,2,2nd,10:47,372,RFD,10563,Taige Harding,47,D,Roughing,2.00,0,0,10563,Taige Harding,Alex Lepkowski,Simon Desbiens,,
+1027797,2,2nd,10:47,389,IA,9472,Mark Liwiski,26,F,Roughing,2.00,0,0,9472,Mark Liwiski,Alex Lepkowski,Simon Desbiens,,
+1027797,2,2nd,13:16,372,RFD,10382,Kevin Korchinski,14,D,Tripping,2.00,1,0,10382,Kevin Korchinski,Alex Lepkowski,Simon Desbiens,,
+1027797,3,3rd,3:44,372,RFD,6813,Dominic Toninato,25,C,Hooking,2.00,1,0,6813,Dominic Toninato,Alex Lepkowski,Simon Desbiens,,
+1027797,3,3rd,9:01,389,IA,10608,Riley Heidt,27,C,High-sticking,2.00,1,0,10608,Riley Heidt,Alex Lepkowski,Simon Desbiens,,
+1027797,3,3rd,12:09,372,RFD,10382,Kevin Korchinski,14,D,Holding,2.00,1,0,10382,Kevin Korchinski,Alex Lepkowski,Simon Desbiens,,
+1027797,3,3rd,14:25,389,IA,8576,Jean-Luc Foudy,86,RW,Slashing,2.00,1,0,8576,Jean-Luc Foudy,Alex Lepkowski,Simon Desbiens,,

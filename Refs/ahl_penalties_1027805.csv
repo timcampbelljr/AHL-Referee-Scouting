@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027805,1,1st,8:50,328,GR,8667,Ian Mitchell,55,D,High-sticking,2.00,1,0,8667,Ian Mitchell,Adam Tobias,Damian Figueira,,
+1027805,2,2nd,4:36,328,GR,10479,Ondrej Becher,25,C,Tripping,2.00,1,0,10479,Ondrej Becher,Adam Tobias,Damian Figueira,,
+1027805,2,2nd,9:02,321,MB,5469,Phillip Di Giuseppe,34,LW,Hooking,2.00,1,0,5469,Phillip Di Giuseppe,Adam Tobias,Damian Figueira,,
+1027805,2,2nd,19:26,328,GR,8667,Ian Mitchell,55,D,Tripping,2.00,1,0,8667,Ian Mitchell,Adam Tobias,Damian Figueira,,
+1027805,3,3rd,15:01,328,GR,9672,William Wallinder,22,D,Roughing,2.00,0,0,9672,William Wallinder,Adam Tobias,Damian Figueira,,
+1027805,3,3rd,15:01,328,GR,4085,Austin Watson,51,RW,Misconduct - Abuse of officials,10.00,0,0,4085,Austin Watson,Adam Tobias,Damian Figueira,,
+1027805,3,3rd,15:01,321,MB,9557,Brad Lambert,13,F,Roughing,2.00,0,0,9557,Brad Lambert,Adam Tobias,Damian Figueira,,
+1027805,3,3rd,15:01,328,GR,9672,William Wallinder,22,D,Roughing,2.00,0,0,9672,William Wallinder,Adam Tobias,Damian Figueira,,
+1027805,3,3rd,15:01,321,MB,9555,Tyrel Bauer,2,D,Roughing,2.00,0,0,9555,Tyrel Bauer,Adam Tobias,Damian Figueira,,
