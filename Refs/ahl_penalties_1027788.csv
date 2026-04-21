@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027788,1,1st,10:54,372,RFD,7027,Brett Seney,62,F,High-sticking,2.00,1,0,7027,Brett Seney,Ibrahim Arifi,Shaun Davis,,
+1027788,1,1st,13:08,372,RFD,9341,Andrew Perrott,75,D,Roughing,2.00,0,0,9341,Andrew Perrott,Ibrahim Arifi,Shaun Davis,,
+1027788,1,1st,13:08,327,MIL,7722,Navrin Mutter,47,LW,Roughing,2.00,0,0,7722,Navrin Mutter,Ibrahim Arifi,Shaun Davis,,
+1027788,1,1st,15:32,372,RFD,10317,Connor Mylymok,26,LW,Fighting,5.00,0,0,10317,Connor Mylymok,Ibrahim Arifi,Shaun Davis,,
+1027788,1,1st,15:32,327,MIL,8825,Kyle Marino,36,RW,Fighting,5.00,0,0,8825,Kyle Marino,Ibrahim Arifi,Shaun Davis,,
+1027788,2,2nd,10:05,327,MIL,10645,David Edstrom,41,C,Roughing,2.00,0,0,10645,David Edstrom,Ibrahim Arifi,Shaun Davis,,
+1027788,2,2nd,10:05,372,RFD,7027,Brett Seney,62,F,Roughing,2.00,0,0,7027,Brett Seney,Ibrahim Arifi,Shaun Davis,,
+1027788,2,2nd,13:36,327,MIL,7512,Jake Lucchini,19,C,Slashing,2.00,1,0,7512,Jake Lucchini,Ibrahim Arifi,Shaun Davis,,
+1027788,3,3rd,4:13,327,MIL,10185,Andrew Gibson,6,D,Cross-checking,2.00,1,0,10185,Andrew Gibson,Ibrahim Arifi,Shaun Davis,,

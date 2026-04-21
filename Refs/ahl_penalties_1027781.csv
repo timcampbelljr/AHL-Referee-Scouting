@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027781,1,1st,1:38,373,CLE,9980,Hunter McKown,41,C,Cross-checking,2.00,1,0,9980,Hunter McKown,Liam Maaskant,Chad Ingalls,,
+1027781,1,1st,12:00,373,CLE,10176,Luca Pinelli,53,LW,High-sticking,2.00,1,0,10176,Luca Pinelli,Liam Maaskant,Chad Ingalls,,
+1027781,1,1st,14:40,390,UTC,7608,Jonathan Gruden,14,C,Elbowing,2.00,1,0,7608,Jonathan Gruden,Liam Maaskant,Chad Ingalls,,
+1027781,2,2nd,5:10,390,UTC,9758,Topias Vilen,38,D,High-sticking,2.00,1,0,9758,Topias Vilen,Liam Maaskant,Chad Ingalls,,
+1027781,2,2nd,18:42,390,UTC,7117,Austin Strand,7,D,High-sticking,2.00,1,0,7117,Austin Strand,Liam Maaskant,Chad Ingalls,,
+1027781,3,3rd,1:25,373,CLE,9978,James Malatesta,11,LW,Roughing,2.00,0,0,9978,James Malatesta,Liam Maaskant,Chad Ingalls,,
+1027781,3,3rd,1:25,390,UTC,9516,Xavier Parent,67,F,Slashing,2.00,0,0,9516,Xavier Parent,Liam Maaskant,Chad Ingalls,,
+1027781,3,3rd,2:26,373,CLE,5645,Brendan Gaunce,16,C,Tripping,2.00,1,0,5645,Brendan Gaunce,Liam Maaskant,Chad Ingalls,,
+1027781,3,3rd,19:59,390,UTC,7251,Ryan Schmelzer,26,C,Roughing,2.00,0,0,7251,Ryan Schmelzer,Liam Maaskant,Chad Ingalls,,
+1027781,3,3rd,19:59,373,CLE,6322,Dysin Mayo,6,D,Roughing,2.00,0,0,6322,Dysin Mayo,Liam Maaskant,Chad Ingalls,,
