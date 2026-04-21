@@ -552,24 +552,56 @@ with st.sidebar:
         if not game_data.empty:
             crew = [game_data["ref1"].iloc[0], game_data["ref2"].iloc[0]]
             crew = [r for r in crew if r and str(r).strip()]
+        # Get the two teams in this game
+        game_teams = sorted(game_data["team_abbrev"].dropna().unique()) if not game_data.empty else []
+
         if crew:
-            ref_median  = summary["pen_per_game"].median()
-            ref_sd      = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
+            ref_median = summary["pen_per_game"].median()
+            ref_sd     = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
+
             for official in crew:
                 o_row = summary[summary["ref"] == official]
                 if o_row.empty:
                     continue
-                o_stats = o_row.iloc[0]
+                o_stats      = o_row.iloc[0]
                 reliable_tag = "" if o_stats["reliable"] else " ⚠️"
-                style    = _tight_label(o_stats["pen_per_game"], ref_median, ref_sd)
-                whistle  = "Swallows whistle late" if (o_stats["p3_ratio"] or 1) < 1.0 else "Active in 3rd"
-                style_color = "#8b0000" if style == "Tight" else ("#1a6b16" if style == "Loose" else "#7a5c00")
-                ppg = o_stats["pen_per_game"]
+                style        = _tight_label(o_stats["pen_per_game"], ref_median, ref_sd)
+                whistle      = "Swallows whistle late" if (o_stats["p3_ratio"] or 1) < 1.0 else "Active in 3rd"
+                style_color  = "#8b0000" if style == "Tight" else ("#1a6b16" if style == "Loose" else "#7a5c00")
+                ppg          = o_stats["pen_per_game"]
+
+                # Build bias lines for each team in this game
+                df_ref_all = df_stacked[df_stacked["_ref"] == official]
+                bias_lines = []
+                for team in game_teams:
+                    df_rt      = df_ref_all[df_ref_all["team_abbrev"] == team]
+                    g_together = df_rt["game_id"].nunique()
+                    if g_together == 0:
+                        bias_lines.append(f"{team}: no history")
+                        continue
+                    ref_ppg_vs = round(df_rt.groupby("game_id").size().median(), 2)
+                    if team in team_baseline.index:
+                        baseline = team_baseline.loc[team, "season_ppg"]
+                        bias_val = round(ref_ppg_vs - baseline, 2)
+                        sign     = "+" if bias_val > 0 else ""
+                        color    = "#8b0000" if bias_val > 0 else "#1a6b16"
+                        sample   = "" if g_together >= RELIABILITY_THRESHOLD else " ⚠️"
+                        bias_lines.append(
+                            f"{team}: <span style='color:{color};font-weight:700'>{sign}{bias_val}</span>"
+                            f" ({g_together}G){sample}"
+                        )
+                    else:
+                        bias_lines.append(f"{team}: no baseline")
+
+                bias_html = "<br>".join(bias_lines) if bias_lines else "No team data"
+
                 st.markdown(
-                    f"**{official}**{reliable_tag}  \n"
-                    f"Style: <span style='color:{style_color};font-weight:700'>{style}</span>  \n"
-                    f"Late game: {whistle}  \n"
-                    f"Median pen/G: {ppg}",
+                    f"**{official}**{reliable_tag}<br>"
+                    f"Style: <span style='color:{style_color};font-weight:700'>{style}</span> &nbsp;|&nbsp; "
+                    f"Late game: {whistle}<br>"
+                    f"Median pen/G: {ppg}<br>"
+                    f"<span style='font-size:11px;color:#555'>Bias vs teams in this game:</span><br>"
+                    f"<span style='font-size:12px'>{bias_html}</span>",
                     unsafe_allow_html=True,
                 )
                 st.markdown("---")
