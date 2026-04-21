@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028264,1,1st,18:41,328,GR,10108,Chad Hillebrand,26,LW,Holding,2.00,1,0,10108,Chad Hillebrand,Tyler Spott,Simon Desbiens,,
+1028264,2,2nd,12:12,330,CHI,10882,Ivan Ryabkin,27,C,High-sticking,2.00,1,0,10882,Ivan Ryabkin,Tyler Spott,Simon Desbiens,,
+1028264,3,3rd,6:48,330,CHI,10463,Aleksi Heimosalmi,34,D,Boarding,2.00,1,0,10463,Aleksi Heimosalmi,Tyler Spott,Simon Desbiens,,
+1028264,3,3rd,10:45,328,GR,4085,Austin Watson,51,RW,Slashing,2.00,1,0,4085,Austin Watson,Tyler Spott,Simon Desbiens,,
+1028264,3,3rd,13:11,330,CHI,6633,Gavin Bayreuther,55,D,Interference,2.00,1,0,6633,Gavin Bayreuther,Tyler Spott,Simon Desbiens,,

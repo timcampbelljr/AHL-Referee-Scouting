@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028230,1,1st,5:33,440,ABB,5502,Jujhar Khaira,15,C,Hooking,2.00,1,0,5502,Jujhar Khaira,Mike Dietrich,Bobby Jo Love,,
+1028230,1,1st,7:32,404,SD,10686,Tim Washe,10,C,Tripping,2.00,1,0,10686,Tim Washe,Mike Dietrich,Bobby Jo Love,,
+1028230,1,1st,13:14,404,SD,9189,Sasha Pastujov,16,LW,Holding,2.00,1,0,9189,Sasha Pastujov,Mike Dietrich,Bobby Jo Love,,
+1028230,2,2nd,4:03,440,ABB,7597,Jett Woo,4,D,Slashing,2.00,1,0,7597,Jett Woo,Mike Dietrich,Bobby Jo Love,,
+1028230,2,2nd,10:55,440,ABB,10146,Joe Arntsen,3,D,Slashing,2.00,1,0,10146,Joe Arntsen,Mike Dietrich,Bobby Jo Love,,
+1028230,2,2nd,17:08,440,ABB,10146,Joe Arntsen,3,D,Instigating,2.00,1,0,10524,Jackson Kunz,Mike Dietrich,Bobby Jo Love,,
+1028230,2,2nd,17:08,440,ABB,10146,Joe Arntsen,3,D,Fighting,5.00,0,0,10146,Joe Arntsen,Mike Dietrich,Bobby Jo Love,,
+1028230,2,2nd,17:08,440,ABB,10146,Joe Arntsen,3,D,Misconduct - Instigating,10.00,0,0,10146,Joe Arntsen,Mike Dietrich,Bobby Jo Love,,
+1028230,2,2nd,17:08,404,SD,10506,Stian Solberg,7,D,Fighting,5.00,0,0,10506,Stian Solberg,Mike Dietrich,Bobby Jo Love,,
+1028230,3,3rd,2:20,404,SD,10076,Nico Myatovic,21,LW,Hooking,2.00,1,0,10076,Nico Myatovic,Mike Dietrich,Bobby Jo Love,,
+1028230,3,3rd,4:41,440,ABB,7696,Chase Wouters,21,C,Tripping,2.00,1,0,7696,Chase Wouters,Mike Dietrich,Bobby Jo Love,,
+1028230,3,3rd,12:56,404,SD,10506,Stian Solberg,7,D,Hooking,2.00,1,0,10506,Stian Solberg,Mike Dietrich,Bobby Jo Love,,

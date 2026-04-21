@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028287,1,1st,1:37,405,SJ,10231,Kasper Halttunen,14,F,Cross-checking,2.00,1,0,10231,Kasper Halttunen,Tatu Kunto,Mike Dietrich,,
+1028287,1,1st,3:55,404,SD,9189,Sasha Pastujov,16,LW,Slashing,2.00,1,0,9189,Sasha Pastujov,Tatu Kunto,Mike Dietrich,,
+1028287,2,2nd,6:03,404,SD,9197,Noah Warren,2,D,High-sticking,2.00,1,0,9197,Noah Warren,Tatu Kunto,Mike Dietrich,,
+1028287,2,2nd,16:12,405,SJ,9621,Anthony Vincent,76,F,Elbowing,2.00,1,0,9621,Anthony Vincent,Tatu Kunto,Mike Dietrich,,
+1028287,3,3rd,2:21,405,SJ,9259,Jake Furlong,61,D,Major - Spearing,5.00,1,0,10231,Kasper Halttunen,Tatu Kunto,Mike Dietrich,,
+1028287,3,3rd,2:21,405,SJ,9259,Jake Furlong,61,D,Game misconduct - Spearing,10.00,0,0,9259,Jake Furlong,Tatu Kunto,Mike Dietrich,,
+1028287,3,3rd,19:26,404,SD,6442,Nikolas Brouillard,15,D,Hooking,2.00,1,0,6442,Nikolas Brouillard,Tatu Kunto,Mike Dietrich,,

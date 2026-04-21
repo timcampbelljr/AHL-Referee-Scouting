@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028219,1,1st,4:26,372,RFD,10766,Stanislav Berezhnoy,31,G,Delay of game,2.00,1,0,10142,Martin Misiak,Stephen Hiff,Ibrahim Arifi,,
+1028219,1,1st,14:33,372,RFD,10503,Jamie Engelbert,45,F,Slashing,2.00,1,0,10503,Jamie Engelbert,Stephen Hiff,Ibrahim Arifi,,
+1028219,1,1st,16:15,372,RFD,0,None None,0,,Too many men - Bench minor,2.00,1,1,10142,Martin Misiak,Stephen Hiff,Ibrahim Arifi,,
+1028219,1,1st,17:57,380,TEX,7101,Kole Lind,17,F,High-sticking,2.00,1,0,7101,Kole Lind,Stephen Hiff,Ibrahim Arifi,,
+1028219,2,2nd,10:51,380,TEX,10535,Trey Taylor,2,D,Holding,2.00,1,0,10535,Trey Taylor,Stephen Hiff,Ibrahim Arifi,,
+1028219,2,2nd,13:42,372,RFD,10033,Kevin Lombardi,49,F,High-sticking,2.00,1,0,10033,Kevin Lombardi,Stephen Hiff,Ibrahim Arifi,,
+1028219,2,2nd,18:38,380,TEX,10135,Tristan Bertucci,3,D,Slashing,2.00,1,0,10135,Tristan Bertucci,Stephen Hiff,Ibrahim Arifi,,
+1028219,3,3rd,10:30,380,TEX,7016,Cameron Hughes,19,F,Unsportsmanlike conduct,2.00,0,0,7016,Cameron Hughes,Stephen Hiff,Ibrahim Arifi,,
+1028219,3,3rd,10:30,372,RFD,9341,Andrew Perrott,75,D,Unsportsmanlike conduct,2.00,0,0,9341,Andrew Perrott,Stephen Hiff,Ibrahim Arifi,,
+1028219,3,3rd,12:38,372,RFD,9341,Andrew Perrott,75,D,Fighting,5.00,0,0,9341,Andrew Perrott,Stephen Hiff,Ibrahim Arifi,,
+1028219,3,3rd,12:38,380,TEX,9456,Jack Becker,27,F,Fighting,5.00,0,0,9456,Jack Becker,Stephen Hiff,Ibrahim Arifi,,

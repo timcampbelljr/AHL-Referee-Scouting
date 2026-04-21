@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028272,1,1st,2:33,335,TOR,8738,William Villeneuve,76,D,Holding,2.00,1,0,8738,William Villeneuve,Mike Sullivan,Matt Mannella,,
+1028272,2,2nd,2:57,335,TOR,7383,Michael Pezzetta,61,LW,High-sticking,2.00,1,0,7383,Michael Pezzetta,Mike Sullivan,Matt Mannella,,
+1028272,2,2nd,12:31,323,ROC,10436,Vsevolod Komarov,83,D,Holding,2.00,1,0,10436,Vsevolod Komarov,Mike Sullivan,Matt Mannella,,
+1028272,2,2nd,12:41,335,TOR,4573,Logan Shaw,11,F,Tripping,2.00,1,0,4573,Logan Shaw,Mike Sullivan,Matt Mannella,,
+1028272,3,3rd,0:37,335,TOR,9072,Marshall Rifai,83,D,Cross-checking,2.00,1,0,9072,Marshall Rifai,Mike Sullivan,Matt Mannella,,
+1028272,3,3rd,1:40,335,TOR,10635,Blake Smith,59,D,Slashing,2.00,1,0,10635,Blake Smith,Mike Sullivan,Matt Mannella,,

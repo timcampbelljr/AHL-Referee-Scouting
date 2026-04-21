@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028237,2,2nd,4:43,389,IA,9853,David Špaček,21,D,High-sticking,2.00,1,0,9853,David Špaček,Chad Ingalls,Nolan Bloyer,,
+1028237,2,2nd,7:34,380,TEX,10451,Justin Ertel,10,LW,Slashing,2.00,1,0,10451,Justin Ertel,Chad Ingalls,Nolan Bloyer,,
+1028237,2,2nd,10:04,380,TEX,10449,Connor Punnett,24,D,Unsportsmanlike conduct,2.00,1,0,10449,Connor Punnett,Chad Ingalls,Nolan Bloyer,,
+1028237,3,3rd,2:52,389,IA,9655,Ryan Sandelin,13,F,High-sticking,2.00,1,0,9655,Ryan Sandelin,Chad Ingalls,Nolan Bloyer,,
+1028237,3,3rd,7:29,380,TEX,10517,Tommy Bergsland,5,D,Hooking,2.00,1,0,10517,Tommy Bergsland,Chad Ingalls,Nolan Bloyer,,

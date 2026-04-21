@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028203,1,1st,7:43,444,CGY,8617,Rory Kerins,6,C,Tripping,2.00,1,0,8617,Rory Kerins,David Elford,Mike Campbell,,
+1028203,2,2nd,4:30,444,CGY,10753,Andrew Basha,49,LW,Slashing,2.00,1,0,10753,Andrew Basha,David Elford,Mike Campbell,,
+1028203,2,2nd,10:10,404,SD,7309,Travis Howe,24,RW,Misconduct - Unsportsmanlike conduct,10.00,0,0,7309,Travis Howe,David Elford,Mike Campbell,,
+1028203,2,2nd,11:58,404,SD,10506,Stian Solberg,7,D,Cross-checking,2.00,1,0,10506,Stian Solberg,David Elford,Mike Campbell,,
+1028203,2,2nd,14:48,404,SD,10686,Tim Washe,10,C,Tripping,2.00,1,0,10686,Tim Washe,David Elford,Mike Campbell,,
+1028203,2,2nd,16:35,444,CGY,5018,Martin Frk,29,RW,Cross-checking,2.00,1,0,5018,Martin Frk,David Elford,Mike Campbell,,
+1028203,3,3rd,3:21,404,SD,7309,Travis Howe,24,RW,Misconduct - Abuse of officials,10.00,0,0,7309,Travis Howe,David Elford,Mike Campbell,,

@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028238,1,1st,5:09,327,MIL,10832,Oasiz Wiesblatt,88,C,Slashing,2.00,1,0,10832,Oasiz Wiesblatt,Austin O’Rourke,Koletrane Wilson,,
+1028238,1,1st,9:13,327,MIL,9874,Zach L’Heureux,68,LW,Holding,2.00,1,0,9874,Zach L’Heureux,Austin O’Rourke,Koletrane Wilson,,
+1028238,1,1st,12:19,372,RFD,10177,Samuel Savoie,67,F,Slashing,2.00,1,0,10177,Samuel Savoie,Austin O’Rourke,Koletrane Wilson,,
+1028238,2,2nd,0:56,372,RFD,6813,Dominic Toninato,25,C,Tripping,2.00,1,0,10142,Martin Misiak,Austin O’Rourke,Koletrane Wilson,,
+1028238,2,2nd,0:56,372,RFD,6813,Dominic Toninato,25,C,Fighting,5.00,0,0,6813,Dominic Toninato,Austin O’Rourke,Koletrane Wilson,,
+1028238,2,2nd,0:56,327,MIL,5529,Kevin Gravel,5,D,Fighting,5.00,0,0,5529,Kevin Gravel,Austin O’Rourke,Koletrane Wilson,,
+1028238,2,2nd,5:37,372,RFD,10403,Dillon Boucher,36,F,Hooking,2.00,1,0,10403,Dillon Boucher,Austin O’Rourke,Koletrane Wilson,,
+1028238,2,2nd,6:32,327,MIL,5671,Daniel Carr,43,LW,Hooking,2.00,1,0,5671,Daniel Carr,Austin O’Rourke,Koletrane Wilson,,
+1028238,2,2nd,19:02,372,RFD,6813,Dominic Toninato,25,C,Tripping,2.00,1,0,6813,Dominic Toninato,Austin O’Rourke,Koletrane Wilson,,
+1028238,3,3rd,11:10,327,MIL,5671,Daniel Carr,43,LW,Holding,2.00,1,0,5671,Daniel Carr,Austin O’Rourke,Koletrane Wilson,,
+1028238,3,3rd,17:41,327,MIL,10185,Andrew Gibson,6,D,High-sticking,2.00,1,0,10185,Andrew Gibson,Austin O’Rourke,Koletrane Wilson,,

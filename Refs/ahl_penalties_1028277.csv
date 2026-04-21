@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028277,1,1st,1:32,309,PRO,9729,Matthew Poitras,21,C,Slashing,2.00,1,0,9729,Matthew Poitras,Liam Maaskant,Mason Riley,,
+1028277,1,1st,3:18,309,PRO,10584,Dalton Bancroft,17,RW,Tripping,2.00,1,0,10584,Dalton Bancroft,Liam Maaskant,Mason Riley,,
+1028277,1,1st,6:37,411,SPR,4622,Chris Wagner,88,C,Boarding,2.00,1,0,4622,Chris Wagner,Liam Maaskant,Mason Riley,,
+1028277,1,1st,13:13,411,SPR,10846,Nikita Susuyev,91,F,High-sticking,2.00,1,0,10846,Nikita Susuyev,Liam Maaskant,Mason Riley,,
+1028277,2,2nd,19:36,309,PRO,8462,Billy Sweezey,6,D,Interference,2.00,1,0,8462,Billy Sweezey,Liam Maaskant,Mason Riley,,

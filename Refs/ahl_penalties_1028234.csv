@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028234,1,1st,0:07,444,CGY,10137,Étienne Morin,21,D,High-sticking,2.00,1,0,10137,Étienne Morin,Graedy Hamilton,Alex Clarke,,
+1028234,1,1st,8:13,419,COL,7782,Luke Toporowski,61,RW,Holding,2.00,1,0,7782,Luke Toporowski,Graedy Hamilton,Alex Clarke,,
+1028234,1,1st,13:11,444,CGY,6367,Dryden Hunt,15,LW,Interference,2.00,1,0,6367,Dryden Hunt,Graedy Hamilton,Alex Clarke,,
+1028234,2,2nd,11:10,419,COL,10163,Sean Behrens,2,D,Cross-checking,2.00,1,0,10163,Sean Behrens,Graedy Hamilton,Alex Clarke,,
+1028234,2,2nd,15:53,444,CGY,8729,Daniil Miromanov,26,D,High-sticking,2.00,1,0,8729,Daniil Miromanov,Graedy Hamilton,Alex Clarke,,
+1028234,3,3rd,3:53,444,CGY,6453,Clark Bishop,19,C,Tripping,2.00,1,0,6453,Clark Bishop,Graedy Hamilton,Alex Clarke,,

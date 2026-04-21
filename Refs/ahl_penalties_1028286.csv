@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028286,1,1st,2:44,389,IA,9856,Carson Lambos,7,D,Cross-checking,2.00,1,0,9856,Carson Lambos,Jordan Watt,Tyler Spott,,
+1028286,1,1st,5:46,403,ONT,10199,Jakub Dvořák,55,D,Holding the stick,2.00,1,0,10199,Jakub Dvořák,Jordan Watt,Tyler Spott,,
+1028286,1,1st,8:59,403,ONT,5976,Joe Hicketts,27,D,Roughing,2.00,1,0,5976,Joe Hicketts,Jordan Watt,Tyler Spott,,
+1028286,1,1st,14:32,389,IA,10608,Riley Heidt,27,C,Holding,2.00,1,0,10608,Riley Heidt,Jordan Watt,Tyler Spott,,
+1028286,2,2nd,15:44,403,ONT,5976,Joe Hicketts,27,D,Cross-checking,2.00,1,0,5976,Joe Hicketts,Jordan Watt,Tyler Spott,,
+1028286,3,3rd,6:43,403,ONT,10715,Jack Hughes,47,F,Double minor - High-sticking,4.00,1,0,10715,Jack Hughes,Jordan Watt,Tyler Spott,,

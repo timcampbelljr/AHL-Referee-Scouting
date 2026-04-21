@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028232,1,1st,2:59,412,TUC,8740,Montana Onyebuchi,79,D,Hooking,2.00,1,0,8740,Montana Onyebuchi,Koletrane Wilson,Damian Figueira,,
+1028232,1,1st,4:57,444,CGY,9952,Lucas Ciona,17,LW,Cross-checking,2.00,1,0,9952,Lucas Ciona,Koletrane Wilson,Damian Figueira,,
+1028232,1,1st,7:03,444,CGY,9447,Jérémie Poirier,4,D,Tripping,2.00,1,0,9447,Jérémie Poirier,Koletrane Wilson,Damian Figueira,,
+1028232,1,1st,8:53,412,TUC,10220,Maveric Lamoureux,10,D,Fighting,5.00,0,0,10220,Maveric Lamoureux,Koletrane Wilson,Damian Figueira,,
+1028232,1,1st,8:53,444,CGY,7099,Turner Ottenbreit,2,D,Fighting,5.00,0,0,7099,Turner Ottenbreit,Koletrane Wilson,Damian Figueira,,
+1028232,1,1st,10:38,444,CGY,5018,Martin Frk,29,RW,Slashing,2.00,1,0,5018,Martin Frk,Koletrane Wilson,Damian Figueira,,
+1028232,2,2nd,1:29,412,TUC,8734,Ben McCartney,22,F,Interference,2.00,1,0,8734,Ben McCartney,Koletrane Wilson,Damian Figueira,,
+1028232,2,2nd,14:54,412,TUC,8519,Scott Perunovich,7,D,Holding the stick,2.00,1,0,8519,Scott Perunovich,Koletrane Wilson,Damian Figueira,,
+1028232,3,3rd,4:01,444,CGY,5018,Martin Frk,29,RW,Hooking,2.00,1,0,5018,Martin Frk,Koletrane Wilson,Damian Figueira,,

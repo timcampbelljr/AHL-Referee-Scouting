@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028213,2,2nd,0:48,440,ABB,9554,Arshdeep Bains,13,LW,High-sticking,2.00,1,0,9554,Arshdeep Bains,Mike Dietrich,Jordan Watt,,
+1028213,3,3rd,8:51,440,ABB,10146,Joe Arntsen,3,D,Cross-checking,2.00,1,0,10146,Joe Arntsen,Mike Dietrich,Jordan Watt,,
+1028213,3,3rd,10:32,445,CV,6956,John Hayden,15,F,Slashing,2.00,1,0,6956,John Hayden,Mike Dietrich,Jordan Watt,,
+1028213,3,3rd,11:30,440,ABB,10089,Ty Mueller,39,C,Slashing,2.00,1,0,10089,Ty Mueller,Mike Dietrich,Jordan Watt,,
+1028213,3,3rd,15:03,445,CV,9764,Ty Nelson,24,D,Tripping,2.00,1,0,9764,Ty Nelson,Mike Dietrich,Jordan Watt,,
+1028213,3,3rd,18:14,445,CV,9706,Ville Ottavainen,36,D,Holding,2.00,1,0,9706,Ville Ottavainen,Mike Dietrich,Jordan Watt,,

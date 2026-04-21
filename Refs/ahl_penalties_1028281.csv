@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028281,1,1st,15:51,402,BAK,10599,Rhett Pitlick,68,RW,Hooking,2.00,1,0,10599,Rhett Pitlick,Ben Betker,Mike Campbell,,
+1028281,1,1st,17:03,440,ABB,7597,Jett Woo,4,D,Roughing,2.00,1,0,7597,Jett Woo,Ben Betker,Mike Campbell,,
+1028281,2,2nd,15:58,440,ABB,8813,Dino Kambeitz,17,RW,Interference,2.00,1,0,8813,Dino Kambeitz,Ben Betker,Mike Campbell,,
+1028281,3,3rd,5:50,402,BAK,10880,Beau Akey,82,D,Holding,2.00,1,0,10880,Beau Akey,Ben Betker,Mike Campbell,,
+1028281,3,3rd,16:16,402,BAK,10594,Damien Carfagna,73,D,Interference,2.00,1,0,10594,Damien Carfagna,Ben Betker,Mike Campbell,,

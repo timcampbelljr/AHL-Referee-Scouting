@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028224,1,1st,8:45,316,WBS,9673,Owen Pickering,38,D,Interference,2.00,1,0,9673,Owen Pickering,Chris Conway,Austin O’Rourke,,
+1028224,1,1st,16:24,319,HER,4026,Aaron Ness,27,D,Hooking,2.00,1,0,4026,Aaron Ness,Chris Conway,Austin O’Rourke,,
+1028224,1,1st,19:09,319,HER,4026,Aaron Ness,27,D,Interference,2.00,1,0,4026,Aaron Ness,Chris Conway,Austin O’Rourke,,
+1028224,2,2nd,1:27,319,HER,9881,Sam Bitten,43,LW,Slashing,2.00,1,0,9881,Sam Bitten,Chris Conway,Austin O’Rourke,,
+1028224,2,2nd,6:56,319,HER,10187,Zac Funk,14,LW,Hooking,2.00,1,0,10187,Zac Funk,Chris Conway,Austin O’Rourke,,
+1028224,2,2nd,12:20,316,WBS,7733,Zach Gallant,62,RW,Holding,2.00,1,0,7733,Zach Gallant,Chris Conway,Austin O’Rourke,,
+1028224,2,2nd,14:27,319,HER,0,None None,0,,Too many men - Bench minor,2.00,1,1,10174,Andrew Cristall,Chris Conway,Austin O’Rourke,,
+1028224,3,3rd,1:26,319,HER,10187,Zac Funk,14,LW,Tripping,2.00,1,0,10187,Zac Funk,Chris Conway,Austin O’Rourke,,
+1028224,3,3rd,4:54,319,HER,10133,Cam Allen,2,D,Tripping,2.00,1,0,10133,Cam Allen,Chris Conway,Austin O’Rourke,,
+1028224,3,3rd,8:15,319,HER,10866,Eriks Mateiko,13,C,Cross-checking,2.00,1,0,10866,Eriks Mateiko,Chris Conway,Austin O’Rourke,,
+1028224,3,3rd,11:38,316,WBS,7733,Zach Gallant,62,RW,Slashing,2.00,1,0,7733,Zach Gallant,Chris Conway,Austin O’Rourke,,
+1028224,3,3rd,14:25,316,WBS,6865,Bokondji Imama,14,LW,Tripping,2.00,1,0,6865,Bokondji Imama,Chris Conway,Austin O’Rourke,,

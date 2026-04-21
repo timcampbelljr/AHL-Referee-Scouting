@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028244,1,1st,2:09,389,IA,9472,Mark Liwiski,26,F,Roughing,2.00,1,0,9472,Mark Liwiski,Chad Ingalls,Kyle Bauman,,
+1028244,1,1st,6:35,380,TEX,6851,Nathan Bastian,14,RW,Interference,2.00,1,0,6851,Nathan Bastian,Chad Ingalls,Kyle Bauman,,
+1028244,1,1st,13:55,380,TEX,9075,Michael Karow,26,D,Tripping,2.00,1,0,9075,Michael Karow,Chad Ingalls,Kyle Bauman,,
+1028244,2,2nd,6:04,389,IA,7653,Ben Jones,18,C,Holding,2.00,1,0,7653,Ben Jones,Chad Ingalls,Kyle Bauman,,
+1028244,2,2nd,16:29,389,IA,10313,Hunter Haight,43,F,Roughing,2.00,1,0,10313,Hunter Haight,Chad Ingalls,Kyle Bauman,,

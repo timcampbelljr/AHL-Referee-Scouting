@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028226,1,1st,0:17,437,HSK,8448,Tanner Laczynski,28,F,Tripping,2.00,1,0,8448,Tanner Laczynski,Ben Betker,Harrison O’Pray,,
+1028226,1,1st,7:11,437,HSK,10284,Kai Uchacz,77,F,Hooking,2.00,1,0,10284,Kai Uchacz,Ben Betker,Harrison O’Pray,,
+1028226,1,1st,13:46,445,CV,9755,Jagger Firkus,57,F,Broken stick,2.00,1,0,9755,Jagger Firkus,Ben Betker,Harrison O’Pray,,
+1028226,1,1st,15:29,445,CV,9764,Ty Nelson,24,D,Tripping,2.00,1,0,9764,Ty Nelson,Ben Betker,Harrison O’Pray,,
+1028226,1,1st,19:20,437,HSK,0,None None,0,,Too many men - Bench minor,2.00,1,1,7028,Mitch McLain,Ben Betker,Harrison O’Pray,,
+1028226,2,2nd,8:35,445,CV,9706,Ville Ottavainen,36,D,Interference,2.00,1,0,9706,Ville Ottavainen,Ben Betker,Harrison O’Pray,,
+1028226,2,2nd,15:35,445,CV,6956,John Hayden,15,F,Fighting,5.00,0,0,6956,John Hayden,Ben Betker,Harrison O’Pray,,
+1028226,2,2nd,15:35,437,HSK,8448,Tanner Laczynski,28,F,Fighting,5.00,0,0,8448,Tanner Laczynski,Ben Betker,Harrison O’Pray,,
+1028226,2,2nd,17:53,437,HSK,10285,Viliam Kmec,74,D,Tripping,2.00,1,0,10285,Viliam Kmec,Ben Betker,Harrison O’Pray,,
+1028226,3,3rd,13:12,437,HSK,5547,Jaycob Megna,88,D,Hooking,2.00,1,0,5547,Jaycob Megna,Ben Betker,Harrison O’Pray,,
+1028226,3,3rd,15:42,437,HSK,8421,Riley McKay,89,F,Boarding,2.00,1,0,8421,Riley McKay,Ben Betker,Harrison O’Pray,,

@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028223,1,1st,14:15,390,UTC,9758,Topias Vilen,38,D,Interference,2.00,1,0,9758,Topias Vilen,Alex Lepkowski,Sydney Harris,,
+1028223,1,1st,16:08,390,UTC,7117,Austin Strand,7,D,Hooking,2.00,1,0,7117,Austin Strand,Alex Lepkowski,Sydney Harris,,
+1028223,1,1st,19:15,335,TOR,9023,Marc Johnstone,57,RW,Slashing,2.00,1,0,9023,Marc Johnstone,Alex Lepkowski,Sydney Harris,,
+1028223,2,2nd,3:02,335,TOR,10119,Noah Chadwick,58,D,Tripping,2.00,1,0,10119,Noah Chadwick,Alex Lepkowski,Sydney Harris,,
+1028223,2,2nd,9:21,390,UTC,10621,Cam Squires,12,F,High-sticking,2.00,1,0,10621,Cam Squires,Alex Lepkowski,Sydney Harris,,
+1028223,3,3rd,5:28,335,TOR,9624,Ryan Tverberg,77,F,High-sticking,2.00,1,0,9624,Ryan Tverberg,Alex Lepkowski,Sydney Harris,,
+1028223,3,3rd,8:37,390,UTC,10892,Lenni Hämeenaho,29,F,Tripping,2.00,1,0,10892,Lenni Hämeenaho,Alex Lepkowski,Sydney Harris,,
+1028223,3,3rd,11:05,335,TOR,9072,Marshall Rifai,83,D,Interference,2.00,1,0,9072,Marshall Rifai,Alex Lepkowski,Sydney Harris,,
+1028223,3,3rd,18:23,335,TOR,0,None None,0,,Too many men - Bench minor,2.00,1,1,6681,Vinni Lettieri,Alex Lepkowski,Sydney Harris,,
+1028223,OT,OT,4:06,335,TOR,8738,William Villeneuve,76,D,Tripping,2.00,1,0,8738,William Villeneuve,Alex Lepkowski,Sydney Harris,,

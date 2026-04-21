@@ -1,0 +1,3 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028298,2,2nd,16:47,330,CHI,10463,Aleksi Heimosalmi,34,D,Interference,2.00,1,0,10463,Aleksi Heimosalmi,Jordan Deckard,Ibrahim Arifi,,
+1028298,3,3rd,12:36,330,CHI,0,None None,0,,Unsportsmanlike conduct - Bench minor,2.00,1,1,9090,Noel Gunler,Jordan Deckard,Ibrahim Arifi,,

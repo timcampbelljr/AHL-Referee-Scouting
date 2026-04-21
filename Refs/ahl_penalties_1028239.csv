@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028239,1,1st,3:30,384,CLT,10056,Ben Steeves,6,F,Tripping,2.00,1,0,10056,Ben Steeves,Mitchell Hardy,Jordan Deckard,,
+1028239,2,2nd,4:10,384,CLT,10459,Mikulas Hovorka,14,D,Hooking,2.00,1,0,10459,Mikulas Hovorka,Mitchell Hardy,Jordan Deckard,,
+1028239,2,2nd,11:28,384,CLT,9988,Michael Benning,2,D,Roughing,2.00,1,0,9988,Michael Benning,Mitchell Hardy,Jordan Deckard,,
+1028239,2,2nd,19:11,316,WBS,10164,Tristan Broz,26,C,Cross-checking,2.00,1,0,10164,Tristan Broz,Mitchell Hardy,Jordan Deckard,,
+1028239,3,3rd,14:01,316,WBS,10504,Chase Pietila,44,D,Interference,2.00,1,0,10504,Chase Pietila,Mitchell Hardy,Jordan Deckard,,
+1028239,3,3rd,17:27,384,CLT,10915,Hunter St. Martin,19,F,Roughing,2.00,0,0,10915,Hunter St. Martin,Mitchell Hardy,Jordan Deckard,,
+1028239,3,3rd,17:27,384,CLT,10915,Hunter St. Martin,19,F,Roughing,2.00,0,0,10915,Hunter St. Martin,Mitchell Hardy,Jordan Deckard,,
+1028239,3,3rd,17:27,316,WBS,8559,Phil Tomasino,53,RW,Roughing,2.00,0,0,8559,Phil Tomasino,Mitchell Hardy,Jordan Deckard,,
+1028239,3,3rd,17:27,316,WBS,8559,Phil Tomasino,53,RW,Roughing,2.00,0,0,8559,Phil Tomasino,Mitchell Hardy,Jordan Deckard,,

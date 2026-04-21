@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028245,2,2nd,1:48,313,LV,6872,Lane Pederson,25,C,Hooking,2.00,1,0,6872,Lane Pederson,Mitchell Hardy,Jordan Deckard,,
+1028245,2,2nd,5:12,313,LV,4334,Garrett Wilson,17,LW,Fighting,5.00,0,0,4334,Garrett Wilson,Mitchell Hardy,Jordan Deckard,,
+1028245,2,2nd,5:12,319,HER,9881,Sam Bitten,43,LW,Fighting,5.00,0,0,9881,Sam Bitten,Mitchell Hardy,Jordan Deckard,,
+1028245,2,2nd,9:13,319,HER,7921,Brett Leason,23,RW,Roughing,2.00,0,0,7921,Brett Leason,Mitchell Hardy,Jordan Deckard,,
+1028245,2,2nd,9:13,313,LV,9963,Christian Kyrou,15,D,Interference,2.00,0,0,9963,Christian Kyrou,Mitchell Hardy,Jordan Deckard,,
+1028245,2,2nd,14:57,319,HER,10866,Eriks Mateiko,13,C,Holding,2.00,1,0,10866,Eriks Mateiko,Mitchell Hardy,Jordan Deckard,,
+1028245,3,3rd,2:52,319,HER,9820,Jon McDonald,47,D,Interference,2.00,1,0,9820,Jon McDonald,Mitchell Hardy,Jordan Deckard,,
+1028245,3,3rd,10:07,319,HER,9881,Sam Bitten,43,LW,Roughing,2.00,0,0,9881,Sam Bitten,Mitchell Hardy,Jordan Deckard,,
+1028245,3,3rd,10:07,313,LV,9825,Alexis Gendron,72,F,Roughing,2.00,0,0,9825,Alexis Gendron,Mitchell Hardy,Jordan Deckard,,

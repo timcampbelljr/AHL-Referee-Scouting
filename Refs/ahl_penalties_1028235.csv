@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028235,1,1st,5:09,335,TOR,5926,Brandon Baddock,48,LW,Major - Elbowing,5.00,1,0,10613,Borya Valis,Luke Stork,Sean Fernandez,,
+1028235,1,1st,5:09,335,TOR,5926,Brandon Baddock,48,LW,Game misconduct - Elbowing,10.00,0,0,5926,Brandon Baddock,Luke Stork,Sean Fernandez,,
+1028235,2,2nd,7:14,373,CLE,9025,Roman Ahcan,37,LW,Hooking,2.00,1,0,9025,Roman Ahcan,Luke Stork,Sean Fernandez,,
+1028235,2,2nd,7:23,373,CLE,10894,Jack Williams,29,RW,Delay of game,2.00,1,0,10894,Jack Williams,Luke Stork,Sean Fernandez,,
+1028235,2,2nd,13:02,335,TOR,9072,Marshall Rifai,83,D,Roughing,2.00,0,0,9072,Marshall Rifai,Luke Stork,Sean Fernandez,,
+1028235,2,2nd,13:02,373,CLE,9025,Roman Ahcan,37,LW,Roughing,2.00,0,0,9025,Roman Ahcan,Luke Stork,Sean Fernandez,,
+1028235,2,2nd,16:35,373,CLE,9570,Riley Bezeau,25,RW,Slashing,2.00,1,0,9570,Riley Bezeau,Luke Stork,Sean Fernandez,,
+1028235,3,3rd,5:42,335,TOR,10635,Blake Smith,59,D,Roughing,2.00,0,0,10635,Blake Smith,Luke Stork,Sean Fernandez,,
+1028235,3,3rd,5:42,373,CLE,9570,Riley Bezeau,25,RW,Roughing,2.00,0,0,9570,Riley Bezeau,Luke Stork,Sean Fernandez,,

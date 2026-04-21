@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028283,1,1st,9:55,402,BAK,10595,Connor Clattenburg,64,LW,Fighting,5.00,0,0,10595,Connor Clattenburg,Ben Betker,Mike Campbell,,
+1028283,1,1st,9:55,440,ABB,10146,Joe Arntsen,3,D,Fighting,5.00,0,0,10146,Joe Arntsen,Ben Betker,Mike Campbell,,
+1028283,1,1st,11:16,440,ABB,10090,Victor Mancini,90,D,Cross-checking,2.00,1,0,10090,Victor Mancini,Ben Betker,Mike Campbell,,
+1028283,1,1st,13:27,402,BAK,9170,Tyson Feist,72,D,Fighting,5.00,0,0,9170,Tyson Feist,Ben Betker,Mike Campbell,,
+1028283,1,1st,13:27,440,ABB,7696,Chase Wouters,21,C,Fighting,5.00,0,0,7696,Chase Wouters,Ben Betker,Mike Campbell,,
+1028283,2,2nd,6:46,402,BAK,9117,Tyler Inamoto,5,D,Holding,2.00,1,0,9117,Tyler Inamoto,Ben Betker,Mike Campbell,,
+1028283,2,2nd,13:29,402,BAK,8726,Roby Järventie,15,RW,Hooking,2.00,1,0,8726,Roby Järventie,Ben Betker,Mike Campbell,,
+1028283,2,2nd,17:23,440,ABB,10090,Victor Mancini,90,D,Tripping,2.00,1,0,10090,Victor Mancini,Ben Betker,Mike Campbell,,
+1028283,3,3rd,9:22,402,BAK,8846,Daniel D’Amato,19,LW,Slashing,2.00,1,0,8846,Daniel D’Amato,Ben Betker,Mike Campbell,,

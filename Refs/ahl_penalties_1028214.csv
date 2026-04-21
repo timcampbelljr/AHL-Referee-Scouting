@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028214,2,2nd,1:49,389,IA,9799,Bradley Marek,10,F,Tripping,2.00,1,0,9799,Bradley Marek,Jake Jackson,Nolan Bloyer,,
+1028214,2,2nd,4:21,389,IA,6616,Gerry Mayhew,20,C,Slashing,2.00,1,0,6616,Gerry Mayhew,Jake Jackson,Nolan Bloyer,,
+1028214,2,2nd,16:46,330,CHI,10469,Justin Robidas,93,LW,Holding,2.00,1,0,10469,Justin Robidas,Jake Jackson,Nolan Bloyer,,
+1028214,3,3rd,10:19,389,IA,9619,Will Zmolek,4,D,Cross-checking,2.00,1,0,9619,Will Zmolek,Jake Jackson,Nolan Bloyer,,
+1028214,3,3rd,19:16,330,CHI,10882,Ivan Ryabkin,27,C,High-sticking,2.00,1,0,10882,Ivan Ryabkin,Jake Jackson,Nolan Bloyer,,

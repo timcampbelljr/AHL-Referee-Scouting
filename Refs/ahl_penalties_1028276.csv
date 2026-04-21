@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028276,1,1st,8:46,389,IA,6616,Gerry Mayhew,20,C,Holding,2.00,1,0,6616,Gerry Mayhew,Graedy Hamilton,Will Kelly,,
+1028276,1,1st,9:30,403,ONT,8718,Nikita Alexandrov,59,F,Interference,2.00,1,0,8718,Nikita Alexandrov,Graedy Hamilton,Will Kelly,,
+1028276,1,1st,11:01,403,ONT,8718,Nikita Alexandrov,59,F,Hooking,2.00,1,0,8718,Nikita Alexandrov,Graedy Hamilton,Will Kelly,,
+1028276,2,2nd,0:32,403,ONT,8718,Nikita Alexandrov,59,F,Slashing,2.00,1,0,8718,Nikita Alexandrov,Graedy Hamilton,Will Kelly,,
+1028276,2,2nd,4:31,389,IA,9545,David Jiříček,55,D,Interference,2.00,1,0,9545,David Jiříček,Graedy Hamilton,Will Kelly,,
+1028276,2,2nd,8:46,389,IA,10608,Riley Heidt,27,C,Tripping,2.00,1,0,10608,Riley Heidt,Graedy Hamilton,Will Kelly,,
+1028276,2,2nd,18:02,403,ONT,9239,Francesco Pinelli,71,F,Tripping,2.00,1,0,9239,Francesco Pinelli,Graedy Hamilton,Will Kelly,,
+1028276,2,2nd,19:53,403,ONT,10199,Jakub Dvořák,55,D,High-sticking,2.00,1,0,10199,Jakub Dvořák,Graedy Hamilton,Will Kelly,,
+1028276,3,3rd,10:44,389,IA,10943,Lukas Sillinger,22,LW,Roughing,2.00,1,0,10943,Lukas Sillinger,Graedy Hamilton,Will Kelly,,

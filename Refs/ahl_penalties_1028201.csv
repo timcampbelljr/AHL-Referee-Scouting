@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028201,1,1st,3:05,390,UTC,9758,Topias Vilen,38,D,Slashing,2.00,1,0,9758,Topias Vilen,Chad Ingalls,Jordan Deckard,,
+1028201,1,1st,3:39,316,WBS,10164,Tristan Broz,26,C,Hooking,2.00,1,0,10164,Tristan Broz,Chad Ingalls,Jordan Deckard,,
+1028201,2,2nd,0:34,390,UTC,10892,Lenni Hämeenaho,29,F,Tripping,2.00,1,0,10892,Lenni Hämeenaho,Chad Ingalls,Jordan Deckard,,
+1028201,2,2nd,12:11,390,UTC,10529,Ethan Edwards,73,D,Hooking,2.00,1,0,10529,Ethan Edwards,Chad Ingalls,Jordan Deckard,,
+1028201,3,3rd,8:55,390,UTC,9114,Thomas Bordeleau,74,F,Holding,2.00,1,0,9114,Thomas Bordeleau,Chad Ingalls,Jordan Deckard,,
+1028201,3,3rd,9:55,316,WBS,4933,Matt Dumba,24,D,High-sticking,2.00,1,0,4933,Matt Dumba,Chad Ingalls,Jordan Deckard,,
+1028201,OT,OT,1:22,316,WBS,4933,Matt Dumba,24,D,Interference,2.00,1,0,4933,Matt Dumba,Chad Ingalls,Jordan Deckard,,

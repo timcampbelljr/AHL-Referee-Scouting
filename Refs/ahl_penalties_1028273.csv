@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028273,1,1st,1:30,412,TUC,8631,Ty Tullio,17,RW,Delay of game,2.00,1,0,8631,Ty Tullio,Morgan MacPhee,Jesse Wood-Schatz,,
+1028273,1,1st,10:48,444,CGY,10137,Étienne Morin,21,D,Tripping,2.00,1,0,10137,Étienne Morin,Morgan MacPhee,Jesse Wood-Schatz,,
+1028273,1,1st,10:52,412,TUC,7401,Cameron Hebig,39,C,High-sticking,2.00,1,0,7401,Cameron Hebig,Morgan MacPhee,Jesse Wood-Schatz,,
+1028273,1,1st,20:00,444,CGY,9952,Lucas Ciona,17,LW,Roughing,2.00,1,0,9952,Lucas Ciona,Morgan MacPhee,Jesse Wood-Schatz,,
+1028273,2,2nd,4:10,412,TUC,8734,Ben McCartney,22,F,Tripping,2.00,1,0,8734,Ben McCartney,Morgan MacPhee,Jesse Wood-Schatz,,
+1028273,2,2nd,18:17,412,TUC,10220,Maveric Lamoureux,10,D,Roughing,2.00,0,0,10220,Maveric Lamoureux,Morgan MacPhee,Jesse Wood-Schatz,,
+1028273,2,2nd,18:17,444,CGY,9727,Artem Grushnikov,3,D,Interference,2.00,1,0,5018,Martin Frk,Morgan MacPhee,Jesse Wood-Schatz,,
+1028273,2,2nd,18:17,444,CGY,9727,Artem Grushnikov,3,D,Roughing,2.00,0,0,9727,Artem Grushnikov,Morgan MacPhee,Jesse Wood-Schatz,,
+1028273,3,3rd,3:05,412,TUC,7401,Cameron Hebig,39,C,Interference,2.00,1,0,7401,Cameron Hebig,Morgan MacPhee,Jesse Wood-Schatz,,

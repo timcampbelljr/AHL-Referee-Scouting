@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028290,1,1st,4:46,390,UTC,9114,Thomas Bordeleau,74,F,Tripping,2.00,1,0,9114,Thomas Bordeleau,Adam Tobias,Jared Cummins,,
+1028290,2,2nd,1:13,390,UTC,10892,Lenni Hämeenaho,29,F,Tripping,2.00,1,0,10892,Lenni Hämeenaho,Adam Tobias,Jared Cummins,,
+1028290,2,2nd,6:55,390,UTC,9114,Thomas Bordeleau,74,F,Roughing,2.00,1,0,9681,Josh Filmon,Adam Tobias,Jared Cummins,,
+1028290,2,2nd,6:55,411,SPR,8461,Hugh McGing,11,F,Fighting,5.00,0,0,8461,Hugh McGing,Adam Tobias,Jared Cummins,,
+1028290,2,2nd,6:55,390,UTC,9114,Thomas Bordeleau,74,F,Fighting,5.00,0,0,9114,Thomas Bordeleau,Adam Tobias,Jared Cummins,,
+1028290,2,2nd,12:16,411,SPR,9802,Georgi Romanov,30,G,Tripping,2.00,1,0,6733,Matt Luff,Adam Tobias,Jared Cummins,,
+1028290,2,2nd,15:56,411,SPR,10143,Dylan Peterson,22,F,Roughing,2.00,1,0,10143,Dylan Peterson,Adam Tobias,Jared Cummins,,
+1028290,2,2nd,19:09,411,SPR,9868,Marc-André Gaudet,45,D,Holding,2.00,1,0,9868,Marc-André Gaudet,Adam Tobias,Jared Cummins,,
+1028290,3,3rd,12:33,390,UTC,9681,Josh Filmon,19,F,Delay of game,2.00,1,0,9681,Josh Filmon,Adam Tobias,Jared Cummins,,
+1028290,3,3rd,18:06,390,UTC,7624,Calen Addison,2,D,High-sticking,2.00,1,0,7624,Calen Addison,Adam Tobias,Jared Cummins,,

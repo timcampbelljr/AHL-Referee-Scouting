@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028289,1,1st,5:31,373,CLE,10556,Guillaume Richard,26,D,Holding,2.00,1,0,10556,Guillaume Richard,Graedy Hamilton,Chad Ingalls,,
+1028289,2,2nd,11:59,335,TOR,10635,Blake Smith,59,D,Fighting,5.00,0,0,10635,Blake Smith,Graedy Hamilton,Chad Ingalls,,
+1028289,2,2nd,11:59,373,CLE,9570,Riley Bezeau,25,RW,Fighting,5.00,0,0,9570,Riley Bezeau,Graedy Hamilton,Chad Ingalls,,
+1028289,3,3rd,3:12,335,TOR,10613,Borya Valis,39,F,Roughing,2.00,0,0,10613,Borya Valis,Graedy Hamilton,Chad Ingalls,,
+1028289,3,3rd,3:12,373,CLE,10176,Luca Pinelli,53,LW,Roughing,2.00,0,0,10176,Luca Pinelli,Graedy Hamilton,Chad Ingalls,,
+1028289,3,3rd,3:12,373,CLE,9025,Roman Ahcan,37,LW,Tripping,2.00,1,0,9025,Roman Ahcan,Graedy Hamilton,Chad Ingalls,,
+1028289,3,3rd,8:23,335,TOR,8738,William Villeneuve,76,D,Holding,2.00,1,0,8738,William Villeneuve,Graedy Hamilton,Chad Ingalls,,

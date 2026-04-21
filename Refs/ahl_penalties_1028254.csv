@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028254,1,1st,1:07,412,TUC,8519,Scott Perunovich,7,D,High-sticking,2.00,1,0,8519,Scott Perunovich,Bobby Jo Love,Alex Gagné,,
+1028254,1,1st,16:45,444,CGY,9669,William Strömgren,11,LW,Holding,2.00,1,0,9669,William Strömgren,Bobby Jo Love,Alex Gagné,,
+1028254,1,1st,17:27,444,CGY,6453,Clark Bishop,19,C,Cross-checking,2.00,1,0,6453,Clark Bishop,Bobby Jo Love,Alex Gagné,,
+1028254,1,1st,19:46,412,TUC,0,None None,0,,Delay of game (faceoff violation) - Bench minor,2.00,1,1,10211,Miko Matikka,Bobby Jo Love,Alex Gagné,,
+1028254,2,2nd,1:46,444,CGY,9726,Parker Bell,22,LW,Slashing,2.00,1,0,9726,Parker Bell,Bobby Jo Love,Alex Gagné,,
+1028254,2,2nd,16:35,444,CGY,7099,Turner Ottenbreit,2,D,High-sticking,2.00,1,0,7099,Turner Ottenbreit,Bobby Jo Love,Alex Gagné,,
+1028254,3,3rd,0:18,444,CGY,10037,Sam Morton,45,C,Interference,2.00,1,0,10037,Sam Morton,Bobby Jo Love,Alex Gagné,,
+1028254,3,3rd,0:40,412,TUC,8734,Ben McCartney,22,F,Holding the stick,2.00,0,0,8734,Ben McCartney,Bobby Jo Love,Alex Gagné,,
+1028254,3,3rd,2:03,444,CGY,9447,Jérémie Poirier,4,D,Hooking,2.00,1,0,9447,Jérémie Poirier,Bobby Jo Love,Alex Gagné,,
+1028254,3,3rd,16:34,412,TUC,10218,Artem Duda,8,D,Double minor - High-sticking,4.00,1,0,10218,Artem Duda,Bobby Jo Love,Alex Gagné,,

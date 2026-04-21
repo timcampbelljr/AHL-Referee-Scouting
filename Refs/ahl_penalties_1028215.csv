@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028215,1,1st,5:43,324,SYR,8922,Simon Lundmark,7,D,Holding,2.00,1,0,8922,Simon Lundmark,Jack Young,Tyler Spott,,
+1028215,2,2nd,5:39,415,LAV,9796,Jared Davidson,49,F,Holding,2.00,1,0,9796,Jared Davidson,Jack Young,Tyler Spott,,
+1028215,2,2nd,8:01,415,LAV,0,None None,0,,Too many men - Bench minor,2.00,1,1,10505,Will Dineen,Jack Young,Tyler Spott,,

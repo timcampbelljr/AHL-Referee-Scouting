@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028258,1,1st,0:51,440,ABB,10090,Victor Mancini,90,D,Slashing,2.00,1,0,10090,Victor Mancini,Damian Figueira,Jacob Hicks,,
+1028258,1,1st,3:26,440,ABB,7597,Jett Woo,4,D,Tripping,2.00,1,0,7597,Jett Woo,Damian Figueira,Jacob Hicks,,
+1028258,1,1st,6:32,321,MB,9557,Brad Lambert,13,F,Tripping,2.00,1,0,9557,Brad Lambert,Damian Figueira,Jacob Hicks,,
+1028258,2,2nd,3:52,321,MB,8706,Walker Duehr,7,RW,Hooking,2.00,1,0,8706,Walker Duehr,Damian Figueira,Jacob Hicks,,
+1028258,2,2nd,8:35,321,MB,7152,Kale Clague,56,D,Holding,2.00,1,0,7152,Kale Clague,Damian Figueira,Jacob Hicks,,
+1028258,2,2nd,14:24,321,MB,7113,Mason Shaw,18,RW,Roughing,2.00,0,0,7113,Mason Shaw,Damian Figueira,Jacob Hicks,,
+1028258,2,2nd,14:24,440,ABB,7597,Jett Woo,4,D,Roughing,2.00,0,0,7597,Jett Woo,Damian Figueira,Jacob Hicks,,
+1028258,3,3rd,2:57,321,MB,7772,Ville Heinola,14,D,Slashing,2.00,1,0,7772,Ville Heinola,Damian Figueira,Jacob Hicks,,
+1028258,3,3rd,5:41,321,MB,9557,Brad Lambert,13,F,Hooking,2.00,1,0,9557,Brad Lambert,Damian Figueira,Jacob Hicks,,

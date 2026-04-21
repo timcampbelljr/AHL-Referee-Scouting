@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028260,1,1st,16:35,317,BRI,9689,Travis Mitchell,10,D,Slashing,2.00,1,0,9689,Travis Mitchell,Jim Curtin,Johnny Daniels,,
+1028260,2,2nd,15:12,317,BRI,10020,Luke Rowe,24,D,Cross-checking,2.00,1,0,10020,Luke Rowe,Jim Curtin,Johnny Daniels,,
+1028260,3,3rd,0:10,411,SPR,10143,Dylan Peterson,22,F,Fighting,5.00,0,0,10143,Dylan Peterson,Jim Curtin,Johnny Daniels,,
+1028260,3,3rd,0:10,317,BRI,10020,Luke Rowe,24,D,Fighting,5.00,0,0,10020,Luke Rowe,Jim Curtin,Johnny Daniels,,
+1028260,3,3rd,3:49,411,SPR,10920,Theo Lindstein,4,D,Slashing,2.00,1,0,10920,Theo Lindstein,Jim Curtin,Johnny Daniels,,
+1028260,3,3rd,10:40,411,SPR,9862,Leo Lööf,7,D,Illegal check to the head,2.00,1,0,9862,Leo Lööf,Jim Curtin,Johnny Daniels,,
+1028260,3,3rd,14:44,317,BRI,8951,Drew Callin,41,F,Slashing,2.00,1,0,8951,Drew Callin,Jim Curtin,Johnny Daniels,,

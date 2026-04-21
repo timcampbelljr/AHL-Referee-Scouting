@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028241,1,1st,10:14,402,BAK,10599,Rhett Pitlick,68,RW,Hooking,2.00,1,0,10599,Rhett Pitlick,Jordan Watt,Tatu Kunto,,
+1028241,2,2nd,2:59,445,CV,5471,Gustav Olofsson,23,D,Holding,2.00,1,0,5471,Gustav Olofsson,Jordan Watt,Tatu Kunto,,
+1028241,2,2nd,13:39,445,CV,10180,Carson Rehkopf,16,F,High-sticking,2.00,1,0,10180,Carson Rehkopf,Jordan Watt,Tatu Kunto,,
+1028241,2,2nd,18:22,445,CV,10184,Eduard Šalé,12,F,Hooking,2.00,1,0,10184,Eduard Šalé,Jordan Watt,Tatu Kunto,,
+1028241,2,2nd,20:00,402,BAK,10595,Connor Clattenburg,64,LW,Roughing,2.00,0,0,10595,Connor Clattenburg,Jordan Watt,Tatu Kunto,,
+1028241,2,2nd,20:00,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,0,0,8625,Ian McKinnon,Jordan Watt,Tatu Kunto,,
+1028241,2,2nd,20:00,402,BAK,10595,Connor Clattenburg,64,LW,Misconduct,10.00,0,0,8696,Ethan Keppen,Jordan Watt,Tatu Kunto,,
+1028241,3,3rd,9:23,402,BAK,10880,Beau Akey,82,D,Tripping,2.00,1,0,10880,Beau Akey,Jordan Watt,Tatu Kunto,,
+1028241,3,3rd,17:56,402,BAK,6058,Josh Brown,44,D,Tripping,2.00,1,0,6058,Josh Brown,Jordan Watt,Tatu Kunto,,

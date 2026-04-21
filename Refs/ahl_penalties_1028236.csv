@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028236,1,1st,2:11,403,ONT,5592,Jacob Doty,37,F,Slashing,2.00,1,0,5592,Jacob Doty,Ben Betker,Harrison O’Pray,,
+1028236,1,1st,6:22,403,ONT,10616,Tim Rego,12,D,Hooking,2.00,1,0,10616,Tim Rego,Ben Betker,Harrison O’Pray,,
+1028236,2,2nd,10:53,437,HSK,7926,Jeremy Davies,84,D,Tripping,2.00,1,0,7926,Jeremy Davies,Ben Betker,Harrison O’Pray,,
+1028236,2,2nd,15:12,403,ONT,0,None None,0,,Too many men - Bench minor,2.00,1,1,9785,Koehn Ziemmer,Ben Betker,Harrison O’Pray,,
+1028236,2,2nd,16:39,437,HSK,10680,Jackson Hallum,59,F,Hooking,2.00,1,0,10680,Jackson Hallum,Ben Betker,Harrison O’Pray,,
+1028236,2,2nd,18:56,403,ONT,7822,Samuel Bolduc,58,D,Tripping,2.00,1,0,7822,Samuel Bolduc,Ben Betker,Harrison O’Pray,,
+1028236,OT,OT,3:49,437,HSK,7926,Jeremy Davies,84,D,Holding,2.00,1,0,10280,Tuomas Uronen,Ben Betker,Harrison O’Pray,,
+1028236,OT,OT,3:49,437,HSK,7926,Jeremy Davies,84,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,7926,Jeremy Davies,Ben Betker,Harrison O’Pray,,

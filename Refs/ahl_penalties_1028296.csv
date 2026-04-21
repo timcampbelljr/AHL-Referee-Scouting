@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028296,1,1st,2:25,309,PRO,7704,Victor Söderström,29,D,Hooking,2.00,1,0,7704,Victor Söderström,Austin Rook,Austin O’Rourke,,
+1028296,1,1st,16:32,317,BRI,7655,Liam Foudy,8,F,Delay of game,2.00,1,0,7655,Liam Foudy,Austin Rook,Austin O’Rourke,,
+1028296,1,1st,19:55,317,BRI,2350,Chris Terry,25,F,Tripping,2.00,1,0,2350,Chris Terry,Austin Rook,Austin O’Rourke,,
+1028296,2,2nd,2:35,317,BRI,6828,Julien Gauthier,44,RW,Slashing,2.00,1,0,6828,Julien Gauthier,Austin Rook,Austin O’Rourke,,
+1028296,2,2nd,7:25,317,BRI,8549,Adam Beckman,34,LW,Slashing,2.00,1,0,8549,Adam Beckman,Austin Rook,Austin O’Rourke,,
+1028296,2,2nd,11:28,309,PRO,8462,Billy Sweezey,6,D,Interference,2.00,1,0,8462,Billy Sweezey,Austin Rook,Austin O’Rourke,,
+1028296,2,2nd,18:48,309,PRO,7943,Riley Tufte,27,LW,Slashing,2.00,1,0,7943,Riley Tufte,Austin Rook,Austin O’Rourke,,
+1028296,3,3rd,8:06,317,BRI,7655,Liam Foudy,8,F,Diving/Embellishment,2.00,0,0,7655,Liam Foudy,Austin Rook,Austin O’Rourke,,
+1028296,3,3rd,8:06,309,PRO,7378,Christian Wolanin,86,D,Interference,2.00,0,0,7378,Christian Wolanin,Austin Rook,Austin O’Rourke,,

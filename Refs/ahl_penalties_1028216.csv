@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028216,1,1st,14:45,313,LV,9730,Carson Golder,9,RW,Interference,2.00,1,0,9730,Carson Golder,Mike Sullivan,Cole MacDonald,,
+1028216,1,1st,19:11,384,CLT,9220,Nate Smith,15,C,Tripping,2.00,1,0,9220,Nate Smith,Mike Sullivan,Cole MacDonald,,
+1028216,2,2nd,6:10,384,CLT,10913,Ludvig Jansson,3,D,Boarding,2.00,1,0,10913,Ludvig Jansson,Mike Sullivan,Cole MacDonald,,
+1028216,2,2nd,7:25,313,LV,9825,Alexis Gendron,72,F,Interference,2.00,1,0,9825,Alexis Gendron,Mike Sullivan,Cole MacDonald,,
+1028216,2,2nd,7:46,313,LV,7788,Maxence Guenette,82,D,Tripping,2.00,1,0,7788,Maxence Guenette,Mike Sullivan,Cole MacDonald,,
+1028216,2,2nd,9:09,313,LV,4334,Garrett Wilson,17,LW,Goaltender interference,2.00,1,0,4334,Garrett Wilson,Mike Sullivan,Cole MacDonald,,
+1028216,2,2nd,16:28,384,CLT,9695,Ryan McAllister,9,F,Tripping,2.00,1,0,9695,Ryan McAllister,Mike Sullivan,Cole MacDonald,,
+1028216,3,3rd,5:05,384,CLT,9988,Michael Benning,2,D,Hooking,2.00,1,0,9988,Michael Benning,Mike Sullivan,Cole MacDonald,,
+1028216,3,3rd,17:38,384,CLT,7687,Tobias Björnfot,40,D,Slashing,2.00,1,0,7687,Tobias Björnfot,Mike Sullivan,Cole MacDonald,,

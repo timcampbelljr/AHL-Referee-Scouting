@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028269,1,1st,4:55,445,CV,9756,Logan Morrison,96,F,High-sticking,2.00,1,0,9756,Logan Morrison,Graedy Hamilton,Will Kelly,,
+1028269,1,1st,14:38,403,ONT,6784,Glenn Gawdin,21,F,High-sticking,2.00,1,0,6784,Glenn Gawdin,Graedy Hamilton,Will Kelly,,
+1028269,2,2nd,3:44,403,ONT,10199,Jakub Dvořák,55,D,Interference,2.00,1,0,10199,Jakub Dvořák,Graedy Hamilton,Will Kelly,,
+1028269,2,2nd,11:44,403,ONT,5976,Joe Hicketts,27,D,High-sticking,2.00,1,0,5976,Joe Hicketts,Graedy Hamilton,Will Kelly,,
+1028269,2,2nd,14:04,445,CV,10183,Caden Price,4,D,Tripping,2.00,1,0,10183,Caden Price,Graedy Hamilton,Will Kelly,,
+1028269,3,3rd,7:06,445,CV,10190,Tyson Jugnauth,43,D,Slashing,2.00,1,0,10190,Tyson Jugnauth,Graedy Hamilton,Will Kelly,,
+1028269,3,3rd,19:51,445,CV,9756,Logan Morrison,96,F,Misconduct,10.00,0,0,9756,Logan Morrison,Graedy Hamilton,Will Kelly,,
+1028269,3,3rd,19:51,445,CV,9756,Logan Morrison,96,F,Boarding,2.00,1,0,9797,Jakov Novak,Graedy Hamilton,Will Kelly,,

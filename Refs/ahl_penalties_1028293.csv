@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028293,1,1st,6:56,328,GR,8927,Alex Kannok Leipert,41,D,Fighting,5.00,0,0,8927,Alex Kannok Leipert,Harrison O’Pray,Jonathon Sitarski,,
+1028293,1,1st,6:56,380,TEX,4883,Curtis McKenzie,16,F,Fighting,5.00,0,0,4883,Curtis McKenzie,Harrison O’Pray,Jonathon Sitarski,,
+1028293,1,1st,8:10,380,TEX,10147,Kyle Looft,37,D,Slashing,2.00,1,0,10147,Kyle Looft,Harrison O’Pray,Jonathon Sitarski,,
+1028293,2,2nd,6:36,328,GR,10479,Ondrej Becher,25,C,Tripping,2.00,1,0,10479,Ondrej Becher,Harrison O’Pray,Jonathon Sitarski,,
+1028293,2,2nd,7:26,328,GR,4085,Austin Watson,51,RW,Cross-checking,2.00,1,0,4085,Austin Watson,Harrison O’Pray,Jonathon Sitarski,,

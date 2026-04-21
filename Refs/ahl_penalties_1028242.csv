@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028242,1,1st,4:12,328,GR,8927,Alex Kannok Leipert,41,D,Fighting,5.00,0,0,8927,Alex Kannok Leipert,Sean Fernandez,Kurtis Pare,,
+1028242,1,1st,4:12,327,MIL,6403,Andreas Englund,8,D,Fighting,5.00,0,0,6403,Andreas Englund,Sean Fernandez,Kurtis Pare,,
+1028242,1,1st,7:22,328,GR,7404,William Lagesson,37,D,Roughing,2.00,1,0,7404,William Lagesson,Sean Fernandez,Kurtis Pare,,
+1028242,1,1st,12:18,328,GR,6856,Sheldon Dries,15,C,Hooking,2.00,1,0,6856,Sheldon Dries,Sean Fernandez,Kurtis Pare,,
+1028242,2,2nd,12:57,328,GR,10479,Ondrej Becher,25,C,Cross-checking,2.00,1,0,10479,Ondrej Becher,Sean Fernandez,Kurtis Pare,,
+1028242,2,2nd,14:59,327,MIL,10554,Kalan Lind,48,LW,Cross-checking,2.00,1,0,10554,Kalan Lind,Sean Fernandez,Kurtis Pare,,
+1028242,3,3rd,10:59,327,MIL,8825,Kyle Marino,36,RW,Hooking,2.00,1,0,8825,Kyle Marino,Sean Fernandez,Kurtis Pare,,
+1028242,3,3rd,12:14,328,GR,6627,Dominik Shine,65,RW,Slashing,2.00,1,0,6627,Dominik Shine,Sean Fernandez,Kurtis Pare,,
+1028242,3,3rd,17:23,327,MIL,9631,Joakim Kemell,25,F,High-sticking,2.00,1,0,9631,Joakim Kemell,Sean Fernandez,Kurtis Pare,,

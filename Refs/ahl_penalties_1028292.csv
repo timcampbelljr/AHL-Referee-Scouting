@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028292,1,1st,2:42,404,SD,10506,Stian Solberg,7,D,Hooking,2.00,1,0,10506,Stian Solberg,Stephen Hiff,Tyler Spott,,
+1028292,1,1st,5:32,419,COL,9118,Wyatt Aamodt,5,D,Tripping,2.00,1,0,9118,Wyatt Aamodt,Stephen Hiff,Tyler Spott,,
+1028292,1,1st,10:13,404,SD,6442,Nikolas Brouillard,15,D,Hooking,2.00,1,0,6442,Nikolas Brouillard,Stephen Hiff,Tyler Spott,,
+1028292,1,1st,17:36,419,COL,9118,Wyatt Aamodt,5,D,Hooking,2.00,1,0,9118,Wyatt Aamodt,Stephen Hiff,Tyler Spott,,
+1028292,2,2nd,14:08,419,COL,10561,Taylor Makar,16,F,Tripping,2.00,1,0,10561,Taylor Makar,Stephen Hiff,Tyler Spott,,
+1028292,3,3rd,1:26,404,SD,5912,Roland McKeown,37,D,Cross-checking,2.00,1,0,5912,Roland McKeown,Stephen Hiff,Tyler Spott,,

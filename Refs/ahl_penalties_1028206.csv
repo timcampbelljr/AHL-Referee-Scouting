@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028206,1,1st,16:46,328,GR,10629,Michael Brandsegg-Nygård,28,RW,High-sticking,2.00,1,0,10629,Michael Brandsegg-Nygård,Jake Rekucki,Taylor Burzminski,,
+1028206,1,1st,19:05,373,CLE,10556,Guillaume Richard,26,D,Delay of game,2.00,1,0,10556,Guillaume Richard,Jake Rekucki,Taylor Burzminski,,
+1028206,2,2nd,17:50,328,GR,6627,Dominik Shine,65,RW,Hooking,2.00,1,0,6627,Dominik Shine,Jake Rekucki,Taylor Burzminski,,
+1028206,3,3rd,9:18,328,GR,10479,Ondrej Becher,25,C,Slashing,2.00,1,0,10479,Ondrej Becher,Jake Rekucki,Taylor Burzminski,,
+1028206,3,3rd,11:17,373,CLE,9978,James Malatesta,11,LW,Slashing,2.00,1,0,9978,James Malatesta,Jake Rekucki,Taylor Burzminski,,
+1028206,3,3rd,19:27,373,CLE,9058,Owen Sillinger,12,LW,High-sticking,2.00,1,0,9058,Owen Sillinger,Jake Rekucki,Taylor Burzminski,,

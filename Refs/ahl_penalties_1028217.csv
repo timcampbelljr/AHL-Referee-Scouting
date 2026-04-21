@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028217,1,1st,10:44,328,GR,6103,Erik Gustafsson,56,D,Tripping,2.00,1,0,6103,Erik Gustafsson,Jordan Deckard,Jarrod Ragusin,,
+1028217,1,1st,15:18,327,MIL,10832,Oasiz Wiesblatt,88,C,Roughing,2.00,1,0,10832,Oasiz Wiesblatt,Jordan Deckard,Jarrod Ragusin,,
+1028217,2,2nd,10:17,328,GR,4085,Austin Watson,51,RW,Fighting,5.00,0,0,4085,Austin Watson,Jordan Deckard,Jarrod Ragusin,,
+1028217,2,2nd,10:17,327,MIL,8825,Kyle Marino,36,RW,Fighting,5.00,0,0,8825,Kyle Marino,Jordan Deckard,Jarrod Ragusin,,
+1028217,2,2nd,12:47,327,MIL,9631,Joakim Kemell,25,F,Goaltender interference,2.00,1,0,9631,Joakim Kemell,Jordan Deckard,Jarrod Ragusin,,
+1028217,2,2nd,13:39,327,MIL,10554,Kalan Lind,48,LW,High-sticking,2.00,1,0,10554,Kalan Lind,Jordan Deckard,Jarrod Ragusin,,
+1028217,2,2nd,15:10,327,MIL,10554,Kalan Lind,48,LW,Fighting,5.00,0,0,10554,Kalan Lind,Jordan Deckard,Jarrod Ragusin,,
+1028217,2,2nd,15:10,328,GR,10108,Chad Hillebrand,26,LW,Roughing,2.00,1,0,10108,Chad Hillebrand,Jordan Deckard,Jarrod Ragusin,,
+1028217,2,2nd,15:10,328,GR,10108,Chad Hillebrand,26,LW,Fighting,5.00,0,0,10108,Chad Hillebrand,Jordan Deckard,Jarrod Ragusin,,
+1028217,2,2nd,15:39,328,GR,6627,Dominik Shine,65,RW,Tripping,2.00,1,0,6627,Dominik Shine,Jordan Deckard,Jarrod Ragusin,,
+1028217,3,3rd,10:00,327,MIL,5671,Daniel Carr,43,LW,Tripping,2.00,1,0,5671,Daniel Carr,Jordan Deckard,Jarrod Ragusin,,

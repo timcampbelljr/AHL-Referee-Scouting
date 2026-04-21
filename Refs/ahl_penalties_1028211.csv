@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028211,1,1st,1:56,404,SD,9197,Noah Warren,2,D,Hooking,2.00,1,0,9197,Noah Warren,Bobby Jo Love,Tatu Kunto,,
+1028211,1,1st,6:34,404,SD,10274,Yegor Sidorov,19,LW,Slashing,2.00,1,0,10274,Yegor Sidorov,Bobby Jo Love,Tatu Kunto,,
+1028211,1,1st,9:42,402,BAK,8890,Sam Poulin,8,C,Roughing,2.00,1,0,8890,Sam Poulin,Bobby Jo Love,Tatu Kunto,,
+1028211,1,1st,15:08,402,BAK,10879,Atro Leppanen,37,D,Holding,2.00,1,0,10879,Atro Leppanen,Bobby Jo Love,Tatu Kunto,,
+1028211,1,1st,16:10,404,SD,9185,Nathan Gaucher,17,C,Holding the stick,2.00,1,0,9185,Nathan Gaucher,Bobby Jo Love,Tatu Kunto,,
+1028211,1,1st,19:38,402,BAK,10874,Quinn Hutson,23,RW,High-sticking,2.00,1,0,10874,Quinn Hutson,Bobby Jo Love,Tatu Kunto,,
+1028211,2,2nd,2:42,402,BAK,10874,Quinn Hutson,23,RW,Slashing,2.00,1,0,10874,Quinn Hutson,Bobby Jo Love,Tatu Kunto,,
+1028211,2,2nd,7:47,402,BAK,10879,Atro Leppanen,37,D,Holding the stick,2.00,1,0,10879,Atro Leppanen,Bobby Jo Love,Tatu Kunto,,
+1028211,2,2nd,8:14,404,SD,6080,Justin Bailey,12,RW,Tripping,2.00,1,0,6080,Justin Bailey,Bobby Jo Love,Tatu Kunto,,
+1028211,2,2nd,16:58,402,BAK,10874,Quinn Hutson,23,RW,Slashing,2.00,1,0,10874,Quinn Hutson,Bobby Jo Love,Tatu Kunto,,
+1028211,3,3rd,16:59,404,SD,9194,Tristan Luneau,6,D,Delay of game,2.00,1,0,9194,Tristan Luneau,Bobby Jo Love,Tatu Kunto,,

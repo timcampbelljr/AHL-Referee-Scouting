@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028205,1,1st,6:04,419,COL,9683,Matthew Stienburg,36,F,Roughing,2.00,0,0,9683,Matthew Stienburg,Stephen Hiff,Sydney Harris,,
+1028205,1,1st,6:04,437,HSK,9279,Joe Fleming,50,F,Roughing,2.00,0,0,9279,Joe Fleming,Stephen Hiff,Sydney Harris,,
+1028205,1,1st,18:39,437,HSK,10680,Jackson Hallum,59,F,Tripping,2.00,1,0,10680,Jackson Hallum,Stephen Hiff,Sydney Harris,,
+1028205,2,2nd,7:07,419,COL,10163,Sean Behrens,2,D,Tripping,2.00,1,0,10163,Sean Behrens,Stephen Hiff,Sydney Harris,,
+1028205,2,2nd,7:56,419,COL,7090,Tye Felhaber,48,F,Holding,2.00,1,0,7090,Tye Felhaber,Stephen Hiff,Sydney Harris,,
+1028205,2,2nd,8:37,437,HSK,8448,Tanner Laczynski,28,F,Hooking,2.00,1,0,8448,Tanner Laczynski,Stephen Hiff,Sydney Harris,,
+1028205,2,2nd,13:37,437,HSK,7760,Jonas Røndbjerg,46,F,Roughing,2.00,0,0,7760,Jonas Røndbjerg,Stephen Hiff,Sydney Harris,,
+1028205,2,2nd,13:37,419,COL,9683,Matthew Stienburg,36,F,Roughing,2.00,0,0,9683,Matthew Stienburg,Stephen Hiff,Sydney Harris,,
+1028205,3,3rd,13:55,419,COL,8929,Tristen Nielsen,57,F,High-sticking,2.00,1,0,8929,Tristen Nielsen,Stephen Hiff,Sydney Harris,,

@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028255,1,1st,0:32,328,GR,4085,Austin Watson,51,RW,Slashing,2.00,1,0,4085,Austin Watson,Tyler Spott,Simon Desbiens,,
+1028255,1,1st,2:30,330,CHI,10882,Ivan Ryabkin,27,C,High-sticking,2.00,1,0,10882,Ivan Ryabkin,Tyler Spott,Simon Desbiens,,
+1028255,1,1st,11:35,328,GR,9672,William Wallinder,22,D,High-sticking,2.00,1,0,9672,William Wallinder,Tyler Spott,Simon Desbiens,,
+1028255,2,2nd,5:53,328,GR,10108,Chad Hillebrand,26,LW,Holding the stick,2.00,1,0,10108,Chad Hillebrand,Tyler Spott,Simon Desbiens,,
+1028255,2,2nd,9:13,330,CHI,9807,Evan Vierling,41,LW,Holding,2.00,1,0,9807,Evan Vierling,Tyler Spott,Simon Desbiens,,
+1028255,2,2nd,19:17,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Tripping,2.00,1,0,10629,Michael Brandsegg-Nygård,Tyler Spott,Simon Desbiens,,
+1028255,3,3rd,18:38,328,GR,6627,Dominik Shine,65,RW,Roughing,2.00,1,0,6627,Dominik Shine,Tyler Spott,Simon Desbiens,,
+1028255,OT,OT,2:24,328,GR,10453,Jakub Rychlovský,81,LW,Goaltender interference,2.00,1,0,10453,Jakub Rychlovský,Tyler Spott,Simon Desbiens,,
+1028255,OT,OT,5:00,328,GR,6103,Erik Gustafsson,56,D,Fighting,5.00,0,0,6103,Erik Gustafsson,Tyler Spott,Simon Desbiens,,
+1028255,OT,OT,5:00,328,GR,6103,Erik Gustafsson,56,D,Game misconduct - Instigator (last 5:00),10.00,0,0,6103,Erik Gustafsson,Tyler Spott,Simon Desbiens,,
+1028255,OT,OT,5:00,328,GR,6103,Erik Gustafsson,56,D,Instigating,2.00,0,0,6103,Erik Gustafsson,Tyler Spott,Simon Desbiens,,

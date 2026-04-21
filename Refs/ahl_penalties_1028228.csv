@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028228,1,1st,18:54,324,SYR,9079,Tommy Miller,8,D,Roughing,2.00,1,0,9079,Tommy Miller,Jack Young,Tyler Spott,,
+1028228,2,2nd,7:44,415,LAV,9093,Lucas Condotta,42,LW,Holding,2.00,1,0,9093,Lucas Condotta,Jack Young,Tyler Spott,,
+1028228,2,2nd,10:22,415,LAV,8689,Nate Clurman,5,D,Interference,2.00,1,0,8689,Nate Clurman,Jack Young,Tyler Spott,,
+1028228,2,2nd,13:42,324,SYR,4666,Jarred Tinordi,28,D,Interference,2.00,1,0,4666,Jarred Tinordi,Jack Young,Tyler Spott,,

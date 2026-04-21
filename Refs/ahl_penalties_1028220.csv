@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028220,1,1st,12:29,403,ONT,10199,Jakub Dvořák,55,D,Holding,2.00,1,0,10199,Jakub Dvořák,Mike Campbell,Harrison O’Pray,,
+1028220,2,2nd,4:21,405,SJ,10231,Kasper Halttunen,14,F,Fighting,5.00,0,0,10231,Kasper Halttunen,Mike Campbell,Harrison O’Pray,,
+1028220,2,2nd,4:21,403,ONT,10199,Jakub Dvořák,55,D,Fighting,5.00,0,0,10199,Jakub Dvořák,Mike Campbell,Harrison O’Pray,,
+1028220,2,2nd,4:21,403,ONT,10199,Jakub Dvořák,55,D,Roughing,2.00,1,0,9241,Aatu Jämsen,Mike Campbell,Harrison O’Pray,,
+1028220,2,2nd,9:06,405,SJ,6669,Colin White,16,C,Cross-checking,2.00,1,0,6669,Colin White,Mike Campbell,Harrison O’Pray,,
+1028220,3,3rd,8:08,405,SJ,8914,Egor Afanasyev,11,LW,Interference,2.00,1,0,8914,Egor Afanasyev,Mike Campbell,Harrison O’Pray,,
+1028220,3,3rd,13:36,403,ONT,10705,Kenny Connors,17,F,Interference,2.00,1,0,10705,Kenny Connors,Mike Campbell,Harrison O’Pray,,
+1028220,3,3rd,13:59,403,ONT,6784,Glenn Gawdin,21,F,Roughing,2.00,0,0,6784,Glenn Gawdin,Mike Campbell,Harrison O’Pray,,
+1028220,3,3rd,13:59,405,SJ,9190,Pavol Regenda,84,LW,Roughing,2.00,0,0,9190,Pavol Regenda,Mike Campbell,Harrison O’Pray,,
+1028220,3,3rd,20:00,405,SJ,9177,Braden Hache,86,D,Slashing,2.00,0,0,9177,Braden Hache,Mike Campbell,Harrison O’Pray,,
+1028220,3,3rd,20:00,403,ONT,9081,Andre Lee,26,F,Unsportsmanlike conduct,2.00,0,0,9081,Andre Lee,Mike Campbell,Harrison O’Pray,,

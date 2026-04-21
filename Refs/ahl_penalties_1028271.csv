@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028271,2,2nd,2:17,380,TEX,9964,Kyle McDonald,25,RW,Tripping,2.00,1,0,9964,Kyle McDonald,Austin Rook,Mike Campbell,,
+1028271,2,2nd,13:06,327,MIL,9631,Joakim Kemell,25,F,Tripping,2.00,1,0,9631,Joakim Kemell,Austin Rook,Mike Campbell,,
+1028271,2,2nd,18:52,327,MIL,10554,Kalan Lind,48,LW,Interference,2.00,0,0,10554,Kalan Lind,Austin Rook,Mike Campbell,,
+1028271,2,2nd,18:52,380,TEX,4883,Curtis McKenzie,16,F,Roughing,2.00,0,0,4883,Curtis McKenzie,Austin Rook,Mike Campbell,,
+1028271,3,3rd,1:46,327,MIL,10185,Andrew Gibson,6,D,Slashing,2.00,1,0,10185,Andrew Gibson,Austin Rook,Mike Campbell,,
+1028271,3,3rd,11:29,380,TEX,10135,Tristan Bertucci,3,D,Roughing,2.00,1,0,10135,Tristan Bertucci,Austin Rook,Mike Campbell,,

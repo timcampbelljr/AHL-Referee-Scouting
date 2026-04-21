@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028209,1,1st,2:28,316,WBS,10504,Chase Pietila,44,D,Tripping,2.00,1,0,10504,Chase Pietila,Ben Betker,Koletrane Wilson,,
+1028209,1,1st,4:06,319,HER,10187,Zac Funk,14,LW,Tripping,2.00,1,0,10187,Zac Funk,Ben Betker,Koletrane Wilson,,
+1028209,2,2nd,7:58,319,HER,4604,Dalton Smith,37,LW,Cross-checking,2.00,1,0,4604,Dalton Smith,Ben Betker,Koletrane Wilson,,
+1028209,2,2nd,13:57,316,WBS,10504,Chase Pietila,44,D,Tripping,2.00,1,0,10504,Chase Pietila,Ben Betker,Koletrane Wilson,,
+1028209,2,2nd,19:45,319,HER,10866,Eriks Mateiko,13,C,Slashing,2.00,1,0,10866,Eriks Mateiko,Ben Betker,Koletrane Wilson,,
+1028209,3,3rd,10:26,316,WBS,8664,Phil Kemp,52,D,Tripping,2.00,1,0,8664,Phil Kemp,Ben Betker,Koletrane Wilson,,
+1028209,3,3rd,17:51,319,HER,6910,Spencer Smallman,11,C,Slashing,2.00,1,0,6910,Spencer Smallman,Ben Betker,Koletrane Wilson,,

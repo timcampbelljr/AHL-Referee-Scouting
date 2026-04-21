@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028278,1,1st,2:58,380,TEX,10451,Justin Ertel,10,LW,Hooking,2.00,1,0,10451,Justin Ertel,Austin Rook,Mike Campbell,,
+1028278,1,1st,6:26,380,TEX,7101,Kole Lind,17,F,Tripping,2.00,1,0,7101,Kole Lind,Austin Rook,Mike Campbell,,
+1028278,1,1st,11:21,380,TEX,10555,Harrison Scott,11,F,Tripping,2.00,1,0,10555,Harrison Scott,Austin Rook,Mike Campbell,,
+1028278,2,2nd,9:32,327,MIL,10185,Andrew Gibson,6,D,Hooking,2.00,1,0,10185,Andrew Gibson,Austin Rook,Mike Campbell,,
+1028278,3,3rd,2:12,380,TEX,9548,Cross Hanas,32,F,Holding,2.00,1,0,9548,Cross Hanas,Austin Rook,Mike Campbell,,
+1028278,3,3rd,7:20,380,TEX,10135,Tristan Bertucci,3,D,Holding,2.00,1,0,10135,Tristan Bertucci,Austin Rook,Mike Campbell,,
