@@ -511,23 +511,19 @@ def build_summary(df: pd.DataFrame):
         body  = _median_per_game(grp, "Rough|Fight|Cross|Charg|Board")
         misc  = _median_per_game(grp, "Misc|Unsport|Instig|Conduct")
         trap  = _median_per_game(grp, "Trip|Hold|Obstruct")
-        # P3/P1: avoid groupby.apply scalar issues in pandas 2.2+
-        # Explicitly count P1 and P3 penalties per game, then compute ratio per game
-        period_counts = (
-            grp.groupby(["game_id", "period"])
-            .size()
-            .unstack(fill_value=0)
-        )
-        p1_col = 1 if 1 in period_counts.columns else None
-        p3_col = 3 if 3 in period_counts.columns else None
-        if p1_col is not None and p3_col is not None:
-            p1_series = period_counts[p1_col]
-            p3_series = period_counts[p3_col]
-            valid = p1_series > 0
-            ratios = (p3_series[valid] / p1_series[valid]).dropna()
-            p3_ratio = round(float(ratios.median()), 3) if len(ratios) > 0 else 1.000
-        else:
-            p3_ratio = 1.000  # Default if period data missing
+        # P3/P1: count P1 and P3 per game directly, ratio per game, then median
+        # Force period to int to avoid str/float dtype mismatches from CSV loading
+        grp_p = grp.copy()
+        grp_p["_period_int"] = pd.to_numeric(grp_p["period"], errors="coerce")
+        p1_per_game = grp_p[grp_p["_period_int"] == 1].groupby("game_id").size()
+        p3_per_game = grp_p[grp_p["_period_int"] == 3].groupby("game_id").size()
+        # Align on game_id, fill missing periods with 0
+        all_games   = grp_p["game_id"].unique()
+        p1_per_game = p1_per_game.reindex(all_games, fill_value=0)
+        p3_per_game = p3_per_game.reindex(all_games, fill_value=0)
+        valid       = p1_per_game > 0
+        ratios      = (p3_per_game[valid] / p1_per_game[valid]).dropna()
+        p3_ratio    = round(float(ratios.median()), 3) if len(ratios) > 0 else 1.000
 
         rows.append({
             "ref":            ref_name,
