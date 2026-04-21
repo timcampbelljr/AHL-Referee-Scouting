@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028573,1,1st,13:18,444,CGY,9727,Artem Grushnikov,3,D,Tripping,2.00,1,0,9727,Artem Grushnikov,Bobby Jo Love,Jacob Hicks,,
+1028573,2,2nd,16:45,405,SJ,9153,Nolan Allan,7,D,High-sticking,2.00,1,0,9153,Nolan Allan,Bobby Jo Love,Jacob Hicks,,
+1028573,3,3rd,6:31,405,SJ,7897,Jimmy Huntington,40,F,Hooking,2.00,1,0,7897,Jimmy Huntington,Bobby Jo Love,Jacob Hicks,,

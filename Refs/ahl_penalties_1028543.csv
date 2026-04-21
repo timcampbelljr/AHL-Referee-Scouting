@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028543,1,1st,19:39,328,GR,6627,Dominik Shine,65,F,Slashing,2.00,1,0,6627,Dominik Shine,Adam Tobias,Mathieu Menniti,,
+1028543,2,2nd,8:18,330,CHI,10466,Gleb Trikozov,98,RW,High-sticking,2.00,1,0,10466,Gleb Trikozov,Adam Tobias,Mathieu Menniti,,
+1028543,2,2nd,17:28,328,GR,10629,Michael Brandsegg-Nygård,28,RW,High-sticking,2.00,1,0,10629,Michael Brandsegg-Nygård,Adam Tobias,Mathieu Menniti,,
+1028543,3,3rd,3:35,330,CHI,10466,Gleb Trikozov,98,RW,Interference,2.00,1,0,10466,Gleb Trikozov,Adam Tobias,Mathieu Menniti,,
+1028543,3,3rd,9:59,328,GR,10453,Jakub Rychlovský,81,LW,Hooking,2.00,1,0,10453,Jakub Rychlovský,Adam Tobias,Mathieu Menniti,,
+1028543,3,3rd,13:50,330,CHI,7605,Noah Philp,12,C,Delay of game,2.00,1,0,7605,Noah Philp,Adam Tobias,Mathieu Menniti,,

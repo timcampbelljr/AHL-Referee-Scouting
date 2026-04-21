@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028597,1,1st,8:14,389,IA,9799,Bradley Marek,10,F,Fighting,5.00,0,0,9799,Bradley Marek,Riley Brace,Kurtis Pare,,
+1028597,1,1st,8:14,389,IA,10917,Rasmus Kumpulainen,95,F,Boarding,2.00,1,0,10917,Rasmus Kumpulainen,Riley Brace,Kurtis Pare,,
+1028597,1,1st,8:14,328,GR,8927,Alex Kannok Leipert,41,D,Fighting,5.00,0,0,8927,Alex Kannok Leipert,Riley Brace,Kurtis Pare,,
+1028597,1,1st,18:01,389,IA,10917,Rasmus Kumpulainen,95,F,Hooking,2.00,1,0,10917,Rasmus Kumpulainen,Riley Brace,Kurtis Pare,,
+1028597,2,2nd,0:16,328,GR,10008,Alex Doucet,47,LW,Hooking,2.00,1,0,10008,Alex Doucet,Riley Brace,Kurtis Pare,,
+1028597,3,3rd,8:03,389,IA,9154,Oskar Olausson,24,F,Roughing,2.00,0,0,9154,Oskar Olausson,Riley Brace,Kurtis Pare,,
+1028597,3,3rd,8:03,328,GR,9973,Antti Tuomisto,4,D,Slashing,2.00,0,0,9973,Antti Tuomisto,Riley Brace,Kurtis Pare,,
+1028597,3,3rd,11:09,328,GR,10476,Carson Bantle,21,LW,Roughing,2.00,1,0,10476,Carson Bantle,Riley Brace,Kurtis Pare,,

@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028533,1,1st,3:40,380,TEX,10535,Trey Taylor,2,D,Hooking,2.00,1,0,10535,Trey Taylor,Shaun Davis,Rocco Stachowiak,,
+1028533,1,1st,9:36,327,MIL,9874,Zach L’Heureux,68,LW,Interference,2.00,1,0,9874,Zach L’Heureux,Shaun Davis,Rocco Stachowiak,,
+1028533,1,1st,15:47,327,MIL,7121,Isaac Ratcliffe,15,LW,Tripping,2.00,1,0,7121,Isaac Ratcliffe,Shaun Davis,Rocco Stachowiak,,
+1028533,1,1st,19:15,380,TEX,7016,Cameron Hughes,19,F,Holding,2.00,1,0,7016,Cameron Hughes,Shaun Davis,Rocco Stachowiak,,
+1028533,2,2nd,2:37,327,MIL,9664,Josh Davies,10,LW,High-sticking,2.00,1,0,9664,Josh Davies,Shaun Davis,Rocco Stachowiak,,
+1028533,3,3rd,5:53,327,MIL,7121,Isaac Ratcliffe,15,LW,Interference,2.00,1,0,7121,Isaac Ratcliffe,Shaun Davis,Rocco Stachowiak,,
+1028533,3,3rd,7:05,380,TEX,10135,Tristan Bertucci,3,D,Hooking,2.00,1,0,10135,Tristan Bertucci,Shaun Davis,Rocco Stachowiak,,

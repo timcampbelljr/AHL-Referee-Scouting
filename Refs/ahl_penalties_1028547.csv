@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028547,1,1st,12:19,380,TEX,10527,Sean Chisholm,21,F,Tripping,2.00,1,0,10527,Sean Chisholm,Morgan MacPhee,Ibrahim Arifi,,
+1028547,2,2nd,0:52,327,MIL,10185,Andrew Gibson,6,D,High-sticking,2.00,1,0,10185,Andrew Gibson,Morgan MacPhee,Ibrahim Arifi,,
+1028547,2,2nd,7:21,327,MIL,10185,Andrew Gibson,6,D,Holding,2.00,1,0,10185,Andrew Gibson,Morgan MacPhee,Ibrahim Arifi,,
+1028547,2,2nd,19:09,380,TEX,10044,Luke Krys,4,D,Double minor - High-sticking,4.00,1,0,10044,Luke Krys,Morgan MacPhee,Ibrahim Arifi,,
+1028547,3,3rd,9:51,327,MIL,9874,Zach L’Heureux,68,LW,Interference,2.00,1,0,9874,Zach L’Heureux,Morgan MacPhee,Ibrahim Arifi,,
+1028547,3,3rd,13:58,327,MIL,9876,Reid Schaefer,49,LW,Cross-checking,2.00,1,0,9876,Reid Schaefer,Morgan MacPhee,Ibrahim Arifi,,

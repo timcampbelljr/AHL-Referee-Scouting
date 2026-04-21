@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028540,1,1st,2:11,402,BAK,10879,Atro Leppanen,37,D,Tripping,2.00,1,0,10879,Atro Leppanen,Damian Figueira,Tatu Kunto,,
+1028540,1,1st,7:05,402,BAK,7352,Riley Stillman,61,D,High-sticking,2.00,1,0,7352,Riley Stillman,Damian Figueira,Tatu Kunto,,
+1028540,2,2nd,11:40,444,CGY,10170,Hunter Brzustewicz,48,D,Roughing,2.00,0,0,10170,Hunter Brzustewicz,Damian Figueira,Tatu Kunto,,
+1028540,2,2nd,11:40,402,BAK,10874,Quinn Hutson,23,RW,Boarding,2.00,0,0,10933,Isaac Howard,Damian Figueira,Tatu Kunto,,
+1028540,2,2nd,11:40,402,BAK,10874,Quinn Hutson,23,RW,Roughing,2.00,1,0,10874,Quinn Hutson,Damian Figueira,Tatu Kunto,,
+1028540,2,2nd,16:35,444,CGY,8617,Rory Kerins,6,C,Tripping,2.00,1,0,8617,Rory Kerins,Damian Figueira,Tatu Kunto,,
+1028540,3,3rd,1:04,444,CGY,8729,Daniil Miromanov,26,D,High-sticking,2.00,1,0,8729,Daniil Miromanov,Damian Figueira,Tatu Kunto,,
+1028540,3,3rd,11:56,444,CGY,6426,Justin Kirkland,23,C,Elbowing,2.00,1,0,6426,Justin Kirkland,Damian Figueira,Tatu Kunto,,

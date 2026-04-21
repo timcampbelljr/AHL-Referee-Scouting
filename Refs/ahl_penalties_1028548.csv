@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028548,1,1st,5:46,309,PRO,9524,Fabian Lysell,22,RW,Holding,2.00,1,0,9524,Fabian Lysell,Ben Betker,Alex Gagné,,
+1028548,2,2nd,7:44,309,PRO,10584,Dalton Bancroft,17,RW,Fighting,5.00,0,0,10584,Dalton Bancroft,Ben Betker,Alex Gagné,,
+1028548,2,2nd,7:44,413,BEL,9906,Djibril Touré,44,D,Fighting,5.00,0,0,9906,Djibril Touré,Ben Betker,Alex Gagné,,
+1028548,2,2nd,7:44,413,BEL,9906,Djibril Touré,44,D,Interference,2.00,1,0,7677,Arthur Kaliyev,Ben Betker,Alex Gagné,,
+1028548,2,2nd,13:20,413,BEL,9684,Mark Duarte,8,RW,Roughing,2.00,0,0,9684,Mark Duarte,Ben Betker,Alex Gagné,,
+1028548,2,2nd,13:20,309,PRO,7378,Christian Wolanin,86,D,Roughing,2.00,0,0,7378,Christian Wolanin,Ben Betker,Alex Gagné,,
+1028548,3,3rd,12:08,413,BEL,10016,Oskar Pettersson,32,C,Tripping,2.00,1,0,10016,Oskar Pettersson,Ben Betker,Alex Gagné,,
+1028548,3,3rd,18:47,309,PRO,9945,Max Wanner,13,D,Tripping,2.00,1,0,9945,Max Wanner,Ben Betker,Alex Gagné,,

@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028513,1,1st,0:16,323,ROC,10436,Vsevolod Komarov,83,D,Delay of game,2.00,1,0,10436,Vsevolod Komarov,Beau Halkidis,Tyler Hascall,,
+1028513,1,1st,3:32,323,ROC,9643,Jagger Joshua,8,LW,Interference,2.00,1,0,9643,Jagger Joshua,Beau Halkidis,Tyler Hascall,,
+1028513,2,2nd,5:17,390,UTC,6734,Dennis Cholowski,4,D,Tripping,2.00,1,0,6734,Dennis Cholowski,Beau Halkidis,Tyler Hascall,,
+1028513,2,2nd,16:03,390,UTC,10442,Mikaël Diotte,58,D,Delay of game,2.00,1,0,10442,Mikaël Diotte,Beau Halkidis,Tyler Hascall,,
+1028513,2,2nd,17:18,390,UTC,10529,Ethan Edwards,73,D,Holding,2.00,1,0,10529,Ethan Edwards,Beau Halkidis,Tyler Hascall,,
+1028513,3,3rd,1:39,390,UTC,0,None None,0,,Abuse of officials - Bench minor,2.00,1,1,10158,Jack Malone,Beau Halkidis,Tyler Hascall,,
+1028513,3,3rd,1:39,0,,0,None None,0,,Game misconduct - Abuse of officials,10.00,0,1,0,None None,Beau Halkidis,Tyler Hascall,,
+1028513,3,3rd,1:39,390,UTC,10815,Matyas Melovsky,21,F,Major - Interference,5.00,1,0,10621,Cam Squires,Beau Halkidis,Tyler Hascall,,
+1028513,3,3rd,1:39,390,UTC,10815,Matyas Melovsky,21,F,Game misconduct - Interference,10.00,0,0,10815,Matyas Melovsky,Beau Halkidis,Tyler Hascall,,
+1028513,3,3rd,17:48,323,ROC,5475,Mason Geertsen,4,LW,Fighting,5.00,0,0,5475,Mason Geertsen,Beau Halkidis,Tyler Hascall,,
+1028513,3,3rd,17:48,323,ROC,5475,Mason Geertsen,4,LW,Roughing,2.00,1,0,9761,Olivier Nadeau,Beau Halkidis,Tyler Hascall,,
+1028513,3,3rd,17:48,390,UTC,7608,Jonathan Gruden,14,C,Fighting,5.00,0,0,7608,Jonathan Gruden,Beau Halkidis,Tyler Hascall,,

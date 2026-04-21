@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028574,1,1st,2:20,402,BAK,7663,Alec Regula,75,D,Boarding,2.00,1,0,7663,Alec Regula,Hayden Verbeek,Mike Dietrich,,
+1028574,1,1st,3:43,419,COL,9118,Wyatt Aamodt,5,D,Goaltender interference,2.00,1,0,9118,Wyatt Aamodt,Hayden Verbeek,Mike Dietrich,,
+1028574,1,1st,17:53,402,BAK,5080,Seth Griffith,39,RW,Slashing,2.00,1,0,5080,Seth Griffith,Hayden Verbeek,Mike Dietrich,,
+1028574,1,1st,19:32,419,COL,5540,T.J. Tynan,9,F,Diving/Embellishment,2.00,0,0,5540,T.J. Tynan,Hayden Verbeek,Mike Dietrich,,
+1028574,1,1st,19:32,402,BAK,8485,James Hamblin,52,C,Cross-checking,2.00,0,0,8485,James Hamblin,Hayden Verbeek,Mike Dietrich,,
+1028574,2,2nd,8:40,402,BAK,6780,Max Jones,46,LW,Interference,2.00,1,0,6780,Max Jones,Hayden Verbeek,Mike Dietrich,,
+1028574,3,3rd,3:11,419,COL,10561,Taylor Makar,16,F,Interference,2.00,1,0,10561,Taylor Makar,Hayden Verbeek,Mike Dietrich,,
+1028574,3,3rd,4:35,402,BAK,10877,Josh Samanski,81,C,Hooking,2.00,1,0,10877,Josh Samanski,Hayden Verbeek,Mike Dietrich,,
+1028574,3,3rd,11:36,402,BAK,5080,Seth Griffith,39,RW,Roughing,2.00,1,0,5080,Seth Griffith,Hayden Verbeek,Mike Dietrich,,
+1028574,3,3rd,13:39,419,COL,7090,Tye Felhaber,48,F,Roughing,2.00,0,0,7090,Tye Felhaber,Hayden Verbeek,Mike Dietrich,,
+1028574,3,3rd,13:39,419,COL,7090,Tye Felhaber,48,F,Slashing,2.00,1,0,10161,Maroš Jedlička,Hayden Verbeek,Mike Dietrich,,
+1028574,3,3rd,13:39,402,BAK,7663,Alec Regula,75,D,Roughing,2.00,0,0,7663,Alec Regula,Hayden Verbeek,Mike Dietrich,,

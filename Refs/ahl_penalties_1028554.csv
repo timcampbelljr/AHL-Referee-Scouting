@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028554,1,1st,12:44,445,CV,5471,Gustav Olofsson,23,D,Hooking,2.00,1,0,5471,Gustav Olofsson,Beau Halkidis,Austin Rook,,
+1028554,1,1st,15:35,419,COL,10561,Taylor Makar,16,F,Slashing,2.00,0,0,10561,Taylor Makar,Beau Halkidis,Austin Rook,,
+1028554,1,1st,15:35,445,CV,10186,Nikke Kokko,35,G,Roughing,2.00,0,0,10127,Jani Nyman,Beau Halkidis,Austin Rook,,
+1028554,2,2nd,3:47,445,CV,9764,Ty Nelson,24,D,Cross-checking,2.00,1,0,9764,Ty Nelson,Beau Halkidis,Austin Rook,,
+1028554,2,2nd,5:37,445,CV,5471,Gustav Olofsson,23,D,High-sticking,2.00,1,0,5471,Gustav Olofsson,Beau Halkidis,Austin Rook,,
+1028554,2,2nd,14:26,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,0,0,8625,Ian McKinnon,Beau Halkidis,Austin Rook,,
+1028554,2,2nd,14:26,419,COL,9677,Jason Polin,14,F,Roughing,2.00,0,0,9677,Jason Polin,Beau Halkidis,Austin Rook,,
+1028554,3,3rd,5:38,419,COL,10561,Taylor Makar,16,F,Interference,2.00,1,0,10561,Taylor Makar,Beau Halkidis,Austin Rook,,
+1028554,3,3rd,14:00,445,CV,5471,Gustav Olofsson,23,D,Cross-checking,2.00,1,0,5471,Gustav Olofsson,Beau Halkidis,Austin Rook,,

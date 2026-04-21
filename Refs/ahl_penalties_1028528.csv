@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028528,1,1st,14:31,415,LAV,10139,Florian Xhekaj,63,C,Unsportsmanlike conduct,2.00,0,0,10139,Florian Xhekaj,Morgan MacPhee,Brendan Schreider,,
+1028528,1,1st,14:31,415,LAV,5970,Samuel Blais,19,LW,Roughing,2.00,1,0,5970,Samuel Blais,Morgan MacPhee,Brendan Schreider,,
+1028528,1,1st,14:31,335,TOR,9023,Marc Johnstone,57,RW,Unsportsmanlike conduct,2.00,0,0,9023,Marc Johnstone,Morgan MacPhee,Brendan Schreider,,
+1028528,2,2nd,0:11,415,LAV,10139,Florian Xhekaj,63,C,Fighting,5.00,0,0,10139,Florian Xhekaj,Morgan MacPhee,Brendan Schreider,,
+1028528,2,2nd,0:11,335,TOR,9023,Marc Johnstone,57,RW,Fighting,5.00,0,0,9023,Marc Johnstone,Morgan MacPhee,Brendan Schreider,,
+1028528,2,2nd,13:46,335,TOR,10091,Jacob Quillan,26,C,Goaltender interference,2.00,1,0,10091,Jacob Quillan,Morgan MacPhee,Brendan Schreider,,
+1028528,3,3rd,2:23,335,TOR,10613,Borya Valis,39,F,Tripping,2.00,1,0,10613,Borya Valis,Morgan MacPhee,Brendan Schreider,,
+1028528,3,3rd,16:22,415,LAV,9182,Joshua Roy,10,LW,Misconduct - Abuse of officials,10.00,0,0,9182,Joshua Roy,Morgan MacPhee,Brendan Schreider,,
+1028528,3,3rd,16:22,415,LAV,9182,Joshua Roy,10,LW,Tripping,2.00,1,0,4830,Vincent Arseneau,Morgan MacPhee,Brendan Schreider,,
+1028528,3,3rd,16:30,335,TOR,7693,Benoit-Olivier Groulx,29,C,Slashing,2.00,0,0,7693,Benoit-Olivier Groulx,Morgan MacPhee,Brendan Schreider,,
+1028528,3,3rd,16:30,415,LAV,10036,David Reinbacher,64,D,Diving/Embellishment,2.00,0,0,10036,David Reinbacher,Morgan MacPhee,Brendan Schreider,,
+1028528,3,3rd,18:18,0,,0,None None,0,,Game misconduct - Abuse of officials,10.00,0,1,0,None None,Morgan MacPhee,Brendan Schreider,,

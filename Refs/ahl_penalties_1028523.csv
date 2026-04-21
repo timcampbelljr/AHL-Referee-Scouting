@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028523,1,1st,4:47,405,SJ,10100,Lucas Vanroboys,67,F,Roughing,2.00,1,0,10100,Lucas Vanroboys,Liam Maaskant,Jordan Deckard,,
+1028523,1,1st,7:44,405,SJ,9808,Kyle Crnkovic,90,F,Hooking,2.00,1,0,9808,Kyle Crnkovic,Liam Maaskant,Jordan Deckard,,
+1028523,1,1st,11:39,437,HSK,9272,Ben Hemmerling,63,F,High-sticking,2.00,1,0,9272,Ben Hemmerling,Liam Maaskant,Jordan Deckard,,
+1028523,2,2nd,6:40,437,HSK,7028,Mitch McLain,75,F,Interference,2.00,1,0,7028,Mitch McLain,Liam Maaskant,Jordan Deckard,,
+1028523,3,3rd,12:52,405,SJ,10100,Lucas Vanroboys,67,F,Holding,2.00,0,0,10100,Lucas Vanroboys,Liam Maaskant,Jordan Deckard,,
+1028523,3,3rd,12:52,437,HSK,8448,Tanner Laczynski,28,F,Roughing,2.00,0,0,8448,Tanner Laczynski,Liam Maaskant,Jordan Deckard,,
+1028523,3,3rd,14:26,437,HSK,10280,Tuomas Uronen,37,F,Tripping,2.00,1,0,10280,Tuomas Uronen,Liam Maaskant,Jordan Deckard,,
+1028523,3,3rd,16:20,405,SJ,10100,Lucas Vanroboys,67,F,Slashing,2.00,1,0,10100,Lucas Vanroboys,Liam Maaskant,Jordan Deckard,,

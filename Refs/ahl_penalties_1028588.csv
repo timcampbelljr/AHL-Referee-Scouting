@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028588,1,1st,9:13,328,GR,9973,Antti Tuomisto,4,D,Slashing,2.00,1,0,9973,Antti Tuomisto,Riley Brace,Kurtis Pare,,
+1028588,1,1st,19:23,389,IA,10067,Jack Peart,3,D,Hooking,2.00,1,0,10067,Jack Peart,Riley Brace,Kurtis Pare,,
+1028588,3,3rd,1:37,389,IA,9154,Oskar Olausson,24,F,Slashing,2.00,1,0,9154,Oskar Olausson,Riley Brace,Kurtis Pare,,
+1028588,3,3rd,13:10,389,IA,9856,Carson Lambos,7,D,Holding,2.00,1,0,9856,Carson Lambos,Riley Brace,Kurtis Pare,,
+1028588,3,3rd,14:11,389,IA,9545,David Jiříček,55,D,High-sticking,2.00,1,0,9545,David Jiříček,Riley Brace,Kurtis Pare,,
+1028588,3,3rd,17:50,389,IA,6779,Boris Katchouk,61,LW,Interference,2.00,1,0,6779,Boris Katchouk,Riley Brace,Kurtis Pare,,

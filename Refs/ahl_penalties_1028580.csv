@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028580,1,1st,17:30,328,GR,9718,Amadeus Lombardi,93,C,High-sticking,2.00,1,0,9718,Amadeus Lombardi,Jake Rekucki,Rocco Stachowiak,,
+1028580,2,2nd,0:27,321,MB,7113,Mason Shaw,18,RW,Holding,2.00,1,0,7113,Mason Shaw,Jake Rekucki,Rocco Stachowiak,,
+1028580,2,2nd,5:00,321,MB,8454,Dawson Barteaux,4,D,Delay of game,2.00,1,0,8454,Dawson Barteaux,Jake Rekucki,Rocco Stachowiak,,
+1028580,2,2nd,11:46,321,MB,8424,Isaak Phillips,3,D,Holding,2.00,1,0,8424,Isaak Phillips,Jake Rekucki,Rocco Stachowiak,,
+1028580,2,2nd,15:10,328,GR,6627,Dominik Shine,65,F,Major - Boarding,5.00,1,0,6627,Dominik Shine,Jake Rekucki,Rocco Stachowiak,,
+1028580,OT,OT,1:03,321,MB,0,None None,0,,Too many men - Bench minor,2.00,1,1,9557,Brad Lambert,Jake Rekucki,Rocco Stachowiak,,

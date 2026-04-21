@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028517,2,2nd,5:19,445,CV,9755,Jagger Firkus,57,F,Hooking,2.00,1,0,9755,Jagger Firkus,Alex Lepkowski,Jackson Kozari,,
+1028517,2,2nd,12:59,412,TUC,8740,Montana Onyebuchi,79,D,Tripping,2.00,1,0,8740,Montana Onyebuchi,Alex Lepkowski,Jackson Kozari,,
+1028517,3,3rd,13:24,445,CV,9029,Zach Uens,7,D,Hooking,2.00,1,0,9029,Zach Uens,Alex Lepkowski,Jackson Kozari,,

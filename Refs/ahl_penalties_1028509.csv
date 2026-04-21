@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028509,1,1st,6:10,444,CGY,10170,Hunter Brzustewicz,48,D,Interference,2.00,1,0,10170,Hunter Brzustewicz,Hayden Verbeek,Chad Ingalls,,
+1028509,2,2nd,14:22,444,CGY,7099,Turner Ottenbreit,2,D,Tripping,2.00,1,0,7099,Turner Ottenbreit,Hayden Verbeek,Chad Ingalls,,
+1028509,2,2nd,15:36,321,MB,8706,Walker Duehr,7,RW,Interference,2.00,1,0,8706,Walker Duehr,Hayden Verbeek,Chad Ingalls,,
+1028509,2,2nd,17:21,444,CGY,10923,Matvei Gridin,18,LW,Tripping,2.00,1,0,10923,Matvei Gridin,Hayden Verbeek,Chad Ingalls,,
+1028509,3,3rd,4:12,321,MB,7777,David Gustafsson,27,C,High-sticking,2.00,1,0,7777,David Gustafsson,Hayden Verbeek,Chad Ingalls,,
+1028509,3,3rd,17:08,321,MB,9555,Tyrel Bauer,2,D,Cross-checking,2.00,1,0,9555,Tyrel Bauer,Hayden Verbeek,Chad Ingalls,,

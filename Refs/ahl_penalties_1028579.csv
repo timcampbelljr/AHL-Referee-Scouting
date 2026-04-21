@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028579,1,1st,3:50,419,COL,8929,Tristen Nielsen,57,F,Roughing,2.00,0,0,8929,Tristen Nielsen,Hayden Verbeek,Mike Dietrich,,
+1028579,1,1st,3:50,402,BAK,10877,Josh Samanski,81,C,Roughing,2.00,0,0,10877,Josh Samanski,Hayden Verbeek,Mike Dietrich,,
+1028579,1,1st,7:24,402,BAK,10880,Beau Akey,82,D,Holding,2.00,1,0,10880,Beau Akey,Hayden Verbeek,Mike Dietrich,,
+1028579,1,1st,12:54,402,BAK,8890,Sam Poulin,8,C,Holding,2.00,1,0,8890,Sam Poulin,Hayden Verbeek,Mike Dietrich,,
+1028579,1,1st,19:13,419,COL,9638,Mark Senden,51,F,High-sticking,2.00,1,0,9638,Mark Senden,Hayden Verbeek,Mike Dietrich,,
+1028579,1,1st,20:00,402,BAK,10879,Atro Leppanen,37,D,Roughing,2.00,1,0,10879,Atro Leppanen,Hayden Verbeek,Mike Dietrich,,
+1028579,2,2nd,12:34,419,COL,4584,Jayson Megna,21,F,Slashing,2.00,1,0,4584,Jayson Megna,Hayden Verbeek,Mike Dietrich,,
+1028579,2,2nd,17:53,402,BAK,7352,Riley Stillman,61,D,Roughing,2.00,1,0,10599,Rhett Pitlick,Hayden Verbeek,Mike Dietrich,,
+1028579,3,3rd,3:23,402,BAK,7663,Alec Regula,75,D,Interference,2.00,1,0,7663,Alec Regula,Hayden Verbeek,Mike Dietrich,,

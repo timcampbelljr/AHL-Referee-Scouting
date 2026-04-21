@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028596,1,1st,3:39,445,CV,10127,Jani Nyman,33,F,Roughing,2.00,0,0,10127,Jani Nyman,Mike Campbell,Ben Betker,,
+1028596,1,1st,3:39,402,BAK,7159,Cam Dineen,55,D,Roughing,2.00,0,0,7159,Cam Dineen,Mike Campbell,Ben Betker,,
+1028596,1,1st,17:04,402,BAK,7159,Cam Dineen,55,D,Slashing,2.00,1,0,7159,Cam Dineen,Mike Campbell,Ben Betker,,
+1028596,2,2nd,7:07,402,BAK,6948,Matt Tomkins,90,G,Tripping,2.00,1,0,5080,Seth Griffith,Mike Campbell,Ben Betker,,
+1028596,2,2nd,12:28,445,CV,10181,Andrei Loshko,72,F,Holding,2.00,1,0,10181,Andrei Loshko,Mike Campbell,Ben Betker,,
+1028596,3,3rd,13:25,445,CV,5471,Gustav Olofsson,23,D,Hooking,2.00,1,0,5471,Gustav Olofsson,Mike Campbell,Ben Betker,,

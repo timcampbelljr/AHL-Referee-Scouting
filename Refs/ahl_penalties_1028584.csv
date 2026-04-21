@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028584,1,1st,1:34,412,TUC,10111,Sam Lipkin,71,F,Tripping,2.00,1,0,10111,Sam Lipkin,Jordan Deckard,John Lindner,,
+1028584,1,1st,6:43,412,TUC,10670,Jack Ricketts,15,F,Hooking,2.00,1,0,10670,Jack Ricketts,Jordan Deckard,John Lindner,,
+1028584,2,2nd,8:00,404,SD,9702,Judd Caulfield,28,RW,Tripping,2.00,1,0,9702,Judd Caulfield,Jordan Deckard,John Lindner,,
+1028584,2,2nd,17:39,412,TUC,8740,Montana Onyebuchi,79,D,Fighting,5.00,0,0,8740,Montana Onyebuchi,Jordan Deckard,John Lindner,,
+1028584,2,2nd,17:39,404,SD,7309,Travis Howe,24,RW,Fighting,5.00,0,0,7309,Travis Howe,Jordan Deckard,John Lindner,,
+1028584,3,3rd,11:24,404,SD,6442,Nikolas Brouillard,15,D,Tripping,2.00,1,0,6442,Nikolas Brouillard,Jordan Deckard,John Lindner,,

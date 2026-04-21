@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028560,1,1st,4:35,372,RFD,6813,Dominic Toninato,25,C,Slashing,2.00,1,0,6813,Dominic Toninato,Stephen Hiff,Harrison O’Pray,,
+1028560,1,1st,13:43,404,SD,6729,Matthew Phillips,18,RW,Hooking,2.00,1,0,6729,Matthew Phillips,Stephen Hiff,Harrison O’Pray,,
+1028560,1,1st,19:16,372,RFD,9827,Ryan Mast,58,D,Interference,2.00,1,0,9827,Ryan Mast,Stephen Hiff,Harrison O’Pray,,
+1028560,2,2nd,4:26,404,SD,6729,Matthew Phillips,18,RW,Roughing,2.00,1,0,6729,Matthew Phillips,Stephen Hiff,Harrison O’Pray,,
+1028560,2,2nd,4:26,404,SD,9778,Nikita Nesterenko,13,LW,Roughing,2.00,0,0,9778,Nikita Nesterenko,Stephen Hiff,Harrison O’Pray,,
+1028560,2,2nd,4:26,372,RFD,6813,Dominic Toninato,25,C,Roughing,2.00,0,0,6813,Dominic Toninato,Stephen Hiff,Harrison O’Pray,,
+1028560,2,2nd,13:13,404,SD,6080,Justin Bailey,12,RW,Tripping,2.00,1,0,6080,Justin Bailey,Stephen Hiff,Harrison O’Pray,,
+1028560,3,3rd,10:15,372,RFD,7927,Rem Pitlick,12,LW,Tripping,2.00,1,0,7927,Rem Pitlick,Stephen Hiff,Harrison O’Pray,,

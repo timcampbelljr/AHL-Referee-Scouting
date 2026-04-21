@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028594,1,1st,6:03,413,BEL,8590,Lassi Thomson,33,D,Tripping,2.00,1,0,8590,Lassi Thomson,Jarrett Burton,David Elford,,
+1028594,1,1st,19:21,390,UTC,6879,Dmitry Osipov,44,D,Boarding,2.00,1,0,6879,Dmitry Osipov,Jarrett Burton,David Elford,,
+1028594,2,2nd,11:59,413,BEL,8442,Jamieson Rees,19,LW,Tripping,2.00,1,0,8442,Jamieson Rees,Jarrett Burton,David Elford,,
+1028594,2,2nd,18:38,413,BEL,8987,Tyler Boucher,16,RW,Slashing,2.00,1,0,7677,Arthur Kaliyev,Jarrett Burton,David Elford,,
+1028594,2,2nd,18:38,413,BEL,8987,Tyler Boucher,16,RW,Misconduct - Unsportsmanlike conduct,10.00,0,0,8987,Tyler Boucher,Jarrett Burton,David Elford,,
+1028594,3,3rd,1:45,390,UTC,10632,Shane Lachance,18,F,Tripping,2.00,1,0,10632,Shane Lachance,Jarrett Burton,David Elford,,
+1028594,3,3rd,11:01,390,UTC,9516,Xavier Parent,67,F,Interference,2.00,1,0,9516,Xavier Parent,Jarrett Burton,David Elford,,
+1028594,3,3rd,16:15,390,UTC,10529,Ethan Edwards,73,D,Hooking,2.00,1,0,10529,Ethan Edwards,Jarrett Burton,David Elford,,
+1028594,3,3rd,18:58,413,BEL,9719,Jorian Donovan,11,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,9719,Jorian Donovan,Jarrett Burton,David Elford,,
+1028594,3,3rd,19:47,413,BEL,10883,Landen Hookey,39,RW,Misconduct - Unsportsmanlike conduct,10.00,0,0,10883,Landen Hookey,Jarrett Burton,David Elford,,
+1028594,3,3rd,19:47,390,UTC,10529,Ethan Edwards,73,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,10529,Ethan Edwards,Jarrett Burton,David Elford,,

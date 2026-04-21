@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028545,1,1st,9:39,440,ABB,8928,Danila Klimovich,9,RW,Slashing,2.00,1,0,8928,Danila Klimovich,Koletrane Wilson,Bobby Jo Love,,
+1028545,2,2nd,5:04,440,ABB,8813,Dino Kambeitz,17,RW,Tripping,2.00,1,0,8813,Dino Kambeitz,Koletrane Wilson,Bobby Jo Love,,
+1028545,2,2nd,18:16,437,HSK,5547,Jaycob Megna,88,D,Cross-checking,2.00,1,0,5547,Jaycob Megna,Koletrane Wilson,Bobby Jo Love,,
+1028545,3,3rd,8:33,437,HSK,0,None None,0,,Too many men - Bench minor,2.00,1,1,10280,Tuomas Uronen,Koletrane Wilson,Bobby Jo Love,,
+1028545,3,3rd,8:33,437,HSK,9279,Joe Fleming,50,F,Diving/Embellishment,2.00,1,0,9279,Joe Fleming,Koletrane Wilson,Bobby Jo Love,,
+1028545,3,3rd,9:04,437,HSK,5547,Jaycob Megna,88,D,Unsportsmanlike conduct,2.00,1,0,5547,Jaycob Megna,Koletrane Wilson,Bobby Jo Love,,
+1028545,3,3rd,15:09,437,HSK,9279,Joe Fleming,50,F,Fighting,5.00,0,0,9279,Joe Fleming,Koletrane Wilson,Bobby Jo Love,,
+1028545,3,3rd,15:09,440,ABB,7746,Nikolai Knyzhov,72,D,Fighting,5.00,0,0,7746,Nikolai Knyzhov,Koletrane Wilson,Bobby Jo Love,,

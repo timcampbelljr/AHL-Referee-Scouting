@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028552,1,1st,15:38,380,TEX,10527,Sean Chisholm,21,F,Holding,2.00,1,0,10527,Sean Chisholm,Mathieu Menniti,Jarrod Ragusin,,
+1028552,1,1st,17:57,380,TEX,10451,Justin Ertel,10,LW,High-sticking,2.00,1,0,10451,Justin Ertel,Mathieu Menniti,Jarrod Ragusin,,
+1028552,2,2nd,2:19,380,TEX,10044,Luke Krys,4,D,Holding,2.00,1,0,10044,Luke Krys,Mathieu Menniti,Jarrod Ragusin,,
+1028552,3,3rd,19:59,380,TEX,7101,Kole Lind,17,F,Roughing,2.00,1,0,7101,Kole Lind,Mathieu Menniti,Jarrod Ragusin,,

@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028524,1,1st,3:29,373,CLE,9618,Corson Ceulemans,4,D,Delay of game,2.00,1,0,9618,Corson Ceulemans,Riley Brace,Jarrett Burton,,
+1028524,1,1st,8:02,373,CLE,9735,Stanislav Svozil,5,D,Interference,2.00,1,0,9735,Stanislav Svozil,Riley Brace,Jarrett Burton,,
+1028524,1,1st,13:16,316,WBS,9984,Aidan McDonough,8,RW,Holding,2.00,1,0,9984,Aidan McDonough,Riley Brace,Jarrett Burton,,
+1028524,2,2nd,1:15,373,CLE,6322,Dysin Mayo,6,D,Delay of game,2.00,1,0,6322,Dysin Mayo,Riley Brace,Jarrett Burton,,
+1028524,2,2nd,3:22,316,WBS,9649,Ville Koivunen,41,RW,Holding,2.00,1,0,9649,Ville Koivunen,Riley Brace,Jarrett Burton,,
+1028524,2,2nd,13:27,373,CLE,9058,Owen Sillinger,12,C,Slashing,2.00,1,0,9058,Owen Sillinger,Riley Brace,Jarrett Burton,,
+1028524,3,3rd,7:28,373,CLE,6644,Zach Aston-Reese,21,LW,Fighting,5.00,0,0,6644,Zach Aston-Reese,Riley Brace,Jarrett Burton,,
+1028524,3,3rd,7:28,316,WBS,9816,Avery Hayes,85,RW,Fighting,5.00,0,0,9816,Avery Hayes,Riley Brace,Jarrett Burton,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028583,1,1st,5:14,313,LV,6872,Lane Pederson,25,C,Hooking,2.00,1,0,6872,Lane Pederson,Jack Young,Koletrane Wilson,,
+1028583,1,1st,15:49,309,PRO,9533,Matěj Blümel,18,LW,High-sticking,2.00,1,0,9533,Matěj Blümel,Jack Young,Koletrane Wilson,,
+1028583,2,2nd,13:31,309,PRO,7943,Riley Tufte,27,LW,Slashing,2.00,1,0,7943,Riley Tufte,Jack Young,Koletrane Wilson,,
+1028583,3,3rd,7:12,309,PRO,9524,Fabian Lysell,22,RW,Tripping,2.00,1,0,9524,Fabian Lysell,Jack Young,Koletrane Wilson,,
+1028583,3,3rd,15:51,309,PRO,10508,Ty Gallagher,24,D,Slashing,2.00,1,0,10508,Ty Gallagher,Jack Young,Koletrane Wilson,,
+1028583,3,3rd,19:04,313,LV,4334,Garrett Wilson,17,LW,Holding,2.00,1,0,4334,Garrett Wilson,Jack Young,Koletrane Wilson,,

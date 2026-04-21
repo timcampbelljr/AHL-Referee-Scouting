@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028600,1,1st,4:36,321,MB,8454,Dawson Barteaux,4,D,Holding,2.00,1,0,8454,Dawson Barteaux,Mike Dietrich,Nolan Bloyer,,
+1028600,1,1st,14:30,327,MIL,8825,Kyle Marino,36,RW,Slashing,2.00,1,0,8825,Kyle Marino,Mike Dietrich,Nolan Bloyer,,
+1028600,1,1st,17:47,327,MIL,9876,Reid Schaefer,49,LW,Tripping,2.00,1,0,9876,Reid Schaefer,Mike Dietrich,Nolan Bloyer,,
+1028600,2,2nd,1:07,327,MIL,10078,Ryan Ufko,12,D,Tripping,2.00,1,0,10078,Ryan Ufko,Mike Dietrich,Nolan Bloyer,,
+1028600,2,2nd,4:49,321,MB,8809,Tyson Empey,20,LW,Slashing,2.00,1,0,8809,Tyson Empey,Mike Dietrich,Nolan Bloyer,,
+1028600,2,2nd,11:42,321,MB,9759,Nikita Chibrikov,19,LW,Holding,2.00,1,0,9759,Nikita Chibrikov,Mike Dietrich,Nolan Bloyer,,
+1028600,2,2nd,15:37,327,MIL,6403,Andreas Englund,8,D,Fighting,5.00,0,0,6403,Andreas Englund,Mike Dietrich,Nolan Bloyer,,
+1028600,2,2nd,15:37,321,MB,8809,Tyson Empey,20,LW,Fighting,5.00,0,0,8809,Tyson Empey,Mike Dietrich,Nolan Bloyer,,
+1028600,2,2nd,15:57,327,MIL,9102,Matthew Murray,32,G,Tripping,2.00,1,0,7121,Isaac Ratcliffe,Mike Dietrich,Nolan Bloyer,,

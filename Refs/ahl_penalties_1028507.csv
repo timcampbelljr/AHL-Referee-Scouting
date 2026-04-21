@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028507,1,1st,5:15,415,LAV,9182,Joshua Roy,10,LW,Hooking,2.00,1,0,9182,Joshua Roy,Jack Young,Mike Sullivan,,
+1028507,1,1st,17:40,335,TOR,8738,William Villeneuve,76,D,Interference,2.00,1,0,8738,William Villeneuve,Jack Young,Mike Sullivan,,
+1028507,2,2nd,8:10,335,TOR,6014,Dakota Mermis,36,D,Tripping,2.00,1,0,6014,Dakota Mermis,Jack Young,Mike Sullivan,,
+1028507,2,2nd,13:55,415,LAV,9796,Jared Davidson,49,F,Roughing,2.00,0,0,9796,Jared Davidson,Jack Young,Mike Sullivan,,
+1028507,2,2nd,13:55,335,TOR,6014,Dakota Mermis,36,D,Roughing,2.00,0,0,6014,Dakota Mermis,Jack Young,Mike Sullivan,,
+1028507,2,2nd,16:17,415,LAV,8689,Nate Clurman,5,D,Holding,2.00,1,0,8689,Nate Clurman,Jack Young,Mike Sullivan,,
+1028507,3,3rd,10:27,415,LAV,10601,Tyler Thorpe,6,RW,Fighting,5.00,0,0,10601,Tyler Thorpe,Jack Young,Mike Sullivan,,
+1028507,3,3rd,10:27,335,TOR,10635,Blake Smith,59,D,Fighting,5.00,0,0,10635,Blake Smith,Jack Young,Mike Sullivan,,

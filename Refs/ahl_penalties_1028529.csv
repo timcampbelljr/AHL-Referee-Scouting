@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028529,2,2nd,10:41,317,BRI,9689,Travis Mitchell,10,D,Interference,2.00,1,0,9689,Travis Mitchell,Riley Brace,Austin O’Rourke,,
+1028529,2,2nd,18:15,317,BRI,9515,Pierrick Dubé,7,RW,Tripping,2.00,1,0,9515,Pierrick Dubé,Riley Brace,Austin O’Rourke,,
+1028529,3,3rd,6:01,390,UTC,6262,Kyle Criscuolo,15,C,Goaltender interference,2.00,1,0,6262,Kyle Criscuolo,Riley Brace,Austin O’Rourke,,

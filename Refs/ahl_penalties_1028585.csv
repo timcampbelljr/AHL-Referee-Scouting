@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028585,1,1st,1:45,445,CV,9755,Jagger Firkus,57,F,Holding,2.00,1,0,9755,Jagger Firkus,Ben Betker,Jordan Deckard,,
+1028585,2,2nd,19:33,437,HSK,7267,Dylan Coghlan,52,D,Slashing,2.00,1,0,7267,Dylan Coghlan,Ben Betker,Jordan Deckard,,
+1028585,2,2nd,19:33,437,HSK,7028,Mitch McLain,75,F,Roughing,2.00,0,0,7028,Mitch McLain,Ben Betker,Jordan Deckard,,
+1028585,2,2nd,19:33,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,0,0,8625,Ian McKinnon,Ben Betker,Jordan Deckard,,
+1028585,3,3rd,17:27,445,CV,8625,Ian McKinnon,21,F,Misconduct,10.00,0,0,8625,Ian McKinnon,Ben Betker,Jordan Deckard,,
+1028585,3,3rd,17:27,437,HSK,10284,Kai Uchacz,77,F,Misconduct,10.00,0,0,10284,Kai Uchacz,Ben Betker,Jordan Deckard,,
+1028585,3,3rd,19:32,445,CV,6956,John Hayden,15,F,Misconduct,10.00,0,0,6956,John Hayden,Ben Betker,Jordan Deckard,,

@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028506,1,1st,0:19,411,SPR,6786,Dillon Dube,29,LW,Slashing,2.00,1,0,6786,Dillon Dube,Ben Betker,Sydney Harris,,
+1028506,1,1st,3:08,411,SPR,8650,Zach Berzolla,48,D,Tripping,2.00,1,0,8650,Zach Berzolla,Ben Betker,Sydney Harris,,
+1028506,1,1st,4:26,389,IA,9859,Caedan Bankier,19,C,Holding,2.00,1,0,9859,Caedan Bankier,Ben Betker,Sydney Harris,,
+1028506,2,2nd,0:50,389,IA,7653,Ben Jones,18,C,Tripping,2.00,1,0,7653,Ben Jones,Ben Betker,Sydney Harris,,
+1028506,2,2nd,1:58,411,SPR,10843,Quinton Burns,42,D,Cross-checking,2.00,1,0,10843,Quinton Burns,Ben Betker,Sydney Harris,,
+1028506,2,2nd,4:32,389,IA,9472,Mark Liwiski,26,F,Goaltender interference,2.00,1,0,9472,Mark Liwiski,Ben Betker,Sydney Harris,,
+1028506,2,2nd,18:36,389,IA,10608,Riley Heidt,27,C,Slashing,2.00,1,0,10608,Riley Heidt,Ben Betker,Sydney Harris,,
+1028506,3,3rd,0:50,389,IA,9545,David Jiříček,55,D,Interference,2.00,1,0,9545,David Jiříček,Ben Betker,Sydney Harris,,
+1028506,3,3rd,7:04,411,SPR,10328,Aleksanteri Kaskimäki,41,F,Slashing,2.00,1,0,10328,Aleksanteri Kaskimäki,Ben Betker,Sydney Harris,,
+1028506,3,3rd,7:08,411,SPR,8630,Hunter Skinner,55,D,Interference,2.00,1,0,8630,Hunter Skinner,Ben Betker,Sydney Harris,,

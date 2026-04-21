@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028550,1,1st,6:09,317,BRI,7627,Hunter Drew,36,RW,Roughing,2.00,0,0,7627,Hunter Drew,Will Kelly,Mike Zyla,,
+1028550,1,1st,6:09,411,SPR,6733,Matt Luff,39,RW,Roughing,2.00,0,0,6733,Matt Luff,Will Kelly,Mike Zyla,,
+1028550,1,1st,10:19,411,SPR,0,None None,0,,Too many men - Bench minor,2.00,1,1,5039,Kale Kessy,Will Kelly,Mike Zyla,,
+1028550,1,1st,15:45,317,BRI,10152,Marshall Warren,6,D,Holding,2.00,1,0,10152,Marshall Warren,Will Kelly,Mike Zyla,,
+1028550,1,1st,17:36,411,SPR,10843,Quinton Burns,42,D,Holding,2.00,1,0,10843,Quinton Burns,Will Kelly,Mike Zyla,,
+1028550,2,2nd,14:01,317,BRI,10388,Cam Thiesing,15,F,Tripping,2.00,1,0,10388,Cam Thiesing,Will Kelly,Mike Zyla,,
+1028550,2,2nd,20:00,411,SPR,9737,Michael Buchinger,9,D,Holding,2.00,1,0,9737,Michael Buchinger,Will Kelly,Mike Zyla,,
+1028550,3,3rd,2:58,411,SPR,10532,Jakub Stancl,49,F,Boarding,2.00,1,0,10532,Jakub Stancl,Will Kelly,Mike Zyla,,

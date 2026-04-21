@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028502,1,1st,1:39,413,BEL,8861,Philippe Daoust,10,C,Tripping,2.00,1,0,8861,Philippe Daoust,Morgan MacPhee,Alex Joubert,,
+1028502,1,1st,7:42,319,HER,10573,David Gucciardi,48,D,Holding,2.00,1,0,10573,David Gucciardi,Morgan MacPhee,Alex Joubert,,
+1028502,1,1st,7:42,319,HER,10573,David Gucciardi,48,D,Roughing,2.00,1,0,10573,David Gucciardi,Morgan MacPhee,Alex Joubert,,
+1028502,2,2nd,1:33,319,HER,8598,Graeme Clarke,92,RW,Hooking,2.00,1,0,8598,Graeme Clarke,Morgan MacPhee,Alex Joubert,,
+1028502,2,2nd,17:50,319,HER,9820,Jon McDonald,47,D,Tripping,2.00,1,0,9820,Jon McDonald,Morgan MacPhee,Alex Joubert,,
+1028502,3,3rd,4:23,413,BEL,4955,Scott Harrington,14,D,Tripping,2.00,1,0,4955,Scott Harrington,Morgan MacPhee,Alex Joubert,,
+1028502,3,3rd,4:26,319,HER,9161,Bogdan Trineyev,44,RW,High-sticking,2.00,1,0,9161,Bogdan Trineyev,Morgan MacPhee,Alex Joubert,,
+1028502,3,3rd,8:51,413,BEL,8590,Lassi Thomson,33,D,Tripping,2.00,1,0,8590,Lassi Thomson,Morgan MacPhee,Alex Joubert,,
+1028502,3,3rd,18:02,319,HER,7584,Matt Strome,45,LW,Hooking,2.00,1,0,7584,Matt Strome,Morgan MacPhee,Alex Joubert,,

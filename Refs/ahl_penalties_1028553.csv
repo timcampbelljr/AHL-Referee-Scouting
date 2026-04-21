@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028553,1,1st,7:05,335,TOR,9624,Ryan Tverberg,77,F,Tripping,2.00,1,0,9624,Ryan Tverberg,Tyler Spott,Rob Hennessey,,
+1028553,1,1st,10:36,373,CLE,9978,James Malatesta,11,LW,Fighting,5.00,0,0,9978,James Malatesta,Tyler Spott,Rob Hennessey,,
+1028553,1,1st,10:36,335,TOR,9188,Ben King,66,C,Fighting,5.00,0,0,9188,Ben King,Tyler Spott,Rob Hennessey,,
+1028553,1,1st,11:50,335,TOR,5926,Brandon Baddock,48,LW,Interference,2.00,1,0,5926,Brandon Baddock,Tyler Spott,Rob Hennessey,,
+1028553,2,2nd,5:13,335,TOR,9624,Ryan Tverberg,77,F,Holding,2.00,1,0,9624,Ryan Tverberg,Tyler Spott,Rob Hennessey,,
+1028553,2,2nd,18:36,373,CLE,5645,Brendan Gaunce,16,C,Tripping,2.00,1,0,5645,Brendan Gaunce,Tyler Spott,Rob Hennessey,,
+1028553,OT,OT,2:52,373,CLE,6322,Dysin Mayo,6,D,Holding,2.00,1,0,6322,Dysin Mayo,Tyler Spott,Rob Hennessey,,

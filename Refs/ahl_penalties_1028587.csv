@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028587,1,1st,9:34,316,WBS,7802,Rafaël Harvey-Pinard,49,RW,Boarding,2.00,1,0,7802,Rafaël Harvey-Pinard,Stephen Hiff,Koletrane Wilson,,
+1028587,2,2nd,1:42,316,WBS,10504,Chase Pietila,44,D,High-sticking,2.00,1,0,10504,Chase Pietila,Stephen Hiff,Koletrane Wilson,,
+1028587,2,2nd,4:52,316,WBS,10851,Aaron Huglen,10,C,Holding,2.00,1,0,10851,Aaron Huglen,Stephen Hiff,Koletrane Wilson,,
+1028587,2,2nd,11:11,316,WBS,0,None None,0,,Too many men - Bench minor,2.00,1,1,6865,Bokondji Imama,Stephen Hiff,Koletrane Wilson,,
+1028587,3,3rd,4:33,373,CLE,10950,Luca Marrelli,54,D,Interference,2.00,1,0,10950,Luca Marrelli,Stephen Hiff,Koletrane Wilson,,
+1028587,3,3rd,7:57,373,CLE,5645,Brendan Gaunce,16,C,Tripping,2.00,1,0,5645,Brendan Gaunce,Stephen Hiff,Koletrane Wilson,,
+1028587,3,3rd,10:15,373,CLE,6516,Hudson Fasching,20,RW,Hooking,2.00,1,0,6516,Hudson Fasching,Stephen Hiff,Koletrane Wilson,,

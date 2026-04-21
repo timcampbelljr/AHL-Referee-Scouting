@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028544,2,2nd,12:30,390,UTC,10529,Ethan Edwards,73,D,Hooking,2.00,1,0,10529,Ethan Edwards,Riley Brace,Jack Young,,
+1028544,3,3rd,11:56,390,UTC,9758,Topias Vilen,38,D,Roughing,2.00,0,0,9758,Topias Vilen,Riley Brace,Jack Young,,
+1028544,3,3rd,11:56,307,HFD,8622,Connor Mackey,14,D,Roughing,2.00,0,0,8622,Connor Mackey,Riley Brace,Jack Young,,
+1028544,3,3rd,18:35,307,HFD,8622,Connor Mackey,14,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,8622,Connor Mackey,Riley Brace,Jack Young,,
+1028544,3,3rd,18:35,307,HFD,10062,Jaroslav Chmelar,42,F,Roughing,2.00,0,0,10062,Jaroslav Chmelar,Riley Brace,Jack Young,,
+1028544,3,3rd,18:35,390,UTC,7251,Ryan Schmelzer,26,C,Misconduct - Unsportsmanlike conduct,10.00,0,0,7251,Ryan Schmelzer,Riley Brace,Jack Young,,
+1028544,3,3rd,18:35,390,UTC,9036,Marc McLaughlin,28,F,Roughing,2.00,0,0,9036,Marc McLaughlin,Riley Brace,Jack Young,,

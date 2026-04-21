@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028571,1,1st,19:12,412,TUC,10664,Daniil But,50,F,Double minor - High-sticking,4.00,1,0,10664,Daniil But,Graedy Hamilton,Sydney Harris,,
+1028571,2,2nd,8:32,412,TUC,8631,Ty Tullio,17,RW,High-sticking,2.00,1,0,8631,Ty Tullio,Graedy Hamilton,Sydney Harris,,
+1028571,2,2nd,12:14,412,TUC,10665,Dmitri Simashev,26,D,Holding,2.00,1,0,10665,Dmitri Simashev,Graedy Hamilton,Sydney Harris,,
+1028571,2,2nd,14:42,403,ONT,9239,Francesco Pinelli,71,F,High-sticking,2.00,1,0,9239,Francesco Pinelli,Graedy Hamilton,Sydney Harris,,
+1028571,2,2nd,18:55,403,ONT,9357,Cole Guttman,81,F,Holding,2.00,1,0,9357,Cole Guttman,Graedy Hamilton,Sydney Harris,,
+1028571,3,3rd,5:09,403,ONT,6784,Glenn Gawdin,21,F,Interference,2.00,1,0,6784,Glenn Gawdin,Graedy Hamilton,Sydney Harris,,
+1028571,3,3rd,14:56,412,TUC,3642,Andrew Agozzino,29,C,Hooking,2.00,1,0,3642,Andrew Agozzino,Graedy Hamilton,Sydney Harris,,

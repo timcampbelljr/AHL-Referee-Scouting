@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028520,1,1st,3:15,309,PRO,10584,Dalton Bancroft,17,RW,Tripping,2.00,1,0,10584,Dalton Bancroft,Mike Dietrich,David Elford,,
+1028520,1,1st,13:17,317,BRI,6828,Julien Gauthier,44,RW,Holding,2.00,1,0,6828,Julien Gauthier,Mike Dietrich,David Elford,,
+1028520,2,2nd,13:24,309,PRO,9435,Joey Abate,47,LW,Roughing,2.00,0,0,9435,Joey Abate,Mike Dietrich,David Elford,,
+1028520,2,2nd,13:24,317,BRI,9689,Travis Mitchell,10,D,Roughing,2.00,0,0,9689,Travis Mitchell,Mike Dietrich,David Elford,,
+1028520,3,3rd,0:23,309,PRO,9524,Fabian Lysell,22,RW,Slashing,2.00,1,0,9524,Fabian Lysell,Mike Dietrich,David Elford,,

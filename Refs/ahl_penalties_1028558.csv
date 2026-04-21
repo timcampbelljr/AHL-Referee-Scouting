@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028558,1,1st,0:04,321,MB,9746,Danny Zhilkin,17,C,High-sticking,2.00,1,0,9746,Danny Zhilkin,Alex Lepkowski,Nick Isaacson,,
+1028558,1,1st,13:52,321,MB,7113,Mason Shaw,18,RW,Holding,2.00,1,0,7113,Mason Shaw,Alex Lepkowski,Nick Isaacson,,
+1028558,3,3rd,6:48,389,IA,8937,Matt Kiersted,23,D,Hooking,2.00,1,0,8937,Matt Kiersted,Alex Lepkowski,Nick Isaacson,,
+1028558,3,3rd,9:45,389,IA,7653,Ben Jones,18,C,Tripping,2.00,1,0,7653,Ben Jones,Alex Lepkowski,Nick Isaacson,,

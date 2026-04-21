@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028577,1,1st,1:38,405,SJ,10226,Luca Cagnoni,42,D,Hooking,2.00,1,0,10226,Luca Cagnoni,Bobby Jo Love,Jacob Hicks,,
+1028577,1,1st,2:06,405,SJ,9621,Anthony Vincent,76,F,Delay of game,2.00,1,0,9621,Anthony Vincent,Bobby Jo Love,Jacob Hicks,,
+1028577,1,1st,14:39,405,SJ,9153,Nolan Allan,7,D,Interference,2.00,1,0,9153,Nolan Allan,Bobby Jo Love,Jacob Hicks,,
+1028577,2,2nd,3:55,405,SJ,9177,Braden Hache,86,D,Tripping,2.00,1,0,9177,Braden Hache,Bobby Jo Love,Jacob Hicks,,
+1028577,2,2nd,19:37,444,CGY,6453,Clark Bishop,19,C,Slashing,2.00,1,0,6453,Clark Bishop,Bobby Jo Love,Jacob Hicks,,
+1028577,3,3rd,8:58,444,CGY,7701,Ivan Prosvetov,50,G,Tripping,2.00,1,0,5018,Martin Frk,Bobby Jo Love,Jacob Hicks,,
+1028577,3,3rd,15:09,444,CGY,5018,Martin Frk,29,RW,Hooking,2.00,1,0,5018,Martin Frk,Bobby Jo Love,Jacob Hicks,,

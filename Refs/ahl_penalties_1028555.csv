@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028555,1,1st,9:21,413,BEL,8987,Tyler Boucher,16,RW,Slashing,2.00,1,0,8987,Tyler Boucher,Ben Betker,Alex Gagné,,
+1028555,1,1st,13:29,307,HFD,9048,Brandon Scanlin,58,D,Fighting,5.00,0,0,9048,Brandon Scanlin,Ben Betker,Alex Gagné,,
+1028555,1,1st,13:29,413,BEL,7145,Dennis Gilbert,48,D,Fighting,5.00,0,0,7145,Dennis Gilbert,Ben Betker,Alex Gagné,,
+1028555,2,2nd,2:09,307,HFD,10735,Cooper Moore,3,D,Tripping,2.00,1,0,10735,Cooper Moore,Ben Betker,Alex Gagné,,
+1028555,2,2nd,14:18,307,HFD,9666,Adam Sýkora,10,F,Roughing,2.00,1,0,9666,Adam Sýkora,Ben Betker,Alex Gagné,,
+1028555,2,2nd,18:43,307,HFD,10062,Jaroslav Chmelar,42,F,Holding,2.00,1,0,10062,Jaroslav Chmelar,Ben Betker,Alex Gagné,,
+1028555,3,3rd,9:02,413,BEL,10883,Landen Hookey,39,RW,Fighting,5.00,0,0,10883,Landen Hookey,Ben Betker,Alex Gagné,,
+1028555,3,3rd,9:02,307,HFD,10786,Zakary Karpa,59,F,Fighting,5.00,0,0,10786,Zakary Karpa,Ben Betker,Alex Gagné,,
+1028555,3,3rd,18:01,307,HFD,7569,Casey Fitzgerald,4,D,Tripping,2.00,1,0,7569,Casey Fitzgerald,Ben Betker,Alex Gagné,,
+1028555,3,3rd,19:32,413,BEL,7677,Arthur Kaliyev,43,LW,Slashing,2.00,0,0,7677,Arthur Kaliyev,Ben Betker,Alex Gagné,,

@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028539,1,1st,2:56,330,CHI,6657,Givani Smith,24,RW,Fighting,5.00,0,0,6657,Givani Smith,Stephen Hiff,Rocco Stachowiak,,
+1028539,1,1st,2:56,389,IA,9472,Mark Liwiski,26,F,Fighting,5.00,0,0,9472,Mark Liwiski,Stephen Hiff,Rocco Stachowiak,,
+1028539,1,1st,10:26,330,CHI,9742,Skyler Brind’Amour,22,C,Holding,2.00,1,0,9742,Skyler Brind’Amour,Stephen Hiff,Rocco Stachowiak,,
+1028539,1,1st,19:28,330,CHI,10001,Domenick Fensore,2,D,Delay of game,2.00,1,0,10001,Domenick Fensore,Stephen Hiff,Rocco Stachowiak,,
+1028539,2,2nd,5:20,389,IA,10067,Jack Peart,3,D,Slashing,2.00,1,0,10067,Jack Peart,Stephen Hiff,Rocco Stachowiak,,
+1028539,2,2nd,7:46,389,IA,8576,Jean-Luc Foudy,86,RW,High-sticking,2.00,1,0,8576,Jean-Luc Foudy,Stephen Hiff,Rocco Stachowiak,,
+1028539,2,2nd,10:51,330,CHI,10597,Joel Nyström,9,D,Holding,2.00,1,0,10597,Joel Nyström,Stephen Hiff,Rocco Stachowiak,,
+1028539,3,3rd,2:30,330,CHI,10462,Felix Unger Sörum,14,RW,Holding,2.00,1,0,10462,Felix Unger Sörum,Stephen Hiff,Rocco Stachowiak,,
+1028539,3,3rd,4:33,389,IA,6304,Nicolas Aubé-Kubel,96,RW,Hooking,2.00,1,0,6304,Nicolas Aubé-Kubel,Stephen Hiff,Rocco Stachowiak,,
+1028539,3,3rd,9:18,330,CHI,10460,Charles Alexis Legault,5,D,Holding,2.00,1,0,10460,Charles Alexis Legault,Stephen Hiff,Rocco Stachowiak,,

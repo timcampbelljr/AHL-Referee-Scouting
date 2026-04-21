@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028527,1,1st,9:27,321,MB,7772,Ville Heinola,14,D,Slashing,2.00,1,0,7772,Ville Heinola,Hayden Verbeek,Chad Ingalls,,
+1028527,2,2nd,15:12,321,MB,8424,Isaak Phillips,3,D,Cross-checking,2.00,1,0,8424,Isaak Phillips,Hayden Verbeek,Chad Ingalls,,
+1028527,3,3rd,1:10,321,MB,8424,Isaak Phillips,3,D,Interference,2.00,1,0,8424,Isaak Phillips,Hayden Verbeek,Chad Ingalls,,
+1028527,3,3rd,9:18,321,MB,7113,Mason Shaw,18,RW,Interference,2.00,1,0,7113,Mason Shaw,Hayden Verbeek,Chad Ingalls,,
+1028527,OT,OT,4:54,444,CGY,5018,Martin Frk,29,RW,Hooking,2.00,1,0,5018,Martin Frk,Hayden Verbeek,Chad Ingalls,,

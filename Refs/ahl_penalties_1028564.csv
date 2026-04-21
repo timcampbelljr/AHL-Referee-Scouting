@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028564,1,1st,2:23,412,TUC,8740,Montana Onyebuchi,79,D,Fighting,5.00,0,0,8740,Montana Onyebuchi,Graedy Hamilton,Stan Szczurek,,
+1028564,1,1st,2:23,403,ONT,5592,Jacob Doty,37,F,Fighting,5.00,0,0,5592,Jacob Doty,Graedy Hamilton,Stan Szczurek,,
+1028564,1,1st,4:11,403,ONT,10712,Kirill Kirsanov,19,D,Tripping,2.00,1,0,10712,Kirill Kirsanov,Graedy Hamilton,Stan Szczurek,,
+1028564,1,1st,15:57,412,TUC,8631,Ty Tullio,17,RW,Hooking,2.00,1,0,8631,Ty Tullio,Graedy Hamilton,Stan Szczurek,,
+1028564,1,1st,16:01,403,ONT,8714,Martin Chromiak,8,F,Tripping,2.00,1,0,8714,Martin Chromiak,Graedy Hamilton,Stan Szczurek,,
+1028564,1,1st,19:41,412,TUC,10111,Sam Lipkin,71,F,Tripping,2.00,1,0,10111,Sam Lipkin,Graedy Hamilton,Stan Szczurek,,
+1028564,2,2nd,20:00,403,ONT,5658,Pheonix Copley,29,G,Roughing,2.00,0,0,9241,Aatu Jämsen,Graedy Hamilton,Stan Szczurek,,
+1028564,2,2nd,20:00,412,TUC,8631,Ty Tullio,17,RW,Roughing,2.00,0,0,8631,Ty Tullio,Graedy Hamilton,Stan Szczurek,,
+1028564,3,3rd,5:13,412,TUC,8740,Montana Onyebuchi,79,D,Hooking,2.00,1,0,8740,Montana Onyebuchi,Graedy Hamilton,Stan Szczurek,,
+1028564,3,3rd,8:59,403,ONT,10715,Jack Hughes,47,F,Tripping,2.00,1,0,10715,Jack Hughes,Graedy Hamilton,Stan Szczurek,,
+1028564,3,3rd,11:35,412,TUC,9217,Max Szuber,55,D,Interference,2.00,1,0,9217,Max Szuber,Graedy Hamilton,Stan Szczurek,,
+1028564,3,3rd,17:51,403,ONT,9081,Andre Lee,26,F,Tripping,2.00,1,0,9081,Andre Lee,Graedy Hamilton,Stan Szczurek,,

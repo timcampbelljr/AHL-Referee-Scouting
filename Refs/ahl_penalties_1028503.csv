@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028503,2,2nd,11:07,309,PRO,9435,Joey Abate,47,LW,Holding,2.00,1,0,9435,Joey Abate,Mike Dietrich,David Elford,,
+1028503,2,2nd,13:32,317,BRI,7627,Hunter Drew,36,RW,Tripping,2.00,1,0,7627,Hunter Drew,Mike Dietrich,David Elford,,
+1028503,3,3rd,5:43,309,PRO,10508,Ty Gallagher,24,D,Hooking,2.00,1,0,10508,Ty Gallagher,Mike Dietrich,David Elford,,
+1028503,3,3rd,15:01,317,BRI,6807,Ethan Bear,49,D,Interference,2.00,0,0,6807,Ethan Bear,Mike Dietrich,David Elford,,

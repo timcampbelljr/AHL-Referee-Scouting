@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028542,1,1st,6:21,419,COL,9571,Ronnie Attard,3,D,Tripping,2.00,1,0,9571,Ronnie Attard,Beau Halkidis,Sydney Harris,,
+1028542,1,1st,10:39,445,CV,10082,Lukas Dragicevic,2,D,Cross-checking,2.00,1,0,10082,Lukas Dragicevic,Beau Halkidis,Sydney Harris,,
+1028542,1,1st,17:55,419,COL,10561,Taylor Makar,16,F,Roughing,2.00,0,0,10561,Taylor Makar,Beau Halkidis,Sydney Harris,,
+1028542,1,1st,17:55,445,CV,10082,Lukas Dragicevic,2,D,Roughing,2.00,0,0,10082,Lukas Dragicevic,Beau Halkidis,Sydney Harris,,
+1028542,2,2nd,4:47,419,COL,7090,Tye Felhaber,48,F,Delay of game,2.00,1,0,7090,Tye Felhaber,Beau Halkidis,Sydney Harris,,
+1028542,2,2nd,18:39,419,COL,7345,Alex Barré-Boulet,72,C,Slashing,2.00,1,0,7345,Alex Barré-Boulet,Beau Halkidis,Sydney Harris,,
+1028542,3,3rd,8:22,419,COL,8500,Jack Ahcan,15,D,Boarding,2.00,1,0,8500,Jack Ahcan,Beau Halkidis,Sydney Harris,,

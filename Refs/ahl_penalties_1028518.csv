@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028518,1,1st,11:39,380,TEX,10135,Tristan Bertucci,3,D,Tripping,2.00,1,0,10135,Tristan Bertucci,Damian Figueira,Austin Rook,,
+1028518,1,1st,13:01,380,TEX,7016,Cameron Hughes,19,F,Hooking,2.00,1,0,7016,Cameron Hughes,Damian Figueira,Austin Rook,,
+1028518,1,1st,16:42,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Tripping,2.00,1,0,10629,Michael Brandsegg-Nygård,Damian Figueira,Austin Rook,,
+1028518,2,2nd,3:38,328,GR,10898,Jacob Truscott,20,D,Tripping,2.00,1,0,10898,Jacob Truscott,Damian Figueira,Austin Rook,,
+1028518,2,2nd,15:19,380,TEX,10527,Sean Chisholm,21,F,Cross-checking,2.00,0,0,10527,Sean Chisholm,Damian Figueira,Austin Rook,,
+1028518,2,2nd,15:19,328,GR,6627,Dominik Shine,65,RW,Cross-checking,2.00,0,0,6627,Dominik Shine,Damian Figueira,Austin Rook,,
+1028518,3,3rd,7:28,380,TEX,7101,Kole Lind,17,F,Slashing,2.00,1,0,7101,Kole Lind,Damian Figueira,Austin Rook,,
+1028518,3,3rd,15:42,328,GR,10898,Jacob Truscott,20,D,Holding,2.00,1,0,10898,Jacob Truscott,Damian Figueira,Austin Rook,,
+1028518,3,3rd,18:33,328,GR,8927,Alex Kannok Leipert,41,D,Roughing,2.00,1,0,8927,Alex Kannok Leipert,Damian Figueira,Austin Rook,,
+1028518,3,3rd,19:52,328,GR,4085,Austin Watson,51,RW,Misconduct - Unsportsmanlike conduct,10.00,0,0,4085,Austin Watson,Damian Figueira,Austin Rook,,
+1028518,3,3rd,19:52,328,GR,4085,Austin Watson,51,RW,Slashing,2.00,1,0,9718,Amadeus Lombardi,Damian Figueira,Austin Rook,,

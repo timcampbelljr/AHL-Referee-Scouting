@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028575,1,1st,6:19,327,MIL,6403,Andreas Englund,8,D,Cross-checking,2.00,1,0,6403,Andreas Englund,Harrison O’Pray,Kyle Bauman,,
+1028575,1,1st,8:47,389,IA,9472,Mark Liwiski,26,F,High-sticking,2.00,1,0,9472,Mark Liwiski,Harrison O’Pray,Kyle Bauman,,
+1028575,2,2nd,4:02,327,MIL,0,None None,0,,Too many men - Bench minor,2.00,1,1,7722,Navrin Mutter,Harrison O’Pray,Kyle Bauman,,
+1028575,2,2nd,6:48,327,MIL,7698,Zack Hayes,65,D,Interference,2.00,1,0,7698,Zack Hayes,Harrison O’Pray,Kyle Bauman,,
+1028575,2,2nd,10:29,389,IA,9856,Carson Lambos,7,D,Interference,2.00,1,0,9856,Carson Lambos,Harrison O’Pray,Kyle Bauman,,
+1028575,2,2nd,18:09,327,MIL,10185,Andrew Gibson,6,D,Tripping,2.00,1,0,10185,Andrew Gibson,Harrison O’Pray,Kyle Bauman,,
+1028575,3,3rd,8:49,327,MIL,7722,Navrin Mutter,47,LW,Elbowing,2.00,1,0,7722,Navrin Mutter,Harrison O’Pray,Kyle Bauman,,

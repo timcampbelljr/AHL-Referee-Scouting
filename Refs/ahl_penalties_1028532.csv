@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028532,1,1st,10:30,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Tripping,2.00,1,0,10629,Michael Brandsegg-Nygård,Adam Tobias,Nick Bet,,
+1028532,1,1st,18:31,328,GR,10453,Jakub Rychlovský,81,LW,Interference,2.00,1,0,10453,Jakub Rychlovský,Adam Tobias,Nick Bet,,
+1028532,2,2nd,4:00,328,GR,10476,Carson Bantle,21,LW,Unsportsmanlike conduct,2.00,1,0,10476,Carson Bantle,Adam Tobias,Nick Bet,,
+1028532,2,2nd,7:01,373,CLE,6644,Zach Aston-Reese,21,LW,Interference,2.00,1,0,6644,Zach Aston-Reese,Adam Tobias,Nick Bet,,
+1028532,2,2nd,20:00,373,CLE,10895,Caleb MacDonald,43,D,Goaltender interference,2.00,1,0,10895,Caleb MacDonald,Adam Tobias,Nick Bet,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028570,1,1st,17:10,404,SD,10076,Nico Myatovic,21,LW,Goaltender interference,2.00,1,0,10076,Nico Myatovic,Morgan MacPhee,Chad Ingalls,,
+1028570,1,1st,17:40,372,RFD,7027,Brett Seney,62,F,Holding,2.00,1,0,7027,Brett Seney,Morgan MacPhee,Chad Ingalls,,
+1028570,2,2nd,1:29,372,RFD,10618,Aidan Thompson,78,F,Cross-checking,2.00,1,0,10618,Aidan Thompson,Morgan MacPhee,Chad Ingalls,,
+1028570,3,3rd,8:04,372,RFD,10563,Taige Harding,47,D,Holding,2.00,1,0,10563,Taige Harding,Morgan MacPhee,Chad Ingalls,,
+1028570,3,3rd,15:55,404,SD,9778,Nikita Nesterenko,13,C,Roughing,2.00,0,0,9778,Nikita Nesterenko,Morgan MacPhee,Chad Ingalls,,
+1028570,3,3rd,15:55,372,RFD,9833,Ethan Del Mastro,38,D,Roughing,2.00,0,0,9833,Ethan Del Mastro,Morgan MacPhee,Chad Ingalls,,

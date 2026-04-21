@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028566,2,2nd,8:18,316,WBS,10164,Tristan Broz,26,C,Fighting,5.00,0,0,10164,Tristan Broz,Jack Young,Patrick Hanrahan,,
+1028566,2,2nd,8:18,317,BRI,9442,Daylan Kuefler,11,F,Fighting,5.00,0,0,9442,Daylan Kuefler,Jack Young,Patrick Hanrahan,,
+1028566,2,2nd,8:18,316,WBS,10504,Chase Pietila,44,D,Cross-checking,2.00,1,0,10504,Chase Pietila,Jack Young,Patrick Hanrahan,,
+1028566,3,3rd,12:08,317,BRI,9515,Pierrick Dubé,7,RW,Roughing,2.00,0,0,9515,Pierrick Dubé,Jack Young,Patrick Hanrahan,,
+1028566,3,3rd,12:08,316,WBS,7017,Joona Koppanen,15,C,Roughing,2.00,0,0,7017,Joona Koppanen,Jack Young,Patrick Hanrahan,,
+1028566,3,3rd,12:08,317,BRI,9515,Pierrick Dubé,7,RW,Goaltender interference,2.00,1,0,6828,Julien Gauthier,Jack Young,Patrick Hanrahan,,

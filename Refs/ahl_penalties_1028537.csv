@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028537,1,1st,15:46,411,SPR,8650,Zach Berzolla,48,D,Delay of game,2.00,1,0,8650,Zach Berzolla,Jim Curtin,Johnny Daniels,,
+1028537,1,1st,16:17,316,WBS,9649,Ville Koivunen,41,RW,Interference,2.00,1,0,9649,Ville Koivunen,Jim Curtin,Johnny Daniels,,
+1028537,2,2nd,6:55,316,WBS,9673,Owen Pickering,38,D,Holding,2.00,1,0,9673,Owen Pickering,Jim Curtin,Johnny Daniels,,
+1028537,2,2nd,9:39,411,SPR,8461,Hugh McGing,11,F,Tripping,2.00,1,0,8461,Hugh McGing,Jim Curtin,Johnny Daniels,,
+1028537,2,2nd,16:20,411,SPR,9268,Zach Dean,14,F,Hooking,2.00,1,0,9268,Zach Dean,Jim Curtin,Johnny Daniels,,
+1028537,2,2nd,18:59,316,WBS,10962,Tanner Howe,22,RW,Tripping,2.00,1,0,10962,Tanner Howe,Jim Curtin,Johnny Daniels,,
+1028537,3,3rd,4:43,316,WBS,6845,Sebastian Aho,25,D,Tripping,2.00,1,0,6845,Sebastian Aho,Jim Curtin,Johnny Daniels,,

@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028559,1,1st,0:18,327,MIL,10832,Oasiz Wiesblatt,88,C,Roughing,2.00,0,0,10832,Oasiz Wiesblatt,Morgan MacPhee,Chad Ingalls,,
+1028559,1,1st,0:18,328,GR,10475,Gabriel Seger,11,LW,Roughing,2.00,0,0,10475,Gabriel Seger,Morgan MacPhee,Chad Ingalls,,
+1028559,2,2nd,4:36,327,MIL,9876,Reid Schaefer,49,LW,High-sticking,2.00,1,0,9876,Reid Schaefer,Morgan MacPhee,Chad Ingalls,,
+1028559,2,2nd,6:10,328,GR,6627,Dominik Shine,65,F,Slashing,2.00,1,0,6627,Dominik Shine,Morgan MacPhee,Chad Ingalls,,
+1028559,2,2nd,14:09,327,MIL,10832,Oasiz Wiesblatt,88,C,Tripping,2.00,1,0,10832,Oasiz Wiesblatt,Morgan MacPhee,Chad Ingalls,,
+1028559,2,2nd,17:40,328,GR,9973,Antti Tuomisto,4,D,Cross-checking,2.00,1,0,9973,Antti Tuomisto,Morgan MacPhee,Chad Ingalls,,
+1028559,2,2nd,18:34,327,MIL,10832,Oasiz Wiesblatt,88,C,Elbowing,2.00,1,0,10832,Oasiz Wiesblatt,Morgan MacPhee,Chad Ingalls,,

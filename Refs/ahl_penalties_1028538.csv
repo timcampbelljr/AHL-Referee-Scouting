@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028538,1,1st,6:40,335,TOR,10635,Blake Smith,59,D,High-sticking,2.00,1,0,10635,Blake Smith,Alex Lepkowski,James Kraft,,
+1028538,2,2nd,0:15,335,TOR,9072,Marshall Rifai,83,D,Holding,2.00,1,0,9072,Marshall Rifai,Alex Lepkowski,James Kraft,,
+1028538,2,2nd,12:47,319,HER,7024,Louie Belpedio,7,D,Tripping,2.00,1,0,7024,Louie Belpedio,Alex Lepkowski,James Kraft,,
+1028538,2,2nd,15:02,319,HER,10956,Reilly Webb,4,D,Tripping,2.00,1,0,10956,Reilly Webb,Alex Lepkowski,James Kraft,,
+1028538,2,2nd,16:58,335,TOR,7693,Benoit-Olivier Groulx,29,C,Goaltender interference,2.00,1,0,7693,Benoit-Olivier Groulx,Alex Lepkowski,James Kraft,,
+1028538,3,3rd,5:53,319,HER,8598,Graeme Clarke,92,RW,High-sticking,2.00,1,0,8598,Graeme Clarke,Alex Lepkowski,James Kraft,,

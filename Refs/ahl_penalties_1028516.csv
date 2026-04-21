@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028516,1,1st,6:06,419,COL,8500,Jack Ahcan,15,D,Interference,2.00,1,0,8500,Jack Ahcan,Ben Betker,Tyler Spott,,
+1028516,1,1st,16:19,330,CHI,8615,Nikita Pavlychev,15,C,Interference,2.00,1,0,8615,Nikita Pavlychev,Ben Betker,Tyler Spott,,
+1028516,2,2nd,2:21,330,CHI,10469,Justin Robidas,93,RW,Tripping,2.00,1,0,10469,Justin Robidas,Ben Betker,Tyler Spott,,
+1028516,2,2nd,3:02,419,COL,8500,Jack Ahcan,15,D,Holding,2.00,1,0,8500,Jack Ahcan,Ben Betker,Tyler Spott,,
+1028516,2,2nd,8:54,419,COL,7782,Luke Toporowski,61,RW,Tripping,2.00,1,0,7782,Luke Toporowski,Ben Betker,Tyler Spott,,
+1028516,3,3rd,0:22,419,COL,8500,Jack Ahcan,15,D,Tripping,2.00,1,0,8500,Jack Ahcan,Ben Betker,Tyler Spott,,
+1028516,3,3rd,2:22,419,COL,10561,Taylor Makar,16,F,Hooking,2.00,1,0,10561,Taylor Makar,Ben Betker,Tyler Spott,,
+1028516,3,3rd,5:44,330,CHI,7490,Juuso Välimäki,4,D,Tripping,2.00,1,0,7490,Juuso Välimäki,Ben Betker,Tyler Spott,,
+1028516,3,3rd,10:59,330,CHI,10622,Dominik Badinka,3,D,High-sticking,2.00,1,0,10622,Dominik Badinka,Ben Betker,Tyler Spott,,

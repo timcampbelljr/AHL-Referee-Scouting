@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028522,1,1st,3:37,372,RFD,10382,Kevin Korchinski,14,D,Holding,2.00,1,0,10382,Kevin Korchinski,Graedy Hamilton,Sydney Harris,,
+1028522,1,1st,9:51,327,MIL,9631,Joakim Kemell,25,F,Slashing,2.00,1,0,9631,Joakim Kemell,Graedy Hamilton,Sydney Harris,,
+1028522,1,1st,19:38,372,RFD,7927,Rem Pitlick,12,LW,Tripping,2.00,1,0,7927,Rem Pitlick,Graedy Hamilton,Sydney Harris,,
+1028522,2,2nd,5:41,327,MIL,10185,Andrew Gibson,6,D,Interference,2.00,0,0,10185,Andrew Gibson,Graedy Hamilton,Sydney Harris,,
+1028522,2,2nd,5:41,372,RFD,7027,Brett Seney,62,F,Holding,2.00,0,0,7027,Brett Seney,Graedy Hamilton,Sydney Harris,,
+1028522,2,2nd,6:52,372,RFD,6813,Dominic Toninato,25,C,Holding,2.00,1,0,6813,Dominic Toninato,Graedy Hamilton,Sydney Harris,,
+1028522,2,2nd,8:37,372,RFD,10563,Taige Harding,47,D,Tripping,2.00,1,0,10563,Taige Harding,Graedy Hamilton,Sydney Harris,,
+1028522,2,2nd,11:37,327,MIL,6403,Andreas Englund,8,D,Cross-checking,2.00,1,0,6403,Andreas Englund,Graedy Hamilton,Sydney Harris,,
+1028522,2,2nd,18:43,327,MIL,9664,Josh Davies,10,LW,Roughing,2.00,1,0,9664,Josh Davies,Graedy Hamilton,Sydney Harris,,
+1028522,3,3rd,1:28,327,MIL,9876,Reid Schaefer,49,LW,Hooking,2.00,1,0,9876,Reid Schaefer,Graedy Hamilton,Sydney Harris,,
+1028522,3,3rd,6:39,327,MIL,7121,Isaac Ratcliffe,15,LW,Cross-checking,2.00,0,0,7121,Isaac Ratcliffe,Graedy Hamilton,Sydney Harris,,
+1028522,3,3rd,6:39,372,RFD,10382,Kevin Korchinski,14,D,Cross-checking,2.00,0,0,10382,Kevin Korchinski,Graedy Hamilton,Sydney Harris,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028567,1,1st,19:30,316,WBS,4933,Matt Dumba,24,D,Slashing,2.00,1,0,4933,Matt Dumba,Ben Betker,Jack Young,,
+1028567,2,2nd,1:37,317,BRI,6807,Ethan Bear,49,D,Interference,2.00,1,0,6807,Ethan Bear,Ben Betker,Jack Young,,
+1028567,2,2nd,10:18,316,WBS,9984,Aidan McDonough,8,LW,Cross-checking,2.00,1,0,9984,Aidan McDonough,Ben Betker,Jack Young,,
+1028567,2,2nd,19:02,316,WBS,8892,Filip Hållander,11,LW,Hooking,2.00,1,0,8892,Filip Hållander,Ben Betker,Jack Young,,
+1028567,3,3rd,4:15,317,BRI,9689,Travis Mitchell,10,D,Major - Boarding,5.00,1,0,7627,Hunter Drew,Ben Betker,Jack Young,,
+1028567,3,3rd,4:15,317,BRI,9689,Travis Mitchell,10,D,Game misconduct - Boarding,10.00,0,0,9689,Travis Mitchell,Ben Betker,Jack Young,,

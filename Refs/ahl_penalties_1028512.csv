@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028512,1,1st,11:49,437,HSK,10285,Viliam Kmec,74,D,Slashing,2.00,1,0,10285,Viliam Kmec,Liam Maaskant,Jordan Deckard,,
+1028512,1,1st,17:32,437,HSK,7028,Mitch McLain,75,F,Hooking,2.00,1,0,7028,Mitch McLain,Liam Maaskant,Jordan Deckard,,
+1028512,2,2nd,19:28,405,SJ,8914,Egor Afanasyev,11,LW,Hooking,2.00,1,0,8914,Egor Afanasyev,Liam Maaskant,Jordan Deckard,,
+1028512,3,3rd,10:43,437,HSK,7444,Brandon Hickey,41,D,Roughing,2.00,1,0,7444,Brandon Hickey,Liam Maaskant,Jordan Deckard,,
+1028512,3,3rd,17:38,437,HSK,10680,Jackson Hallum,59,F,Hooking,2.00,1,0,10680,Jackson Hallum,Liam Maaskant,Jordan Deckard,,

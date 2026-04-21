@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028534,1,1st,15:06,440,ABB,7696,Chase Wouters,21,C,Slashing,2.00,1,0,7696,Chase Wouters,Jordan Watt,Tatu Kunto,,
+1028534,1,1st,19:12,403,ONT,6784,Glenn Gawdin,21,F,Unsportsmanlike conduct,2.00,1,0,6784,Glenn Gawdin,Jordan Watt,Tatu Kunto,,
+1028534,3,3rd,4:37,440,ABB,9406,Nils Åman,88,C,Interference,2.00,1,0,9406,Nils Åman,Jordan Watt,Tatu Kunto,,
