@@ -369,22 +369,33 @@ DATA_DIRS = [
 
 @st.cache_data
 def load_data(data_dirs: tuple) -> pd.DataFrame:
+    # Collect all CSV files across all folders
     files = []
     for d in data_dirs:
         if os.path.isdir(d):
             files.extend(glob.glob(os.path.join(d, "ahl_penalties_*.csv")))
     if not files:
         return pd.DataFrame()
+
+    # Deduplicate at the file level — if the same game_id CSV exists in
+    # multiple folders, only load it once (first one wins).
+    seen_game_ids = set()
     dfs = []
     for f in files:
         try:
+            # Extract game_id from filename: ahl_penalties_1028894.csv -> 1028894
+            basename = os.path.basename(f)
+            gid = int(basename.replace("ahl_penalties_", "").replace(".csv", ""))
+            if gid in seen_game_ids:
+                continue
+            seen_game_ids.add(gid)
             dfs.append(pd.read_csv(f))
         except Exception:
             pass
+
     if not dfs:
         return pd.DataFrame()
     df = pd.concat(dfs, ignore_index=True)
-    df.drop_duplicates(subset=["game_id", "player_id", "period", "time", "infraction"], inplace=True)
     df["minutes"]       = pd.to_numeric(df["minutes"], errors="coerce").fillna(0)
     df["is_power_play"] = df["is_power_play"].fillna(0).astype(int)
     df["is_bench"]      = df["is_bench"].fillna(0).astype(int)
