@@ -850,8 +850,9 @@ def render_ref_column(ref_name: str):
     team_data = team_data.sort_values("ref_games", ascending=False)
 
     def _bias_cell(val):
-        if val is None:
-            return f"<td><span style='color:#aaa;font-size:11px'>min {BIAS_MIN_GAMES}G</span></td>"
+        import math
+        if val is None or (isinstance(val, float) and math.isnan(val)):
+            return "<td>—</td>"
         color = "#8b0000" if val > 0 else "#1a6b16"
         sign  = "+" if val > 0 else ""
         return f"<td style='color:{color};font-weight:600'>{sign}{val}</td>"
