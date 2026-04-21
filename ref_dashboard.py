@@ -47,14 +47,15 @@ def _pct_color(val):
         return YELLOW, YELLOW_TXT
     return RED_BG, RED_TXT
 
-LOOSE_THRESHOLD  = 7   # 7 or fewer pen/game = loose (lets game go)
-TIGHT_THRESHOLD  = 11  # 11 or more pen/game = tight (calls everything)
-
-def _tight_label(ppg, avg=None):
-    """Fixed AHL thresholds: >=11 tight, 8-10 average, <=7 loose."""
-    if ppg >= TIGHT_THRESHOLD:
+def _tight_label(ppg, mean, sd):
+    """
+    1 SD above mean = Tight (calls everything).
+    1 SD below mean = Loose (lets it go).
+    Everything in between = Average.
+    """
+    if ppg >= mean + sd:
         return "Tight"
-    elif ppg <= LOOSE_THRESHOLD:
+    elif ppg <= mean - sd:
         return "Loose"
     return "Average"
 
@@ -88,6 +89,8 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_avg_ppg):
         fontSize=9, textColor=GOLD)
 
     story = []
+    ref_mean = summary["pen_per_game"].mean()
+    ref_sd   = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
 
     # Cover banner
     banner = Table([[
@@ -113,7 +116,7 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_avg_ppg):
         row   = summary[summary["ref"] == ref_name].iloc[0]
         df_r  = df_stacked[df_stacked["_ref"] == ref_name]
         games = row["games"]
-        tight = _tight_label(row["pen_per_game"], league_avg_ppg)
+        tight = _tight_label(row["pen_per_game"], ref_mean, ref_sd)
         sign  = "+" if row["pen_per_game"] >= league_avg_ppg else ""
         delta = round(row["pen_per_game"] - league_avg_ppg, 2)
         has_pct = games >= 3
@@ -521,10 +524,12 @@ def pct_badge(ref_name: str, col: str) -> str:
     return f'<span class="{cls}">{val}</span>'
 
 def tightness_badge(ppg: float) -> str:
-    """Fixed AHL thresholds: >=11 tight, 8-10 average, <=7 loose."""
-    if ppg >= TIGHT_THRESHOLD:
+    """1 SD above mean = Tight, 1 SD below mean = Loose, else Average."""
+    mean = summary["pen_per_game"].mean()
+    sd   = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
+    if ppg >= mean + sd:
         return '<span class="badge badge-tight">Tight</span>'
-    elif ppg <= LOOSE_THRESHOLD:
+    elif ppg <= mean - sd:
         return '<span class="badge badge-loose">Loose</span>'
     return '<span class="badge badge-avg">Average</span>'
 
