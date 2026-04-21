@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028096,2,2nd,6:56,411,SPR,10143,Dylan Peterson,22,F,Tripping,2.00,1,0,10143,Dylan Peterson,Chad Ingalls,Mathieu Menniti,,
+1028096,2,2nd,8:07,307,HFD,0,None None,0,,Too many men - Bench minor,2.00,1,1,10276,Carey Terrance,Chad Ingalls,Mathieu Menniti,,
+1028096,2,2nd,8:53,307,HFD,9119,Brendan Brisson,19,F,Tripping,2.00,1,0,9119,Brendan Brisson,Chad Ingalls,Mathieu Menniti,,
+1028096,2,2nd,12:53,307,HFD,9666,Adam Sýkora,10,F,Roughing,2.00,0,0,9666,Adam Sýkora,Chad Ingalls,Mathieu Menniti,,
+1028096,2,2nd,12:53,411,SPR,10495,Otto Stenberg,28,F,Roughing,2.00,0,0,10495,Otto Stenberg,Chad Ingalls,Mathieu Menniti,,
+1028096,2,2nd,16:56,411,SPR,10532,Jakub Stancl,49,F,Holding,2.00,1,0,10532,Jakub Stancl,Chad Ingalls,Mathieu Menniti,,
+1028096,3,3rd,18:12,411,SPR,5896,Matthew Peca,63,C,Tripping,2.00,1,0,5896,Matthew Peca,Chad Ingalls,Mathieu Menniti,,

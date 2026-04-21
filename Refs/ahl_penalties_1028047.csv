@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028047,1,1st,5:39,330,CHI,10463,Aleksi Heimosalmi,34,D,Hooking,2.00,1,0,10463,Aleksi Heimosalmi,Mike Sullivan,Jordan Deckard,,
+1028047,1,1st,13:41,372,RFD,10382,Kevin Korchinski,14,D,High-sticking,2.00,1,0,10382,Kevin Korchinski,Mike Sullivan,Jordan Deckard,,
+1028047,2,2nd,4:48,372,RFD,9833,Ethan Del Mastro,38,D,Holding,2.00,1,0,9833,Ethan Del Mastro,Mike Sullivan,Jordan Deckard,,
+1028047,2,2nd,7:59,372,RFD,9153,Nolan Allan,42,D,Cross-checking,2.00,1,0,9153,Nolan Allan,Mike Sullivan,Jordan Deckard,,
+1028047,2,2nd,10:30,372,RFD,9833,Ethan Del Mastro,38,D,Cross-checking,2.00,1,0,9833,Ethan Del Mastro,Mike Sullivan,Jordan Deckard,,
+1028047,2,2nd,15:58,330,CHI,6633,Gavin Bayreuther,55,D,Roughing,2.00,0,0,6633,Gavin Bayreuther,Mike Sullivan,Jordan Deckard,,
+1028047,2,2nd,15:58,372,RFD,7027,Brett Seney,62,F,Roughing,2.00,0,0,7027,Brett Seney,Mike Sullivan,Jordan Deckard,,
+1028047,2,2nd,17:55,330,CHI,10622,Dominik Badinka,4,D,Tripping,2.00,1,0,10622,Dominik Badinka,Mike Sullivan,Jordan Deckard,,
+1028047,3,3rd,2:26,330,CHI,10466,Gleb Trikozov,98,RW,Hooking,2.00,1,0,10466,Gleb Trikozov,Mike Sullivan,Jordan Deckard,,
+1028047,3,3rd,15:55,330,CHI,6633,Gavin Bayreuther,55,D,Cross-checking,2.00,1,0,6633,Gavin Bayreuther,Mike Sullivan,Jordan Deckard,,

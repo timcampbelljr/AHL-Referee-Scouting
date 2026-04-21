@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028018,2,2nd,5:02,323,ROC,9215,Noah Laaouan,36,D,Slashing,2.00,1,0,9215,Noah Laaouan,Mike Dietrich,Jake Kamrass,,
+1028018,2,2nd,10:35,323,ROC,10544,Tyler Kopff,21,LW,High-sticking,2.00,1,0,10544,Tyler Kopff,Mike Dietrich,Jake Kamrass,,
+1028018,2,2nd,10:56,317,BRI,10562,Joey Larson,17,F,High-sticking,2.00,1,0,10562,Joey Larson,Mike Dietrich,Jake Kamrass,,
+1028018,2,2nd,19:24,323,ROC,9643,Jagger Joshua,8,LW,Slashing,2.00,1,0,9643,Jagger Joshua,Mike Dietrich,Jake Kamrass,,
+1028018,3,3rd,7:55,323,ROC,10544,Tyler Kopff,21,LW,Interference,2.00,1,0,10544,Tyler Kopff,Mike Dietrich,Jake Kamrass,,
+1028018,3,3rd,17:05,323,ROC,9643,Jagger Joshua,8,LW,Slashing,2.00,0,0,9643,Jagger Joshua,Mike Dietrich,Jake Kamrass,,
+1028018,3,3rd,17:05,317,BRI,9954,Eetu Liukas,26,F,Slashing,2.00,0,0,9954,Eetu Liukas,Mike Dietrich,Jake Kamrass,,

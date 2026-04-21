@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028078,1,1st,3:36,389,IA,6616,Gerry Mayhew,20,C,High-sticking,2.00,1,0,6616,Gerry Mayhew,Hayden Verbeek,Jake Rekucki,,
+1028078,1,1st,15:39,328,GR,10932,Nolan Moyle,27,RW,Tripping,2.00,1,0,10932,Nolan Moyle,Hayden Verbeek,Jake Rekucki,,
+1028078,2,2nd,2:56,328,GR,10932,Nolan Moyle,27,RW,Fighting,5.00,0,0,10932,Nolan Moyle,Hayden Verbeek,Jake Rekucki,,
+1028078,2,2nd,2:56,389,IA,9799,Bradley Marek,10,F,Fighting,5.00,0,0,9799,Bradley Marek,Hayden Verbeek,Jake Rekucki,,
+1028078,2,2nd,15:12,328,GR,10453,Jakub Rychlovský,81,LW,Hooking,2.00,1,0,10453,Jakub Rychlovský,Hayden Verbeek,Jake Rekucki,,

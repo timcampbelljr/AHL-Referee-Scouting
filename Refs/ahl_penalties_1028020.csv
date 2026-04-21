@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028020,1,1st,5:13,390,UTC,9067,Brian Halonen,24,F,Goaltender interference,2.00,1,0,9067,Brian Halonen,Mike Sullivan,Nick Isaacson,,
+1028020,2,2nd,14:37,411,SPR,8718,Nikita Alexandrov,17,C,Tripping,2.00,1,0,8718,Nikita Alexandrov,Mike Sullivan,Nick Isaacson,,
+1028020,2,2nd,19:15,390,UTC,0,None None,0,,Too many men - Bench minor,2.00,1,1,9114,Thomas Bordeleau,Mike Sullivan,Nick Isaacson,,
+1028020,3,3rd,19:15,390,UTC,8891,Nathan Légaré,11,RW,Slashing,2.00,1,0,8891,Nathan Légaré,Mike Sullivan,Nick Isaacson,,

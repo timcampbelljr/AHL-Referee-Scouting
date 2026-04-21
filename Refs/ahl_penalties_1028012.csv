@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028012,1,1st,7:58,384,CLT,10056,Ben Steeves,6,F,High-sticking,2.00,1,0,10056,Ben Steeves,Ben Betker,Alex Joubert,,
+1028012,1,1st,14:57,328,GR,4085,Austin Watson,51,RW,Cross-checking,2.00,1,0,4085,Austin Watson,Ben Betker,Alex Joubert,,
+1028012,1,1st,18:15,384,CLT,5614,Trevor Carrick,5,D,Hooking,2.00,1,0,5614,Trevor Carrick,Ben Betker,Alex Joubert,,
+1028012,2,2nd,12:40,384,CLT,0,None None,0,,Delay of game (faceoff violation) - Bench minor,2.00,1,1,9695,Ryan McAllister,Ben Betker,Alex Joubert,,
+1028012,2,2nd,16:19,384,CLT,9880,Jake Livingstone,21,D,Tripping,2.00,1,0,9880,Jake Livingstone,Ben Betker,Alex Joubert,,
+1028012,3,3rd,5:05,384,CLT,9880,Jake Livingstone,21,D,Tripping,2.00,1,0,9880,Jake Livingstone,Ben Betker,Alex Joubert,,
+1028012,3,3rd,7:45,384,CLT,9988,Michael Benning,2,D,Holding,2.00,1,0,9988,Michael Benning,Ben Betker,Alex Joubert,,

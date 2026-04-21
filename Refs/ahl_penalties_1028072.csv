@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028072,1,1st,0:39,321,MB,7152,Kale Clague,56,D,Holding,2.00,1,0,7152,Kale Clague,Simon Desbiens,Mathieu Menniti,,
+1028072,1,1st,13:35,330,CHI,8615,Nikita Pavlychev,15,C,Interference,2.00,1,0,8615,Nikita Pavlychev,Simon Desbiens,Mathieu Menniti,,
+1028072,1,1st,15:57,321,MB,9555,Tyrel Bauer,2,D,Unsportsmanlike conduct,2.00,1,0,9555,Tyrel Bauer,Simon Desbiens,Mathieu Menniti,,
+1028072,2,2nd,2:00,321,MB,9759,Nikita Chibrikov,19,LW,Delay of game,2.00,1,0,9759,Nikita Chibrikov,Simon Desbiens,Mathieu Menniti,,
+1028072,3,3rd,6:29,321,MB,7152,Kale Clague,56,D,Cross-checking,2.00,1,0,7152,Kale Clague,Simon Desbiens,Mathieu Menniti,,
+1028072,3,3rd,14:59,330,CHI,10463,Aleksi Heimosalmi,34,D,Holding,2.00,1,0,10463,Aleksi Heimosalmi,Simon Desbiens,Mathieu Menniti,,

@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028080,2,2nd,5:45,321,MB,9555,Tyrel Bauer,2,D,Fighting,5.00,0,0,9555,Tyrel Bauer,Simon Desbiens,Mathieu Menniti,,
+1028080,2,2nd,5:45,330,CHI,6937,Yanick Turcotte,20,LW,Fighting,5.00,0,0,6937,Yanick Turcotte,Simon Desbiens,Mathieu Menniti,,
+1028080,2,2nd,16:38,330,CHI,9090,Noel Gunler,10,RW,Holding,2.00,1,0,9090,Noel Gunler,Simon Desbiens,Mathieu Menniti,,
+1028080,2,2nd,19:07,321,MB,7113,Mason Shaw,18,RW,Roughing,2.00,1,0,7113,Mason Shaw,Simon Desbiens,Mathieu Menniti,,

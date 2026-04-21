@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028088,1,1st,11:01,445,CV,10179,Kaden Hammell,47,D,Delay of game,2.00,1,0,10179,Kaden Hammell,Mike Dietrich,Jordan Watt,,
+1028088,1,1st,14:25,380,TEX,9456,Jack Becker,27,F,Slashing,2.00,1,0,9456,Jack Becker,Mike Dietrich,Jordan Watt,,
+1028088,2,2nd,1:15,445,CV,9755,Jagger Firkus,57,F,Hooking,2.00,1,0,9755,Jagger Firkus,Mike Dietrich,Jordan Watt,,
+1028088,2,2nd,9:19,445,CV,9756,Logan Morrison,96,F,Tripping,2.00,1,0,9756,Logan Morrison,Mike Dietrich,Jordan Watt,,
+1028088,3,3rd,8:45,380,TEX,10546,Artem Shlaine,38,F,Double minor - High-sticking,4.00,1,0,10546,Artem Shlaine,Mike Dietrich,Jordan Watt,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028032,1,1st,15:10,317,BRI,0,None None,0,,Too many men - Bench minor,2.00,1,1,7627,Hunter Drew,Jake Kamrass,Austin Rook,,
+1028032,2,2nd,3:44,324,SYR,10148,Dylan Duke,25,LW,Tripping,2.00,1,0,10148,Dylan Duke,Jake Kamrass,Austin Rook,,
+1028032,2,2nd,8:16,317,BRI,10040,Alex Jefferies,16,F,Tripping,2.00,1,0,10040,Alex Jefferies,Jake Kamrass,Austin Rook,,
+1028032,3,3rd,2:59,317,BRI,10521,Gleb Veremyev,28,F,Tripping,2.00,1,0,10521,Gleb Veremyev,Jake Kamrass,Austin Rook,,
+1028032,3,3rd,15:08,324,SYR,8922,Simon Lundmark,7,D,Hooking,2.00,1,0,8922,Simon Lundmark,Jake Kamrass,Austin Rook,,
+1028032,3,3rd,20:00,317,BRI,9689,Travis Mitchell,10,D,Misconduct - Abuse of officials,10.00,0,0,9689,Travis Mitchell,Jake Kamrass,Austin Rook,,

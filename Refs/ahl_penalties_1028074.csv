@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028074,1,1st,16:08,317,BRI,9442,Daylan Kuefler,11,F,Tripping,2.00,1,0,9442,Daylan Kuefler,Jared Cummins,Patrick Hanrahan,,
+1028074,2,2nd,9:10,411,SPR,9737,Michael Buchinger,9,D,High-sticking,2.00,1,0,9737,Michael Buchinger,Jared Cummins,Patrick Hanrahan,,
+1028074,3,3rd,2:09,317,BRI,8549,Adam Beckman,34,LW,High-sticking,2.00,1,0,8549,Adam Beckman,Jared Cummins,Patrick Hanrahan,,
+1028074,3,3rd,11:57,317,BRI,7627,Hunter Drew,36,RW,Cross-checking,2.00,1,0,7627,Hunter Drew,Jared Cummins,Patrick Hanrahan,,
+1028074,OT,OT,3:29,317,BRI,10020,Luke Rowe,24,D,Tripping,2.00,1,0,10020,Luke Rowe,Jared Cummins,Patrick Hanrahan,,

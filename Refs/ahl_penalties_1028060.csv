@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028060,1,1st,0:15,327,MIL,9622,Ryder Rolston,18,F,Double minor - High-sticking,4.00,1,0,9622,Ryder Rolston,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,5:22,327,MIL,10832,Oasiz Wiesblatt,88,C,Fighting,5.00,0,0,10832,Oasiz Wiesblatt,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,5:22,372,RFD,9839,Marcel Marcel,53,F,Fighting,5.00,0,0,9839,Marcel Marcel,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,10:18,327,MIL,7121,Isaac Ratcliffe,15,LW,Instigating,2.00,0,0,7121,Isaac Ratcliffe,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,10:18,327,MIL,7121,Isaac Ratcliffe,15,LW,Fighting,5.00,0,0,7121,Isaac Ratcliffe,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,10:18,327,MIL,7121,Isaac Ratcliffe,15,LW,Misconduct - Instigating,10.00,0,0,7121,Isaac Ratcliffe,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,10:18,372,RFD,9341,Andrew Perrott,75,D,Elbowing,2.00,0,0,9341,Andrew Perrott,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,10:18,372,RFD,9341,Andrew Perrott,75,D,Fighting,5.00,0,0,9341,Andrew Perrott,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,11:16,372,RFD,10563,Taige Harding,47,D,Boarding,2.00,1,0,10138,Nick Lardis,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,11:16,372,RFD,10563,Taige Harding,47,D,Fighting,5.00,0,0,10563,Taige Harding,Jarrett Burton,Jarrod Ragusin,,
+1028060,1,1st,11:16,327,MIL,8825,Kyle Marino,36,RW,Fighting,5.00,0,0,8825,Kyle Marino,Jarrett Burton,Jarrod Ragusin,,
+1028060,OT,OT,1:41,372,RFD,9153,Nolan Allan,42,D,High-sticking,2.00,1,0,9153,Nolan Allan,Jarrett Burton,Jarrod Ragusin,,

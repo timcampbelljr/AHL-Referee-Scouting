@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028048,1,1st,5:14,444,CGY,9447,Jérémie Poirier,4,D,Delay of game,2.00,1,0,9447,Jérémie Poirier,Graedy Hamilton,John Lindner,,
+1028048,2,2nd,1:48,444,CGY,5018,Martin Frk,29,RW,High-sticking,2.00,1,0,5018,Martin Frk,Graedy Hamilton,John Lindner,,
+1028048,2,2nd,6:17,444,CGY,8741,Nick Cicek,41,D,High-sticking,2.00,1,0,8741,Nick Cicek,Graedy Hamilton,John Lindner,,
+1028048,2,2nd,10:13,405,SJ,10699,Mattias Havelid,25,D,High-sticking,2.00,1,0,10699,Mattias Havelid,Graedy Hamilton,John Lindner,,
+1028048,3,3rd,1:50,405,SJ,10231,Kasper Halttunen,14,F,Hooking,2.00,1,0,10231,Kasper Halttunen,Graedy Hamilton,John Lindner,,
+1028048,3,3rd,6:11,405,SJ,9190,Pavol Regenda,84,LW,Tripping,2.00,1,0,9190,Pavol Regenda,Graedy Hamilton,John Lindner,,
+1028048,3,3rd,6:21,444,CGY,10923,Matvei Gridin,18,LW,Holding,2.00,1,0,10923,Matvei Gridin,Graedy Hamilton,John Lindner,,
+1028048,3,3rd,10:42,444,CGY,5018,Martin Frk,29,RW,Roughing,2.00,1,0,5018,Martin Frk,Graedy Hamilton,John Lindner,,

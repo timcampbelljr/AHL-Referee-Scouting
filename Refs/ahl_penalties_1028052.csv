@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028052,1,1st,9:58,390,UTC,7251,Ryan Schmelzer,26,C,Delay of game,2.00,1,0,7251,Ryan Schmelzer,Jared Cummins,Will Kelly,,
+1028052,1,1st,12:13,324,SYR,9693,Brendan Furry,13,LW,Interference,2.00,1,0,9693,Brendan Furry,Jared Cummins,Will Kelly,,
+1028052,1,1st,15:43,390,UTC,7251,Ryan Schmelzer,26,C,Roughing,2.00,1,0,7251,Ryan Schmelzer,Jared Cummins,Will Kelly,,
+1028052,1,1st,15:57,324,SYR,9202,Conor Geekie,94,C,Interference,2.00,1,0,9202,Conor Geekie,Jared Cummins,Will Kelly,,
+1028052,1,1st,18:14,390,UTC,9516,Xavier Parent,67,F,Cross-checking,2.00,1,0,9516,Xavier Parent,Jared Cummins,Will Kelly,,
+1028052,2,2nd,2:31,324,SYR,9749,Roman Schmidt,76,D,Fighting,5.00,0,0,9749,Roman Schmidt,Jared Cummins,Will Kelly,,
+1028052,2,2nd,2:31,390,UTC,8891,Nathan Légaré,11,RW,Fighting,5.00,0,0,8891,Nathan Légaré,Jared Cummins,Will Kelly,,
+1028052,3,3rd,15:18,390,UTC,6879,Dmitry Osipov,44,D,Fighting,5.00,0,0,6879,Dmitry Osipov,Jared Cummins,Will Kelly,,
+1028052,3,3rd,15:18,324,SYR,4910,Scott Sabourin,49,RW,Fighting,5.00,0,0,4910,Scott Sabourin,Jared Cummins,Will Kelly,,
+1028052,3,3rd,18:01,390,UTC,9516,Xavier Parent,67,F,Elbowing,2.00,1,0,9516,Xavier Parent,Jared Cummins,Will Kelly,,

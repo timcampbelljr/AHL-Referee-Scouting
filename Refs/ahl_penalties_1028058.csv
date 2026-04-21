@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028058,1,1st,5:16,437,HSK,5547,Jaycob Megna,88,D,Hooking,2.00,1,0,5547,Jaycob Megna,John Lindner,Tatu Kunto,,
+1028058,2,2nd,3:07,437,HSK,9279,Joe Fleming,50,F,Tripping,2.00,1,0,9279,Joe Fleming,John Lindner,Tatu Kunto,,
+1028058,2,2nd,6:42,403,ONT,10567,Otto Salin,10,D,Interference,2.00,1,0,10567,Otto Salin,John Lindner,Tatu Kunto,,
+1028058,2,2nd,9:07,403,ONT,7362,Logan Brown,91,F,Hooking,2.00,1,0,7362,Logan Brown,John Lindner,Tatu Kunto,,
+1028058,3,3rd,7:14,437,HSK,9279,Joe Fleming,50,F,Interference,2.00,1,0,9279,Joe Fleming,John Lindner,Tatu Kunto,,
+1028058,3,3rd,11:48,403,ONT,9241,Aatu Jämsen,86,F,Holding,2.00,1,0,9241,Aatu Jämsen,John Lindner,Tatu Kunto,,

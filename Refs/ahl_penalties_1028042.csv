@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028042,1,1st,6:08,411,SPR,10143,Dylan Peterson,22,F,Slashing,2.00,1,0,10143,Dylan Peterson,Johnny Daniels,Jim Curtin,,
+1028042,1,1st,14:34,307,HFD,10523,Jackson Dorrington,38,D,Interference,2.00,1,0,10523,Jackson Dorrington,Johnny Daniels,Jim Curtin,,
+1028042,3,3rd,9:38,307,HFD,9666,Adam Sýkora,10,F,Slashing,2.00,1,0,9666,Adam Sýkora,Johnny Daniels,Jim Curtin,,
+1028042,3,3rd,11:03,411,SPR,8630,Hunter Skinner,55,D,Roughing,2.00,0,0,8630,Hunter Skinner,Johnny Daniels,Jim Curtin,,
+1028042,3,3rd,11:03,307,HFD,7669,Trey Fix-Wolansky,64,F,Roughing,2.00,0,0,7669,Trey Fix-Wolansky,Johnny Daniels,Jim Curtin,,
+1028042,3,3rd,11:03,411,SPR,8630,Hunter Skinner,55,D,Roughing,2.00,1,0,6733,Matt Luff,Johnny Daniels,Jim Curtin,,
+1028042,3,3rd,15:41,307,HFD,7569,Casey Fitzgerald,4,D,Misconduct - Continuing altercation,10.00,0,0,7569,Casey Fitzgerald,Johnny Daniels,Jim Curtin,,
+1028042,3,3rd,15:41,307,HFD,7569,Casey Fitzgerald,4,D,Roughing,2.00,0,0,10123,Kalle Väisänen,Johnny Daniels,Jim Curtin,,
+1028042,3,3rd,15:41,411,SPR,6733,Matt Luff,39,RW,Misconduct - Continuing altercation,10.00,0,0,6733,Matt Luff,Johnny Daniels,Jim Curtin,,
+1028042,3,3rd,15:41,411,SPR,6733,Matt Luff,39,RW,Roughing,2.00,0,0,10841,Sam Stange,Johnny Daniels,Jim Curtin,,
+1028042,3,3rd,17:37,307,HFD,7669,Trey Fix-Wolansky,64,F,Slashing,2.00,1,0,7669,Trey Fix-Wolansky,Johnny Daniels,Jim Curtin,,

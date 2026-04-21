@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028033,1,1st,2:34,380,TEX,10449,Connor Punnett,24,D,Fighting,5.00,0,0,10449,Connor Punnett,Luke Stork,Riley Brace,,
+1028033,1,1st,2:34,372,RFD,9341,Andrew Perrott,75,D,Fighting,5.00,0,0,9341,Andrew Perrott,Luke Stork,Riley Brace,,
+1028033,1,1st,2:34,372,RFD,10317,Connor Mylymok,26,LW,Roughing,2.00,1,0,10317,Connor Mylymok,Luke Stork,Riley Brace,,
+1028033,1,1st,2:34,372,RFD,10317,Connor Mylymok,26,LW,Roughing,2.00,1,0,10317,Connor Mylymok,Luke Stork,Riley Brace,,
+1028033,1,1st,9:38,380,TEX,9548,Cross Hanas,32,F,Hooking,2.00,1,0,9548,Cross Hanas,Luke Stork,Riley Brace,,
+1028033,2,2nd,5:56,380,TEX,10449,Connor Punnett,24,D,High-sticking,2.00,1,0,10449,Connor Punnett,Luke Stork,Riley Brace,,
+1028033,3,3rd,2:06,380,TEX,9548,Cross Hanas,32,F,Hooking,2.00,1,0,9548,Cross Hanas,Luke Stork,Riley Brace,,
+1028033,3,3rd,7:10,372,RFD,9153,Nolan Allan,42,D,Holding,2.00,1,0,9153,Nolan Allan,Luke Stork,Riley Brace,,
+1028033,3,3rd,8:57,380,TEX,10135,Tristan Bertucci,3,D,Hooking,2.00,1,0,10135,Tristan Bertucci,Luke Stork,Riley Brace,,
+1028033,3,3rd,11:28,372,RFD,10317,Connor Mylymok,26,LW,Roughing,2.00,0,0,10317,Connor Mylymok,Luke Stork,Riley Brace,,
+1028033,3,3rd,11:28,380,TEX,4883,Curtis McKenzie,16,F,Roughing,2.00,0,0,4883,Curtis McKenzie,Luke Stork,Riley Brace,,

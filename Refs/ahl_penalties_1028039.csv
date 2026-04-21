@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028039,1,1st,3:20,412,TUC,7401,Cameron Hebig,39,C,Roughing,2.00,1,0,7401,Cameron Hebig,Liam Maaskant,Jackson Kozari,,
+1028039,1,1st,18:24,419,COL,9969,Ivan Ivan,82,F,Hooking,2.00,1,0,9969,Ivan Ivan,Liam Maaskant,Jackson Kozari,,
+1028039,2,2nd,1:35,419,COL,7218,Keaton Middleton,67,D,Slashing,2.00,1,0,7218,Keaton Middleton,Liam Maaskant,Jackson Kozari,,
+1028039,2,2nd,6:03,412,TUC,6037,Robbie Russo,5,D,Roughing,2.00,1,0,6037,Robbie Russo,Liam Maaskant,Jackson Kozari,,
+1028039,2,2nd,10:23,419,COL,4584,Jayson Megna,21,F,Tripping,2.00,1,0,4584,Jayson Megna,Liam Maaskant,Jackson Kozari,,
+1028039,2,2nd,14:22,419,COL,10661,Reilly Connors,86,C,Roughing,2.00,0,0,10661,Reilly Connors,Liam Maaskant,Jackson Kozari,,
+1028039,2,2nd,14:22,412,TUC,8740,Montana Onyebuchi,79,D,Roughing,2.00,0,0,8740,Montana Onyebuchi,Liam Maaskant,Jackson Kozari,,
+1028039,3,3rd,0:48,419,COL,10163,Sean Behrens,2,D,Interference,2.00,1,0,10163,Sean Behrens,Liam Maaskant,Jackson Kozari,,
+1028039,3,3rd,18:26,419,COL,7345,Alex Barré-Boulet,72,C,Misconduct - Unsportsmanlike conduct,10.00,0,0,7345,Alex Barré-Boulet,Liam Maaskant,Jackson Kozari,,
+1028039,3,3rd,18:26,419,COL,7345,Alex Barré-Boulet,72,C,High-sticking,2.00,1,0,10661,Reilly Connors,Liam Maaskant,Jackson Kozari,,

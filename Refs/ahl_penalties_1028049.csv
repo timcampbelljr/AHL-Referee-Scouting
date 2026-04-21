@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028049,1,1st,1:11,380,TEX,4883,Curtis McKenzie,16,F,Fighting,5.00,0,0,4883,Curtis McKenzie,Nolan Bloyer,Chad Ingalls,,
+1028049,1,1st,1:11,328,GR,4085,Austin Watson,51,RW,Fighting,5.00,0,0,4085,Austin Watson,Nolan Bloyer,Chad Ingalls,,
+1028049,1,1st,16:19,328,GR,4085,Austin Watson,51,RW,Boarding,2.00,1,0,4085,Austin Watson,Nolan Bloyer,Chad Ingalls,,
+1028049,2,2nd,16:37,380,TEX,10535,Trey Taylor,2,D,Interference,2.00,1,0,10535,Trey Taylor,Nolan Bloyer,Chad Ingalls,,
+1028049,3,3rd,0:34,328,GR,8654,Eduards Tralmaks,34,LW,Roughing,2.00,1,0,8654,Eduards Tralmaks,Nolan Bloyer,Chad Ingalls,,
+1028049,3,3rd,7:07,328,GR,10476,Carson Bantle,21,LW,High-sticking,2.00,1,0,10476,Carson Bantle,Nolan Bloyer,Chad Ingalls,,
+1028049,3,3rd,14:09,380,TEX,7101,Kole Lind,17,F,Match - Kicking,15.00,1,0,10527,Sean Chisholm,Nolan Bloyer,Chad Ingalls,,
+1028049,3,3rd,14:09,328,GR,6627,Dominik Shine,65,RW,Roughing,2.00,0,0,6627,Dominik Shine,Nolan Bloyer,Chad Ingalls,,

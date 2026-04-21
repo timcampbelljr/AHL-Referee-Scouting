@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028098,1,1st,16:11,372,RFD,10177,Samuel Savoie,67,F,Illegal check to the head,2.00,1,0,10177,Samuel Savoie,Ben Betker,Nolan Bloyer,,
+1028098,1,1st,18:01,419,COL,9571,Ronnie Attard,3,D,Hooking,2.00,1,0,9571,Ronnie Attard,Ben Betker,Nolan Bloyer,,
+1028098,2,2nd,9:01,372,RFD,10403,Dillon Boucher,36,F,Interference,2.00,1,0,10403,Dillon Boucher,Ben Betker,Nolan Bloyer,,
+1028098,2,2nd,19:10,419,COL,10561,Taylor Makar,16,F,High-sticking,2.00,1,0,10561,Taylor Makar,Ben Betker,Nolan Bloyer,,
+1028098,3,3rd,19:31,419,COL,5540,T.J. Tynan,9,F,Roughing,2.00,1,0,5540,T.J. Tynan,Ben Betker,Nolan Bloyer,,

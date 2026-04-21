@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028059,1,1st,3:14,323,ROC,5475,Mason Geertsen,4,LW,Fighting,5.00,0,0,5475,Mason Geertsen,Damian Figueira,Rob Hennessey,,
+1028059,1,1st,3:14,324,SYR,8884,Matteo Pietroniro,75,D,Fighting,5.00,0,0,8884,Matteo Pietroniro,Damian Figueira,Rob Hennessey,,
+1028059,1,1st,19:15,324,SYR,8553,Mitchell Chaffee,21,RW,Roughing,2.00,1,0,8553,Mitchell Chaffee,Damian Figueira,Rob Hennessey,,
+1028059,2,2nd,4:07,324,SYR,9749,Roman Schmidt,76,D,Tripping,2.00,1,0,9749,Roman Schmidt,Damian Figueira,Rob Hennessey,,
+1028059,2,2nd,11:50,323,ROC,9761,Olivier Nadeau,20,RW,High-sticking,2.00,1,0,9761,Olivier Nadeau,Damian Figueira,Rob Hennessey,,
+1028059,3,3rd,6:33,324,SYR,10566,Lucas Mercuri,11,LW,Tripping,2.00,1,0,10566,Lucas Mercuri,Damian Figueira,Rob Hennessey,,
+1028059,3,3rd,16:11,323,ROC,8705,Brendan Warren,45,RW,Tripping,2.00,1,0,8705,Brendan Warren,Damian Figueira,Rob Hennessey,,
+1028059,3,3rd,19:57,323,ROC,9930,Nikita Novikov,74,D,Slashing,2.00,1,0,9930,Nikita Novikov,Damian Figueira,Rob Hennessey,,

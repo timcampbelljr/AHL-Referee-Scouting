@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028061,1,1st,1:20,404,SD,9194,Tristan Luneau,6,D,Hooking,2.00,1,0,9194,Tristan Luneau,Ben Betker,Harrison O’Pray,,
+1028061,1,1st,3:44,445,CV,0,None None,0,,Too many men - Bench minor,2.00,1,1,9710,David Goyette,Ben Betker,Harrison O’Pray,,
+1028061,1,1st,8:14,445,CV,10190,Tyson Jugnauth,43,D,Holding,2.00,1,0,10190,Tyson Jugnauth,Ben Betker,Harrison O’Pray,,
+1028061,1,1st,12:40,445,CV,10190,Tyson Jugnauth,43,D,Delay of game,2.00,1,0,10190,Tyson Jugnauth,Ben Betker,Harrison O’Pray,,
+1028061,2,2nd,8:13,404,SD,6442,Nikolas Brouillard,15,D,Holding,2.00,1,0,6442,Nikolas Brouillard,Ben Betker,Harrison O’Pray,,
+1028061,2,2nd,11:41,445,CV,10179,Kaden Hammell,47,D,Interference,2.00,1,0,10179,Kaden Hammell,Ben Betker,Harrison O’Pray,,
+1028061,3,3rd,1:50,404,SD,6442,Nikolas Brouillard,15,D,Hooking,2.00,1,0,6442,Nikolas Brouillard,Ben Betker,Harrison O’Pray,,
+1028061,3,3rd,12:54,445,CV,9764,Ty Nelson,24,D,Hooking,2.00,1,0,9764,Ty Nelson,Ben Betker,Harrison O’Pray,,

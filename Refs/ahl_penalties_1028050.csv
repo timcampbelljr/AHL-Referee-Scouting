@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028050,1,1st,8:09,335,TOR,9624,Ryan Tverberg,77,F,Interference,2.00,1,0,9624,Ryan Tverberg,Alex Lepkowski,James Kraft,,
+1028050,1,1st,11:28,335,TOR,4573,Logan Shaw,11,F,Holding,2.00,1,0,4573,Logan Shaw,Alex Lepkowski,James Kraft,,
+1028050,1,1st,13:26,309,PRO,10869,Loke Johansson,15,D,Interference,2.00,1,0,10869,Loke Johansson,Alex Lepkowski,James Kraft,,
+1028050,1,1st,14:56,335,TOR,9994,Henry Thrun,3,D,Hooking,2.00,1,0,9994,Henry Thrun,Alex Lepkowski,James Kraft,,
+1028050,2,2nd,5:57,335,TOR,10426,Cade Webber,52,D,Delay of game,2.00,1,0,10426,Cade Webber,Alex Lepkowski,James Kraft,,
+1028050,2,2nd,8:56,309,PRO,10869,Loke Johansson,15,D,Interference,2.00,1,0,10869,Loke Johansson,Alex Lepkowski,James Kraft,,
+1028050,3,3rd,2:58,309,PRO,9712,Frederic Brunet,42,D,Interference,2.00,1,0,9712,Frederic Brunet,Alex Lepkowski,James Kraft,,
+1028050,3,3rd,9:06,309,PRO,9108,Georgii Merkulov,10,LW,Hooking,2.00,1,0,9108,Georgii Merkulov,Alex Lepkowski,James Kraft,,
+1028050,3,3rd,14:55,335,TOR,8738,William Villeneuve,76,D,Hooking,2.00,1,0,8738,William Villeneuve,Alex Lepkowski,James Kraft,,

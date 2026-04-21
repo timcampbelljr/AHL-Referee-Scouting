@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028063,1,1st,12:46,313,LV,9825,Alexis Gendron,72,F,Slashing,2.00,1,0,9825,Alexis Gendron,Mike Campbell,Will Kelly,,
+1028063,1,1st,14:56,316,WBS,7802,Rafaël Harvey-Pinard,49,LW,Tripping,2.00,1,0,7802,Rafaël Harvey-Pinard,Mike Campbell,Will Kelly,,
+1028063,2,2nd,1:57,313,LV,6872,Lane Pederson,25,C,Tripping,2.00,1,0,6872,Lane Pederson,Mike Campbell,Will Kelly,,
+1028063,2,2nd,9:56,313,LV,9378,Jacob Gaucher,56,F,Hooking,2.00,1,0,9378,Jacob Gaucher,Mike Campbell,Will Kelly,,
+1028063,2,2nd,13:25,316,WBS,9223,Gabe Klassen,64,C,Holding,2.00,1,0,9223,Gabe Klassen,Mike Campbell,Will Kelly,,
+1028063,2,2nd,15:24,313,LV,8805,Helge Grans,3,D,Interference,2.00,1,0,8805,Helge Grans,Mike Campbell,Will Kelly,,
+1028063,3,3rd,13:27,316,WBS,8559,Phil Tomasino,53,C,Tripping,2.00,1,0,8559,Phil Tomasino,Mike Campbell,Will Kelly,,

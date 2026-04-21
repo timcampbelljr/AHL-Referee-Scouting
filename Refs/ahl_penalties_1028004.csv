@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028004,1,1st,14:13,335,TOR,7383,Michael Pezzetta,61,LW,Hooking,2.00,1,0,7383,Michael Pezzetta,Riley Brace,Matt Mannella,,
+1028004,1,1st,16:10,413,BEL,9906,Djibril Touré,44,D,High-sticking,2.00,1,0,9906,Djibril Touré,Riley Brace,Matt Mannella,,
+1028004,1,1st,19:53,335,TOR,4573,Logan Shaw,11,F,Tripping,2.00,1,0,4573,Logan Shaw,Riley Brace,Matt Mannella,,
+1028004,2,2nd,10:55,335,TOR,10426,Cade Webber,52,D,Holding,2.00,1,0,10426,Cade Webber,Riley Brace,Matt Mannella,,
+1028004,2,2nd,16:13,335,TOR,9624,Ryan Tverberg,77,F,Holding the stick,2.00,1,0,9624,Ryan Tverberg,Riley Brace,Matt Mannella,,
+1028004,2,2nd,19:56,413,BEL,10145,Tomas Hamara,29,D,Roughing,2.00,1,0,10145,Tomas Hamara,Riley Brace,Matt Mannella,,
+1028004,3,3rd,7:04,413,BEL,9719,Jorian Donovan,11,D,Elbowing,2.00,1,0,9719,Jorian Donovan,Riley Brace,Matt Mannella,,
+1028004,3,3rd,13:56,335,TOR,10613,Borya Valis,39,F,Holding,2.00,1,0,10613,Borya Valis,Riley Brace,Matt Mannella,,

@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028035,1,1st,11:10,412,TUC,10208,Owen Allard,12,F,Boarding,2.00,1,0,10208,Owen Allard,Liam Maaskant,Jackson Kozari,,
+1028035,2,2nd,18:53,419,COL,10161,Maroš Jedlička,55,F,Tripping,2.00,1,0,10161,Maroš Jedlička,Liam Maaskant,Jackson Kozari,,
+1028035,3,3rd,6:11,419,COL,10561,Taylor Makar,16,F,Cross-checking,2.00,1,0,10561,Taylor Makar,Liam Maaskant,Jackson Kozari,,
+1028035,3,3rd,11:36,419,COL,9969,Ivan Ivan,82,F,Slashing,2.00,1,0,9969,Ivan Ivan,Liam Maaskant,Jackson Kozari,,

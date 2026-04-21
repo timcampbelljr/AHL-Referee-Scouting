@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028017,1,1st,2:23,309,PRO,9166,Brett Harrison,72,RW,High-sticking,2.00,1,0,9166,Brett Harrison,Jordan Deckard,Rob Hennessey,,
+1028017,1,1st,7:47,313,LV,4334,Garrett Wilson,17,LW,Tripping,2.00,1,0,4334,Garrett Wilson,Jordan Deckard,Rob Hennessey,,
+1028017,1,1st,9:58,313,LV,10552,Ty Murchison,4,D,Roughing,2.00,0,0,10552,Ty Murchison,Jordan Deckard,Rob Hennessey,,
+1028017,1,1st,9:58,309,PRO,9831,John Farinacci,26,C,Roughing,2.00,0,0,9831,John Farinacci,Jordan Deckard,Rob Hennessey,,
+1028017,1,1st,10:59,309,PRO,9729,Matthew Poitras,21,C,Tripping,2.00,1,0,9729,Matthew Poitras,Jordan Deckard,Rob Hennessey,,
+1028017,2,2nd,1:47,313,LV,10046,Hunter McDonald,19,D,Boarding,2.00,1,0,10046,Hunter McDonald,Jordan Deckard,Rob Hennessey,,
+1028017,3,3rd,7:28,309,PRO,10055,Riley Duran,11,RW,Hooking,2.00,1,0,10055,Riley Duran,Jordan Deckard,Rob Hennessey,,
+1028017,3,3rd,13:21,313,LV,9825,Alexis Gendron,72,F,Roughing,2.00,1,0,9825,Alexis Gendron,Jordan Deckard,Rob Hennessey,,

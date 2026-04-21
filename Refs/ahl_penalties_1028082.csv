@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028082,1,1st,16:07,444,CGY,9952,Lucas Ciona,17,LW,Fighting,5.00,0,0,9952,Lucas Ciona,Taylor Burzminski,Ben Solomon,,
+1028082,1,1st,16:07,440,ABB,5502,Jujhar Khaira,15,C,Fighting,5.00,0,0,5502,Jujhar Khaira,Taylor Burzminski,Ben Solomon,,
+1028082,2,2nd,7:33,440,ABB,9674,Ben Berard,29,LW,Hooking,2.00,1,0,9674,Ben Berard,Taylor Burzminski,Ben Solomon,,
+1028082,2,2nd,10:35,444,CGY,10103,David Silye,25,C,Holding,2.00,1,0,10103,David Silye,Taylor Burzminski,Ben Solomon,,
+1028082,2,2nd,12:07,444,CGY,8741,Nick Cicek,41,D,Cross-checking,2.00,1,0,8741,Nick Cicek,Taylor Burzminski,Ben Solomon,,
+1028082,2,2nd,18:53,440,ABB,5882,Joseph LaBate,14,C,Tripping,2.00,1,0,5882,Joseph LaBate,Taylor Burzminski,Ben Solomon,,

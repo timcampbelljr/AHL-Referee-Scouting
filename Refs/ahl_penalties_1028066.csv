@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028066,1,1st,1:04,335,TOR,10425,Rhett Parsons,85,D,Roughing,2.00,0,0,10425,Rhett Parsons,Beau Halkidis,Nick Isaacson,,
+1028066,1,1st,1:04,384,CLT,10110,Riese Gaber,39,F,Roughing,2.00,0,0,10110,Riese Gaber,Beau Halkidis,Nick Isaacson,,
+1028066,1,1st,11:37,384,CLT,10915,Hunter St. Martin,19,F,Hooking,2.00,1,0,10915,Hunter St. Martin,Beau Halkidis,Nick Isaacson,,
+1028066,2,2nd,11:04,335,TOR,10425,Rhett Parsons,85,D,Interference,2.00,1,0,10425,Rhett Parsons,Beau Halkidis,Nick Isaacson,,
+1028066,2,2nd,15:55,384,CLT,10915,Hunter St. Martin,19,F,Hooking,2.00,1,0,10915,Hunter St. Martin,Beau Halkidis,Nick Isaacson,,
+1028066,3,3rd,0:26,335,TOR,7579,Reese Johnson,65,RW,Slashing,2.00,1,0,7579,Reese Johnson,Beau Halkidis,Nick Isaacson,,
+1028066,3,3rd,4:31,335,TOR,10525,Luke Haymes,43,C,Tripping,2.00,1,0,10525,Luke Haymes,Beau Halkidis,Nick Isaacson,,
+1028066,3,3rd,7:48,335,TOR,9910,Vyacheslav Peksa,50,G,Tripping,2.00,1,0,5918,Travis Boyd,Beau Halkidis,Nick Isaacson,,

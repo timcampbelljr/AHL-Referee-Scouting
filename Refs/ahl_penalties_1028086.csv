@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028086,1,1st,7:17,413,BEL,6653,Hayden Hodgson,42,RW,Holding,2.00,1,0,6653,Hayden Hodgson,Damian Figueira,Mathieu Menniti,,
+1028086,2,2nd,8:37,413,BEL,8442,Jamieson Rees,19,LW,Tripping,2.00,1,0,8442,Jamieson Rees,Damian Figueira,Mathieu Menniti,,
+1028086,2,2nd,10:42,335,TOR,9023,Marc Johnstone,57,RW,Fighting,5.00,0,0,9023,Marc Johnstone,Damian Figueira,Mathieu Menniti,,
+1028086,2,2nd,10:42,413,BEL,9485,Olle Lycksell,15,RW,High-sticking,2.00,1,0,9485,Olle Lycksell,Damian Figueira,Mathieu Menniti,,
+1028086,2,2nd,10:42,413,BEL,9719,Jorian Donovan,11,D,Fighting,5.00,0,0,9719,Jorian Donovan,Damian Figueira,Mathieu Menniti,,
+1028086,2,2nd,19:13,335,TOR,10119,Noah Chadwick,58,D,Delay of game,2.00,1,0,10119,Noah Chadwick,Damian Figueira,Mathieu Menniti,,
+1028086,3,3rd,2:23,335,TOR,10613,Borya Valis,39,F,Major - Elbowing,5.00,1,0,6489,Alex Nylander,Damian Figueira,Mathieu Menniti,,
+1028086,3,3rd,2:23,335,TOR,10613,Borya Valis,39,F,Game misconduct - Elbowing,10.00,0,0,10613,Borya Valis,Damian Figueira,Mathieu Menniti,,
+1028086,3,3rd,13:49,335,TOR,6681,Vinni Lettieri,71,C,Slashing,2.00,1,0,6681,Vinni Lettieri,Damian Figueira,Mathieu Menniti,,
+1028086,3,3rd,15:08,335,TOR,6681,Vinni Lettieri,71,C,Misconduct - Unsportsmanlike conduct,10.00,0,0,6681,Vinni Lettieri,Damian Figueira,Mathieu Menniti,,

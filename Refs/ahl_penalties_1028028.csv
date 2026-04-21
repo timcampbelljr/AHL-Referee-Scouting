@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028028,1,1st,15:51,321,MB,7680,Samuel Fagemo,16,LW,High-sticking,2.00,1,0,7680,Samuel Fagemo,Chad Ingalls,Beau Halkidis,,
+1028028,1,1st,16:24,330,CHI,8615,Nikita Pavlychev,15,C,Hooking,2.00,1,0,8615,Nikita Pavlychev,Chad Ingalls,Beau Halkidis,,
+1028028,2,2nd,2:36,321,MB,5469,Phillip Di Giuseppe,34,LW,Roughing - Removing opponent's helmet,2.00,1,0,5469,Phillip Di Giuseppe,Chad Ingalls,Beau Halkidis,,
+1028028,2,2nd,14:17,330,CHI,10778,David Gagnon,37,LW,Tripping,2.00,1,0,10778,David Gagnon,Chad Ingalls,Beau Halkidis,,
+1028028,3,3rd,3:50,330,CHI,10466,Gleb Trikozov,98,RW,Hooking,2.00,1,0,10466,Gleb Trikozov,Chad Ingalls,Beau Halkidis,,

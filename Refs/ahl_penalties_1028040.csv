@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028040,1,1st,3:38,321,MB,7680,Samuel Fagemo,16,LW,Hooking,2.00,1,0,7680,Samuel Fagemo,Bobby Jo Love,David Elford,,
+1028040,1,1st,9:13,321,MB,7118,Jaret Anderson-Dolan,28,C,Roughing,2.00,0,0,7118,Jaret Anderson-Dolan,Bobby Jo Love,David Elford,,
+1028040,1,1st,9:13,413,BEL,8442,Jamieson Rees,19,LW,Roughing,2.00,0,0,8442,Jamieson Rees,Bobby Jo Love,David Elford,,
+1028040,1,1st,9:52,321,MB,0,None None,0,,Too many men - Bench minor,2.00,1,1,9557,Brad Lambert,Bobby Jo Love,David Elford,,
+1028040,1,1st,10:05,321,MB,8424,Isaak Phillips,3,D,Hooking,2.00,1,0,8424,Isaak Phillips,Bobby Jo Love,David Elford,,
+1028040,2,2nd,10:35,321,MB,7118,Jaret Anderson-Dolan,28,C,Tripping,2.00,1,0,7118,Jaret Anderson-Dolan,Bobby Jo Love,David Elford,,
+1028040,2,2nd,13:12,413,BEL,9684,Mark Duarte,8,RW,Tripping,2.00,1,0,9684,Mark Duarte,Bobby Jo Love,David Elford,,
+1028040,2,2nd,15:39,413,BEL,8442,Jamieson Rees,19,LW,Tripping,2.00,1,0,8442,Jamieson Rees,Bobby Jo Love,David Elford,,
+1028040,3,3rd,7:33,321,MB,7777,David Gustafsson,27,C,Slashing,2.00,1,0,7777,David Gustafsson,Bobby Jo Love,David Elford,,

@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028041,2,2nd,1:41,380,TEX,9456,Jack Becker,27,F,High-sticking,2.00,1,0,9456,Jack Becker,Nolan Bloyer,Chad Ingalls,,
+1028041,2,2nd,13:13,380,TEX,7016,Cameron Hughes,19,F,Roughing,2.00,1,0,7016,Cameron Hughes,Nolan Bloyer,Chad Ingalls,,
+1028041,2,2nd,17:34,328,GR,9973,Antti Tuomisto,4,D,High-sticking,2.00,1,0,9973,Antti Tuomisto,Nolan Bloyer,Chad Ingalls,,
+1028041,3,3rd,11:29,380,TEX,10535,Trey Taylor,2,D,Interference,2.00,1,0,10535,Trey Taylor,Nolan Bloyer,Chad Ingalls,,

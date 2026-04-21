@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028065,1,1st,17:48,413,BEL,10145,Tomas Hamara,29,D,Tripping,2.00,1,0,10145,Tomas Hamara,Jack Young,Mitchell Hardy,,
+1028065,3,3rd,4:34,309,PRO,8462,Billy Sweezey,6,D,Tripping,2.00,1,0,8462,Billy Sweezey,Jack Young,Mitchell Hardy,,
+1028065,3,3rd,5:07,309,PRO,9435,Joey Abate,47,LW,Tripping,2.00,1,0,9435,Joey Abate,Jack Young,Mitchell Hardy,,
+1028065,3,3rd,5:27,413,BEL,7713,Jan Jeník,24,C,Interference,2.00,1,0,7713,Jan Jeník,Jack Young,Mitchell Hardy,,

@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028094,1,1st,12:01,323,ROC,9927,Viktor Neuchev,79,RW,High-sticking,2.00,1,0,9927,Viktor Neuchev,Riley Brace,Jack Young,,
+1028094,1,1st,17:52,384,CLT,7337,Brian Pinho,26,F,Slashing,2.00,1,0,7337,Brian Pinho,Riley Brace,Jack Young,,
+1028094,2,2nd,6:15,323,ROC,10444,Konsta Helenius,91,C,Delay of game,2.00,1,0,10444,Konsta Helenius,Riley Brace,Jack Young,,
+1028094,2,2nd,12:35,323,ROC,5475,Mason Geertsen,4,LW,Interference,2.00,1,0,5475,Mason Geertsen,Riley Brace,Jack Young,,
+1028094,2,2nd,15:39,384,CLT,10459,Mikulas Hovorka,14,D,Roughing,2.00,0,0,10459,Mikulas Hovorka,Riley Brace,Jack Young,,
+1028094,2,2nd,15:39,323,ROC,9700,Trevor Kuntar,16,LW,Roughing,2.00,0,0,9700,Trevor Kuntar,Riley Brace,Jack Young,,
+1028094,2,2nd,17:39,384,CLT,7337,Brian Pinho,26,F,Hooking,2.00,1,0,7337,Brian Pinho,Riley Brace,Jack Young,,
+1028094,3,3rd,1:32,323,ROC,5475,Mason Geertsen,4,LW,Roughing,2.00,1,0,5475,Mason Geertsen,Riley Brace,Jack Young,,
+1028094,3,3rd,3:52,323,ROC,9927,Viktor Neuchev,79,RW,High-sticking,2.00,1,0,9927,Viktor Neuchev,Riley Brace,Jack Young,,
+1028094,3,3rd,5:15,384,CLT,10110,Riese Gaber,39,F,Tripping,2.00,1,0,10110,Riese Gaber,Riley Brace,Jack Young,,
+1028094,3,3rd,10:37,384,CLT,9745,Marek Alscher,27,D,Tripping,2.00,1,0,9745,Marek Alscher,Riley Brace,Jack Young,,
+1028094,3,3rd,19:23,384,CLT,10915,Hunter St. Martin,19,F,Hooking,2.00,1,0,10915,Hunter St. Martin,Riley Brace,Jack Young,,

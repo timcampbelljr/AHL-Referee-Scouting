@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028038,1,1st,19:23,389,IA,9154,Oskar Olausson,24,F,Holding,2.00,1,0,9154,Oskar Olausson,Bobby Jo Love,Alex Gagné,,
+1028038,2,2nd,14:00,335,TOR,6681,Vinni Lettieri,71,C,Holding,2.00,1,0,6681,Vinni Lettieri,Bobby Jo Love,Alex Gagné,,
+1028038,2,2nd,16:44,335,TOR,5918,Travis Boyd,72,F,Hooking,2.00,1,0,5918,Travis Boyd,Bobby Jo Love,Alex Gagné,,
+1028038,2,2nd,17:24,389,IA,9154,Oskar Olausson,24,F,Tripping,2.00,1,0,9154,Oskar Olausson,Bobby Jo Love,Alex Gagné,,
+1028038,3,3rd,0:28,389,IA,8937,Matt Kiersted,23,D,High-sticking,2.00,1,0,8937,Matt Kiersted,Bobby Jo Love,Alex Gagné,,
+1028038,3,3rd,3:13,335,TOR,7383,Michael Pezzetta,61,LW,Holding,2.00,1,0,7383,Michael Pezzetta,Bobby Jo Love,Alex Gagné,,
+1028038,3,3rd,7:56,335,TOR,10426,Cade Webber,52,D,Tripping,2.00,1,0,10426,Cade Webber,Bobby Jo Love,Alex Gagné,,
+1028038,3,3rd,16:14,335,TOR,10426,Cade Webber,52,D,High-sticking,2.00,1,0,10426,Cade Webber,Bobby Jo Love,Alex Gagné,,

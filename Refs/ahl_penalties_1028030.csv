@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028030,1,1st,13:06,404,SD,10274,Yegor Sidorov,19,LW,Cross-checking,2.00,1,0,10274,Yegor Sidorov,Alex Lepkowski,Tyler Spott,,
+1028030,1,1st,17:49,404,SD,7309,Travis Howe,24,RW,Fighting,5.00,0,0,7309,Travis Howe,Alex Lepkowski,Tyler Spott,,
+1028030,1,1st,17:49,444,CGY,6142,Alex Gallant,20,LW,Fighting,5.00,0,0,6142,Alex Gallant,Alex Lepkowski,Tyler Spott,,
+1028030,2,2nd,16:03,444,CGY,5018,Martin Frk,29,RW,Hooking,2.00,1,0,5018,Martin Frk,Alex Lepkowski,Tyler Spott,,
+1028030,3,3rd,0:24,444,CGY,5018,Martin Frk,29,RW,Hooking,2.00,1,0,5018,Martin Frk,Alex Lepkowski,Tyler Spott,,
+1028030,3,3rd,8:34,444,CGY,9952,Lucas Ciona,17,LW,High-sticking,2.00,1,0,9952,Lucas Ciona,Alex Lepkowski,Tyler Spott,,
+1028030,3,3rd,11:15,404,SD,9185,Nathan Gaucher,17,C,Holding,2.00,1,0,9185,Nathan Gaucher,Alex Lepkowski,Tyler Spott,,
+1028030,3,3rd,12:35,404,SD,10076,Nico Myatovic,21,LW,Delay of game,2.00,1,0,10076,Nico Myatovic,Alex Lepkowski,Tyler Spott,,
+1028030,3,3rd,17:04,444,CGY,8617,Rory Kerins,6,C,Holding,2.00,1,0,8617,Rory Kerins,Alex Lepkowski,Tyler Spott,,

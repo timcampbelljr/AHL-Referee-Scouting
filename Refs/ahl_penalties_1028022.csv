@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028022,1,1st,6:05,402,BAK,8696,Ethan Keppen,63,RW,Holding,2.00,1,0,8696,Ethan Keppen,Jack Young,Jordan Watt,,
+1028022,2,2nd,1:32,402,BAK,10874,Quinn Hutson,23,RW,Tripping,2.00,1,0,10874,Quinn Hutson,Jack Young,Jordan Watt,,
+1028022,2,2nd,7:05,402,BAK,8696,Ethan Keppen,63,RW,Roughing,2.00,1,0,5080,Seth Griffith,Jack Young,Jordan Watt,,
+1028022,2,2nd,7:05,403,ONT,5976,Joe Hicketts,27,D,Fighting,5.00,0,0,5976,Joe Hicketts,Jack Young,Jordan Watt,,
+1028022,2,2nd,7:05,402,BAK,8696,Ethan Keppen,63,RW,Fighting,5.00,0,0,8696,Ethan Keppen,Jack Young,Jordan Watt,,
+1028022,2,2nd,12:33,403,ONT,0,None None,0,,Too many men - Bench minor,2.00,0,1,9241,Aatu Jämsen,Jack Young,Jordan Watt,,
+1028022,2,2nd,12:33,402,BAK,5080,Seth Griffith,39,LW,Slashing,2.00,0,0,5080,Seth Griffith,Jack Young,Jordan Watt,,
+1028022,2,2nd,16:12,403,ONT,9357,Cole Guttman,81,F,Slashing,2.00,1,0,9357,Cole Guttman,Jack Young,Jordan Watt,,
+1028022,2,2nd,19:18,403,ONT,5976,Joe Hicketts,27,D,Cross-checking,2.00,1,0,5976,Joe Hicketts,Jack Young,Jordan Watt,,
+1028022,3,3rd,6:16,402,BAK,6780,Max Jones,46,LW,Holding,2.00,1,0,6780,Max Jones,Jack Young,Jordan Watt,,
+1028022,3,3rd,10:46,402,BAK,5080,Seth Griffith,39,LW,Holding,2.00,1,0,5080,Seth Griffith,Jack Young,Jordan Watt,,

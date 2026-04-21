@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028023,1,1st,4:53,373,CLE,9978,James Malatesta,11,LW,Roughing,2.00,0,0,9978,James Malatesta,Jared Cummins,Jonathon Sitarski,,
+1028023,1,1st,4:53,319,HER,9820,Jon McDonald,47,D,Roughing,2.00,0,0,9820,Jon McDonald,Jared Cummins,Jonathon Sitarski,,
+1028023,1,1st,4:53,319,HER,9820,Jon McDonald,47,D,Tripping,2.00,1,0,9734,Alex Suzdalev,Jared Cummins,Jonathon Sitarski,,
+1028023,1,1st,6:08,319,HER,7545,Corey Schueneman,6,D,Delay of game,2.00,1,0,7545,Corey Schueneman,Jared Cummins,Jonathon Sitarski,,
+1028023,1,1st,11:01,373,CLE,9634,Mikael Pyyhtiä,82,LW,Delay of game,2.00,1,0,9634,Mikael Pyyhtiä,Jared Cummins,Jonathon Sitarski,,
+1028023,1,1st,16:56,319,HER,9972,Ivan Miroshnichenko,10,LW,Holding,2.00,1,0,9972,Ivan Miroshnichenko,Jared Cummins,Jonathon Sitarski,,
+1028023,2,2nd,7:45,319,HER,6910,Spencer Smallman,11,C,Fighting,5.00,0,0,6910,Spencer Smallman,Jared Cummins,Jonathon Sitarski,,
+1028023,2,2nd,7:45,373,CLE,9978,James Malatesta,11,LW,Fighting,5.00,0,0,9978,James Malatesta,Jared Cummins,Jonathon Sitarski,,
+1028023,2,2nd,18:34,319,HER,7921,Brett Leason,23,RW,Interference,2.00,1,0,7921,Brett Leason,Jared Cummins,Jonathon Sitarski,,
+1028023,3,3rd,6:02,319,HER,9881,Sam Bitten,43,RW,Slashing,2.00,1,0,9881,Sam Bitten,Jared Cummins,Jonathon Sitarski,,

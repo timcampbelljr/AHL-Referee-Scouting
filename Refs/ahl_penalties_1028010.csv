@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028010,1,1st,4:36,321,MB,5929,Ashton Sautner,6,D,Hooking,2.00,1,0,5929,Ashton Sautner,Chad Ingalls,Mike Campbell,,
+1028010,1,1st,6:42,330,CHI,9168,Ronan Seeley,8,D,Interference,2.00,1,0,9168,Ronan Seeley,Chad Ingalls,Mike Campbell,,
+1028010,2,2nd,12:13,330,CHI,9090,Noel Gunler,10,LW,Roughing,2.00,0,0,9090,Noel Gunler,Chad Ingalls,Mike Campbell,,
+1028010,2,2nd,12:13,321,MB,9746,Danny Zhilkin,17,C,Roughing,2.00,0,0,9746,Danny Zhilkin,Chad Ingalls,Mike Campbell,,
+1028010,2,2nd,17:57,321,MB,9656,Parker Ford,25,RW,Roughing,2.00,1,0,9656,Parker Ford,Chad Ingalls,Mike Campbell,,
+1028010,3,3rd,12:55,321,MB,10112,Dylan Anhorn,47,D,Delay of game,2.00,1,0,10112,Dylan Anhorn,Chad Ingalls,Mike Campbell,,

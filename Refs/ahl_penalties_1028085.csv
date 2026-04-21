@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028085,1,1st,14:57,402,BAK,5080,Seth Griffith,39,LW,Cross-checking,2.00,1,0,5080,Seth Griffith,Beau Halkidis,Sydney Harris,,
+1028085,2,2nd,5:15,402,BAK,10599,Rhett Pitlick,68,RW,Hooking,2.00,1,0,10599,Rhett Pitlick,Beau Halkidis,Sydney Harris,,
+1028085,2,2nd,12:00,412,TUC,10214,Noel Nordh,45,F,High-sticking,2.00,1,0,10214,Noel Nordh,Beau Halkidis,Sydney Harris,,
+1028085,2,2nd,14:12,402,BAK,6780,Max Jones,46,LW,Roughing,2.00,0,0,6780,Max Jones,Beau Halkidis,Sydney Harris,,
+1028085,2,2nd,14:12,412,TUC,8734,Ben McCartney,22,F,Roughing,2.00,0,0,8734,Ben McCartney,Beau Halkidis,Sydney Harris,,
+1028085,2,2nd,14:16,412,TUC,9396,Sammy Walker,25,F,High-sticking,2.00,1,0,9396,Sammy Walker,Beau Halkidis,Sydney Harris,,
+1028085,3,3rd,18:55,412,TUC,8734,Ben McCartney,22,F,Slashing,2.00,1,0,8734,Ben McCartney,Beau Halkidis,Sydney Harris,,

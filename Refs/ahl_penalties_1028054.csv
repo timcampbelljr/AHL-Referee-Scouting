@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028054,1,1st,16:51,384,CLT,10512,Brett Chorske,36,F,Delay of game,2.00,1,0,10512,Brett Chorske,Beau Halkidis,Nick Isaacson,,
+1028054,2,2nd,0:41,335,TOR,8738,William Villeneuve,76,D,Tripping,2.00,1,0,8738,William Villeneuve,Beau Halkidis,Nick Isaacson,,
+1028054,2,2nd,3:18,384,CLT,5614,Trevor Carrick,5,D,Slashing,2.00,1,0,5614,Trevor Carrick,Beau Halkidis,Nick Isaacson,,
+1028054,2,2nd,11:09,384,CLT,5614,Trevor Carrick,5,D,Holding,2.00,1,0,5614,Trevor Carrick,Beau Halkidis,Nick Isaacson,,
+1028054,3,3rd,19:43,384,CLT,10512,Brett Chorske,36,F,Roughing,2.00,0,0,10512,Brett Chorske,Beau Halkidis,Nick Isaacson,,
+1028054,3,3rd,19:43,335,TOR,7579,Reese Johnson,65,RW,Misconduct - Continuing altercation,10.00,0,0,7579,Reese Johnson,Beau Halkidis,Nick Isaacson,,
+1028054,3,3rd,19:43,335,TOR,7579,Reese Johnson,65,RW,Roughing,2.00,0,0,7579,Reese Johnson,Beau Halkidis,Nick Isaacson,,
+1028054,3,3rd,20:00,384,CLT,10914,Anton Lundmark,15,F,Roughing,2.00,0,0,10914,Anton Lundmark,Beau Halkidis,Nick Isaacson,,
+1028054,3,3rd,20:00,384,CLT,8011,MacKenzie Entwistle,18,RW,Fighting,5.00,0,0,8011,MacKenzie Entwistle,Beau Halkidis,Nick Isaacson,,
+1028054,3,3rd,20:00,335,TOR,10635,Blake Smith,59,D,Fighting,5.00,0,0,10635,Blake Smith,Beau Halkidis,Nick Isaacson,,
+1028054,3,3rd,20:00,335,TOR,7383,Michael Pezzetta,61,LW,Roughing,2.00,0,0,7383,Michael Pezzetta,Beau Halkidis,Nick Isaacson,,

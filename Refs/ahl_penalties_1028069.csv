@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028069,1,1st,18:40,419,COL,9638,Mark Senden,51,F,High-sticking,2.00,1,0,9638,Mark Senden,Austin Rook,Mike Dietrich,,
+1028069,1,1st,18:40,419,COL,8500,Jack Ahcan,15,D,Roughing,2.00,0,0,8500,Jack Ahcan,Austin Rook,Mike Dietrich,,
+1028069,1,1st,18:40,405,SJ,10234,Quentin Musty,13,F,Roughing,2.00,0,0,10234,Quentin Musty,Austin Rook,Mike Dietrich,,
+1028069,2,2nd,4:51,419,COL,8500,Jack Ahcan,15,D,High-sticking,2.00,1,0,8500,Jack Ahcan,Austin Rook,Mike Dietrich,,
+1028069,2,2nd,5:19,419,COL,4584,Jayson Megna,21,F,Hooking,2.00,1,0,4584,Jayson Megna,Austin Rook,Mike Dietrich,,
+1028069,2,2nd,8:30,405,SJ,10234,Quentin Musty,13,F,Closing hand on puck,2.00,1,0,10234,Quentin Musty,Austin Rook,Mike Dietrich,,
+1028069,2,2nd,12:39,419,COL,8500,Jack Ahcan,15,D,Hooking,2.00,1,0,8500,Jack Ahcan,Austin Rook,Mike Dietrich,,
+1028069,2,2nd,14:33,419,COL,7782,Luke Toporowski,61,RW,Roughing,2.00,1,0,7782,Luke Toporowski,Austin Rook,Mike Dietrich,,
+1028069,3,3rd,9:16,419,COL,5540,T.J. Tynan,9,F,Interference,2.00,1,0,5540,T.J. Tynan,Austin Rook,Mike Dietrich,,
+1028069,3,3rd,15:04,405,SJ,10234,Quentin Musty,13,F,Holding,2.00,1,0,10234,Quentin Musty,Austin Rook,Mike Dietrich,,

@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028013,1,1st,11:21,307,HFD,8622,Connor Mackey,14,D,Cross-checking,2.00,1,0,8622,Connor Mackey,Jim Curtin,Samuel Heidemann,,
+1028013,1,1st,11:29,316,WBS,9984,Aidan McDonough,8,LW,Holding the stick,2.00,1,0,9984,Aidan McDonough,Jim Curtin,Samuel Heidemann,,
+1028013,1,1st,19:54,307,HFD,4957,Derrick Pouliot,51,D,Interference,2.00,1,0,4957,Derrick Pouliot,Jim Curtin,Samuel Heidemann,,
+1028013,2,2nd,4:46,307,HFD,7669,Trey Fix-Wolansky,64,F,Hooking,2.00,1,0,7669,Trey Fix-Wolansky,Jim Curtin,Samuel Heidemann,,
+1028013,2,2nd,10:18,307,HFD,10276,Carey Terrance,11,F,Roughing,2.00,0,0,10276,Carey Terrance,Jim Curtin,Samuel Heidemann,,
+1028013,2,2nd,10:18,316,WBS,7733,Zach Gallant,62,RW,Roughing,2.00,0,0,7733,Zach Gallant,Jim Curtin,Samuel Heidemann,,
+1028013,3,3rd,2:04,316,WBS,6845,Sebastian Aho,25,D,Cross-checking,2.00,1,0,6845,Sebastian Aho,Jim Curtin,Samuel Heidemann,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028076,1,1st,11:43,412,TUC,3697,Kevin Connauton,44,D,Delay of game,2.00,1,0,3697,Kevin Connauton,Tyler Spott,Austin O’Rourke,,
+1028076,1,1st,18:40,412,TUC,9396,Sammy Walker,25,F,Holding,2.00,1,0,9396,Sammy Walker,Tyler Spott,Austin O’Rourke,,
+1028076,2,2nd,15:33,412,TUC,8740,Montana Onyebuchi,79,D,Boarding,2.00,1,0,8740,Montana Onyebuchi,Tyler Spott,Austin O’Rourke,,
+1028076,2,2nd,18:52,412,TUC,0,None None,0,,Too many men - Bench minor,2.00,1,1,10214,Noel Nordh,Tyler Spott,Austin O’Rourke,,
+1028076,2,2nd,19:18,440,ABB,10089,Ty Mueller,39,C,Interference,2.00,1,0,10089,Ty Mueller,Tyler Spott,Austin O’Rourke,,
+1028076,3,3rd,14:25,412,TUC,9207,Julian Lutz,43,F,Boarding,2.00,1,0,9207,Julian Lutz,Tyler Spott,Austin O’Rourke,,

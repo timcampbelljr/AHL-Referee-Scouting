@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028081,1,1st,5:57,380,TEX,10135,Tristan Bertucci,3,D,Holding,2.00,1,0,10135,Tristan Bertucci,Riley Brace,Jacob Hicks,,
+1028081,2,2nd,1:01,403,ONT,6784,Glenn Gawdin,21,F,Tripping,2.00,1,0,6784,Glenn Gawdin,Riley Brace,Jacob Hicks,,
+1028081,2,2nd,11:07,380,TEX,10135,Tristan Bertucci,3,D,Tripping,2.00,1,0,10135,Tristan Bertucci,Riley Brace,Jacob Hicks,,
+1028081,2,2nd,17:38,403,ONT,10199,Jakub Dvořák,55,D,Holding,2.00,1,0,10199,Jakub Dvořák,Riley Brace,Jacob Hicks,,
+1028081,2,2nd,19:50,403,ONT,9081,Andre Lee,26,F,Slashing,2.00,1,0,9081,Andre Lee,Riley Brace,Jacob Hicks,,
+1028081,3,3rd,4:52,380,TEX,4883,Curtis McKenzie,16,F,High-sticking,2.00,1,0,4883,Curtis McKenzie,Riley Brace,Jacob Hicks,,

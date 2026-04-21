@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028053,1,1st,12:03,411,SPR,5039,Kale Kessy,13,LW,Fighting,5.00,0,0,5039,Kale Kessy,Alex Lepkowski,Jared Cummins,,
+1028053,1,1st,12:03,317,BRI,7627,Hunter Drew,36,RW,Fighting,5.00,0,0,7627,Hunter Drew,Alex Lepkowski,Jared Cummins,,
+1028053,2,2nd,9:16,317,BRI,7627,Hunter Drew,36,RW,Holding,2.00,1,0,7627,Hunter Drew,Alex Lepkowski,Jared Cummins,,
+1028053,2,2nd,16:50,317,BRI,10564,Cam Berg,14,F,Double minor - High-sticking,4.00,1,0,10564,Cam Berg,Alex Lepkowski,Jared Cummins,,
+1028053,3,3rd,1:07,411,SPR,10920,Theo Lindstein,4,D,Holding,2.00,1,0,10920,Theo Lindstein,Alex Lepkowski,Jared Cummins,,
+1028053,3,3rd,7:52,411,SPR,10920,Theo Lindstein,4,D,Holding,2.00,1,0,10920,Theo Lindstein,Alex Lepkowski,Jared Cummins,,
+1028053,3,3rd,13:58,317,BRI,0,None None,0,,Delay of game (faceoff violation) - Bench minor,2.00,0,1,9443,Matthew Maggio,Alex Lepkowski,Jared Cummins,,
+1028053,3,3rd,13:58,411,SPR,10839,Juraj Pekarcik,18,F,Tripping,2.00,0,0,10839,Juraj Pekarcik,Alex Lepkowski,Jared Cummins,,

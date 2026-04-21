@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028087,1,1st,8:56,330,CHI,10182,Bryce Montgomery,58,D,Hooking,2.00,1,0,10182,Bryce Montgomery,Ben Betker,Ibrahim Arifi,,
+1028087,1,1st,11:54,321,MB,5929,Ashton Sautner,6,D,Interference,2.00,1,0,5929,Ashton Sautner,Ben Betker,Ibrahim Arifi,,
+1028087,2,2nd,4:47,330,CHI,10001,Domenick Fensore,2,D,Roughing,2.00,0,0,10001,Domenick Fensore,Ben Betker,Ibrahim Arifi,,
+1028087,2,2nd,4:47,321,MB,8706,Walker Duehr,7,RW,Roughing,2.00,0,0,8706,Walker Duehr,Ben Betker,Ibrahim Arifi,,
+1028087,2,2nd,5:46,321,MB,7152,Kale Clague,56,D,Slashing,2.00,1,0,7152,Kale Clague,Ben Betker,Ibrahim Arifi,,
+1028087,3,3rd,0:24,330,CHI,10001,Domenick Fensore,2,D,Tripping,2.00,1,0,10001,Domenick Fensore,Ben Betker,Ibrahim Arifi,,
+1028087,3,3rd,4:18,321,MB,10112,Dylan Anhorn,47,D,Holding,2.00,1,0,10112,Dylan Anhorn,Ben Betker,Ibrahim Arifi,,
+1028087,3,3rd,6:36,330,CHI,8615,Nikita Pavlychev,15,C,Tripping,2.00,1,0,8615,Nikita Pavlychev,Ben Betker,Ibrahim Arifi,,
+1028087,3,3rd,15:44,330,CHI,6633,Gavin Bayreuther,55,D,Slashing,2.00,1,0,6633,Gavin Bayreuther,Ben Betker,Ibrahim Arifi,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028007,2,2nd,4:33,372,RFD,0,None None,0,,Too many men - Bench minor,2.00,1,1,10618,Aidan Thompson,Shaun Davis,Harrison O’Pray,,
+1028007,2,2nd,17:36,328,GR,4085,Austin Watson,51,RW,Fighting,5.00,0,0,4085,Austin Watson,Shaun Davis,Harrison O’Pray,,
+1028007,2,2nd,17:36,372,RFD,10317,Connor Mylymok,26,LW,Fighting,5.00,0,0,10317,Connor Mylymok,Shaun Davis,Harrison O’Pray,,
+1028007,3,3rd,0:18,328,GR,10476,Carson Bantle,21,LW,Slashing,2.00,1,0,10476,Carson Bantle,Shaun Davis,Harrison O’Pray,,
+1028007,3,3rd,1:02,328,GR,6627,Dominik Shine,65,RW,High-sticking,2.00,1,0,6627,Dominik Shine,Shaun Davis,Harrison O’Pray,,
+1028007,3,3rd,6:20,328,GR,10932,Nolan Moyle,27,RW,Slashing,2.00,1,0,10932,Nolan Moyle,Shaun Davis,Harrison O’Pray,,
+1028007,3,3rd,13:35,328,GR,10008,Alex Doucet,47,LW,Hooking,2.00,1,0,10008,Alex Doucet,Shaun Davis,Harrison O’Pray,,
+1028007,3,3rd,14:19,372,RFD,9153,Nolan Allan,42,D,Hooking,2.00,1,0,9153,Nolan Allan,Shaun Davis,Harrison O’Pray,,
+1028007,3,3rd,14:40,372,RFD,10177,Samuel Savoie,67,F,Tripping,2.00,1,0,10177,Samuel Savoie,Shaun Davis,Harrison O’Pray,,

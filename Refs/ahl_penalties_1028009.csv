@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028009,1,1st,6:23,319,HER,10133,Cam Allen,2,D,Roughing,2.00,1,0,9972,Ivan Miroshnichenko,Mike Dietrich,Stephen Hiff,,
+1028009,1,1st,6:23,373,CLE,9618,Corson Ceulemans,4,D,Fighting,5.00,0,0,9618,Corson Ceulemans,Mike Dietrich,Stephen Hiff,,
+1028009,1,1st,6:23,373,CLE,9025,Roman Ahcan,37,LW,Roughing,2.00,0,0,9025,Roman Ahcan,Mike Dietrich,Stephen Hiff,,
+1028009,1,1st,6:23,319,HER,9012,Justin Nachbaur,32,LW,Fighting,5.00,0,0,9012,Justin Nachbaur,Mike Dietrich,Stephen Hiff,,
+1028009,1,1st,6:23,319,HER,10133,Cam Allen,2,D,Roughing,2.00,0,0,10133,Cam Allen,Mike Dietrich,Stephen Hiff,,
+1028009,1,1st,9:28,373,CLE,9633,Justin Pearson,24,LW,Interference,2.00,1,0,9633,Justin Pearson,Mike Dietrich,Stephen Hiff,,
+1028009,1,1st,11:07,373,CLE,3750,Brendan Smith,7,D,Hooking,2.00,1,0,3750,Brendan Smith,Mike Dietrich,Stephen Hiff,,
+1028009,2,2nd,4:12,319,HER,9820,Jon McDonald,47,D,Holding,2.00,1,0,9820,Jon McDonald,Mike Dietrich,Stephen Hiff,,
+1028009,3,3rd,2:04,319,HER,7921,Brett Leason,23,RW,Tripping,2.00,1,0,7921,Brett Leason,Mike Dietrich,Stephen Hiff,,
+1028009,3,3rd,12:09,373,CLE,9904,Tate Singleton,48,C,Holding,2.00,1,0,9904,Tate Singleton,Mike Dietrich,Stephen Hiff,,

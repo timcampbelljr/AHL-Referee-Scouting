@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028064,1,1st,7:19,402,BAK,10877,Josh Samanski,81,C,Interference,2.00,1,0,10877,Josh Samanski,Riley Brace,Jacob Hicks,,
+1028064,1,1st,13:41,437,HSK,10680,Jackson Hallum,59,F,Holding,2.00,1,0,10680,Jackson Hallum,Riley Brace,Jacob Hicks,,
+1028064,2,2nd,6:27,402,BAK,10594,Damien Carfagna,73,D,Holding,2.00,1,0,10594,Damien Carfagna,Riley Brace,Jacob Hicks,,
+1028064,2,2nd,9:09,402,BAK,10876,Viljami Marjala,57,C,Slashing,2.00,1,0,10876,Viljami Marjala,Riley Brace,Jacob Hicks,,
+1028064,2,2nd,14:03,402,BAK,9384,Luke Prokop,77,D,Holding,2.00,1,0,9384,Luke Prokop,Riley Brace,Jacob Hicks,,
+1028064,2,2nd,18:15,437,HSK,9279,Joe Fleming,50,F,Roughing,2.00,1,0,9279,Joe Fleming,Riley Brace,Jacob Hicks,,
+1028064,2,2nd,18:15,437,HSK,9279,Joe Fleming,50,F,Unsportsmanlike conduct,2.00,0,0,10280,Tuomas Uronen,Riley Brace,Jacob Hicks,,
+1028064,2,2nd,18:15,402,BAK,7352,Riley Stillman,61,D,Roughing,2.00,0,0,7352,Riley Stillman,Riley Brace,Jacob Hicks,,
+1028064,3,3rd,6:18,437,HSK,10280,Tuomas Uronen,37,F,Slashing,2.00,1,0,10280,Tuomas Uronen,Riley Brace,Jacob Hicks,,
+1028064,3,3rd,17:24,437,HSK,7926,Jeremy Davies,84,D,Roughing,2.00,0,0,7926,Jeremy Davies,Riley Brace,Jacob Hicks,,
+1028064,3,3rd,17:24,402,BAK,6780,Max Jones,46,LW,Roughing,2.00,0,0,6780,Max Jones,Riley Brace,Jacob Hicks,,
