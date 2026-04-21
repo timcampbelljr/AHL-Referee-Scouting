@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028813,1,1st,1:15,415,LAV,9520,William Trudeau,84,D,Holding,2.00,1,0,9520,William Trudeau,Liam Maaskant,Dan Kovachik,,
+1028813,1,1st,12:23,444,CGY,10547,Carter Wilkie,16,C,Holding,2.00,1,0,10547,Carter Wilkie,Liam Maaskant,Dan Kovachik,,
+1028813,1,1st,17:54,415,LAV,10149,Luke Tuch,17,LW,Holding,2.00,1,0,10149,Luke Tuch,Liam Maaskant,Dan Kovachik,,
+1028813,2,2nd,9:13,415,LAV,10601,Tyler Thorpe,6,RW,Roughing,2.00,0,0,10601,Tyler Thorpe,Liam Maaskant,Dan Kovachik,,
+1028813,2,2nd,9:13,444,CGY,9952,Lucas Ciona,17,LW,Roughing,2.00,0,0,9952,Lucas Ciona,Liam Maaskant,Dan Kovachik,,
+1028813,2,2nd,13:48,415,LAV,10036,David Reinbacher,64,D,Boarding,2.00,1,0,10036,David Reinbacher,Liam Maaskant,Dan Kovachik,,
+1028813,2,2nd,15:57,415,LAV,9093,Lucas Condotta,42,LW,High-sticking,2.00,1,0,9093,Lucas Condotta,Liam Maaskant,Dan Kovachik,,
+1028813,3,3rd,15:40,444,CGY,6453,Clark Bishop,19,C,Roughing,2.00,0,0,6453,Clark Bishop,Liam Maaskant,Dan Kovachik,,
+1028813,3,3rd,15:40,415,LAV,10367,Owen Beck,62,F,Roughing,2.00,0,0,10367,Owen Beck,Liam Maaskant,Dan Kovachik,,
+1028813,3,3rd,19:12,415,LAV,10139,Florian Xhekaj,63,C,Misconduct - Unsportsmanlike conduct,10.00,0,0,10139,Florian Xhekaj,Liam Maaskant,Dan Kovachik,,

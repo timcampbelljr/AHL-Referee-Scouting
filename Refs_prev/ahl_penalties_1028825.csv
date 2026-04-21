@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028825,1,1st,11:05,319,HER,9356,Henrik Rybinski,12,C,Roughing,2.00,0,0,9356,Henrik Rybinski,Chad Ingalls,Samuel Heidemann,,
+1028825,1,1st,11:05,307,HFD,10189,Dylan Roobroeck,28,F,Roughing,2.00,0,0,10189,Dylan Roobroeck,Chad Ingalls,Samuel Heidemann,,
+1028825,2,2nd,14:11,319,HER,9881,Sam Bitten,43,LW,Roughing,2.00,0,0,10345,Kyler Kupka,Chad Ingalls,Samuel Heidemann,,
+1028825,2,2nd,14:11,307,HFD,7569,Casey Fitzgerald,4,D,Fighting,5.00,0,0,7569,Casey Fitzgerald,Chad Ingalls,Samuel Heidemann,,
+1028825,2,2nd,14:11,307,HFD,10735,Cooper Moore,3,D,Roughing,2.00,0,0,10735,Cooper Moore,Chad Ingalls,Samuel Heidemann,,
+1028825,2,2nd,14:11,319,HER,9881,Sam Bitten,43,LW,Fighting,5.00,0,0,9881,Sam Bitten,Chad Ingalls,Samuel Heidemann,,
+1028825,2,2nd,19:53,307,HFD,10735,Cooper Moore,3,D,Hooking,2.00,1,0,10735,Cooper Moore,Chad Ingalls,Samuel Heidemann,,

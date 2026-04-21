@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028781,1,1st,11:10,313,LV,9484,Adam Ginning,37,D,Holding,2.00,1,0,9484,Adam Ginning,Damian Figueira,Alex Joubert,,
+1028781,2,2nd,1:47,313,LV,10976,Noah Powell,10,RW,Interference,2.00,1,0,10976,Noah Powell,Damian Figueira,Alex Joubert,,
+1028781,2,2nd,4:16,313,LV,9484,Adam Ginning,37,D,Tripping,2.00,1,0,9484,Adam Ginning,Damian Figueira,Alex Joubert,,
+1028781,2,2nd,15:28,319,HER,7584,Matt Strome,45,C,Slashing,2.00,1,0,7584,Matt Strome,Damian Figueira,Alex Joubert,,
+1028781,3,3rd,4:41,313,LV,6872,Lane Pederson,25,C,Boarding,2.00,1,0,6872,Lane Pederson,Damian Figueira,Alex Joubert,,
+1028781,3,3rd,15:13,313,LV,10046,Hunter McDonald,19,D,Roughing,2.00,0,0,10046,Hunter McDonald,Damian Figueira,Alex Joubert,,
+1028781,3,3rd,15:13,319,HER,10174,Andrew Cristall,20,LW,Roughing,2.00,0,0,10174,Andrew Cristall,Damian Figueira,Alex Joubert,,
+1028781,3,3rd,18:23,319,HER,10644,Ilya Protas,40,C,Hooking,2.00,1,0,10644,Ilya Protas,Damian Figueira,Alex Joubert,,

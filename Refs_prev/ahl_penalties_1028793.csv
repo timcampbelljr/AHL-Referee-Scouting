@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028793,1,1st,13:18,307,HFD,9667,Bryce McConnell-Barker,18,F,High-sticking,2.00,1,0,9667,Bryce McConnell-Barker,Riley Brace,David Elford,,
+1028793,1,1st,16:49,384,CLT,9745,Marek Alscher,27,D,Tripping,2.00,1,0,9745,Marek Alscher,Riley Brace,David Elford,,
+1028793,2,2nd,2:52,307,HFD,5944,Daniel Walcott,85,LW,Tripping,2.00,1,0,5944,Daniel Walcott,Riley Brace,David Elford,,
+1028793,2,2nd,2:59,307,HFD,7569,Casey Fitzgerald,4,D,Delay of game,2.00,1,0,7569,Casey Fitzgerald,Riley Brace,David Elford,,
+1028793,2,2nd,5:20,307,HFD,7669,Trey Fix-Wolansky,64,F,Roughing,2.00,0,0,7669,Trey Fix-Wolansky,Riley Brace,David Elford,,
+1028793,2,2nd,5:20,384,CLT,10110,Riese Gaber,39,F,Roughing,2.00,0,0,10110,Riese Gaber,Riley Brace,David Elford,,
+1028793,2,2nd,10:23,307,HFD,10465,Scott Morrow,55,D,Tripping,2.00,1,0,10465,Scott Morrow,Riley Brace,David Elford,,
+1028793,2,2nd,14:31,307,HFD,7669,Trey Fix-Wolansky,64,F,Cross-checking,2.00,1,0,7669,Trey Fix-Wolansky,Riley Brace,David Elford,,
+1028793,2,2nd,15:13,384,CLT,10056,Ben Steeves,6,F,Cross-checking,2.00,0,0,10056,Ben Steeves,Riley Brace,David Elford,,
+1028793,2,2nd,15:13,307,HFD,7569,Casey Fitzgerald,4,D,Roughing,2.00,0,0,7569,Casey Fitzgerald,Riley Brace,David Elford,,
+1028793,2,2nd,17:10,384,CLT,5614,Trevor Carrick,5,D,Slashing,2.00,1,0,5614,Trevor Carrick,Riley Brace,David Elford,,
+1028793,OT,OT,4:20,307,HFD,0,None None,0,,Too many men - Bench minor,2.00,1,1,5944,Daniel Walcott,Riley Brace,David Elford,,

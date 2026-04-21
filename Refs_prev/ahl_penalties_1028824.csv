@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028824,1,1st,3:05,373,CLE,9980,Hunter McKown,41,C,Fighting,5.00,0,0,9980,Hunter McKown,Hayden Verbeek,Jake Rekucki,,
+1028824,1,1st,3:05,327,MIL,5489,Jordan Oesterle,82,D,Fighting,5.00,0,0,5489,Jordan Oesterle,Hayden Verbeek,Jake Rekucki,,
+1028824,1,1st,4:40,327,MIL,7512,Jake Lucchini,19,C,Roughing,2.00,0,0,7512,Jake Lucchini,Hayden Verbeek,Jake Rekucki,,
+1028824,1,1st,4:40,373,CLE,10176,Luca Pinelli,53,LW,Roughing,2.00,0,0,10176,Luca Pinelli,Hayden Verbeek,Jake Rekucki,,
+1028824,1,1st,5:21,327,MIL,10185,Andrew Gibson,6,D,Slashing,2.00,1,0,10185,Andrew Gibson,Hayden Verbeek,Jake Rekucki,,
+1028824,1,1st,7:20,327,MIL,8825,Kyle Marino,36,RW,Roughing,2.00,1,0,8825,Kyle Marino,Hayden Verbeek,Jake Rekucki,,
+1028824,1,1st,12:54,373,CLE,10556,Guillaume Richard,26,D,Cross-checking,2.00,1,0,10556,Guillaume Richard,Hayden Verbeek,Jake Rekucki,,
+1028824,1,1st,17:11,327,MIL,10185,Andrew Gibson,6,D,Interference,2.00,1,0,10185,Andrew Gibson,Hayden Verbeek,Jake Rekucki,,
+1028824,2,2nd,1:28,373,CLE,9058,Owen Sillinger,12,C,Fighting,5.00,0,0,9058,Owen Sillinger,Hayden Verbeek,Jake Rekucki,,
+1028824,2,2nd,1:28,327,MIL,10832,Oasiz Wiesblatt,88,C,Fighting,5.00,0,0,10832,Oasiz Wiesblatt,Hayden Verbeek,Jake Rekucki,,
+1028824,2,2nd,4:04,327,MIL,7698,Zack Hayes,65,D,High-sticking,2.00,1,0,7698,Zack Hayes,Hayden Verbeek,Jake Rekucki,,

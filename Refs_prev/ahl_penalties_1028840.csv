@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028840,1,1st,11:08,403,ONT,10711,Henry Brzustewicz,68,D,Interference,2.00,1,0,10711,Henry Brzustewicz,Nolan Bloyer,John Lindner,,
+1028840,2,2nd,14:15,403,ONT,10125,Jack Millar,45,D,Slashing,2.00,1,0,10125,Jack Millar,Nolan Bloyer,John Lindner,,
+1028840,2,2nd,19:09,419,COL,10161,Maroš Jedlička,55,F,Holding,2.00,1,0,10161,Maroš Jedlička,Nolan Bloyer,John Lindner,,
+1028840,3,3rd,11:12,403,ONT,10711,Henry Brzustewicz,68,D,Slashing,2.00,1,0,10711,Henry Brzustewicz,Nolan Bloyer,John Lindner,,
+1028840,3,3rd,15:48,403,ONT,9081,Andre Lee,26,F,Tripping,2.00,1,0,9081,Andre Lee,Nolan Bloyer,John Lindner,,

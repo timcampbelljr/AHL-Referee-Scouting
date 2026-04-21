@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028802,1,1st,8:14,403,ONT,9930,Nikita Novikov,74,D,Slashing,2.00,1,0,9930,Nikita Novikov,Riley Brace,Adam Tobias,,
+1028802,1,1st,10:46,445,CV,5471,Gustav Olofsson,23,D,Hooking,2.00,1,0,5471,Gustav Olofsson,Riley Brace,Adam Tobias,,
+1028802,2,2nd,3:27,403,ONT,9357,Cole Guttman,81,F,High-sticking,2.00,1,0,9357,Cole Guttman,Riley Brace,Adam Tobias,,
+1028802,2,2nd,8:44,445,CV,10083,Lleyton Roed,29,F,Hooking,2.00,1,0,10083,Lleyton Roed,Riley Brace,Adam Tobias,,

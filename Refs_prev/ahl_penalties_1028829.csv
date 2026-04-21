@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028829,1,1st,13:15,321,MB,11040,Lucas Wahlin,33,F,High-sticking,2.00,1,0,11040,Lucas Wahlin,Bobby Jo Love,Brendan Schreider,,
+1028829,1,1st,18:30,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Cross-checking,2.00,1,0,10629,Michael Brandsegg-Nygård,Bobby Jo Love,Brendan Schreider,,
+1028829,1,1st,19:05,321,MB,10112,Dylan Anhorn,47,D,Tripping,2.00,1,0,10112,Dylan Anhorn,Bobby Jo Love,Brendan Schreider,,

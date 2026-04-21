@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028808,1,1st,16:44,440,ABB,9554,Arshdeep Bains,13,LW,Slashing,2.00,1,0,9554,Arshdeep Bains,Ben Betker,Taylor Burzminski,,
+1028808,1,1st,17:45,445,CV,10127,Jani Nyman,33,F,Hooking,2.00,1,0,10127,Jani Nyman,Ben Betker,Taylor Burzminski,,
+1028808,2,2nd,0:36,440,ABB,10974,Bennett Schimek,52,RW,Hooking,2.00,1,0,10974,Bennett Schimek,Ben Betker,Taylor Burzminski,,
+1028808,2,2nd,4:24,445,CV,10180,Carson Rehkopf,16,F,Unsportsmanlike conduct,2.00,1,0,10180,Carson Rehkopf,Ben Betker,Taylor Burzminski,,
+1028808,2,2nd,9:38,440,ABB,8709,Jack Thompson,2,D,High-sticking,2.00,1,0,8709,Jack Thompson,Ben Betker,Taylor Burzminski,,
+1028808,2,2nd,10:35,445,CV,9756,Logan Morrison,96,F,Tripping,2.00,1,0,9756,Logan Morrison,Ben Betker,Taylor Burzminski,,
+1028808,2,2nd,13:45,445,CV,5471,Gustav Olofsson,23,D,Roughing,2.00,1,0,5471,Gustav Olofsson,Ben Betker,Taylor Burzminski,,
+1028808,2,2nd,19:17,440,ABB,8928,Danila Klimovich,9,RW,Cross-checking,2.00,1,0,8928,Danila Klimovich,Ben Betker,Taylor Burzminski,,

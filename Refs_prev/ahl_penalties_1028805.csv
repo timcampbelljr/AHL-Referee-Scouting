@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028805,1,1st,7:28,328,GR,9672,William Wallinder,22,D,Slashing,2.00,1,0,9672,William Wallinder,Beau Halkidis,Nolan Bloyer,,
+1028805,1,1st,10:07,328,GR,6103,Erik Gustafsson,56,D,Goaltender interference,2.00,1,0,6103,Erik Gustafsson,Beau Halkidis,Nolan Bloyer,,
+1028805,1,1st,12:45,328,GR,10982,Eddie Genborg,55,F,Hooking,2.00,1,0,10982,Eddie Genborg,Beau Halkidis,Nolan Bloyer,,
+1028805,1,1st,19:58,372,RFD,7027,Brett Seney,62,F,Tripping,2.00,1,0,7027,Brett Seney,Beau Halkidis,Nolan Bloyer,,
+1028805,2,2nd,9:23,372,RFD,10503,Jamie Engelbert,45,F,Tripping,2.00,1,0,10503,Jamie Engelbert,Beau Halkidis,Nolan Bloyer,,
+1028805,3,3rd,6:51,328,GR,10982,Eddie Genborg,55,F,Tripping,2.00,1,0,10982,Eddie Genborg,Beau Halkidis,Nolan Bloyer,,
+1028805,3,3rd,12:30,372,RFD,6799,Cavan Fitzgerald,23,D,Boarding,2.00,1,0,6799,Cavan Fitzgerald,Beau Halkidis,Nolan Bloyer,,

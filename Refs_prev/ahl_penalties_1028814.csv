@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028814,1,1st,8:45,321,MB,9759,Nikita Chibrikov,19,LW,Hooking,2.00,1,0,9759,Nikita Chibrikov,Bobby Jo Love,Brendan Schreider,,
+1028814,1,1st,9:48,328,GR,9718,Amadeus Lombardi,93,C,Hooking,2.00,1,0,9718,Amadeus Lombardi,Bobby Jo Love,Brendan Schreider,,
+1028814,2,2nd,3:32,321,MB,10907,Jacob Julien,24,C,Holding,2.00,1,0,10907,Jacob Julien,Bobby Jo Love,Brendan Schreider,,
+1028814,2,2nd,12:24,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Holding,2.00,1,0,10629,Michael Brandsegg-Nygård,Bobby Jo Love,Brendan Schreider,,

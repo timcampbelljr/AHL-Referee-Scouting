@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028820,1,1st,19:23,380,TEX,10535,Trey Taylor,2,D,Hooking,2.00,1,0,10535,Trey Taylor,Mike Sullivan,Damian Figueira,,
+1028820,2,2nd,16:46,330,CHI,10001,Domenick Fensore,2,D,Boarding,2.00,1,0,10001,Domenick Fensore,Mike Sullivan,Damian Figueira,,
+1028820,3,3rd,4:01,380,TEX,10546,Artem Shlaine,38,F,Slashing,2.00,1,0,10546,Artem Shlaine,Mike Sullivan,Damian Figueira,,
+1028820,3,3rd,8:39,380,TEX,7101,Kole Lind,17,F,High-sticking,2.00,1,0,7101,Kole Lind,Mike Sullivan,Damian Figueira,,
+1028820,3,3rd,9:46,330,CHI,9742,Skyler Brind’Amour,22,C,Roughing,2.00,0,0,9742,Skyler Brind’Amour,Mike Sullivan,Damian Figueira,,
+1028820,3,3rd,9:46,380,TEX,10135,Tristan Bertucci,3,D,Roughing,2.00,0,0,10135,Tristan Bertucci,Mike Sullivan,Damian Figueira,,

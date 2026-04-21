@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028803,1,1st,9:48,330,CHI,8615,Nikita Pavlychev,15,C,Roughing,2.00,0,0,8615,Nikita Pavlychev,Jake Jackson,Kyle Bauman,,
+1028803,1,1st,9:48,389,IA,9472,Mark Liwiski,26,F,Roughing,2.00,0,0,9472,Mark Liwiski,Jake Jackson,Kyle Bauman,,
+1028803,2,2nd,1:48,389,IA,9749,Roman Schmidt,76,D,Fighting,5.00,0,0,9749,Roman Schmidt,Jake Jackson,Kyle Bauman,,
+1028803,2,2nd,1:48,330,CHI,7605,Noah Philp,12,C,Fighting,5.00,0,0,7605,Noah Philp,Jake Jackson,Kyle Bauman,,
+1028803,2,2nd,1:48,330,CHI,7605,Noah Philp,12,C,Boarding,2.00,1,0,9090,Noel Gunler,Jake Jackson,Kyle Bauman,,
+1028803,2,2nd,2:34,330,CHI,8645,Josiah Slavin,23,LW,Holding,2.00,1,0,8645,Josiah Slavin,Jake Jackson,Kyle Bauman,,
+1028803,3,3rd,1:07,389,IA,10313,Hunter Haight,43,F,Tripping,2.00,1,0,10313,Hunter Haight,Jake Jackson,Kyle Bauman,,
+1028803,3,3rd,10:12,389,IA,9749,Roman Schmidt,76,D,Slashing,2.00,1,0,9749,Roman Schmidt,Jake Jackson,Kyle Bauman,,

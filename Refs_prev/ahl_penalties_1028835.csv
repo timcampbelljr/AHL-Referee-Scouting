@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028835,1,1st,5:49,330,CHI,8615,Nikita Pavlychev,15,C,Interference,2.00,1,0,8615,Nikita Pavlychev,Mike Sullivan,Damian Figueira,,
+1028835,2,2nd,3:49,380,TEX,7101,Kole Lind,17,F,High-sticking,2.00,1,0,7101,Kole Lind,Mike Sullivan,Damian Figueira,,
+1028835,2,2nd,5:12,330,CHI,9090,Noel Gunler,10,RW,Double minor - High-sticking,4.00,1,0,9090,Noel Gunler,Mike Sullivan,Damian Figueira,,
+1028835,2,2nd,18:58,330,CHI,8437,Ryan Suzuki,6,C,Cross-checking,2.00,1,0,8437,Ryan Suzuki,Mike Sullivan,Damian Figueira,,
+1028835,3,3rd,9:02,330,CHI,10460,Charles Alexis Legault,5,D,Tripping,2.00,1,0,10460,Charles Alexis Legault,Mike Sullivan,Damian Figueira,,
+1028835,3,3rd,13:36,380,TEX,11004,Aram Minnetian,15,D,Tripping,2.00,1,0,11004,Aram Minnetian,Mike Sullivan,Damian Figueira,,

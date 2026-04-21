@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028809,2,2nd,0:19,307,HFD,7569,Casey Fitzgerald,4,D,Interference,2.00,1,0,7569,Casey Fitzgerald,Stephen Hiff,Jim Curtin,,
+1028809,2,2nd,6:12,317,BRI,6861,Matthew Highmore,20,C,Holding,2.00,1,0,6861,Matthew Highmore,Stephen Hiff,Jim Curtin,,
+1028809,2,2nd,10:37,317,BRI,10020,Luke Rowe,24,D,Game misconduct - Elbowing,10.00,0,0,10020,Luke Rowe,Stephen Hiff,Jim Curtin,,
+1028809,2,2nd,10:37,317,BRI,10020,Luke Rowe,24,D,Major - Elbowing,5.00,1,0,10020,Luke Rowe,Stephen Hiff,Jim Curtin,,
+1028809,2,2nd,11:26,307,HFD,7669,Trey Fix-Wolansky,64,F,Match - Illegal check to the head,15.00,1,0,7669,Trey Fix-Wolansky,Stephen Hiff,Jim Curtin,,
+1028809,2,2nd,16:51,307,HFD,10465,Scott Morrow,55,D,Cross-checking,2.00,0,0,10465,Scott Morrow,Stephen Hiff,Jim Curtin,,
+1028809,2,2nd,16:51,317,BRI,10388,Cam Thiesing,15,F,Roughing,2.00,0,0,10388,Cam Thiesing,Stephen Hiff,Jim Curtin,,
+1028809,3,3rd,6:07,307,HFD,8622,Connor Mackey,14,D,Tripping,2.00,1,0,8622,Connor Mackey,Stephen Hiff,Jim Curtin,,

@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028792,1,1st,6:24,445,CV,9706,Ville Ottavainen,36,D,Holding,2.00,1,0,9706,Ville Ottavainen,Ben Betker,Morgan MacPhee,,
+1028792,1,1st,12:41,445,CV,10083,Lleyton Roed,29,F,Tripping,2.00,1,0,10083,Lleyton Roed,Ben Betker,Morgan MacPhee,,
+1028792,1,1st,15:38,405,SJ,10100,Lucas Vanroboys,67,F,Misconduct,10.00,0,0,10100,Lucas Vanroboys,Ben Betker,Morgan MacPhee,,
+1028792,1,1st,15:44,405,SJ,7575,Oliver Wahlstrom,24,RW,Cross-checking,2.00,1,0,7575,Oliver Wahlstrom,Ben Betker,Morgan MacPhee,,
+1028792,1,1st,17:41,405,SJ,9177,Braden Hache,86,D,Fighting,5.00,0,0,9177,Braden Hache,Ben Betker,Morgan MacPhee,,
+1028792,1,1st,17:41,445,CV,6956,John Hayden,15,F,Roughing,2.00,1,0,10180,Carson Rehkopf,Ben Betker,Morgan MacPhee,,
+1028792,1,1st,17:41,445,CV,6956,John Hayden,15,F,Fighting,5.00,0,0,6956,John Hayden,Ben Betker,Morgan MacPhee,,
+1028792,2,2nd,11:11,405,SJ,10100,Lucas Vanroboys,67,F,Roughing,2.00,0,0,10100,Lucas Vanroboys,Ben Betker,Morgan MacPhee,,
+1028792,2,2nd,11:11,445,CV,10127,Jani Nyman,33,F,Roughing,2.00,0,0,10127,Jani Nyman,Ben Betker,Morgan MacPhee,,
+1028792,2,2nd,12:11,445,CV,9706,Ville Ottavainen,36,D,Holding,2.00,1,0,9706,Ville Ottavainen,Ben Betker,Morgan MacPhee,,
+1028792,2,2nd,12:11,445,CV,9706,Ville Ottavainen,36,D,Misconduct,10.00,0,0,9706,Ville Ottavainen,Ben Betker,Morgan MacPhee,,
+1028792,2,2nd,17:02,445,CV,10190,Tyson Jugnauth,43,D,Tripping,2.00,1,0,10190,Tyson Jugnauth,Ben Betker,Morgan MacPhee,,

@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028800,1,1st,18:09,402,BAK,8726,Roby Järventie,15,RW,High-sticking,2.00,1,0,8726,Roby Järventie,Ben Betker,Jordan Watt,,
+1028800,2,2nd,1:31,419,COL,5540,T.J. Tynan,9,F,Hooking,2.00,1,0,5540,T.J. Tynan,Ben Betker,Jordan Watt,,
+1028800,2,2nd,8:34,419,COL,8929,Tristen Nielsen,57,F,Hooking,2.00,1,0,8929,Tristen Nielsen,Ben Betker,Jordan Watt,,
+1028800,2,2nd,14:14,402,BAK,8485,James Hamblin,52,C,Tripping,2.00,1,0,8485,James Hamblin,Ben Betker,Jordan Watt,,
+1028800,2,2nd,18:19,419,COL,8929,Tristen Nielsen,57,F,Slashing,2.00,1,0,8929,Tristen Nielsen,Ben Betker,Jordan Watt,,
+1028800,3,3rd,6:43,419,COL,9969,Ivan Ivan,82,F,Holding,2.00,1,0,9969,Ivan Ivan,Ben Betker,Jordan Watt,,
+1028800,3,3rd,12:06,402,BAK,7159,Cam Dineen,55,D,Tripping,2.00,1,0,7159,Cam Dineen,Ben Betker,Jordan Watt,,

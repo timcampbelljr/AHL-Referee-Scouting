@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028811,1,1st,2:35,437,HSK,9266,Jakub Brabenec,12,F,Tripping,2.00,1,0,9266,Jakub Brabenec,Beau Halkidis,Sydney Harris,,
+1028811,1,1st,13:34,437,HSK,9279,Joe Fleming,50,F,Fighting,5.00,0,0,9279,Joe Fleming,Beau Halkidis,Sydney Harris,,
+1028811,1,1st,13:34,412,TUC,8734,Ben McCartney,22,F,Fighting,5.00,0,0,8734,Ben McCartney,Beau Halkidis,Sydney Harris,,
+1028811,2,2nd,2:01,437,HSK,9278,Lukas Cormier,51,D,Slashing,2.00,0,0,9278,Lukas Cormier,Beau Halkidis,Sydney Harris,,
+1028811,2,2nd,2:01,412,TUC,10111,Sam Lipkin,71,F,Slashing,2.00,0,0,10111,Sam Lipkin,Beau Halkidis,Sydney Harris,,
+1028811,2,2nd,6:36,437,HSK,7028,Mitch McLain,75,F,Fighting,5.00,0,0,7028,Mitch McLain,Beau Halkidis,Sydney Harris,,
+1028811,2,2nd,6:36,412,TUC,10220,Maveric Lamoureux,10,D,Fighting,5.00,0,0,10220,Maveric Lamoureux,Beau Halkidis,Sydney Harris,,
+1028811,2,2nd,11:36,412,TUC,8740,Montana Onyebuchi,79,D,Double minor - High-sticking,4.00,1,0,8740,Montana Onyebuchi,Beau Halkidis,Sydney Harris,,

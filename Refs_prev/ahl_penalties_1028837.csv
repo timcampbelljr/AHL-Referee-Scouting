@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028837,1,1st,10:12,413,BEL,10145,Tomas Hamara,29,D,Interference,2.00,1,0,10145,Tomas Hamara,Alex Lepkowski,Jared Cummins,,
+1028837,2,2nd,6:33,413,BEL,9485,Olle Lycksell,15,LW,Slashing,2.00,1,0,9485,Olle Lycksell,Alex Lepkowski,Jared Cummins,,
+1028837,3,3rd,7:00,413,BEL,6715,Garrett Pilon,22,C,Cross-checking,2.00,1,0,6715,Garrett Pilon,Alex Lepkowski,Jared Cummins,,
+1028837,3,3rd,14:57,413,BEL,9448,Xavier Bourgault,13,RW,High-sticking,2.00,1,0,9448,Xavier Bourgault,Alex Lepkowski,Jared Cummins,,
+1028837,3,3rd,19:30,390,UTC,10107,Dylan Wendt,37,F,Roughing,2.00,1,0,10107,Dylan Wendt,Alex Lepkowski,Jared Cummins,,
+1028837,3,3rd,20:00,413,BEL,9906,Djibril Touré,44,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,9906,Djibril Touré,Alex Lepkowski,Jared Cummins,,
+1028837,3,3rd,20:00,413,BEL,9906,Djibril Touré,44,D,Roughing,2.00,0,0,9906,Djibril Touré,Alex Lepkowski,Jared Cummins,,
+1028837,3,3rd,20:00,390,UTC,7251,Ryan Schmelzer,26,C,Roughing,2.00,0,0,7251,Ryan Schmelzer,Alex Lepkowski,Jared Cummins,,

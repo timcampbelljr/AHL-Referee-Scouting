@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028821,1,1st,1:12,384,CLT,9721,Kai Schwindt,13,F,High-sticking,2.00,1,0,9721,Kai Schwindt,Koletrane Wilson,Mike Campbell,,
+1028821,1,1st,6:25,335,TOR,7579,Reese Johnson,65,RW,Interference,2.00,1,0,7579,Reese Johnson,Koletrane Wilson,Mike Campbell,,
+1028821,2,2nd,8:03,335,TOR,8738,William Villeneuve,76,D,Tripping,2.00,1,0,8738,William Villeneuve,Koletrane Wilson,Mike Campbell,,
+1028821,2,2nd,14:04,384,CLT,10507,Colton Huard,12,D,Roughing,2.00,1,0,10507,Colton Huard,Koletrane Wilson,Mike Campbell,,
+1028821,2,2nd,17:26,335,TOR,8738,William Villeneuve,76,D,Tripping,2.00,1,0,8738,William Villeneuve,Koletrane Wilson,Mike Campbell,,
+1028821,2,2nd,17:32,335,TOR,9994,Henry Thrun,3,D,Cross-checking,2.00,1,0,9994,Henry Thrun,Koletrane Wilson,Mike Campbell,,
+1028821,2,2nd,17:32,335,TOR,6014,Dakota Mermis,36,D,Misconduct - Continuing altercation,10.00,0,0,6014,Dakota Mermis,Koletrane Wilson,Mike Campbell,,
+1028821,2,2nd,17:32,384,CLT,10615,Jack Devine,4,F,Misconduct - Continuing altercation,10.00,0,0,10615,Jack Devine,Koletrane Wilson,Mike Campbell,,
+1028821,3,3rd,6:32,335,TOR,8738,William Villeneuve,76,D,Hooking,2.00,1,0,8738,William Villeneuve,Koletrane Wilson,Mike Campbell,,
+1028821,3,3rd,18:58,335,TOR,9624,Ryan Tverberg,77,F,Roughing,2.00,0,0,9624,Ryan Tverberg,Koletrane Wilson,Mike Campbell,,
+1028821,3,3rd,18:58,384,CLT,5614,Trevor Carrick,5,D,Roughing,2.00,0,0,5614,Trevor Carrick,Koletrane Wilson,Mike Campbell,,

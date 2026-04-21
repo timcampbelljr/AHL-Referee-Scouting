@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028819,1,1st,7:12,324,SYR,10148,Dylan Duke,25,LW,Delay of game,2.00,1,0,10148,Dylan Duke,Alex Lepkowski,Rob Hennessey,,
+1028819,1,1st,13:46,324,SYR,9202,Conor Geekie,94,C,Interference,2.00,1,0,9202,Conor Geekie,Alex Lepkowski,Rob Hennessey,,
+1028819,2,2nd,5:24,309,PRO,7704,Victor Söderström,29,D,Tripping,2.00,1,0,7704,Victor Söderström,Alex Lepkowski,Rob Hennessey,,
+1028819,2,2nd,8:27,309,PRO,9148,Colin Felix,9,D,Roughing,2.00,0,0,9148,Colin Felix,Alex Lepkowski,Rob Hennessey,,
+1028819,2,2nd,8:27,324,SYR,8744,Jakob Pelletier,22,LW,Roughing,2.00,0,0,8744,Jakob Pelletier,Alex Lepkowski,Rob Hennessey,,

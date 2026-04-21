@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028806,1,1st,16:06,412,TUC,6263,Kevin Rooney,21,C,Slashing,2.00,1,0,6263,Kevin Rooney,Morgan MacPhee,Tatu Kunto,,
+1028806,1,1st,17:38,404,SD,10506,Stian Solberg,7,D,High-sticking,2.00,1,0,10506,Stian Solberg,Morgan MacPhee,Tatu Kunto,,
+1028806,2,2nd,11:08,404,SD,10274,Yegor Sidorov,19,LW,Tripping,2.00,1,0,10274,Yegor Sidorov,Morgan MacPhee,Tatu Kunto,,
+1028806,2,2nd,14:10,412,TUC,9711,Jalen Luypen,72,C,Cross-checking,2.00,1,0,9711,Jalen Luypen,Morgan MacPhee,Tatu Kunto,,
+1028806,2,2nd,19:55,412,TUC,10664,Daniil But,50,F,Roughing,2.00,1,0,10664,Daniil But,Morgan MacPhee,Tatu Kunto,,
+1028806,3,3rd,7:06,412,TUC,8740,Montana Onyebuchi,79,D,Cross-checking,2.00,1,0,8740,Montana Onyebuchi,Morgan MacPhee,Tatu Kunto,,

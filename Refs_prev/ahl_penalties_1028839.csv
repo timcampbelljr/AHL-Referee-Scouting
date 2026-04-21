@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028839,1,1st,4:42,327,MIL,10185,Andrew Gibson,6,D,Unsportsmanlike conduct,2.00,1,0,10185,Andrew Gibson,Morgan MacPhee,Koletrane Wilson,,
+1028839,1,1st,8:21,321,MB,10993,Alfons Freij,23,D,Hooking,2.00,1,0,10993,Alfons Freij,Morgan MacPhee,Koletrane Wilson,,
+1028839,1,1st,15:33,321,MB,10907,Jacob Julien,24,C,Tripping,2.00,1,0,10907,Jacob Julien,Morgan MacPhee,Koletrane Wilson,,
+1028839,1,1st,16:46,327,MIL,10609,Cole O’Hara,77,RW,Holding,2.00,0,0,10609,Cole O’Hara,Morgan MacPhee,Koletrane Wilson,,
+1028839,1,1st,16:46,321,MB,9656,Parker Ford,25,RW,Holding,2.00,0,0,9656,Parker Ford,Morgan MacPhee,Koletrane Wilson,,
+1028839,2,2nd,7:18,321,MB,7118,Jaret Anderson-Dolan,28,C,Tripping,2.00,1,0,7118,Jaret Anderson-Dolan,Morgan MacPhee,Koletrane Wilson,,
+1028839,2,2nd,8:59,327,MIL,10166,Massimo Rizzo,73,F,Holding,2.00,1,0,10166,Massimo Rizzo,Morgan MacPhee,Koletrane Wilson,,
+1028839,2,2nd,14:15,327,MIL,9757,Jack Matier,51,D,Fighting,5.00,0,0,9757,Jack Matier,Morgan MacPhee,Koletrane Wilson,,
+1028839,2,2nd,14:15,321,MB,7118,Jaret Anderson-Dolan,28,C,Fighting,5.00,0,0,7118,Jaret Anderson-Dolan,Morgan MacPhee,Koletrane Wilson,,
+1028839,2,2nd,16:32,321,MB,7680,Samuel Fagemo,16,LW,Tripping,2.00,1,0,7680,Samuel Fagemo,Morgan MacPhee,Koletrane Wilson,,
+1028839,3,3rd,0:16,327,MIL,10554,Kalan Lind,48,LW,Slashing,2.00,1,0,10554,Kalan Lind,Morgan MacPhee,Koletrane Wilson,,

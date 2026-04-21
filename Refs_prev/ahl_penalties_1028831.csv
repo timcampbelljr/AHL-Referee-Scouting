@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028831,1,1st,8:37,309,PRO,8462,Billy Sweezey,6,D,Holding,2.00,1,0,8462,Billy Sweezey,Koletrane Wilson,Nick Isaacson,,
+1028831,1,1st,11:53,323,ROC,10436,Vsevolod Komarov,83,D,Tripping,2.00,1,0,10436,Vsevolod Komarov,Koletrane Wilson,Nick Isaacson,,
+1028831,1,1st,18:33,323,ROC,10444,Konsta Helenius,91,C,Holding,2.00,1,0,10444,Konsta Helenius,Koletrane Wilson,Nick Isaacson,,
+1028831,2,2nd,6:26,309,PRO,9032,Michael Callahan,23,D,High-sticking,2.00,1,0,9032,Michael Callahan,Koletrane Wilson,Nick Isaacson,,
+1028831,2,2nd,19:31,309,PRO,9729,Matthew Poitras,21,C,Hooking,2.00,1,0,9729,Matthew Poitras,Koletrane Wilson,Nick Isaacson,,
+1028831,3,3rd,7:03,323,ROC,10987,Gavin McCarthy,2,D,Holding the stick,2.00,1,0,10987,Gavin McCarthy,Koletrane Wilson,Nick Isaacson,,
+1028831,3,3rd,11:05,309,PRO,9032,Michael Callahan,23,D,Roughing,2.00,1,0,9032,Michael Callahan,Koletrane Wilson,Nick Isaacson,,

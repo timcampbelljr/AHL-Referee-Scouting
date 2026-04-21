@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028782,1,1st,10:40,437,HSK,9274,Matyas Sapovaliv,25,F,Interference,2.00,1,0,9274,Matyas Sapovaliv,Mike Dietrich,Ibrahim Arifi,,
+1028782,1,1st,14:48,327,MIL,9757,Jack Matier,51,D,Slashing,2.00,1,0,9757,Jack Matier,Mike Dietrich,Ibrahim Arifi,,
+1028782,1,1st,17:17,327,MIL,10832,Oasiz Wiesblatt,88,C,Roughing,2.00,0,0,10832,Oasiz Wiesblatt,Mike Dietrich,Ibrahim Arifi,,
+1028782,1,1st,17:17,437,HSK,9279,Joe Fleming,50,F,Roughing,2.00,0,0,9279,Joe Fleming,Mike Dietrich,Ibrahim Arifi,,
+1028782,1,1st,17:50,327,MIL,10645,David Edstrom,41,C,Tripping,2.00,1,0,10645,David Edstrom,Mike Dietrich,Ibrahim Arifi,,
+1028782,2,2nd,4:51,437,HSK,8448,Tanner Laczynski,28,F,Tripping,2.00,1,0,8448,Tanner Laczynski,Mike Dietrich,Ibrahim Arifi,,
+1028782,2,2nd,10:15,437,HSK,9279,Joe Fleming,50,F,Fighting,5.00,0,0,9279,Joe Fleming,Mike Dietrich,Ibrahim Arifi,,
+1028782,2,2nd,10:15,327,MIL,10554,Kalan Lind,48,LW,Fighting,5.00,0,0,10554,Kalan Lind,Mike Dietrich,Ibrahim Arifi,,
+1028782,3,3rd,5:08,437,HSK,8663,Raphael Lavoie,36,F,Cross-checking,2.00,1,0,8663,Raphael Lavoie,Mike Dietrich,Ibrahim Arifi,,
+1028782,3,3rd,12:05,327,MIL,10554,Kalan Lind,48,LW,Delay of game,2.00,1,0,10554,Kalan Lind,Mike Dietrich,Ibrahim Arifi,,
+1028782,3,3rd,15:22,327,MIL,10185,Andrew Gibson,6,D,Tripping,2.00,1,0,10185,Andrew Gibson,Mike Dietrich,Ibrahim Arifi,,

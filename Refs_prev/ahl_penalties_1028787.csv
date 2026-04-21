@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028787,1,1st,2:44,415,LAV,8689,Nate Clurman,5,D,Interference,2.00,1,0,8689,Nate Clurman,Jack Young,Hayden Verbeek,,
+1028787,1,1st,15:16,316,WBS,10504,Chase Pietila,44,D,Tripping,2.00,1,0,10504,Chase Pietila,Jack Young,Hayden Verbeek,,
+1028787,2,2nd,0:31,415,LAV,10983,Dillan Bentley,91,F,Roughing,2.00,1,0,10983,Dillan Bentley,Jack Young,Hayden Verbeek,,
+1028787,2,2nd,1:58,316,WBS,10326,Atley Calvert,84,RW,Hooking,2.00,1,0,10326,Atley Calvert,Jack Young,Hayden Verbeek,,
+1028787,2,2nd,14:44,316,WBS,9816,Avery Hayes,85,RW,Slashing,2.00,1,0,9816,Avery Hayes,Jack Young,Hayden Verbeek,,
+1028787,2,2nd,18:26,316,WBS,10326,Atley Calvert,84,RW,Hooking,2.00,1,0,10326,Atley Calvert,Jack Young,Hayden Verbeek,,
+1028787,3,3rd,8:38,415,LAV,10149,Luke Tuch,17,LW,Tripping,2.00,1,0,10149,Luke Tuch,Jack Young,Hayden Verbeek,,
+1028787,3,3rd,13:39,415,LAV,10036,David Reinbacher,64,D,Interference,2.00,1,0,10036,David Reinbacher,Jack Young,Hayden Verbeek,,
