@@ -47,10 +47,14 @@ def _pct_color(val):
         return YELLOW, YELLOW_TXT
     return RED_BG, RED_TXT
 
-def _tight_label(ppg, avg):
-    if ppg <= avg * 0.8:
+LOOSE_THRESHOLD  = 7   # 7 or fewer pen/game = loose (lets game go)
+TIGHT_THRESHOLD  = 11  # 11 or more pen/game = tight (calls everything)
+
+def _tight_label(ppg, avg=None):
+    """Fixed AHL thresholds: >=11 tight, 8-10 average, <=7 loose."""
+    if ppg >= TIGHT_THRESHOLD:
         return "Tight"
-    elif ppg >= avg * 1.2:
+    elif ppg <= LOOSE_THRESHOLD:
         return "Loose"
     return "Average"
 
@@ -517,9 +521,10 @@ def pct_badge(ref_name: str, col: str) -> str:
     return f'<span class="{cls}">{val}</span>'
 
 def tightness_badge(ppg: float) -> str:
-    if ppg <= league_avg_ppg * 0.8:
+    """Fixed AHL thresholds: >=11 tight, 8-10 average, <=7 loose."""
+    if ppg >= TIGHT_THRESHOLD:
         return '<span class="badge badge-tight">Tight</span>'
-    elif ppg >= league_avg_ppg * 1.2:
+    elif ppg <= LOOSE_THRESHOLD:
         return '<span class="badge badge-loose">Loose</span>'
     return '<span class="badge badge-avg">Average</span>'
 
