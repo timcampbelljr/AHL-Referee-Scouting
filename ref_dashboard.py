@@ -731,7 +731,7 @@ def render_ref_column(ref_name: str):
             return None
         return round(row["per_game"] - team_baseline.loc[team, "season_ppg"], 2)
     team_data["bias"] = team_data.apply(_bias, axis=1)
-    team_data = team_data.sort_values("total", ascending=False)
+    team_data = team_data.sort_values("ref_games", ascending=False)
 
     def _bias_cell(val):
         if val is None:
@@ -748,7 +748,7 @@ def render_ref_column(ref_name: str):
     )
     st.markdown(f"""
     <table class="stat-table">
-      <tr><th>Team</th><th>G Together</th><th>Pen/G</th><th>PIM/G</th><th>Bias</th></tr>
+      <tr><th>Team</th><th>Games Reffed</th><th>Pen/G</th><th>PIM/G</th><th>Bias</th></tr>
       {team_rows}
     </table>
     <small style="color:#888">Bias = ref pen/g vs team &minus; team season pen/g &nbsp;|&nbsp; red = harder on team &nbsp;|&nbsp; green = easier</small>
@@ -856,7 +856,7 @@ if chosen_team:
         bias = round(ppg_vs_team - baseline_ppg, 2) if baseline_ppg is not None else None
         bias_rows.append({
             "Referee":       ref_name,
-            "G Together":    g_together,
+            "G Together":    g_together,  # renamed in display below
             "Pen/G vs Team": ppg_vs_team,
             "Season Pen/G":  baseline_ppg,
             "Bias":          bias,
@@ -866,7 +866,7 @@ if chosen_team:
     if not bias_rows:
         st.info(f"No data found for {chosen_team}.")
     else:
-        bias_df = pd.DataFrame(bias_rows).sort_values("Bias", ascending=False)
+        bias_df = pd.DataFrame(bias_rows).sort_values(["G Together", "Bias"], ascending=[False, False])
 
         def _bias_color(val, reliable):
             if not reliable or val is None:
@@ -891,7 +891,7 @@ if chosen_team:
         <table class="stat-table">
           <tr>
             <th style="text-align:left">Referee</th>
-            <th>G Together</th>
+            <th>Reffed {chosen_team}</th>
             <th>Pen/G vs {chosen_team}</th>
             <th>{chosen_team} Season Pen/G</th>
             <th>Bias</th>
