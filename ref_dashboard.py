@@ -250,7 +250,7 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg):
         pv = [_tdl(ref_name)]
         pv += [_td(round(v/games, 2) if games else 0) for v in p_data.values]
         p3r = row["p3_ratio"]
-        pv.append(_td(p3r if p3r is not None else "—"))
+        pv.append(_td(f"{p3r:.3f}" if p3r is not None else "—"))
         pt = Table([ph, pv], colWidths=[1.8*inch,0.9*inch,0.9*inch,0.9*inch,0.9*inch,0.9*inch])
         pt.setStyle(TableStyle([
             ("BACKGROUND",   (0,0),(-1,0), NAVY),
@@ -479,7 +479,7 @@ def build_summary(df: pd.DataFrame):
             "body_per_game":  round(body,  2),
             "misc_per_game":  round(misc,  2),
             "trap_per_game":  round(trap,  2),
-            "p3_ratio":       round(p3 / p1, 2) if p1 > 0 else None,
+            "p3_ratio":       round(p3 / p1, 3) if p1 > 0 else None,
         })
     return pd.DataFrame(rows), stacked
 
@@ -578,7 +578,9 @@ with st.sidebar:
                 o_stats      = o_row.iloc[0]
                 reliable_tag = "" if o_stats["reliable"] else " ⚠️"
                 style        = _tight_label(o_stats["pen_per_game"], ref_median, ref_sd)
-                whistle      = "Swallows whistle late" if (o_stats["p3_ratio"] or 1) < 1.0 else "Active in 3rd"
+                p3r          = o_stats["p3_ratio"]
+                p3r_str      = f"{p3r:.3f}" if p3r is not None else "—"
+                whistle      = "Swallows whistle late" if (p3r or 1) < 1.0 else "Active in 3rd"
                 style_color  = "#8b0000" if style == "Tight" else ("#1a6b16" if style == "Loose" else "#7a5c00")
                 ppg          = o_stats["pen_per_game"]
 
@@ -610,7 +612,7 @@ with st.sidebar:
                 st.markdown(
                     f"**{official}**{reliable_tag}<br>"
                     f"Style: <span style='color:{style_color};font-weight:700'>{style}</span> &nbsp;|&nbsp; "
-                    f"Late game: {whistle}<br>"
+                    f"Late game: {whistle} (P3/P1: {p3r_str})<br>"
                     f"Median pen/G: {ppg}<br>"
                     f"<span style='font-size:11px;color:#555'>Bias vs teams in this game:</span><br>"
                     f"<span style='font-size:12px'>{bias_html}</span>",
@@ -791,7 +793,7 @@ def render_ref_column(ref_name: str):
     <table class="stat-table">
       <tr><th>Official</th>{p_header}<th>P3/P1</th></tr>
       <tr class="data-row"><td><b>{ref_name}</b></td>{p_vals}
-        <td>{p3_ratio if p3_ratio is not None else "—"}</td>
+        <td>{f"{p3_ratio:.3f}" if p3_ratio is not None else "—"}</td>
       </tr>
     </table>
     <small style="color:#888">P3/P1 &lt; 1.0 = swallows whistle late</small>
@@ -932,7 +934,7 @@ with st.expander("📊 All Referees Comparison"):
             "PP%":      "{:.1f}",
             "Stick/G":  "{:.2f}",
             "Body/G":   "{:.2f}",
-            "P3 Ratio": lambda x: f"{x:.2f}" if x else "—",
+            "P3 Ratio": lambda x: f"{x:.3f}" if x else "—",
         }),
         use_container_width=True,
         hide_index=True,
