@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028362,1,1st,6:43,402,BAK,10599,Rhett Pitlick,68,RW,Slashing,2.00,1,0,10599,Rhett Pitlick,Graedy Hamilton,Nick Isaacson,,
+1028362,1,1st,7:42,444,CGY,10643,Arsenii Sergeev,35,G,Delay of game - Restricted area,2.00,1,0,9952,Lucas Ciona,Graedy Hamilton,Nick Isaacson,,
+1028362,2,2nd,2:22,402,BAK,7847,Mason Millman,78,D,Fighting,5.00,0,0,7847,Mason Millman,Graedy Hamilton,Nick Isaacson,,
+1028362,2,2nd,2:22,444,CGY,10547,Carter Wilkie,16,C,Fighting,5.00,0,0,10547,Carter Wilkie,Graedy Hamilton,Nick Isaacson,,
+1028362,2,2nd,14:13,402,BAK,6780,Max Jones,46,LW,Holding,2.00,0,0,6780,Max Jones,Graedy Hamilton,Nick Isaacson,,
+1028362,2,2nd,14:13,444,CGY,7099,Turner Ottenbreit,2,D,Unsportsmanlike conduct,2.00,0,0,7099,Turner Ottenbreit,Graedy Hamilton,Nick Isaacson,,
+1028362,2,2nd,15:49,444,CGY,9727,Artem Grushnikov,3,D,Tripping,2.00,1,0,9727,Artem Grushnikov,Graedy Hamilton,Nick Isaacson,,
+1028362,2,2nd,18:10,402,BAK,8696,Ethan Keppen,63,RW,Holding,2.00,1,0,8696,Ethan Keppen,Graedy Hamilton,Nick Isaacson,,
+1028362,3,3rd,10:19,402,BAK,5080,Seth Griffith,39,LW,Holding,2.00,1,0,5080,Seth Griffith,Graedy Hamilton,Nick Isaacson,,

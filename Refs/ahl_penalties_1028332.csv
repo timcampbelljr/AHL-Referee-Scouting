@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028332,2,2nd,4:26,316,WBS,10851,Aaron Huglen,10,C,Slashing,2.00,1,0,10851,Aaron Huglen,Austin Rook,Jim Curtin,,
+1028332,2,2nd,12:44,316,WBS,9984,Aidan McDonough,8,LW,Hooking,2.00,1,0,9984,Aidan McDonough,Austin Rook,Jim Curtin,,
+1028332,3,3rd,1:29,309,PRO,7378,Christian Wolanin,86,D,Cross-checking,2.00,1,0,7378,Christian Wolanin,Austin Rook,Jim Curtin,,
+1028332,3,3rd,4:37,316,WBS,9984,Aidan McDonough,8,LW,Tripping,2.00,1,0,9984,Aidan McDonough,Austin Rook,Jim Curtin,,
+1028332,3,3rd,6:13,309,PRO,9524,Fabian Lysell,22,RW,Holding,2.00,1,0,9524,Fabian Lysell,Austin Rook,Jim Curtin,,

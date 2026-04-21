@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028361,1,1st,7:02,413,BEL,8720,Keean Washkurak,27,LW,Roughing,2.00,1,0,8720,Keean Washkurak,Riley Brace,Hillary Brennan,,
+1028361,1,1st,17:53,413,BEL,8720,Keean Washkurak,27,LW,Roughing,2.00,1,0,7677,Arthur Kaliyev,Riley Brace,Hillary Brennan,,
+1028361,1,1st,17:53,413,BEL,8720,Keean Washkurak,27,LW,Cross-checking,2.00,0,0,8720,Keean Washkurak,Riley Brace,Hillary Brennan,,
+1028361,1,1st,17:53,390,UTC,9516,Xavier Parent,67,F,Interference,2.00,0,0,9516,Xavier Parent,Riley Brace,Hillary Brennan,,
+1028361,2,2nd,11:23,413,BEL,7677,Arthur Kaliyev,43,LW,High-sticking,2.00,1,0,7677,Arthur Kaliyev,Riley Brace,Hillary Brennan,,
+1028361,2,2nd,17:02,390,UTC,6262,Kyle Criscuolo,15,C,Holding,2.00,1,0,6262,Kyle Criscuolo,Riley Brace,Hillary Brennan,,

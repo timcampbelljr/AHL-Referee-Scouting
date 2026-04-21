@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028360,1,1st,6:40,307,HFD,9048,Brandon Scanlin,58,D,Delay of game,2.00,1,0,9048,Brandon Scanlin,Hayden Verbeek,Luke Stork,,
+1028360,1,1st,12:15,307,HFD,10523,Jackson Dorrington,38,D,Roughing,2.00,0,0,10523,Jackson Dorrington,Hayden Verbeek,Luke Stork,,
+1028360,1,1st,12:15,316,WBS,10848,Finn Harding,50,D,Roughing,2.00,0,0,10848,Finn Harding,Hayden Verbeek,Luke Stork,,
+1028360,1,1st,12:15,316,WBS,6865,Bokondji Imama,14,LW,Cross-checking,2.00,1,0,6865,Bokondji Imama,Hayden Verbeek,Luke Stork,,
+1028360,2,2nd,3:03,316,WBS,10560,Nolan Renwick,23,C,Slashing,2.00,1,0,10560,Nolan Renwick,Hayden Verbeek,Luke Stork,,
+1028360,2,2nd,14:05,316,WBS,10848,Finn Harding,50,D,Hooking,2.00,1,0,10848,Finn Harding,Hayden Verbeek,Luke Stork,,
+1028360,2,2nd,19:02,316,WBS,6865,Bokondji Imama,14,LW,Roughing,2.00,1,0,6865,Bokondji Imama,Hayden Verbeek,Luke Stork,,
+1028360,3,3rd,4:05,307,HFD,10523,Jackson Dorrington,38,D,Fighting,5.00,0,0,10523,Jackson Dorrington,Hayden Verbeek,Luke Stork,,
+1028360,3,3rd,4:05,316,WBS,10504,Chase Pietila,44,D,Fighting,5.00,0,0,10504,Chase Pietila,Hayden Verbeek,Luke Stork,,
+1028360,3,3rd,12:38,307,HFD,9048,Brandon Scanlin,58,D,Cross-checking,2.00,1,0,9048,Brandon Scanlin,Hayden Verbeek,Luke Stork,,

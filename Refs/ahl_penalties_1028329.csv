@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028329,1,1st,5:12,403,ONT,10616,Tim Rego,12,D,Tripping,2.00,1,0,10616,Tim Rego,Jordan Deckard,Jack Young,,
+1028329,1,1st,12:00,419,COL,8929,Tristen Nielsen,57,F,Slashing,2.00,1,0,8929,Tristen Nielsen,Jordan Deckard,Jack Young,,
+1028329,2,2nd,0:42,419,COL,10257,Nikita Prishchepov,85,F,High-sticking,2.00,1,0,10257,Nikita Prishchepov,Jordan Deckard,Jack Young,,
+1028329,2,2nd,5:51,419,COL,7218,Keaton Middleton,67,D,Cross-checking,2.00,1,0,7218,Keaton Middleton,Jordan Deckard,Jack Young,,
+1028329,2,2nd,10:15,403,ONT,8718,Nikita Alexandrov,59,F,High-sticking,2.00,1,0,8718,Nikita Alexandrov,Jordan Deckard,Jack Young,,
+1028329,3,3rd,3:45,419,COL,10257,Nikita Prishchepov,85,F,Roughing,2.00,1,0,10257,Nikita Prishchepov,Jordan Deckard,Jack Young,,
+1028329,3,3rd,19:03,419,COL,10654,Alex Gagne,45,D,Interference,2.00,1,0,10654,Alex Gagne,Jordan Deckard,Jack Young,,
+1028329,OT,OT,5:00,0,,0,None None,0,,Game misconduct - Abuse of officials,10.00,0,1,0,None None,Jordan Deckard,Jack Young,,

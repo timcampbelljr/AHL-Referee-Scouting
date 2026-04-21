@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028324,1,1st,8:51,384,CLT,5614,Trevor Carrick,5,D,Delay of game,2.00,1,0,5614,Trevor Carrick,Chad Ingalls,Matt Mannella,,
+1028324,2,2nd,9:26,384,CLT,8405,Nolan Foote,28,LW,Roughing,2.00,0,0,8405,Nolan Foote,Chad Ingalls,Matt Mannella,,
+1028324,2,2nd,9:26,411,SPR,10843,Quinton Burns,42,D,Fighting,5.00,0,0,10843,Quinton Burns,Chad Ingalls,Matt Mannella,,
+1028324,2,2nd,9:26,411,SPR,10843,Quinton Burns,42,D,Cross-checking,2.00,0,0,10843,Quinton Burns,Chad Ingalls,Matt Mannella,,
+1028324,2,2nd,9:26,384,CLT,9220,Nate Smith,15,C,Fighting,5.00,0,0,9220,Nate Smith,Chad Ingalls,Matt Mannella,,
+1028324,3,3rd,11:09,411,SPR,10920,Theo Lindstein,4,D,Delay of game,2.00,1,0,10920,Theo Lindstein,Chad Ingalls,Matt Mannella,,

@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028380,1,1st,7:27,380,TEX,9075,Michael Karow,26,D,Slashing,2.00,1,0,9075,Michael Karow,Jake Jackson,Jordan Deckard,,
+1028380,2,2nd,1:52,380,TEX,9548,Cross Hanas,32,F,Slashing,2.00,1,0,9548,Cross Hanas,Jake Jackson,Jordan Deckard,,
+1028380,2,2nd,12:53,389,IA,6616,Gerry Mayhew,20,C,Cross-checking,2.00,1,0,6616,Gerry Mayhew,Jake Jackson,Jordan Deckard,,
+1028380,2,2nd,13:58,389,IA,8937,Matt Kiersted,23,D,Roughing,2.00,0,0,8937,Matt Kiersted,Jake Jackson,Jordan Deckard,,
+1028380,2,2nd,13:58,380,TEX,8459,Antonio Stranges,40,F,Holding,2.00,0,0,8459,Antonio Stranges,Jake Jackson,Jordan Deckard,,
+1028380,2,2nd,17:55,389,IA,9619,Will Zmolek,4,D,Hooking,2.00,1,0,9619,Will Zmolek,Jake Jackson,Jordan Deckard,,
+1028380,3,3rd,12:36,380,TEX,10135,Tristan Bertucci,3,D,Slashing,2.00,1,0,10135,Tristan Bertucci,Jake Jackson,Jordan Deckard,,
+1028380,3,3rd,18:23,380,TEX,9548,Cross Hanas,32,F,Slashing,2.00,1,0,9548,Cross Hanas,Jake Jackson,Jordan Deckard,,

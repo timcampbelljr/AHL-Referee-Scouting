@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028368,1,1st,13:52,380,TEX,10135,Tristan Bertucci,3,D,Interference,2.00,1,0,10135,Tristan Bertucci,Simon Desbiens,Nolan Bloyer,,
+1028368,1,1st,17:49,380,TEX,9075,Michael Karow,26,D,Tripping,2.00,1,0,9075,Michael Karow,Simon Desbiens,Nolan Bloyer,,
+1028368,1,1st,19:36,380,TEX,7101,Kole Lind,17,F,Holding,2.00,1,0,7101,Kole Lind,Simon Desbiens,Nolan Bloyer,,
+1028368,2,2nd,3:58,403,ONT,5976,Joe Hicketts,27,D,Slashing,2.00,1,0,5976,Joe Hicketts,Simon Desbiens,Nolan Bloyer,,
+1028368,2,2nd,8:30,403,ONT,10199,Jakub Dvořák,55,D,Tripping,2.00,1,0,10199,Jakub Dvořák,Simon Desbiens,Nolan Bloyer,,
+1028368,3,3rd,6:20,403,ONT,5976,Joe Hicketts,27,D,Tripping,2.00,1,0,5976,Joe Hicketts,Simon Desbiens,Nolan Bloyer,,
+1028368,3,3rd,6:59,380,TEX,10555,Harrison Scott,11,F,Slashing,2.00,1,0,10555,Harrison Scott,Simon Desbiens,Nolan Bloyer,,
+1028368,3,3rd,19:41,403,ONT,9239,Francesco Pinelli,71,F,Roughing,2.00,1,0,9239,Francesco Pinelli,Simon Desbiens,Nolan Bloyer,,

@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028378,1,1st,19:55,445,CV,10190,Tyson Jugnauth,43,D,Hooking,2.00,1,0,10190,Tyson Jugnauth,Jordan Watt,John Lindner,,
+1028378,2,2nd,4:11,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,0,0,8625,Ian McKinnon,Jordan Watt,John Lindner,,
+1028378,2,2nd,4:11,405,SJ,10100,Lucas Vanroboys,67,F,Roughing,2.00,0,0,10100,Lucas Vanroboys,Jordan Watt,John Lindner,,
+1028378,2,2nd,6:53,405,SJ,7897,Jimmy Huntington,40,F,Holding,2.00,1,0,7897,Jimmy Huntington,Jordan Watt,John Lindner,,
+1028378,2,2nd,8:55,445,CV,6956,John Hayden,15,F,Hooking,2.00,1,0,6956,John Hayden,Jordan Watt,John Lindner,,
+1028378,2,2nd,16:41,445,CV,9762,Jacob Melanson,63,F,High-sticking,2.00,1,0,9762,Jacob Melanson,Jordan Watt,John Lindner,,
+1028378,3,3rd,15:40,405,SJ,7591,Shane Bowers,15,F,High-sticking,2.00,1,0,7591,Shane Bowers,Jordan Watt,John Lindner,,

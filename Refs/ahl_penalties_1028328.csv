@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028328,1,1st,11:46,384,CLT,9220,Nate Smith,15,C,Hooking,2.00,1,0,9220,Nate Smith,Chad Ingalls,Matt Mannella,,
+1028328,2,2nd,1:52,384,CLT,10056,Ben Steeves,6,F,Tripping,2.00,1,0,10056,Ben Steeves,Chad Ingalls,Matt Mannella,,
+1028328,2,2nd,10:59,384,CLT,10110,Riese Gaber,39,F,Tripping,2.00,1,0,10110,Riese Gaber,Chad Ingalls,Matt Mannella,,
+1028328,2,2nd,11:49,411,SPR,10839,Juraj Pekarcik,18,F,Holding,2.00,1,0,10839,Juraj Pekarcik,Chad Ingalls,Matt Mannella,,
+1028328,3,3rd,10:47,384,CLT,10615,Jack Devine,4,F,Tripping,2.00,1,0,10615,Jack Devine,Chad Ingalls,Matt Mannella,,

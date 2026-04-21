@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028386,1,1st,5:06,307,HFD,10523,Jackson Dorrington,38,D,Tripping,2.00,1,0,10523,Jackson Dorrington,Nolan Bloyer,Johnny Daniels,,
+1028386,2,2nd,2:45,307,HFD,9667,Bryce McConnell-Barker,18,F,Slashing,2.00,1,0,9667,Bryce McConnell-Barker,Nolan Bloyer,Johnny Daniels,,
+1028386,2,2nd,8:09,307,HFD,10735,Cooper Moore,3,D,Delay of game,2.00,1,0,10735,Cooper Moore,Nolan Bloyer,Johnny Daniels,,
+1028386,2,2nd,11:49,317,BRI,9442,Daylan Kuefler,11,F,Roughing,2.00,1,0,9442,Daylan Kuefler,Nolan Bloyer,Johnny Daniels,,
+1028386,3,3rd,2:23,307,HFD,10189,Dylan Roobroeck,28,F,Roughing,2.00,1,0,10189,Dylan Roobroeck,Nolan Bloyer,Johnny Daniels,,

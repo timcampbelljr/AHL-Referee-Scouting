@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028371,1,1st,15:32,323,ROC,9923,Riley Fiddler-Schultz,12,LW,Roughing,2.00,1,0,9923,Riley Fiddler-Schultz,Ben Betker,Jared Cummins,,
+1028371,2,2nd,7:36,323,ROC,9930,Nikita Novikov,74,D,Tripping,2.00,1,0,9930,Nikita Novikov,Ben Betker,Jared Cummins,,
+1028371,2,2nd,10:30,324,SYR,10566,Lucas Mercuri,11,C,Interference,2.00,1,0,10566,Lucas Mercuri,Ben Betker,Jared Cummins,,
+1028371,2,2nd,11:26,323,ROC,10926,Red Savage,17,C,High-sticking,2.00,1,0,10926,Red Savage,Ben Betker,Jared Cummins,,
+1028371,2,2nd,17:44,323,ROC,9700,Trevor Kuntar,16,LW,Unsportsmanlike conduct,2.00,0,0,9700,Trevor Kuntar,Ben Betker,Jared Cummins,,
+1028371,2,2nd,17:44,324,SYR,9563,Nick Abruzzese,80,RW,Unsportsmanlike conduct,2.00,0,0,9563,Nick Abruzzese,Ben Betker,Jared Cummins,,
+1028371,2,2nd,19:59,323,ROC,9803,Isaac Belliveau,58,D,Cross-checking,2.00,1,0,9803,Isaac Belliveau,Ben Betker,Jared Cummins,,

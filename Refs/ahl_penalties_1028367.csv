@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028367,1,1st,13:13,372,RFD,6799,Cavan Fitzgerald,23,D,Hooking,2.00,1,0,6799,Cavan Fitzgerald,Mike Sullivan,Sam Hiller,,
+1028367,1,1st,19:13,330,CHI,7490,Juuso Välimäki,4,D,Cross-checking,2.00,1,0,7490,Juuso Välimäki,Mike Sullivan,Sam Hiller,,
+1028367,2,2nd,5:43,372,RFD,10382,Kevin Korchinski,14,D,Tripping,2.00,1,0,10382,Kevin Korchinski,Mike Sullivan,Sam Hiller,,
+1028367,3,3rd,12:08,372,RFD,9833,Ethan Del Mastro,38,D,Hooking,2.00,1,0,9833,Ethan Del Mastro,Mike Sullivan,Sam Hiller,,

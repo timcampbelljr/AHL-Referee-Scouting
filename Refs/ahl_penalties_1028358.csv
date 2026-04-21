@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028358,1,1st,11:02,405,SJ,9621,Anthony Vincent,76,F,High-sticking,2.00,1,0,9621,Anthony Vincent,Jackson Kozari,Stan Szczurek,,
+1028358,1,1st,19:57,412,TUC,7069,Austin Poganski,27,RW,Tripping,2.00,1,0,7069,Austin Poganski,Jackson Kozari,Stan Szczurek,,
+1028358,2,2nd,3:48,412,TUC,8519,Scott Perunovich,7,D,Slashing,2.00,1,0,8519,Scott Perunovich,Jackson Kozari,Stan Szczurek,,
+1028358,2,2nd,4:24,405,SJ,7575,Oliver Wahlstrom,24,RW,Holding,2.00,1,0,7575,Oliver Wahlstrom,Jackson Kozari,Stan Szczurek,,
+1028358,2,2nd,10:26,412,TUC,9207,Julian Lutz,43,F,Fighting,5.00,0,0,9207,Julian Lutz,Jackson Kozari,Stan Szczurek,,
+1028358,2,2nd,10:26,405,SJ,10231,Kasper Halttunen,14,F,Fighting,5.00,0,0,10231,Kasper Halttunen,Jackson Kozari,Stan Szczurek,,
+1028358,2,2nd,12:59,405,SJ,10699,Mattias Havelid,25,D,Tripping,2.00,1,0,10699,Mattias Havelid,Jackson Kozari,Stan Szczurek,,
+1028358,3,3rd,2:39,412,TUC,9217,Max Szuber,55,D,Holding,2.00,1,0,9217,Max Szuber,Jackson Kozari,Stan Szczurek,,
+1028358,OT,OT,3:00,412,TUC,0,None None,0,,Too many men - Bench minor,2.00,1,1,10211,Miko Matikka,Jackson Kozari,Stan Szczurek,,

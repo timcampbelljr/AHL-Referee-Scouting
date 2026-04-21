@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028345,1,1st,10:54,412,TUC,0,None None,0,,Too many men - Bench minor,2.00,1,1,10211,Miko Matikka,Jackson Kozari,Stan Szczurek,,
+1028345,2,2nd,0:56,412,TUC,8519,Scott Perunovich,7,D,Tripping,2.00,1,0,8519,Scott Perunovich,Jackson Kozari,Stan Szczurek,,
+1028345,2,2nd,11:10,412,TUC,10220,Maveric Lamoureux,10,D,Tripping,2.00,1,0,10220,Maveric Lamoureux,Jackson Kozari,Stan Szczurek,,
+1028345,2,2nd,17:36,405,SJ,9153,Nolan Allan,7,D,Roughing,2.00,0,0,9153,Nolan Allan,Jackson Kozari,Stan Szczurek,,
+1028345,2,2nd,17:36,412,TUC,6037,Robbie Russo,5,D,Roughing,2.00,0,0,6037,Robbie Russo,Jackson Kozari,Stan Szczurek,,
+1028345,3,3rd,5:11,412,TUC,10665,Dmitri Simashev,26,D,Cross-checking,2.00,1,0,10665,Dmitri Simashev,Jackson Kozari,Stan Szczurek,,
+1028345,3,3rd,8:48,405,SJ,10086,Filip Bystedt,18,F,Holding,2.00,1,0,10086,Filip Bystedt,Jackson Kozari,Stan Szczurek,,

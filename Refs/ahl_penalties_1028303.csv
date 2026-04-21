@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028303,1,1st,1:58,440,ABB,10919,Anri Ravinskis,26,LW,Cross-checking,2.00,1,0,10919,Anri Ravinskis,Ben Solomon,Brendan Schreider,,
+1028303,2,2nd,11:04,440,ABB,10090,Victor Mancini,90,D,Slashing,2.00,1,0,10090,Victor Mancini,Ben Solomon,Brendan Schreider,,
+1028303,2,2nd,15:03,444,CGY,6367,Dryden Hunt,15,LW,Hooking,2.00,1,0,6367,Dryden Hunt,Ben Solomon,Brendan Schreider,,
+1028303,3,3rd,18:27,444,CGY,10755,Aydar Suniev,36,LW,Tripping,2.00,1,0,10755,Aydar Suniev,Ben Solomon,Brendan Schreider,,

@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028393,1,1st,13:40,372,RFD,10503,Jamie Engelbert,45,F,Hooking,2.00,1,0,10503,Jamie Engelbert,Austin Rook,Adam Tobias,,
+1028393,2,2nd,15:02,372,RFD,7027,Brett Seney,62,F,Cross-checking,2.00,1,0,7027,Brett Seney,Austin Rook,Adam Tobias,,
+1028393,2,2nd,15:16,380,TEX,9961,Matthew Seminoff,13,F,Fighting,5.00,0,0,9961,Matthew Seminoff,Austin Rook,Adam Tobias,,
+1028393,2,2nd,15:16,372,RFD,10177,Samuel Savoie,67,F,Fighting,5.00,0,0,10177,Samuel Savoie,Austin Rook,Adam Tobias,,
+1028393,2,2nd,20:00,372,RFD,9720,Gavin Hayes,92,F,Roughing,2.00,0,0,9720,Gavin Hayes,Austin Rook,Adam Tobias,,
+1028393,2,2nd,20:00,380,TEX,7101,Kole Lind,17,F,Roughing,2.00,0,0,7101,Kole Lind,Austin Rook,Adam Tobias,,
+1028393,2,2nd,20:00,372,RFD,7027,Brett Seney,62,F,Roughing,2.00,1,0,7027,Brett Seney,Austin Rook,Adam Tobias,,
+1028393,3,3rd,1:58,380,TEX,10451,Justin Ertel,10,LW,Hooking,2.00,1,0,10451,Justin Ertel,Austin Rook,Adam Tobias,,
+1028393,3,3rd,14:37,372,RFD,10142,Martin Misiak,68,F,Tripping,2.00,0,0,10142,Martin Misiak,Austin Rook,Adam Tobias,,
+1028393,3,3rd,14:37,380,TEX,10451,Justin Ertel,10,LW,Roughing,2.00,0,0,10451,Justin Ertel,Austin Rook,Adam Tobias,,

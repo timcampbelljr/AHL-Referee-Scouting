@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028311,1,1st,8:33,373,CLE,10471,Max McCue,93,C,Boarding,2.00,1,0,10471,Max McCue,Jack Young,Mason Riley,,
+1028311,1,1st,18:14,319,HER,9972,Ivan Miroshnichenko,10,LW,Unsportsmanlike conduct,2.00,0,0,9972,Ivan Miroshnichenko,Jack Young,Mason Riley,,
+1028311,1,1st,18:14,373,CLE,6322,Dysin Mayo,6,D,Unsportsmanlike conduct,2.00,0,0,6322,Dysin Mayo,Jack Young,Mason Riley,,
+1028311,2,2nd,12:58,319,HER,7024,Louie Belpedio,7,D,Boarding,2.00,1,0,7024,Louie Belpedio,Jack Young,Mason Riley,,
+1028311,2,2nd,15:12,373,CLE,0,None None,0,,Too many men - Bench minor,2.00,1,1,9978,James Malatesta,Jack Young,Mason Riley,,
+1028311,3,3rd,6:17,373,CLE,9904,Tate Singleton,48,RW,Roughing,2.00,0,0,9904,Tate Singleton,Jack Young,Mason Riley,,
+1028311,3,3rd,6:17,319,HER,10187,Zac Funk,14,LW,Roughing,2.00,0,0,10187,Zac Funk,Jack Young,Mason Riley,,
+1028311,3,3rd,10:28,319,HER,9161,Bogdan Trineyev,44,RW,Tripping,2.00,1,0,9161,Bogdan Trineyev,Jack Young,Mason Riley,,
+1028311,3,3rd,13:31,319,HER,10174,Andrew Cristall,20,LW,Cross-checking,2.00,1,0,10174,Andrew Cristall,Jack Young,Mason Riley,,
+1028311,3,3rd,16:52,319,HER,9972,Ivan Miroshnichenko,10,LW,Roughing,2.00,0,0,9972,Ivan Miroshnichenko,Jack Young,Mason Riley,,
+1028311,3,3rd,16:52,373,CLE,6516,Hudson Fasching,20,RW,Roughing,2.00,0,0,6516,Hudson Fasching,Jack Young,Mason Riley,,

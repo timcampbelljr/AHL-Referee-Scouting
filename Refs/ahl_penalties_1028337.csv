@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028337,1,1st,10:54,444,CGY,8741,Nick Cicek,41,D,Hooking,2.00,1,0,8741,Nick Cicek,Graedy Hamilton,Nick Isaacson,,
+1028337,1,1st,15:25,402,BAK,10876,Viljami Marjala,57,C,Interference,2.00,1,0,10876,Viljami Marjala,Graedy Hamilton,Nick Isaacson,,
+1028337,2,2nd,5:57,402,BAK,0,None None,0,,Too many men - Bench minor,2.00,1,1,5080,Seth Griffith,Graedy Hamilton,Nick Isaacson,,
+1028337,2,2nd,10:05,444,CGY,9952,Lucas Ciona,17,LW,Unsportsmanlike conduct,2.00,1,0,5018,Martin Frk,Graedy Hamilton,Nick Isaacson,,
+1028337,2,2nd,10:05,402,BAK,10876,Viljami Marjala,57,C,Roughing,2.00,0,0,10876,Viljami Marjala,Graedy Hamilton,Nick Isaacson,,
+1028337,2,2nd,10:05,444,CGY,9952,Lucas Ciona,17,LW,Roughing,2.00,0,0,9952,Lucas Ciona,Graedy Hamilton,Nick Isaacson,,
+1028337,2,2nd,11:44,402,BAK,10880,Beau Akey,82,D,Interference,2.00,1,0,10880,Beau Akey,Graedy Hamilton,Nick Isaacson,,
+1028337,2,2nd,12:26,444,CGY,7971,Martin Pospisil,24,C,Cross-checking,2.00,0,0,7971,Martin Pospisil,Graedy Hamilton,Nick Isaacson,,
+1028337,2,2nd,12:59,402,BAK,6780,Max Jones,46,LW,High-sticking,2.00,1,0,6780,Max Jones,Graedy Hamilton,Nick Isaacson,,
+1028337,2,2nd,20:00,402,BAK,8485,James Hamblin,52,C,High-sticking,2.00,1,0,8485,James Hamblin,Graedy Hamilton,Nick Isaacson,,
+1028337,3,3rd,1:27,444,CGY,5018,Martin Frk,29,RW,Hooking,2.00,1,0,5018,Martin Frk,Graedy Hamilton,Nick Isaacson,,

@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028327,1,1st,7:28,445,CV,10190,Tyson Jugnauth,43,D,Cross-checking,2.00,1,0,10190,Tyson Jugnauth,Tyler Spott,Mike Dietrich,,
+1028327,2,2nd,6:17,380,TEX,10904,Arno Tiefensee,30,G,Tripping,2.00,1,0,10517,Tommy Bergsland,Tyler Spott,Mike Dietrich,,
+1028327,3,3rd,19:00,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,0,0,8625,Ian McKinnon,Tyler Spott,Mike Dietrich,,
+1028327,3,3rd,19:00,445,CV,8625,Ian McKinnon,21,F,Misconduct,10.00,0,0,8625,Ian McKinnon,Tyler Spott,Mike Dietrich,,
+1028327,3,3rd,19:00,380,TEX,10527,Sean Chisholm,21,F,Cross-checking,2.00,0,0,10527,Sean Chisholm,Tyler Spott,Mike Dietrich,,
+1028327,3,3rd,19:00,380,TEX,10527,Sean Chisholm,21,F,Misconduct,10.00,0,0,10527,Sean Chisholm,Tyler Spott,Mike Dietrich,,
+1028327,3,3rd,20:00,445,CV,6956,John Hayden,15,F,Slashing,2.00,0,0,6956,John Hayden,Tyler Spott,Mike Dietrich,,
+1028327,3,3rd,20:00,380,TEX,9548,Cross Hanas,32,F,Slashing,2.00,0,0,9548,Cross Hanas,Tyler Spott,Mike Dietrich,,

@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028320,1,1st,6:28,307,HFD,10189,Dylan Roobroeck,28,F,Delay of game,2.00,1,0,10189,Dylan Roobroeck,Morgan MacPhee,Austin O’Rourke,,
+1028320,1,1st,18:50,307,HFD,4957,Derrick Pouliot,51,D,Tripping,2.00,1,0,4957,Derrick Pouliot,Morgan MacPhee,Austin O’Rourke,,
+1028320,2,2nd,4:07,317,BRI,10020,Luke Rowe,24,D,Fighting,5.00,0,0,10020,Luke Rowe,Morgan MacPhee,Austin O’Rourke,,
+1028320,2,2nd,4:07,307,HFD,8622,Connor Mackey,14,D,Fighting,5.00,0,0,8622,Connor Mackey,Morgan MacPhee,Austin O’Rourke,,
+1028320,2,2nd,5:04,307,HFD,9048,Brandon Scanlin,58,D,Holding the stick,2.00,1,0,9048,Brandon Scanlin,Morgan MacPhee,Austin O’Rourke,,
+1028320,2,2nd,11:40,307,HFD,10062,Jaroslav Chmelar,42,F,Slashing,2.00,1,0,10062,Jaroslav Chmelar,Morgan MacPhee,Austin O’Rourke,,
+1028320,2,2nd,14:02,317,BRI,10389,Isaiah George,4,D,Holding,2.00,1,0,10389,Isaiah George,Morgan MacPhee,Austin O’Rourke,,
+1028320,2,2nd,16:53,317,BRI,6807,Ethan Bear,49,D,Throwing equipment,2.00,1,0,6807,Ethan Bear,Morgan MacPhee,Austin O’Rourke,,
+1028320,2,2nd,18:08,307,HFD,8622,Connor Mackey,14,D,Tripping,2.00,1,0,8622,Connor Mackey,Morgan MacPhee,Austin O’Rourke,,
+1028320,3,3rd,3:17,307,HFD,4957,Derrick Pouliot,51,D,Slashing,2.00,1,0,4957,Derrick Pouliot,Morgan MacPhee,Austin O’Rourke,,
+1028320,3,3rd,12:38,307,HFD,9642,Brett Berard,9,F,Cross-checking,2.00,0,0,9642,Brett Berard,Morgan MacPhee,Austin O’Rourke,,
+1028320,3,3rd,12:38,317,BRI,9442,Daylan Kuefler,11,F,Roughing,2.00,0,0,9442,Daylan Kuefler,Morgan MacPhee,Austin O’Rourke,,

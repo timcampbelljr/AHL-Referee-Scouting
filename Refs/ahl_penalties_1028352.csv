@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028352,1,1st,1:44,389,IA,10608,Riley Heidt,27,C,Interference,2.00,1,0,10608,Riley Heidt,Bobby Jo Love,Chris Conway,,
+1028352,1,1st,4:46,335,TOR,7693,Benoit-Olivier Groulx,29,C,Cross-checking,2.00,1,0,7693,Benoit-Olivier Groulx,Bobby Jo Love,Chris Conway,,
+1028352,1,1st,14:06,335,TOR,9023,Marc Johnstone,57,RW,High-sticking,2.00,1,0,9023,Marc Johnstone,Bobby Jo Love,Chris Conway,,
+1028352,2,2nd,1:37,389,IA,10067,Jack Peart,3,D,Slashing,2.00,1,0,10067,Jack Peart,Bobby Jo Love,Chris Conway,,
+1028352,2,2nd,6:11,335,TOR,7780,Cédric Paré,56,F,Holding,2.00,1,0,7780,Cédric Paré,Bobby Jo Love,Chris Conway,,
+1028352,2,2nd,7:12,389,IA,6616,Gerry Mayhew,20,C,Cross-checking,2.00,1,0,6616,Gerry Mayhew,Bobby Jo Love,Chris Conway,,
+1028352,2,2nd,16:44,389,IA,9655,Ryan Sandelin,13,F,Double minor - High-sticking,4.00,1,0,9655,Ryan Sandelin,Bobby Jo Love,Chris Conway,,
+1028352,3,3rd,9:51,389,IA,8576,Jean-Luc Foudy,86,RW,Hooking,2.00,1,0,8576,Jean-Luc Foudy,Bobby Jo Love,Chris Conway,,
+1028352,3,3rd,10:43,335,TOR,10525,Luke Haymes,43,C,Tripping,2.00,1,0,10525,Luke Haymes,Bobby Jo Love,Chris Conway,,
+1028352,3,3rd,20:00,389,IA,10094,Jaxon Nelson,16,F,High-sticking,2.00,0,0,10094,Jaxon Nelson,Bobby Jo Love,Chris Conway,,

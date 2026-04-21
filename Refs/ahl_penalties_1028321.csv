@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028321,1,1st,5:54,330,CHI,6633,Gavin Bayreuther,55,D,High-sticking,2.00,1,0,6633,Gavin Bayreuther,Harrison O’Pray,Ibrahim Arifi,,
+1028321,1,1st,8:34,321,MB,10448,Elias Salomonsson,44,D,Holding,2.00,1,0,10448,Elias Salomonsson,Harrison O’Pray,Ibrahim Arifi,,
+1028321,1,1st,11:19,330,CHI,8645,Josiah Slavin,23,LW,Cross-checking,2.00,1,0,8645,Josiah Slavin,Harrison O’Pray,Ibrahim Arifi,,
+1028321,1,1st,17:17,321,MB,9557,Brad Lambert,13,F,Tripping,2.00,1,0,9557,Brad Lambert,Harrison O’Pray,Ibrahim Arifi,,
+1028321,2,2nd,12:30,330,CHI,8437,Ryan Suzuki,6,C,Roughing,2.00,0,0,8437,Ryan Suzuki,Harrison O’Pray,Ibrahim Arifi,,
+1028321,2,2nd,12:30,321,MB,9557,Brad Lambert,13,F,Roughing,2.00,0,0,9557,Brad Lambert,Harrison O’Pray,Ibrahim Arifi,,
+1028321,2,2nd,15:02,321,MB,9555,Tyrel Bauer,2,D,High-sticking,2.00,1,0,9555,Tyrel Bauer,Harrison O’Pray,Ibrahim Arifi,,
+1028321,3,3rd,2:01,321,MB,10483,Fabian Wagner,26,LW,Tripping,2.00,1,0,10483,Fabian Wagner,Harrison O’Pray,Ibrahim Arifi,,
+1028321,3,3rd,8:24,321,MB,10121,Colby Barlow,39,RW,Hooking,2.00,1,0,10121,Colby Barlow,Harrison O’Pray,Ibrahim Arifi,,
+1028321,3,3rd,19:46,330,CHI,8437,Ryan Suzuki,6,C,Tripping,2.00,1,0,8437,Ryan Suzuki,Harrison O’Pray,Ibrahim Arifi,,

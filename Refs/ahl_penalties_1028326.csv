@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028326,1,1st,14:57,328,GR,0,None None,0,,Too many men - Bench minor,2.00,1,1,8654,Eduards Tralmaks,Nolan Bloyer,Kyle Bauman,,
+1028326,2,2nd,15:13,328,GR,10155,Shai Buium,8,D,Roughing,2.00,0,0,10155,Shai Buium,Nolan Bloyer,Kyle Bauman,,
+1028326,2,2nd,15:13,327,MIL,10609,Cole O’Hara,77,RW,Slashing,2.00,1,0,10609,Cole O’Hara,Nolan Bloyer,Kyle Bauman,,
+1028326,2,2nd,15:13,327,MIL,10832,Oasiz Wiesblatt,88,C,Roughing,2.00,0,0,10832,Oasiz Wiesblatt,Nolan Bloyer,Kyle Bauman,,
+1028326,3,3rd,4:41,327,MIL,5671,Daniel Carr,43,LW,Holding,2.00,1,0,5671,Daniel Carr,Nolan Bloyer,Kyle Bauman,,
+1028326,3,3rd,5:08,328,GR,9718,Amadeus Lombardi,93,C,Interference,2.00,1,0,9718,Amadeus Lombardi,Nolan Bloyer,Kyle Bauman,,
+1028326,3,3rd,7:34,327,MIL,9798,Magnus Chrona,30,G,Tripping,2.00,1,0,10831,Isak Walther,Nolan Bloyer,Kyle Bauman,,

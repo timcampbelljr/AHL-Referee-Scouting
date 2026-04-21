@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028325,2,2nd,4:51,403,ONT,5976,Joe Hicketts,27,D,Roughing,2.00,1,0,5976,Joe Hicketts,Jordan Deckard,Jack Young,,
+1028325,2,2nd,8:00,403,ONT,9733,Erik Portillo,1,G,Tripping,2.00,1,0,8714,Martin Chromiak,Jordan Deckard,Jack Young,,
+1028325,2,2nd,10:14,419,COL,9723,Jake Wise,28,F,Interference,2.00,1,0,9723,Jake Wise,Jordan Deckard,Jack Young,,
+1028325,2,2nd,14:42,403,ONT,9357,Cole Guttman,81,F,Slashing,2.00,1,0,9357,Cole Guttman,Jordan Deckard,Jack Young,,
+1028325,3,3rd,10:39,419,COL,7782,Luke Toporowski,61,RW,High-sticking,2.00,1,0,7782,Luke Toporowski,Jordan Deckard,Jack Young,,
+1028325,3,3rd,11:26,419,COL,9571,Ronnie Attard,3,D,Delay of game,2.00,1,0,9571,Ronnie Attard,Jordan Deckard,Jack Young,,

@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028364,1,1st,3:33,440,ABB,10057,Jonathan Lekkerimäki,23,RW,High-sticking,2.00,1,0,10057,Jonathan Lekkerimäki,Stephen Hiff,Tatu Kunto,,
+1028364,1,1st,14:10,445,CV,10083,Lleyton Roed,29,F,Tripping,2.00,1,0,10083,Lleyton Roed,Stephen Hiff,Tatu Kunto,,
+1028364,1,1st,18:00,440,ABB,10146,Joe Arntsen,3,D,Holding,2.00,1,0,10146,Joe Arntsen,Stephen Hiff,Tatu Kunto,,
+1028364,2,2nd,2:26,445,CV,10190,Tyson Jugnauth,43,D,Tripping,2.00,1,0,10190,Tyson Jugnauth,Stephen Hiff,Tatu Kunto,,
+1028364,2,2nd,18:49,445,CV,9706,Ville Ottavainen,36,D,Holding,2.00,1,0,9706,Ville Ottavainen,Stephen Hiff,Tatu Kunto,,
+1028364,2,2nd,20:00,440,ABB,10117,Vilmer Alriksson,46,LW,Roughing,2.00,0,0,10117,Vilmer Alriksson,Stephen Hiff,Tatu Kunto,,
+1028364,2,2nd,20:00,445,CV,9764,Ty Nelson,24,D,Roughing,2.00,0,0,9764,Ty Nelson,Stephen Hiff,Tatu Kunto,,

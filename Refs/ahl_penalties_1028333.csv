@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028333,1,1st,16:51,323,ROC,9803,Isaac Belliveau,58,D,Slashing,2.00,1,0,9803,Isaac Belliveau,Alex Lepkowski,James Kraft,,
+1028333,1,1st,18:59,324,SYR,9901,Gabriel Szturc,95,C,Slashing,2.00,1,0,9901,Gabriel Szturc,Alex Lepkowski,James Kraft,,
+1028333,2,2nd,5:26,324,SYR,9347,Michael Milne,50,LW,Roughing,2.00,1,0,9347,Michael Milne,Alex Lepkowski,James Kraft,,
+1028333,2,2nd,12:22,323,ROC,9923,Riley Fiddler-Schultz,12,LW,Slashing,2.00,1,0,9923,Riley Fiddler-Schultz,Alex Lepkowski,James Kraft,,

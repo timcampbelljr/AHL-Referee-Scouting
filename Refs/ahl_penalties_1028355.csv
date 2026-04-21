@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028355,1,1st,15:52,373,CLE,9978,James Malatesta,11,LW,Interference,2.00,1,0,9978,James Malatesta,Alex Gagné,Austin O’Rourke,,
+1028355,1,1st,20:00,373,CLE,10176,Luca Pinelli,53,LW,Roughing,2.00,0,0,10176,Luca Pinelli,Alex Gagné,Austin O’Rourke,,
+1028355,1,1st,20:00,309,PRO,9032,Michael Callahan,23,D,Roughing,2.00,0,0,9032,Michael Callahan,Alex Gagné,Austin O’Rourke,,
+1028355,2,2nd,8:23,309,PRO,10055,Riley Duran,11,RW,Slashing,2.00,1,0,10055,Riley Duran,Alex Gagné,Austin O’Rourke,,
+1028355,2,2nd,15:04,373,CLE,9904,Tate Singleton,48,RW,Slashing,2.00,0,0,9904,Tate Singleton,Alex Gagné,Austin O’Rourke,,
+1028355,2,2nd,15:04,309,PRO,9108,Georgii Merkulov,10,LW,Misconduct,10.00,0,0,9108,Georgii Merkulov,Alex Gagné,Austin O’Rourke,,
+1028355,2,2nd,15:04,309,PRO,9108,Georgii Merkulov,10,LW,Roughing,2.00,0,0,9166,Brett Harrison,Alex Gagné,Austin O’Rourke,,
+1028355,2,2nd,17:20,373,CLE,10895,Caleb MacDonald,43,D,Slashing,2.00,1,0,10895,Caleb MacDonald,Alex Gagné,Austin O’Rourke,,
+1028355,3,3rd,3:06,373,CLE,10895,Caleb MacDonald,43,D,Interference,2.00,1,0,10895,Caleb MacDonald,Alex Gagné,Austin O’Rourke,,
+1028355,3,3rd,10:02,373,CLE,9981,Luca Del Bel Belluz,10,C,Holding,2.00,1,0,9981,Luca Del Bel Belluz,Alex Gagné,Austin O’Rourke,,
+1028355,3,3rd,12:31,373,CLE,9904,Tate Singleton,48,RW,Tripping,2.00,1,0,9904,Tate Singleton,Alex Gagné,Austin O’Rourke,,

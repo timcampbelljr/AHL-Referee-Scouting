@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028301,1,1st,7:01,412,TUC,7581,Ryan McGregor,16,C,Tripping,2.00,1,0,7581,Ryan McGregor,Mike Sullivan,Mike Dietrich,,
+1028301,1,1st,15:23,389,IA,9154,Oskar Olausson,24,F,Slashing,2.00,1,0,9154,Oskar Olausson,Mike Sullivan,Mike Dietrich,,
+1028301,2,2nd,3:17,412,TUC,9207,Julian Lutz,43,F,Holding,2.00,1,0,9207,Julian Lutz,Mike Sullivan,Mike Dietrich,,
+1028301,2,2nd,7:12,389,IA,6304,Nicolas Aubé-Kubel,96,RW,Interference,2.00,1,0,6304,Nicolas Aubé-Kubel,Mike Sullivan,Mike Dietrich,,
+1028301,2,2nd,11:56,412,TUC,10214,Noel Nordh,45,F,Tripping,2.00,1,0,10214,Noel Nordh,Mike Sullivan,Mike Dietrich,,
+1028301,3,3rd,6:16,389,IA,9655,Ryan Sandelin,13,F,Double minor - High-sticking,4.00,1,0,9655,Ryan Sandelin,Mike Sullivan,Mike Dietrich,,
+1028301,3,3rd,15:45,389,IA,8576,Jean-Luc Foudy,86,RW,Interference,2.00,1,0,8576,Jean-Luc Foudy,Mike Sullivan,Mike Dietrich,,

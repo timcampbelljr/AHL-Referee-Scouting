@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028396,1,1st,10:29,317,BRI,9443,Matthew Maggio,18,F,Hooking,2.00,1,0,9443,Matthew Maggio,Jordan Deckard,Brendan Schreider,,
+1028396,1,1st,12:44,309,PRO,10055,Riley Duran,11,RW,Tripping,2.00,1,0,10055,Riley Duran,Jordan Deckard,Brendan Schreider,,
+1028396,OT,OT,0:52,309,PRO,0,None None,0,,Too many men - Bench minor,2.00,1,1,9524,Fabian Lysell,Jordan Deckard,Brendan Schreider,,

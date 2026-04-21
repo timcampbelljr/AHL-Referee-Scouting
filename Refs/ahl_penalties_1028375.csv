@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028375,1,1st,18:49,440,ABB,10117,Vilmer Alriksson,46,LW,Hooking,2.00,1,0,10117,Vilmer Alriksson,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,2,2nd,5:20,415,LAV,10139,Florian Xhekaj,63,C,Hooking,2.00,1,0,10139,Florian Xhekaj,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,2,2nd,9:50,415,LAV,8717,Marc Del Gaizo,2,D,Tripping,2.00,1,0,8717,Marc Del Gaizo,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,2,2nd,9:55,415,LAV,10437,Adam Engström,56,D,Delay of game,2.00,1,0,10437,Adam Engström,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,3,3rd,0:51,415,LAV,10437,Adam Engström,56,D,Tripping,2.00,1,0,10437,Adam Engström,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,3,3rd,3:26,440,ABB,5502,Jujhar Khaira,15,C,Tripping,2.00,1,0,5502,Jujhar Khaira,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,3,3rd,6:22,440,ABB,5502,Jujhar Khaira,15,C,Fighting,5.00,0,0,5502,Jujhar Khaira,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,3,3rd,6:22,415,LAV,9093,Lucas Condotta,42,LW,Fighting,5.00,0,0,9093,Lucas Condotta,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,3,3rd,12:23,415,LAV,10505,Will Dineen,26,F,Fighting,5.00,0,0,10505,Will Dineen,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,3,3rd,12:23,440,ABB,8916,Cole Clayton,34,D,Fighting,5.00,0,0,8916,Cole Clayton,Alex Lepkowski,Jesse Wood-Schatz,,
+1028375,3,3rd,13:06,415,LAV,9520,William Trudeau,84,D,Holding,2.00,1,0,9520,William Trudeau,Alex Lepkowski,Jesse Wood-Schatz,,

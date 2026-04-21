@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028389,1,1st,6:56,384,CLT,9988,Michael Benning,2,D,Slashing,2.00,1,0,9988,Michael Benning,Jarrett Burton,Jack Young,,
+1028389,2,2nd,7:36,384,CLT,10459,Mikulas Hovorka,14,D,Interference,2.00,1,0,10459,Mikulas Hovorka,Jarrett Burton,Jack Young,,
+1028389,2,2nd,9:57,313,LV,4334,Garrett Wilson,17,LW,Tripping,2.00,1,0,4334,Garrett Wilson,Jarrett Burton,Jack Young,,
+1028389,2,2nd,12:02,313,LV,6342,Anthony Richard,90,LW,High-sticking,2.00,1,0,6342,Anthony Richard,Jarrett Burton,Jack Young,,
+1028389,3,3rd,5:23,313,LV,9963,Christian Kyrou,15,D,Holding,2.00,0,0,9963,Christian Kyrou,Jarrett Burton,Jack Young,,
+1028389,3,3rd,5:23,384,CLT,7106,Jack Studnicka,23,F,Roughing,2.00,0,0,7106,Jack Studnicka,Jarrett Burton,Jack Young,,
+1028389,3,3rd,9:01,313,LV,9378,Jacob Gaucher,56,F,Tripping,2.00,1,0,9378,Jacob Gaucher,Jarrett Burton,Jack Young,,
+1028389,3,3rd,13:18,384,CLT,10056,Ben Steeves,6,F,Hooking,2.00,1,0,10056,Ben Steeves,Jarrett Burton,Jack Young,,

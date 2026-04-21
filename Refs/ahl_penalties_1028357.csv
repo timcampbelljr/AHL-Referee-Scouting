@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028357,1,1st,3:09,380,TEX,10451,Justin Ertel,10,LW,Tripping,2.00,1,0,10451,Justin Ertel,Simon Desbiens,Nolan Bloyer,,
+1028357,1,1st,3:54,403,ONT,6784,Glenn Gawdin,21,F,Hooking,2.00,1,0,6784,Glenn Gawdin,Simon Desbiens,Nolan Bloyer,,
+1028357,1,1st,16:36,403,ONT,10715,Jack Hughes,47,F,Double minor - High-sticking,4.00,1,0,10715,Jack Hughes,Simon Desbiens,Nolan Bloyer,,
+1028357,2,2nd,11:18,380,TEX,10451,Justin Ertel,10,LW,Tripping,2.00,1,0,10451,Justin Ertel,Simon Desbiens,Nolan Bloyer,,
+1028357,2,2nd,20:00,380,TEX,9548,Cross Hanas,32,F,Roughing,2.00,0,0,9548,Cross Hanas,Simon Desbiens,Nolan Bloyer,,
+1028357,2,2nd,20:00,403,ONT,5976,Joe Hicketts,27,D,Slashing,2.00,0,0,5976,Joe Hicketts,Simon Desbiens,Nolan Bloyer,,
+1028357,3,3rd,5:07,380,TEX,10449,Connor Punnett,24,D,High-sticking,2.00,1,0,10449,Connor Punnett,Simon Desbiens,Nolan Bloyer,,

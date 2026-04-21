@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028365,2,2nd,2:34,437,HSK,10285,Viliam Kmec,74,D,Roughing,2.00,1,0,10285,Viliam Kmec,Mike Dietrich,Mike Campbell,,
+1028365,2,2nd,5:25,419,COL,7218,Keaton Middleton,67,D,Interference,2.00,1,0,7218,Keaton Middleton,Mike Dietrich,Mike Campbell,,
+1028365,2,2nd,12:54,419,COL,8500,Jack Ahcan,15,D,Cross-checking,2.00,1,0,8500,Jack Ahcan,Mike Dietrich,Mike Campbell,,
+1028365,2,2nd,15:12,437,HSK,7028,Mitch McLain,75,F,Tripping,2.00,1,0,7028,Mitch McLain,Mike Dietrich,Mike Campbell,,
+1028365,3,3rd,17:28,437,HSK,10279,Carl Lindbom,30,G,Delay of game - Restricted area,2.00,1,0,9271,Jordan Gustafson,Mike Dietrich,Mike Campbell,,
+1028365,3,3rd,19:07,419,COL,5540,T.J. Tynan,9,F,Misconduct - Continuing altercation,10.00,0,0,5540,T.J. Tynan,Mike Dietrich,Mike Campbell,,
+1028365,3,3rd,19:07,419,COL,5540,T.J. Tynan,9,F,Slashing,2.00,0,0,5540,T.J. Tynan,Mike Dietrich,Mike Campbell,,
+1028365,3,3rd,19:07,419,COL,8929,Tristen Nielsen,57,F,Misconduct - Continuing altercation,10.00,0,0,8929,Tristen Nielsen,Mike Dietrich,Mike Campbell,,
+1028365,3,3rd,19:07,437,HSK,7926,Jeremy Davies,84,D,Misconduct - Continuing altercation,10.00,0,0,7926,Jeremy Davies,Mike Dietrich,Mike Campbell,,
+1028365,3,3rd,19:07,437,HSK,7926,Jeremy Davies,84,D,Roughing,2.00,0,0,7926,Jeremy Davies,Mike Dietrich,Mike Campbell,,

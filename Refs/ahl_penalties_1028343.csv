@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028343,1,1st,6:27,440,ABB,7597,Jett Woo,4,D,Roughing,2.00,1,0,7597,Jett Woo,Austin Rook,Jordan Deckard,,
+1028343,1,1st,18:12,404,SD,10506,Stian Solberg,7,D,Holding,2.00,1,0,10506,Stian Solberg,Austin Rook,Jordan Deckard,,
+1028343,2,2nd,12:19,440,ABB,7597,Jett Woo,4,D,Interference,2.00,1,0,7597,Jett Woo,Austin Rook,Jordan Deckard,,
+1028343,2,2nd,12:19,440,ABB,7696,Chase Wouters,21,C,Fighting,5.00,0,0,7696,Chase Wouters,Austin Rook,Jordan Deckard,,
+1028343,2,2nd,12:19,404,SD,6442,Nikolas Brouillard,15,D,Fighting,5.00,0,0,6442,Nikolas Brouillard,Austin Rook,Jordan Deckard,,
+1028343,2,2nd,15:37,404,SD,10506,Stian Solberg,7,D,Tripping,2.00,1,0,10506,Stian Solberg,Austin Rook,Jordan Deckard,,
+1028343,3,3rd,17:43,440,ABB,9406,Nils Åman,88,C,Closing hand on puck,2.00,1,0,9406,Nils Åman,Austin Rook,Jordan Deckard,,
+1028343,3,3rd,18:54,404,SD,6442,Nikolas Brouillard,15,D,Hooking,2.00,1,0,6442,Nikolas Brouillard,Austin Rook,Jordan Deckard,,

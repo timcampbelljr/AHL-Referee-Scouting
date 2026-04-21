@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028341,1,1st,4:31,313,LV,10432,Oscar Eklind,43,F,Double minor - High-sticking,4.00,1,0,10432,Oscar Eklind,Ben Betker,Hayden Verbeek,,
+1028341,1,1st,13:30,313,LV,7132,Cooper Marody,20,RW,Hooking,2.00,1,0,7132,Cooper Marody,Ben Betker,Hayden Verbeek,,
+1028341,1,1st,17:33,313,LV,7788,Maxence Guenette,82,D,High-sticking,2.00,1,0,7788,Maxence Guenette,Ben Betker,Hayden Verbeek,,
+1028341,2,2nd,2:13,317,BRI,6858,C.J. Smith,29,F,Hooking,2.00,1,0,6858,C.J. Smith,Ben Betker,Hayden Verbeek,,
+1028341,2,2nd,19:30,313,LV,8559,Phil Tomasino,26,RW,Holding the stick,2.00,1,0,8559,Phil Tomasino,Ben Betker,Hayden Verbeek,,
+1028341,3,3rd,4:10,313,LV,9825,Alexis Gendron,72,F,Roughing,2.00,1,0,9825,Alexis Gendron,Ben Betker,Hayden Verbeek,,
+1028341,3,3rd,12:17,313,LV,9378,Jacob Gaucher,56,F,Slashing,2.00,1,0,9378,Jacob Gaucher,Ben Betker,Hayden Verbeek,,
+1028341,3,3rd,18:33,317,BRI,10020,Luke Rowe,24,D,Hooking,2.00,1,0,10020,Luke Rowe,Ben Betker,Hayden Verbeek,,

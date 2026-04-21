@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028314,1,1st,7:54,411,SPR,6917,Calle Rosén,43,D,Hooking,2.00,1,0,6917,Calle Rosén,Austin Rook,Johnny Daniels,,
+1028314,1,1st,13:30,313,LV,9378,Jacob Gaucher,56,F,Tripping,2.00,1,0,9378,Jacob Gaucher,Austin Rook,Johnny Daniels,,
+1028314,2,2nd,0:44,313,LV,9768,Tucker Robertson,22,F,Boarding,2.00,1,0,9768,Tucker Robertson,Austin Rook,Johnny Daniels,,
+1028314,2,2nd,5:56,313,LV,0,None None,0,,Too many men - Bench minor,2.00,1,1,10300,Sawyer Boulton,Austin Rook,Johnny Daniels,,
+1028314,2,2nd,7:59,411,SPR,10920,Theo Lindstein,4,D,Slashing,2.00,1,0,10920,Theo Lindstein,Austin Rook,Johnny Daniels,,
+1028314,2,2nd,16:15,313,LV,9749,Roman Schmidt,76,D,Roughing,2.00,1,0,9749,Roman Schmidt,Austin Rook,Johnny Daniels,,
+1028314,2,2nd,19:25,313,LV,9825,Alexis Gendron,72,F,Tripping,2.00,1,0,9825,Alexis Gendron,Austin Rook,Johnny Daniels,,
+1028314,2,2nd,20:00,411,SPR,4622,Chris Wagner,88,C,Slashing,2.00,1,0,4622,Chris Wagner,Austin Rook,Johnny Daniels,,
+1028314,3,3rd,1:58,411,SPR,8630,Hunter Skinner,55,D,Slashing,2.00,1,0,8630,Hunter Skinner,Austin Rook,Johnny Daniels,,
+1028314,3,3rd,3:57,411,SPR,10143,Dylan Peterson,22,F,Fighting,5.00,0,0,10143,Dylan Peterson,Austin Rook,Johnny Daniels,,
+1028314,3,3rd,3:57,313,LV,10552,Ty Murchison,4,D,Fighting,5.00,0,0,10552,Ty Murchison,Austin Rook,Johnny Daniels,,
+1028314,3,3rd,6:10,411,SPR,9268,Zach Dean,14,F,Interference,2.00,1,0,9268,Zach Dean,Austin Rook,Johnny Daniels,,

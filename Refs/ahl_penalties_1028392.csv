@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028392,1,1st,10:27,390,UTC,6879,Dmitry Osipov,44,D,Tripping,2.00,1,0,6879,Dmitry Osipov,Tyler Spott,Jared Cummins,,
+1028392,2,2nd,8:00,323,ROC,9761,Olivier Nadeau,20,RW,Hooking,2.00,1,0,9761,Olivier Nadeau,Tyler Spott,Jared Cummins,,
+1028392,2,2nd,16:00,323,ROC,9927,Viktor Neuchev,79,RW,Slashing,2.00,1,0,9927,Viktor Neuchev,Tyler Spott,Jared Cummins,,
+1028392,3,3rd,6:43,323,ROC,9767,Ryan Johnson,23,D,High-sticking,2.00,1,0,9767,Ryan Johnson,Tyler Spott,Jared Cummins,,
+1028392,3,3rd,7:09,390,UTC,6734,Dennis Cholowski,4,D,Interference,2.00,1,0,6734,Dennis Cholowski,Tyler Spott,Jared Cummins,,
+1028392,3,3rd,8:11,390,UTC,8648,Angus Crookshank,9,LW,Hooking,2.00,1,0,8648,Angus Crookshank,Tyler Spott,Jared Cummins,,
+1028392,3,3rd,14:39,323,ROC,0,None None,0,,Too many men - Bench minor,2.00,1,1,9761,Olivier Nadeau,Tyler Spott,Jared Cummins,,
+1028392,3,3rd,15:55,323,ROC,9643,Jagger Joshua,8,LW,Roughing,2.00,0,0,9643,Jagger Joshua,Tyler Spott,Jared Cummins,,
+1028392,3,3rd,15:55,390,UTC,9516,Xavier Parent,67,F,Roughing,2.00,0,0,9516,Xavier Parent,Tyler Spott,Jared Cummins,,

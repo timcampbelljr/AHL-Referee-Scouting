@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028354,1,1st,1:48,324,SYR,4666,Jarred Tinordi,28,D,Tripping,2.00,1,0,4666,Jarred Tinordi,Ben Betker,Adam Tobias,,
+1028354,1,1st,7:57,324,SYR,4666,Jarred Tinordi,28,D,Tripping,2.00,1,0,4666,Jarred Tinordi,Ben Betker,Adam Tobias,,
+1028354,1,1st,20:00,313,LV,9749,Roman Schmidt,76,D,Unsportsmanlike conduct,2.00,1,0,9749,Roman Schmidt,Ben Betker,Adam Tobias,,
+1028354,2,2nd,2:45,313,LV,0,None None,0,,Too many men - Bench minor,2.00,1,1,9825,Alexis Gendron,Ben Betker,Adam Tobias,,
+1028354,2,2nd,6:15,324,SYR,9823,Ethan Samson,42,D,Slashing,2.00,1,0,9823,Ethan Samson,Ben Betker,Adam Tobias,,
+1028354,2,2nd,10:22,324,SYR,4666,Jarred Tinordi,28,D,Roughing,2.00,1,0,4666,Jarred Tinordi,Ben Betker,Adam Tobias,,
+1028354,2,2nd,16:48,313,LV,10717,Devin Kaplan,12,F,Slashing,2.00,1,0,10717,Devin Kaplan,Ben Betker,Adam Tobias,,
+1028354,2,2nd,18:59,324,SYR,9202,Conor Geekie,94,C,High-sticking,2.00,1,0,9202,Conor Geekie,Ben Betker,Adam Tobias,,
+1028354,3,3rd,2:51,324,SYR,9823,Ethan Samson,42,D,Slashing,2.00,1,0,9823,Ethan Samson,Ben Betker,Adam Tobias,,
+1028354,3,3rd,17:12,313,LV,9825,Alexis Gendron,72,F,Misconduct - Unsportsmanlike conduct,10.00,0,0,7132,Cooper Marody,Ben Betker,Adam Tobias,,
+1028354,3,3rd,17:12,313,LV,9825,Alexis Gendron,72,F,Unsportsmanlike conduct,2.00,1,0,9825,Alexis Gendron,Ben Betker,Adam Tobias,,

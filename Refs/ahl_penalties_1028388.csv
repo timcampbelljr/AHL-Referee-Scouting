@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028388,1,1st,5:55,327,MIL,10645,David Edstrom,41,C,High-sticking,2.00,1,0,10645,David Edstrom,Stephen Hiff,Mike Dietrich,,
+1028388,1,1st,17:52,327,MIL,9874,Zach L’Heureux,68,LW,Roughing,2.00,0,0,9874,Zach L’Heureux,Stephen Hiff,Mike Dietrich,,
+1028388,1,1st,17:52,389,IA,10608,Riley Heidt,27,C,Hooking,2.00,1,0,10608,Riley Heidt,Stephen Hiff,Mike Dietrich,,
+1028388,1,1st,17:52,389,IA,7375,Ben Gleason,6,D,Roughing,2.00,0,0,7375,Ben Gleason,Stephen Hiff,Mike Dietrich,,
+1028388,2,2nd,8:21,389,IA,8937,Matt Kiersted,23,D,Delay of game,2.00,1,0,8937,Matt Kiersted,Stephen Hiff,Mike Dietrich,,
+1028388,2,2nd,18:24,389,IA,9856,Carson Lambos,7,D,Hooking,2.00,1,0,9856,Carson Lambos,Stephen Hiff,Mike Dietrich,,
+1028388,3,3rd,7:29,389,IA,10067,Jack Peart,3,D,High-sticking,2.00,1,0,10067,Jack Peart,Stephen Hiff,Mike Dietrich,,

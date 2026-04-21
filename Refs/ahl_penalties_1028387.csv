@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028387,1,1st,0:21,316,WBS,9223,Gabe Klassen,64,C,Tripping,2.00,1,0,9223,Gabe Klassen,Mike Campbell,Patrick Hanrahan,,
+1028387,1,1st,12:16,316,WBS,9649,Ville Koivunen,41,RW,Tripping,2.00,1,0,9649,Ville Koivunen,Mike Campbell,Patrick Hanrahan,,
+1028387,1,1st,19:04,316,WBS,7733,Zach Gallant,62,RW,Fighting,5.00,0,0,7733,Zach Gallant,Mike Campbell,Patrick Hanrahan,,
+1028387,1,1st,19:04,319,HER,9012,Justin Nachbaur,32,RW,Fighting,5.00,0,0,9012,Justin Nachbaur,Mike Campbell,Patrick Hanrahan,,
+1028387,2,2nd,0:32,319,HER,9820,Jon McDonald,47,D,Holding,2.00,1,0,9820,Jon McDonald,Mike Campbell,Patrick Hanrahan,,
+1028387,2,2nd,8:53,316,WBS,10848,Finn Harding,50,D,Holding,2.00,1,0,10848,Finn Harding,Mike Campbell,Patrick Hanrahan,,
+1028387,2,2nd,20:00,316,WBS,9816,Avery Hayes,85,RW,Roughing,2.00,0,0,9816,Avery Hayes,Mike Campbell,Patrick Hanrahan,,
+1028387,2,2nd,20:00,319,HER,10573,David Gucciardi,48,D,Roughing,2.00,0,0,10573,David Gucciardi,Mike Campbell,Patrick Hanrahan,,
+1028387,3,3rd,14:16,319,HER,10573,David Gucciardi,48,D,Delay of game,2.00,1,0,10573,David Gucciardi,Mike Campbell,Patrick Hanrahan,,

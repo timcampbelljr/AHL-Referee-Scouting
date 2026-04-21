@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028344,1,1st,14:25,390,UTC,10892,Lenni Hämeenaho,29,F,Slashing,2.00,1,0,10892,Lenni Hämeenaho,Alex Lepkowski,Alex Joubert,,
+1028344,2,2nd,3:25,390,UTC,9681,Josh Filmon,19,F,Holding,2.00,1,0,9681,Josh Filmon,Alex Lepkowski,Alex Joubert,,
+1028344,2,2nd,4:28,324,SYR,10566,Lucas Mercuri,11,C,Fighting,5.00,0,0,10566,Lucas Mercuri,Alex Lepkowski,Alex Joubert,,
+1028344,2,2nd,4:28,390,UTC,8891,Nathan Légaré,11,RW,Fighting,5.00,0,0,8891,Nathan Légaré,Alex Lepkowski,Alex Joubert,,
+1028344,2,2nd,13:58,324,SYR,8584,Wyatt Newpower,38,D,Tripping,2.00,1,0,8584,Wyatt Newpower,Alex Lepkowski,Alex Joubert,,
+1028344,2,2nd,17:49,324,SYR,9202,Conor Geekie,94,C,Tripping,2.00,1,0,9202,Conor Geekie,Alex Lepkowski,Alex Joubert,,
+1028344,3,3rd,0:23,390,UTC,6262,Kyle Criscuolo,15,C,Holding,2.00,1,0,6262,Kyle Criscuolo,Alex Lepkowski,Alex Joubert,,
+1028344,3,3rd,10:26,324,SYR,9823,Ethan Samson,42,D,Interference,2.00,1,0,9823,Ethan Samson,Alex Lepkowski,Alex Joubert,,

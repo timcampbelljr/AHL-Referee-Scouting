@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028315,1,1st,3:43,324,SYR,8744,Jakob Pelletier,22,LW,Roughing,2.00,0,0,8744,Jakob Pelletier,Chad Ingalls,Jarrett Burton,,
+1028315,1,1st,3:43,415,LAV,9791,Sean Farrell,15,F,Roughing,2.00,0,0,9791,Sean Farrell,Chad Ingalls,Jarrett Burton,,
+1028315,1,1st,7:03,324,SYR,10165,Milo Roelens,81,C,High-sticking,2.00,1,0,10165,Milo Roelens,Chad Ingalls,Jarrett Burton,,
+1028315,1,1st,12:59,415,LAV,9523,Xavier Simoneau,81,C,Cross-checking,2.00,1,0,9523,Xavier Simoneau,Chad Ingalls,Jarrett Burton,,
+1028315,1,1st,19:17,324,SYR,8584,Wyatt Newpower,38,D,Hooking,2.00,1,0,8584,Wyatt Newpower,Chad Ingalls,Jarrett Burton,,
+1028315,2,2nd,1:32,324,SYR,9744,Chris Harpur,96,D,Tripping,2.00,1,0,9744,Chris Harpur,Chad Ingalls,Jarrett Burton,,
+1028315,2,2nd,20:00,324,SYR,9896,Maxim Groshev,23,D,Tripping,2.00,1,0,9896,Maxim Groshev,Chad Ingalls,Jarrett Burton,,
+1028315,3,3rd,1:28,415,LAV,10437,Adam Engström,56,D,Holding,2.00,1,0,10437,Adam Engström,Chad Ingalls,Jarrett Burton,,
+1028315,3,3rd,7:36,324,SYR,10399,Spencer Kersten,41,RW,Holding,2.00,1,0,10399,Spencer Kersten,Chad Ingalls,Jarrett Burton,,
+1028315,3,3rd,8:05,415,LAV,10437,Adam Engström,56,D,Holding,2.00,1,0,10437,Adam Engström,Chad Ingalls,Jarrett Burton,,

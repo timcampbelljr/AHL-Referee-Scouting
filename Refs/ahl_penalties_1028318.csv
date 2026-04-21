@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028318,1,1st,4:22,403,ONT,6784,Glenn Gawdin,21,F,High-sticking,2.00,1,0,6784,Glenn Gawdin,Beau Halkidis,John Lindner,,
+1028318,1,1st,10:36,403,ONT,10199,Jakub Dvořák,55,D,Delay of game,2.00,1,0,10199,Jakub Dvořák,Beau Halkidis,John Lindner,,
+1028318,2,2nd,6:06,402,BAK,5080,Seth Griffith,39,LW,Hooking,2.00,1,0,5080,Seth Griffith,Beau Halkidis,John Lindner,,
+1028318,2,2nd,17:05,402,BAK,9170,Tyson Feist,72,D,Holding,2.00,1,0,9170,Tyson Feist,Beau Halkidis,John Lindner,,
+1028318,2,2nd,19:00,403,ONT,9785,Koehn Ziemmer,13,F,Tripping,2.00,1,0,9785,Koehn Ziemmer,Beau Halkidis,John Lindner,,
+1028318,3,3rd,12:23,402,BAK,5080,Seth Griffith,39,LW,Hooking,2.00,1,0,5080,Seth Griffith,Beau Halkidis,John Lindner,,
+1028318,3,3rd,13:43,402,BAK,8485,James Hamblin,52,C,Tripping,2.00,1,0,8485,James Hamblin,Beau Halkidis,John Lindner,,
+1028318,3,3rd,17:16,403,ONT,10623,Jared Wright,78,F,Roughing,2.00,1,0,10623,Jared Wright,Beau Halkidis,John Lindner,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028304,1,1st,2:11,413,BEL,7713,Jan Jeník,24,C,High-sticking,2.00,1,0,7713,Jan Jeník,Alex Gagné,Hayden Verbeek,,
+1028304,1,1st,13:06,413,BEL,8590,Lassi Thomson,33,D,Cross-checking,2.00,1,0,8590,Lassi Thomson,Alex Gagné,Hayden Verbeek,,
+1028304,2,2nd,4:58,413,BEL,8412,Cameron Crotty,4,D,Slashing,2.00,1,0,8412,Cameron Crotty,Alex Gagné,Hayden Verbeek,,
+1028304,2,2nd,9:05,335,TOR,5926,Brandon Baddock,48,LW,Fighting,5.00,0,0,5926,Brandon Baddock,Alex Gagné,Hayden Verbeek,,
+1028304,2,2nd,9:05,413,BEL,9906,Djibril Touré,44,D,Fighting,5.00,0,0,9906,Djibril Touré,Alex Gagné,Hayden Verbeek,,
+1028304,2,2nd,20:00,335,TOR,5926,Brandon Baddock,48,LW,Interference,2.00,1,0,5926,Brandon Baddock,Alex Gagné,Hayden Verbeek,,

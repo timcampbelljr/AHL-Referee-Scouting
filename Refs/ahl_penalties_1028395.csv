@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028395,1,1st,1:55,404,SD,8535,Jan Myšák,11,C,Tripping,2.00,1,0,8535,Jan Myšák,Graedy Hamilton,Simon Desbiens,,
+1028395,1,1st,3:43,440,ABB,9674,Ben Berard,29,LW,Slashing,2.00,1,0,9674,Ben Berard,Graedy Hamilton,Simon Desbiens,,
+1028395,2,2nd,4:59,404,SD,10076,Nico Myatovic,21,LW,High-sticking,2.00,1,0,10076,Nico Myatovic,Graedy Hamilton,Simon Desbiens,,
+1028395,2,2nd,7:02,440,ABB,5502,Jujhar Khaira,15,C,High-sticking,2.00,1,0,5502,Jujhar Khaira,Graedy Hamilton,Simon Desbiens,,
+1028395,3,3rd,5:22,440,ABB,9406,Nils Åman,88,C,Holding,2.00,1,0,9406,Nils Åman,Graedy Hamilton,Simon Desbiens,,
+1028395,3,3rd,6:55,440,ABB,10117,Vilmer Alriksson,46,LW,Hooking,2.00,1,0,10117,Vilmer Alriksson,Graedy Hamilton,Simon Desbiens,,
+1028395,3,3rd,10:50,404,SD,10274,Yegor Sidorov,19,LW,Hooking,2.00,1,0,10274,Yegor Sidorov,Graedy Hamilton,Simon Desbiens,,
+1028395,3,3rd,15:27,440,ABB,10090,Victor Mancini,90,D,Tripping,2.00,1,0,10090,Victor Mancini,Graedy Hamilton,Simon Desbiens,,

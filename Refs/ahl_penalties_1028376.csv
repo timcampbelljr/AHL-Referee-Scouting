@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028376,1,1st,12:27,419,COL,10249,Chase Bradley,38,F,Roughing,2.00,0,0,10249,Chase Bradley,Liam Maaskant,Tatu Kunto,,
+1028376,1,1st,12:27,402,BAK,7352,Riley Stillman,61,D,Roughing,2.00,0,0,7352,Riley Stillman,Liam Maaskant,Tatu Kunto,,
+1028376,2,2nd,5:09,402,BAK,10877,Josh Samanski,81,C,Roughing,2.00,1,0,10877,Josh Samanski,Liam Maaskant,Tatu Kunto,,
+1028376,2,2nd,13:24,402,BAK,10874,Quinn Hutson,23,RW,High-sticking,2.00,1,0,10874,Quinn Hutson,Liam Maaskant,Tatu Kunto,,
+1028376,2,2nd,16:14,402,BAK,9170,Tyson Feist,72,D,Hooking,2.00,1,0,9170,Tyson Feist,Liam Maaskant,Tatu Kunto,,
+1028376,2,2nd,18:49,419,COL,9969,Ivan Ivan,82,F,Holding,2.00,1,0,9969,Ivan Ivan,Liam Maaskant,Tatu Kunto,,
+1028376,3,3rd,3:10,419,COL,8929,Tristen Nielsen,57,F,Cross-checking,2.00,1,0,8929,Tristen Nielsen,Liam Maaskant,Tatu Kunto,,
+1028376,3,3rd,5:21,402,BAK,6058,Josh Brown,44,D,Hooking,2.00,1,0,6058,Josh Brown,Liam Maaskant,Tatu Kunto,,
+1028376,3,3rd,10:44,402,BAK,5080,Seth Griffith,39,LW,High-sticking,2.00,1,0,5080,Seth Griffith,Liam Maaskant,Tatu Kunto,,
+1028376,3,3rd,12:05,419,COL,4584,Jayson Megna,21,F,Slashing,2.00,1,0,4584,Jayson Megna,Liam Maaskant,Tatu Kunto,,
+1028376,3,3rd,14:54,419,COL,7782,Luke Toporowski,61,RW,Tripping,2.00,1,0,7782,Luke Toporowski,Liam Maaskant,Tatu Kunto,,

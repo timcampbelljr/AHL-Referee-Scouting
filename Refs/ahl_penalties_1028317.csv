@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028317,1,1st,8:52,444,CGY,10627,Simon Mack,33,D,Delay of game,2.00,1,0,10627,Simon Mack,Ben Solomon,Brendan Schreider,,
+1028317,1,1st,18:24,440,ABB,10013,Cooper Walker,93,C,Hooking,2.00,1,0,10013,Cooper Walker,Ben Solomon,Brendan Schreider,,
+1028317,2,2nd,12:36,444,CGY,10037,Sam Morton,45,C,Double minor - High-sticking,4.00,1,0,10037,Sam Morton,Ben Solomon,Brendan Schreider,,

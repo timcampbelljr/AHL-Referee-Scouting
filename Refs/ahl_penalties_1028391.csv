@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028391,1,1st,15:08,309,PRO,9533,Matěj Blümel,18,LW,Holding,2.00,1,0,9533,Matěj Blümel,Jordan Deckard,Rob Hennessey,,
+1028391,1,1st,18:46,413,BEL,8590,Lassi Thomson,33,D,Hooking,2.00,1,0,8590,Lassi Thomson,Jordan Deckard,Rob Hennessey,,
+1028391,2,2nd,7:43,413,BEL,6653,Hayden Hodgson,42,RW,Hooking,2.00,1,0,6653,Hayden Hodgson,Jordan Deckard,Rob Hennessey,,
+1028391,2,2nd,18:51,309,PRO,7943,Riley Tufte,27,LW,Interference,2.00,1,0,7943,Riley Tufte,Jordan Deckard,Rob Hennessey,,
+1028391,3,3rd,8:00,413,BEL,8590,Lassi Thomson,33,D,Tripping,2.00,1,0,8590,Lassi Thomson,Jordan Deckard,Rob Hennessey,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028307,1,1st,13:08,330,CHI,9742,Skyler Brind’Amour,22,C,Tripping,2.00,1,0,9742,Skyler Brind’Amour,Jordan Deckard,Shaun Davis,,
+1028307,1,1st,13:08,330,CHI,10597,Joel Nyström,9,D,Interference,2.00,1,0,10597,Joel Nyström,Jordan Deckard,Shaun Davis,,
+1028307,2,2nd,19:03,330,CHI,10468,Bradly Nadeau,82,LW,Unsportsmanlike conduct,2.00,1,0,10468,Bradly Nadeau,Jordan Deckard,Shaun Davis,,
+1028307,3,3rd,4:00,380,TEX,10044,Luke Krys,4,D,Hooking,2.00,1,0,10044,Luke Krys,Jordan Deckard,Shaun Davis,,
+1028307,3,3rd,11:24,380,TEX,9456,Jack Becker,27,F,Tripping,2.00,1,0,9456,Jack Becker,Jordan Deckard,Shaun Davis,,
+1028307,3,3rd,20:00,380,TEX,9548,Cross Hanas,32,F,Slashing,2.00,0,0,9548,Cross Hanas,Jordan Deckard,Shaun Davis,,

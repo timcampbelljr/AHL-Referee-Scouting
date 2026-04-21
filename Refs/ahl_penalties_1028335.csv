@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028335,1,1st,6:57,445,CV,10082,Lukas Dragicevic,2,D,Holding,2.00,1,0,10082,Lukas Dragicevic,Tyler Spott,Mike Dietrich,,
+1028335,1,1st,10:44,445,CV,8625,Ian McKinnon,21,F,Cross-checking,2.00,1,0,8625,Ian McKinnon,Tyler Spott,Mike Dietrich,,
+1028335,2,2nd,2:17,380,TEX,7101,Kole Lind,17,F,Holding,2.00,1,0,7101,Kole Lind,Tyler Spott,Mike Dietrich,,

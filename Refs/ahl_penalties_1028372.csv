@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028372,1,1st,0:12,440,ABB,8813,Dino Kambeitz,17,RW,Tripping,2.00,1,0,8813,Dino Kambeitz,Alex Lepkowski,Jesse Wood-Schatz,,
+1028372,1,1st,2:20,415,LAV,10036,David Reinbacher,64,D,Tripping,2.00,1,0,10036,David Reinbacher,Alex Lepkowski,Jesse Wood-Schatz,,
+1028372,1,1st,13:55,440,ABB,8813,Dino Kambeitz,17,RW,Unsportsmanlike conduct,2.00,0,0,8813,Dino Kambeitz,Alex Lepkowski,Jesse Wood-Schatz,,
+1028372,1,1st,13:55,415,LAV,10601,Tyler Thorpe,6,RW,Unsportsmanlike conduct,2.00,0,0,10601,Tyler Thorpe,Alex Lepkowski,Jesse Wood-Schatz,,
+1028372,2,2nd,0:53,415,LAV,9093,Lucas Condotta,42,LW,Holding,2.00,1,0,9093,Lucas Condotta,Alex Lepkowski,Jesse Wood-Schatz,,
+1028372,2,2nd,3:52,415,LAV,9520,William Trudeau,84,D,Holding,2.00,1,0,9520,William Trudeau,Alex Lepkowski,Jesse Wood-Schatz,,
+1028372,2,2nd,5:27,440,ABB,10146,Joe Arntsen,3,D,Fighting,5.00,0,0,10146,Joe Arntsen,Alex Lepkowski,Jesse Wood-Schatz,,
+1028372,2,2nd,5:27,415,LAV,10601,Tyler Thorpe,6,RW,Fighting,5.00,0,0,10601,Tyler Thorpe,Alex Lepkowski,Jesse Wood-Schatz,,
+1028372,2,2nd,13:27,415,LAV,9522,Filip Mešár,48,RW,Holding,2.00,1,0,9522,Filip Mešár,Alex Lepkowski,Jesse Wood-Schatz,,
+1028372,3,3rd,13:38,415,LAV,4819,Alex Belzile,22,F,Hooking,2.00,1,0,4819,Alex Belzile,Alex Lepkowski,Jesse Wood-Schatz,,

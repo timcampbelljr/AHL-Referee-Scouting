@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028369,1,1st,6:05,313,LV,9768,Tucker Robertson,22,F,Slashing,2.00,1,0,9768,Tucker Robertson,Alex Gagné,Samuel Heidemann,,
+1028369,1,1st,12:01,313,LV,9749,Roman Schmidt,76,D,Interference,2.00,1,0,9749,Roman Schmidt,Alex Gagné,Samuel Heidemann,,
+1028369,1,1st,18:48,313,LV,6342,Anthony Richard,90,LW,Cross-checking,2.00,1,0,6342,Anthony Richard,Alex Gagné,Samuel Heidemann,,
+1028369,2,2nd,9:33,313,LV,6342,Anthony Richard,90,LW,High-sticking,2.00,1,0,6342,Anthony Richard,Alex Gagné,Samuel Heidemann,,
+1028369,2,2nd,11:16,317,BRI,6861,Matthew Highmore,20,C,Hooking,2.00,1,0,6861,Matthew Highmore,Alex Gagné,Samuel Heidemann,,
+1028369,2,2nd,13:20,317,BRI,9954,Eetu Liukas,26,F,Tripping,2.00,1,0,9954,Eetu Liukas,Alex Gagné,Samuel Heidemann,,
+1028369,3,3rd,8:41,317,BRI,10152,Marshall Warren,6,D,Holding the stick,2.00,1,0,10152,Marshall Warren,Alex Gagné,Samuel Heidemann,,
+1028369,3,3rd,12:28,313,LV,10432,Oscar Eklind,43,F,Tripping,2.00,1,0,10432,Oscar Eklind,Alex Gagné,Samuel Heidemann,,
+1028369,3,3rd,17:59,313,LV,9768,Tucker Robertson,22,F,Slashing,2.00,1,0,9768,Tucker Robertson,Alex Gagné,Samuel Heidemann,,

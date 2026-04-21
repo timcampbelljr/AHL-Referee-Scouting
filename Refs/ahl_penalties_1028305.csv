@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028305,1,1st,2:40,317,BRI,7627,Hunter Drew,36,RW,Fighting,5.00,0,0,7627,Hunter Drew,Morgan MacPhee,Rob Hennessey,,
+1028305,1,1st,2:40,390,UTC,10442,Mikaël Diotte,58,D,Fighting,5.00,0,0,10442,Mikaël Diotte,Morgan MacPhee,Rob Hennessey,,
+1028305,1,1st,7:34,390,UTC,6262,Kyle Criscuolo,15,C,High-sticking,2.00,1,0,6262,Kyle Criscuolo,Morgan MacPhee,Rob Hennessey,,
+1028305,1,1st,7:51,390,UTC,7251,Ryan Schmelzer,26,C,Holding,2.00,1,0,7251,Ryan Schmelzer,Morgan MacPhee,Rob Hennessey,,
+1028305,2,2nd,6:49,317,BRI,10152,Marshall Warren,6,D,Tripping,2.00,1,0,10152,Marshall Warren,Morgan MacPhee,Rob Hennessey,,
+1028305,2,2nd,14:53,317,BRI,8549,Adam Beckman,34,LW,Interference,2.00,1,0,8549,Adam Beckman,Morgan MacPhee,Rob Hennessey,,
+1028305,2,2nd,15:52,390,UTC,9114,Thomas Bordeleau,74,F,Misconduct,10.00,0,0,9114,Thomas Bordeleau,Morgan MacPhee,Rob Hennessey,,
+1028305,2,2nd,15:52,390,UTC,10632,Shane Lachance,18,F,Interference,2.00,1,0,10632,Shane Lachance,Morgan MacPhee,Rob Hennessey,,
+1028305,3,3rd,0:35,317,BRI,10388,Cam Thiesing,15,F,Holding,2.00,1,0,10388,Cam Thiesing,Morgan MacPhee,Rob Hennessey,,

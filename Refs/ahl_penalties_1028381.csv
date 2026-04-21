@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028381,1,1st,12:03,412,TUC,10111,Sam Lipkin,71,F,Hooking,2.00,1,0,10111,Sam Lipkin,Harrison O’Pray,Taylor Burzminski,,
+1028381,1,1st,15:52,412,TUC,10665,Dmitri Simashev,26,D,Holding,2.00,1,0,10665,Dmitri Simashev,Harrison O’Pray,Taylor Burzminski,,
+1028381,2,2nd,1:17,404,SD,9778,Nikita Nesterenko,13,LW,Hooking,2.00,1,0,9778,Nikita Nesterenko,Harrison O’Pray,Taylor Burzminski,,
+1028381,2,2nd,13:25,404,SD,9185,Nathan Gaucher,17,C,Cross-checking,2.00,1,0,9185,Nathan Gaucher,Harrison O’Pray,Taylor Burzminski,,

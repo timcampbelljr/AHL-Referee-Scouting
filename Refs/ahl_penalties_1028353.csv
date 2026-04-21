@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028353,1,1st,4:11,321,MB,5929,Ashton Sautner,6,D,Tripping,2.00,1,0,5929,Ashton Sautner,Riley Brace,Cole MacDonald,,
+1028353,1,1st,19:47,321,MB,7113,Mason Shaw,18,RW,Roughing,2.00,0,0,7113,Mason Shaw,Riley Brace,Cole MacDonald,,
+1028353,1,1st,19:47,415,LAV,10149,Luke Tuch,17,LW,Roughing,2.00,0,0,10149,Luke Tuch,Riley Brace,Cole MacDonald,,
+1028353,2,2nd,0:25,321,MB,10112,Dylan Anhorn,47,D,Tripping,2.00,1,0,10112,Dylan Anhorn,Riley Brace,Cole MacDonald,,
+1028353,2,2nd,6:34,321,MB,10112,Dylan Anhorn,47,D,Cross-checking,2.00,1,0,10112,Dylan Anhorn,Riley Brace,Cole MacDonald,,
+1028353,2,2nd,8:55,321,MB,10112,Dylan Anhorn,47,D,Delay of game,2.00,1,0,10112,Dylan Anhorn,Riley Brace,Cole MacDonald,,
+1028353,3,3rd,12:14,415,LAV,10149,Luke Tuch,17,LW,Interference,2.00,1,0,10149,Luke Tuch,Riley Brace,Cole MacDonald,,

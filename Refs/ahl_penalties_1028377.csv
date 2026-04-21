@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028377,2,2nd,4:45,373,CLE,9633,Justin Pearson,24,LW,Interference,2.00,1,0,9633,Justin Pearson,Ben Betker,Luke Stork,,
+1028377,2,2nd,8:02,330,CHI,10463,Aleksi Heimosalmi,34,D,Holding,2.00,1,0,10463,Aleksi Heimosalmi,Ben Betker,Luke Stork,,
+1028377,2,2nd,10:44,373,CLE,10471,Max McCue,93,C,Slashing,2.00,1,0,10471,Max McCue,Ben Betker,Luke Stork,,
+1028377,2,2nd,16:44,373,CLE,9618,Corson Ceulemans,4,D,Hooking,2.00,1,0,9618,Corson Ceulemans,Ben Betker,Luke Stork,,
+1028377,3,3rd,11:56,373,CLE,10176,Luca Pinelli,53,LW,Slashing,2.00,1,0,10176,Luca Pinelli,Ben Betker,Luke Stork,,
+1028377,OT,OT,0:50,373,CLE,6322,Dysin Mayo,6,D,High-sticking,2.00,1,0,6322,Dysin Mayo,Ben Betker,Luke Stork,,

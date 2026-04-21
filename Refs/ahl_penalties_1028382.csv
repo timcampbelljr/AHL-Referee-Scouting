@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028382,1,1st,15:12,413,BEL,6653,Hayden Hodgson,42,RW,Slashing,2.00,1,0,6653,Hayden Hodgson,Damian Figueira,Andrew Bell,,
+1028382,1,1st,16:11,316,WBS,10472,Rutger McGroarty,2,LW,Holding,2.00,0,0,10472,Rutger McGroarty,Damian Figueira,Andrew Bell,,
+1028382,1,1st,17:05,413,BEL,7677,Arthur Kaliyev,43,LW,Tripping,2.00,1,0,7677,Arthur Kaliyev,Damian Figueira,Andrew Bell,,
+1028382,2,2nd,5:06,316,WBS,10504,Chase Pietila,44,D,Slashing,2.00,1,0,10504,Chase Pietila,Damian Figueira,Andrew Bell,,
+1028382,3,3rd,3:26,316,WBS,7733,Zach Gallant,62,RW,Roughing,2.00,1,0,7733,Zach Gallant,Damian Figueira,Andrew Bell,,
+1028382,3,3rd,6:18,316,WBS,4933,Matt Dumba,24,D,Interference,2.00,1,0,4933,Matt Dumba,Damian Figueira,Andrew Bell,,

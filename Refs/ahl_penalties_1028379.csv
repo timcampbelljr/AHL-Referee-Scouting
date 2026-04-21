@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028379,2,2nd,0:11,327,MIL,10832,Oasiz Wiesblatt,88,C,Roughing,2.00,0,0,10832,Oasiz Wiesblatt,Jake Rekucki,Nick Bet,,
+1028379,2,2nd,0:11,328,GR,8511,John Leonard,19,LW,Roughing,2.00,0,0,8511,John Leonard,Jake Rekucki,Nick Bet,,
+1028379,2,2nd,3:02,327,MIL,9631,Joakim Kemell,25,F,Interference,2.00,1,0,9631,Joakim Kemell,Jake Rekucki,Nick Bet,,
+1028379,2,2nd,8:46,328,GR,5824,Justin Holl,3,D,High-sticking,2.00,1,0,5824,Justin Holl,Jake Rekucki,Nick Bet,,
+1028379,2,2nd,17:47,327,MIL,7722,Navrin Mutter,47,LW,Slashing,2.00,1,0,7722,Navrin Mutter,Jake Rekucki,Nick Bet,,
+1028379,3,3rd,5:07,327,MIL,9631,Joakim Kemell,25,F,Slashing,2.00,1,0,9631,Joakim Kemell,Jake Rekucki,Nick Bet,,
+1028379,3,3rd,11:58,328,GR,8927,Alex Kannok Leipert,41,D,Slashing,2.00,1,0,8927,Alex Kannok Leipert,Jake Rekucki,Nick Bet,,

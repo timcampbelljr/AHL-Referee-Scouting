@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028374,2,2nd,9:27,412,TUC,7401,Cameron Hebig,39,C,Hooking,2.00,1,0,7401,Cameron Hebig,Harrison O’Pray,Taylor Burzminski,,
+1028374,2,2nd,15:06,412,TUC,8734,Ben McCartney,22,F,Slashing,2.00,1,0,8734,Ben McCartney,Harrison O’Pray,Taylor Burzminski,,
+1028374,2,2nd,18:55,404,SD,8535,Jan Myšák,11,C,Slashing,2.00,1,0,8535,Jan Myšák,Harrison O’Pray,Taylor Burzminski,,
+1028374,3,3rd,2:58,404,SD,10506,Stian Solberg,7,D,Interference,2.00,1,0,10506,Stian Solberg,Harrison O’Pray,Taylor Burzminski,,
+1028374,3,3rd,11:59,412,TUC,9217,Max Szuber,55,D,Cross-checking,2.00,1,0,9217,Max Szuber,Harrison O’Pray,Taylor Burzminski,,

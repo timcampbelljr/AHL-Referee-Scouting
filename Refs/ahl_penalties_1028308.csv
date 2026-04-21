@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028308,1,1st,17:16,445,CV,10190,Tyson Jugnauth,43,D,Tripping,2.00,1,0,10190,Tyson Jugnauth,John Lindner,Jordan Watt,,
+1028308,1,1st,19:46,437,HSK,10131,Mathieu Cataford,8,F,Roughing,2.00,0,0,10131,Mathieu Cataford,John Lindner,Jordan Watt,,
+1028308,1,1st,19:46,445,CV,10127,Jani Nyman,33,F,Roughing,2.00,0,0,10127,Jani Nyman,John Lindner,Jordan Watt,,
+1028308,3,3rd,18:39,445,CV,6306,Mitchell Stephens,67,F,Cross-checking,2.00,1,0,6306,Mitchell Stephens,John Lindner,Jordan Watt,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028342,1,1st,13:26,327,MIL,10832,Oasiz Wiesblatt,88,C,Tripping,2.00,1,0,10832,Oasiz Wiesblatt,Damian Figueira,David Elford,,
+1028342,2,2nd,7:24,330,CHI,10001,Domenick Fensore,2,D,Hooking,2.00,1,0,10001,Domenick Fensore,Damian Figueira,David Elford,,
+1028342,2,2nd,13:30,330,CHI,8645,Josiah Slavin,23,LW,Roughing,2.00,1,0,8645,Josiah Slavin,Damian Figueira,David Elford,,
+1028342,2,2nd,16:21,327,MIL,10078,Ryan Ufko,12,D,Holding,2.00,1,0,10078,Ryan Ufko,Damian Figueira,David Elford,,
+1028342,2,2nd,19:09,327,MIL,0,None None,0,,Too many men - Bench minor,2.00,1,1,9622,Ryder Rolston,Damian Figueira,David Elford,,
+1028342,3,3rd,16:37,327,MIL,10890,Tanner Molendyk,50,D,Hooking,2.00,1,0,10890,Tanner Molendyk,Damian Figueira,David Elford,,

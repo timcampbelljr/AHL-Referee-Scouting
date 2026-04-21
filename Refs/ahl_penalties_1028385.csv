@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028385,2,2nd,1:45,403,ONT,5976,Joe Hicketts,27,D,Holding,2.00,1,0,5976,Joe Hicketts,Chad Ingalls,Tatu Kunto,,
+1028385,2,2nd,6:24,403,ONT,5592,Jacob Doty,37,F,Fighting,5.00,0,0,5592,Jacob Doty,Chad Ingalls,Tatu Kunto,,
+1028385,2,2nd,6:24,445,CV,8625,Ian McKinnon,21,F,Fighting,5.00,0,0,8625,Ian McKinnon,Chad Ingalls,Tatu Kunto,,
+1028385,2,2nd,16:23,403,ONT,9239,Francesco Pinelli,71,F,Tripping,2.00,1,0,9239,Francesco Pinelli,Chad Ingalls,Tatu Kunto,,
+1028385,3,3rd,8:25,445,CV,10127,Jani Nyman,33,F,Fighting,5.00,0,0,10127,Jani Nyman,Chad Ingalls,Tatu Kunto,,
+1028385,3,3rd,8:25,445,CV,10127,Jani Nyman,33,F,Instigating,2.00,0,0,10127,Jani Nyman,Chad Ingalls,Tatu Kunto,,
+1028385,3,3rd,8:25,403,ONT,9239,Francesco Pinelli,71,F,Boarding,2.00,0,0,9239,Francesco Pinelli,Chad Ingalls,Tatu Kunto,,
+1028385,3,3rd,8:25,403,ONT,9239,Francesco Pinelli,71,F,Fighting,5.00,0,0,9239,Francesco Pinelli,Chad Ingalls,Tatu Kunto,,
+1028385,3,3rd,8:25,445,CV,10127,Jani Nyman,33,F,Misconduct - Instigating,10.00,0,0,10127,Jani Nyman,Chad Ingalls,Tatu Kunto,,
