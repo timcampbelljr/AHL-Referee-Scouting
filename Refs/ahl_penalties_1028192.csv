@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028192,1,1st,14:22,415,LAV,10139,Florian Xhekaj,63,C,Interference,2.00,1,0,10139,Florian Xhekaj,Mike Sullivan,Taylor Burzminski,,
+1028192,1,1st,18:19,373,CLE,10556,Guillaume Richard,26,D,Interference,2.00,1,0,10556,Guillaume Richard,Mike Sullivan,Taylor Burzminski,,
+1028192,1,1st,19:26,415,LAV,5970,Samuel Blais,19,LW,Elbowing,2.00,1,0,5970,Samuel Blais,Mike Sullivan,Taylor Burzminski,,
+1028192,2,2nd,10:40,373,CLE,10893,Ivan Fedotov,28,G,Tripping,2.00,1,0,10488,Jordan Dumais,Mike Sullivan,Taylor Burzminski,,
+1028192,3,3rd,3:44,415,LAV,10149,Luke Tuch,17,LW,Fighting,5.00,0,0,10149,Luke Tuch,Mike Sullivan,Taylor Burzminski,,
+1028192,3,3rd,3:44,373,CLE,9904,Tate Singleton,48,C,Fighting,5.00,0,0,9904,Tate Singleton,Mike Sullivan,Taylor Burzminski,,
+1028192,3,3rd,4:24,373,CLE,9025,Roman Ahcan,37,LW,Goaltender interference,2.00,1,0,9025,Roman Ahcan,Mike Sullivan,Taylor Burzminski,,
+1028192,3,3rd,7:54,415,LAV,5889,Josiah Didier,44,D,Tripping,2.00,1,0,5889,Josiah Didier,Mike Sullivan,Taylor Burzminski,,
+1028192,3,3rd,12:24,415,LAV,10139,Florian Xhekaj,63,C,Roughing,2.00,1,0,10139,Florian Xhekaj,Mike Sullivan,Taylor Burzminski,,

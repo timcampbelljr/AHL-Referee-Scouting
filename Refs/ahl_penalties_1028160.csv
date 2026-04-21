@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028160,2,2nd,3:00,412,TUC,10208,Owen Allard,12,F,Slashing,2.00,1,0,10208,Owen Allard,Adam Tobias,Ben Solomon,,
+1028160,2,2nd,6:14,402,BAK,8890,Sam Poulin,8,C,Tripping,2.00,1,0,8890,Sam Poulin,Adam Tobias,Ben Solomon,,
+1028160,2,2nd,8:41,412,TUC,10211,Miko Matikka,94,F,High-sticking,2.00,1,0,10211,Miko Matikka,Adam Tobias,Ben Solomon,,
+1028160,2,2nd,17:09,402,BAK,8846,Daniel D’Amato,19,LW,Tripping,2.00,1,0,8846,Daniel D’Amato,Adam Tobias,Ben Solomon,,
+1028160,3,3rd,9:12,412,TUC,6037,Robbie Russo,5,D,Tripping,2.00,1,0,6037,Robbie Russo,Adam Tobias,Ben Solomon,,
+1028160,3,3rd,13:09,402,BAK,10877,Josh Samanski,81,C,Hooking,2.00,1,0,10877,Josh Samanski,Adam Tobias,Ben Solomon,,
+1028160,OT,OT,3:39,412,TUC,7401,Cameron Hebig,39,C,Tripping,2.00,1,0,7401,Cameron Hebig,Adam Tobias,Ben Solomon,,

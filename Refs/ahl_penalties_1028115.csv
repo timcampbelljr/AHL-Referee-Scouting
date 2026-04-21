@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028115,1,1st,14:38,412,TUC,10665,Dmitri Simashev,26,D,Delay of game,2.00,1,0,10665,Dmitri Simashev,Mike Dietrich,Bobby Jo Love,,
+1028115,2,2nd,1:27,405,SJ,10699,Mattias Havelid,25,D,Tripping,2.00,1,0,10699,Mattias Havelid,Mike Dietrich,Bobby Jo Love,,
+1028115,2,2nd,8:46,412,TUC,8734,Ben McCartney,22,F,Holding,2.00,1,0,8734,Ben McCartney,Mike Dietrich,Bobby Jo Love,,
+1028115,2,2nd,14:08,405,SJ,7434,Lucas Carlsson,32,D,Cross-checking,2.00,1,0,7434,Lucas Carlsson,Mike Dietrich,Bobby Jo Love,,
+1028115,2,2nd,16:49,412,TUC,9396,Sammy Walker,25,F,Holding,2.00,1,0,9396,Sammy Walker,Mike Dietrich,Bobby Jo Love,,
+1028115,3,3rd,13:41,412,TUC,6263,Kevin Rooney,21,C,Tripping,2.00,1,0,6263,Kevin Rooney,Mike Dietrich,Bobby Jo Love,,
+1028115,3,3rd,18:13,405,SJ,10494,Igor Chernyshov,92,F,Misconduct - Abuse of officials,10.00,0,0,10494,Igor Chernyshov,Mike Dietrich,Bobby Jo Love,,

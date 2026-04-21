@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028150,1,1st,6:42,444,CGY,8741,Nick Cicek,41,D,Tripping,2.00,1,0,8741,Nick Cicek,Ben Betker,Will Kelly,,
+1028150,2,2nd,1:16,444,CGY,10923,Matvei Gridin,18,LW,Tripping,2.00,1,0,10923,Matvei Gridin,Ben Betker,Will Kelly,,
+1028150,2,2nd,13:13,440,ABB,7696,Chase Wouters,21,C,Fighting,5.00,0,0,7696,Chase Wouters,Ben Betker,Will Kelly,,
+1028150,2,2nd,13:13,444,CGY,6142,Alex Gallant,20,LW,Fighting,5.00,0,0,6142,Alex Gallant,Ben Betker,Will Kelly,,
+1028150,3,3rd,11:14,444,CGY,8741,Nick Cicek,41,D,Cross-checking,2.00,1,0,8741,Nick Cicek,Ben Betker,Will Kelly,,
+1028150,3,3rd,13:58,440,ABB,7696,Chase Wouters,21,C,Tripping,2.00,1,0,7696,Chase Wouters,Ben Betker,Will Kelly,,
+1028150,3,3rd,14:38,444,CGY,6426,Justin Kirkland,23,C,High-sticking,2.00,1,0,6426,Justin Kirkland,Ben Betker,Will Kelly,,

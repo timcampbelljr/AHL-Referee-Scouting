@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028158,1,1st,9:57,324,SYR,9693,Brendan Furry,13,LW,High-sticking,2.00,1,0,9693,Brendan Furry,Beau Halkidis,Alex Gagné,,
+1028158,1,1st,16:27,324,SYR,10607,Ethan Gauthier,79,RW,Holding,2.00,1,0,10607,Ethan Gauthier,Beau Halkidis,Alex Gagné,,
+1028158,2,2nd,3:24,324,SYR,10566,Lucas Mercuri,11,C,Unsportsmanlike conduct,2.00,1,0,10566,Lucas Mercuri,Beau Halkidis,Alex Gagné,,
+1028158,2,2nd,8:44,307,HFD,10523,Jackson Dorrington,38,D,Tripping,2.00,1,0,10523,Jackson Dorrington,Beau Halkidis,Alex Gagné,,
+1028158,3,3rd,0:39,324,SYR,8553,Mitchell Chaffee,21,RW,Interference,2.00,1,0,8553,Mitchell Chaffee,Beau Halkidis,Alex Gagné,,
+1028158,3,3rd,2:35,307,HFD,10189,Dylan Roobroeck,28,F,Goaltender interference,2.00,1,0,10189,Dylan Roobroeck,Beau Halkidis,Alex Gagné,,
+1028158,3,3rd,7:39,307,HFD,5995,Anton Blidh,21,F,Interference,2.00,1,0,5995,Anton Blidh,Beau Halkidis,Alex Gagné,,
+1028158,3,3rd,8:27,324,SYR,10148,Dylan Duke,25,LW,Diving/Embellishment,2.00,0,0,10148,Dylan Duke,Beau Halkidis,Alex Gagné,,
+1028158,3,3rd,8:27,307,HFD,8622,Connor Mackey,14,D,Slashing,2.00,0,0,8622,Connor Mackey,Beau Halkidis,Alex Gagné,,
+1028158,3,3rd,12:25,307,HFD,8622,Connor Mackey,14,D,Tripping,2.00,1,0,8622,Connor Mackey,Beau Halkidis,Alex Gagné,,

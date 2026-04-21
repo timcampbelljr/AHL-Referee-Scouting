@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028184,1,1st,13:39,313,LV,4334,Garrett Wilson,17,LW,Fighting,5.00,0,0,4334,Garrett Wilson,Ben Betker,Mike Dietrich,,
+1028184,1,1st,13:39,317,BRI,10521,Gleb Veremyev,28,F,Fighting,5.00,0,0,10521,Gleb Veremyev,Ben Betker,Mike Dietrich,,
+1028184,1,1st,15:10,313,LV,10046,Hunter McDonald,19,D,High-sticking,2.00,1,0,10046,Hunter McDonald,Ben Betker,Mike Dietrich,,
+1028184,2,2nd,5:47,313,LV,10046,Hunter McDonald,19,D,Roughing,2.00,1,0,10046,Hunter McDonald,Ben Betker,Mike Dietrich,,
+1028184,2,2nd,11:51,317,BRI,10040,Alex Jefferies,16,F,Tripping,2.00,1,0,10040,Alex Jefferies,Ben Betker,Mike Dietrich,,
+1028184,2,2nd,19:13,313,LV,10717,Devin Kaplan,12,F,Cross-checking,2.00,1,0,10717,Devin Kaplan,Ben Betker,Mike Dietrich,,
+1028184,3,3rd,2:26,317,BRI,10562,Joey Larson,17,F,Fighting,5.00,0,0,10562,Joey Larson,Ben Betker,Mike Dietrich,,
+1028184,3,3rd,2:26,313,LV,9768,Tucker Robertson,22,F,Fighting,5.00,0,0,9768,Tucker Robertson,Ben Betker,Mike Dietrich,,
+1028184,3,3rd,4:18,317,BRI,10388,Cam Thiesing,15,F,Delay of game - Faceoff violation (batting puck with hand),2.00,1,0,10388,Cam Thiesing,Ben Betker,Mike Dietrich,,
+1028184,3,3rd,19:45,313,LV,10552,Ty Murchison,4,D,Tripping,2.00,1,0,10552,Ty Murchison,Ben Betker,Mike Dietrich,,

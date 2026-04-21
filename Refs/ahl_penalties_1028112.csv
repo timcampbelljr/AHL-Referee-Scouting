@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028112,1,1st,1:59,313,LV,9823,Ethan Samson,5,D,Interference,2.00,1,0,9823,Ethan Samson,David Elford,Jake Kamrass,,
+1028112,1,1st,20:00,390,UTC,10529,Ethan Edwards,73,D,Holding,2.00,1,0,10529,Ethan Edwards,David Elford,Jake Kamrass,,
+1028112,2,2nd,3:48,313,LV,10046,Hunter McDonald,19,D,Roughing,2.00,0,0,10046,Hunter McDonald,David Elford,Jake Kamrass,,
+1028112,2,2nd,3:48,390,UTC,10442,Mikaël Diotte,58,D,Roughing,2.00,0,0,10442,Mikaël Diotte,David Elford,Jake Kamrass,,
+1028112,2,2nd,4:27,313,LV,10633,Alex Bump,21,F,Hooking,2.00,1,0,10633,Alex Bump,David Elford,Jake Kamrass,,
+1028112,2,2nd,8:02,390,UTC,8891,Nathan Légaré,11,RW,Fighting,5.00,0,0,8891,Nathan Légaré,David Elford,Jake Kamrass,,
+1028112,2,2nd,8:02,313,LV,10717,Devin Kaplan,12,F,Fighting,5.00,0,0,10717,Devin Kaplan,David Elford,Jake Kamrass,,
+1028112,2,2nd,20:00,390,UTC,9114,Thomas Bordeleau,74,F,Unsportsmanlike conduct,2.00,0,0,9114,Thomas Bordeleau,David Elford,Jake Kamrass,,
+1028112,2,2nd,20:00,313,LV,8805,Helge Grans,3,D,Cross-checking,2.00,0,0,8805,Helge Grans,David Elford,Jake Kamrass,,
+1028112,3,3rd,14:12,313,LV,10633,Alex Bump,21,F,Slashing,2.00,1,0,10633,Alex Bump,David Elford,Jake Kamrass,,
+1028112,3,3rd,17:31,390,UTC,7117,Austin Strand,7,D,High-sticking,2.00,1,0,7117,Austin Strand,David Elford,Jake Kamrass,,
+1028112,OT,OT,0:58,313,LV,9484,Adam Ginning,37,D,Misconduct - Continuing altercation,10.00,0,0,9484,Adam Ginning,David Elford,Jake Kamrass,,

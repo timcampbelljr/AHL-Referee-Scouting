@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028138,1,1st,10:41,445,CV,9710,David Goyette,88,F,Hooking,2.00,1,0,9710,David Goyette,Mathieu Menniti,Reid Anderson,,
+1028138,1,1st,18:36,444,CGY,6426,Justin Kirkland,23,C,Roughing,2.00,0,0,6426,Justin Kirkland,Mathieu Menniti,Reid Anderson,,
+1028138,1,1st,18:36,445,CV,10082,Lukas Dragicevic,2,D,Roughing,2.00,0,0,10082,Lukas Dragicevic,Mathieu Menniti,Reid Anderson,,
+1028138,2,2nd,6:47,445,CV,9764,Ty Nelson,24,D,Slashing,2.00,1,0,9764,Ty Nelson,Mathieu Menniti,Reid Anderson,,
+1028138,2,2nd,18:17,445,CV,0,None None,0,,Too many men - Bench minor,2.00,1,1,9710,David Goyette,Mathieu Menniti,Reid Anderson,,
+1028138,3,3rd,3:35,444,CGY,9447,Jérémie Poirier,4,D,Hooking,2.00,1,0,9447,Jérémie Poirier,Mathieu Menniti,Reid Anderson,,
+1028138,3,3rd,4:10,445,CV,10180,Carson Rehkopf,16,F,Interference,2.00,1,0,10180,Carson Rehkopf,Mathieu Menniti,Reid Anderson,,

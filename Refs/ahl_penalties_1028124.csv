@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028124,1,1st,11:13,335,TOR,10836,Landon Sim,42,F,Tripping,2.00,1,0,10836,Landon Sim,Stephen Hiff,Cole MacDonald,,
+1028124,2,2nd,13:33,328,GR,7404,William Lagesson,37,D,Tripping,2.00,1,0,7404,William Lagesson,Stephen Hiff,Cole MacDonald,,
+1028124,2,2nd,15:28,335,TOR,10525,Luke Haymes,43,C,Tripping,2.00,1,0,10525,Luke Haymes,Stephen Hiff,Cole MacDonald,,
+1028124,3,3rd,1:47,335,TOR,10635,Blake Smith,59,D,Tripping,2.00,1,0,10635,Blake Smith,Stephen Hiff,Cole MacDonald,,
+1028124,3,3rd,7:23,335,TOR,9023,Marc Johnstone,57,RW,Tripping,2.00,1,0,9023,Marc Johnstone,Stephen Hiff,Cole MacDonald,,
+1028124,3,3rd,11:05,335,TOR,9023,Marc Johnstone,57,RW,Roughing,2.00,0,0,9023,Marc Johnstone,Stephen Hiff,Cole MacDonald,,
+1028124,3,3rd,11:05,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Roughing,2.00,0,0,10629,Michael Brandsegg-Nygård,Stephen Hiff,Cole MacDonald,,
+1028124,3,3rd,15:39,328,GR,8654,Eduards Tralmaks,34,LW,Holding,2.00,1,0,8654,Eduards Tralmaks,Stephen Hiff,Cole MacDonald,,
+1028124,3,3rd,16:50,328,GR,6627,Dominik Shine,65,RW,Slashing,2.00,1,0,6627,Dominik Shine,Stephen Hiff,Cole MacDonald,,

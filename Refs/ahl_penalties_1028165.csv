@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028165,2,2nd,4:30,330,CHI,10468,Bradly Nadeau,82,LW,Tripping,2.00,1,0,10468,Bradly Nadeau,Stephen Hiff,Tyler Spott,,
+1028165,2,2nd,8:29,328,GR,8667,Ian Mitchell,55,D,Holding,2.00,1,0,8667,Ian Mitchell,Stephen Hiff,Tyler Spott,,
+1028165,2,2nd,9:12,330,CHI,6633,Gavin Bayreuther,55,D,Tripping,2.00,1,0,6633,Gavin Bayreuther,Stephen Hiff,Tyler Spott,,
+1028165,3,3rd,7:17,328,GR,9973,Antti Tuomisto,4,D,Tripping,2.00,1,0,9973,Antti Tuomisto,Stephen Hiff,Tyler Spott,,
+1028165,3,3rd,16:03,330,CHI,10463,Aleksi Heimosalmi,34,D,Cross-checking,2.00,1,0,10463,Aleksi Heimosalmi,Stephen Hiff,Tyler Spott,,
+1028165,OT,OT,0:52,330,CHI,10001,Domenick Fensore,2,D,Hooking,2.00,1,0,10001,Domenick Fensore,Stephen Hiff,Tyler Spott,,

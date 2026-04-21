@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028103,1,1st,4:26,440,ABB,5502,Jujhar Khaira,15,C,Hooking,2.00,1,0,5502,Jujhar Khaira,Mike Campbell,Jacob Hicks,,
+1028103,1,1st,8:56,445,CV,9992,J.R. Avon,10,F,Tripping,2.00,1,0,9992,J.R. Avon,Mike Campbell,Jacob Hicks,,
+1028103,1,1st,15:50,440,ABB,0,None None,0,,Too many men - Bench minor,2.00,1,1,9674,Ben Berard,Mike Campbell,Jacob Hicks,,
+1028103,1,1st,18:20,440,ABB,5882,Joseph LaBate,14,C,Roughing,2.00,1,0,5882,Joseph LaBate,Mike Campbell,Jacob Hicks,,
+1028103,2,2nd,5:44,440,ABB,10117,Vilmer Alriksson,46,LW,Cross-checking,2.00,0,0,10117,Vilmer Alriksson,Mike Campbell,Jacob Hicks,,
+1028103,2,2nd,5:44,445,CV,9710,David Goyette,88,F,Cross-checking,2.00,0,0,9710,David Goyette,Mike Campbell,Jacob Hicks,,
+1028103,2,2nd,6:12,445,CV,9706,Ville Ottavainen,36,D,Holding,2.00,1,0,9706,Ville Ottavainen,Mike Campbell,Jacob Hicks,,
+1028103,2,2nd,9:45,440,ABB,8928,Danila Klimovich,9,RW,Interference,2.00,1,0,8928,Danila Klimovich,Mike Campbell,Jacob Hicks,,
+1028103,2,2nd,12:53,445,CV,9764,Ty Nelson,24,D,Tripping,2.00,1,0,9764,Ty Nelson,Mike Campbell,Jacob Hicks,,
+1028103,2,2nd,18:14,445,CV,10184,Eduard Šalé,12,F,Holding,2.00,1,0,10184,Eduard Šalé,Mike Campbell,Jacob Hicks,,

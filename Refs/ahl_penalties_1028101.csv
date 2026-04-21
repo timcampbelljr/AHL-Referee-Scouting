@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028101,2,2nd,6:07,390,UTC,10632,Shane Lachance,18,F,Interference,2.00,1,0,10632,Shane Lachance,Stephen Hiff,Kurtis Pare,,
+1028101,2,2nd,12:54,317,BRI,10152,Marshall Warren,6,D,Tripping,2.00,1,0,10152,Marshall Warren,Stephen Hiff,Kurtis Pare,,
+1028101,2,2nd,18:45,317,BRI,10562,Joey Larson,17,F,Holding,2.00,1,0,10562,Joey Larson,Stephen Hiff,Kurtis Pare,,
+1028101,3,3rd,5:44,390,UTC,7117,Austin Strand,7,D,High-sticking,2.00,1,0,7117,Austin Strand,Stephen Hiff,Kurtis Pare,,
+1028101,3,3rd,8:09,317,BRI,9442,Daylan Kuefler,11,F,High-sticking,2.00,1,0,9442,Daylan Kuefler,Stephen Hiff,Kurtis Pare,,

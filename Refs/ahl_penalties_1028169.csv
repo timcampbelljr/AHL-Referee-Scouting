@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028169,1,1st,5:23,404,SD,6080,Justin Bailey,12,RW,Holding,2.00,1,0,6080,Justin Bailey,Jackson Kozari,Adam Tobias,,
+1028169,1,1st,10:38,437,HSK,10280,Tuomas Uronen,37,F,Tripping,2.00,1,0,10280,Tuomas Uronen,Jackson Kozari,Adam Tobias,,
+1028169,2,2nd,2:40,437,HSK,9279,Joe Fleming,50,F,Roughing,2.00,1,0,9279,Joe Fleming,Jackson Kozari,Adam Tobias,,
+1028169,2,2nd,9:49,437,HSK,9278,Lukas Cormier,51,D,Roughing,2.00,1,0,9278,Lukas Cormier,Jackson Kozari,Adam Tobias,,
+1028169,2,2nd,16:38,404,SD,9185,Nathan Gaucher,17,RW,Tripping,2.00,1,0,9185,Nathan Gaucher,Jackson Kozari,Adam Tobias,,
+1028169,3,3rd,0:22,404,SD,9193,Tyson Hinds,5,D,Fighting,5.00,0,0,9193,Tyson Hinds,Jackson Kozari,Adam Tobias,,
+1028169,3,3rd,0:22,437,HSK,8421,Riley McKay,89,F,Fighting,5.00,0,0,8421,Riley McKay,Jackson Kozari,Adam Tobias,,
+1028169,3,3rd,4:40,437,HSK,10285,Viliam Kmec,74,D,Holding,2.00,1,0,10285,Viliam Kmec,Jackson Kozari,Adam Tobias,,
+1028169,3,3rd,10:37,404,SD,9189,Sasha Pastujov,16,LW,Hooking,2.00,1,0,9189,Sasha Pastujov,Jackson Kozari,Adam Tobias,,
+1028169,3,3rd,10:37,404,SD,6442,Nikolas Brouillard,15,D,Slashing,2.00,1,0,6442,Nikolas Brouillard,Jackson Kozari,Adam Tobias,,
+1028169,3,3rd,16:33,437,HSK,7926,Jeremy Davies,84,D,Roughing,2.00,0,0,7926,Jeremy Davies,Jackson Kozari,Adam Tobias,,
+1028169,3,3rd,16:33,404,SD,6729,Matthew Phillips,18,RW,Slashing,2.00,0,0,6729,Matthew Phillips,Jackson Kozari,Adam Tobias,,

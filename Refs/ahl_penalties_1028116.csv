@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028116,2,2nd,15:23,309,PRO,10584,Dalton Bancroft,17,RW,Roughing,2.00,0,0,10584,Dalton Bancroft,Mathieu Menniti,Jim Curtin,,
+1028116,2,2nd,15:23,411,SPR,10330,Simon Robertsson,26,F,Roughing,2.00,0,0,10330,Simon Robertsson,Mathieu Menniti,Jim Curtin,,
+1028116,2,2nd,15:23,411,SPR,9950,Jett Jones,10,F,Unsportsmanlike conduct,2.00,1,0,9950,Jett Jones,Mathieu Menniti,Jim Curtin,,
+1028116,2,2nd,16:22,309,PRO,9729,Matthew Poitras,21,C,High-sticking,2.00,0,0,9729,Matthew Poitras,Mathieu Menniti,Jim Curtin,,
+1028116,2,2nd,16:22,411,SPR,10143,Dylan Peterson,22,F,Diving/Embellishment,2.00,0,0,10143,Dylan Peterson,Mathieu Menniti,Jim Curtin,,
+1028116,3,3rd,7:18,309,PRO,10508,Ty Gallagher,24,D,Tripping,2.00,1,0,10508,Ty Gallagher,Mathieu Menniti,Jim Curtin,,
+1028116,3,3rd,15:54,411,SPR,10331,Samuel Johannesson,8,D,Interference,2.00,1,0,10331,Samuel Johannesson,Mathieu Menniti,Jim Curtin,,

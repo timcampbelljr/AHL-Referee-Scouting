@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028120,1,1st,8:08,321,MB,5469,Phillip Di Giuseppe,34,LW,Cross-checking,2.00,1,0,5469,Phillip Di Giuseppe,Ben Betker,Jordan Deckard,,
+1028120,1,1st,13:33,389,IA,6616,Gerry Mayhew,20,C,Roughing,2.00,1,0,6616,Gerry Mayhew,Ben Betker,Jordan Deckard,,
+1028120,1,1st,15:17,321,MB,10121,Colby Barlow,39,RW,High-sticking,2.00,1,0,10121,Colby Barlow,Ben Betker,Jordan Deckard,,
+1028120,2,2nd,5:23,389,IA,10917,Rasmus Kumpulainen,95,F,Slashing,2.00,1,0,10917,Rasmus Kumpulainen,Ben Betker,Jordan Deckard,,
+1028120,2,2nd,6:25,389,IA,9347,Michael Milne,50,F,Roughing,2.00,1,0,9347,Michael Milne,Ben Betker,Jordan Deckard,,
+1028120,3,3rd,16:15,321,MB,5929,Ashton Sautner,6,D,Holding,2.00,1,0,5929,Ashton Sautner,Ben Betker,Jordan Deckard,,

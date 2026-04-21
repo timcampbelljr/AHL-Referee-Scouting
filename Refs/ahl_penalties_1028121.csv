@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028121,1,1st,6:59,444,CGY,6426,Justin Kirkland,23,C,Boarding,2.00,1,0,6426,Justin Kirkland,Stan Szczurek,Jordan Watt,,
+1028121,1,1st,13:39,444,CGY,6453,Clark Bishop,19,C,Boarding,2.00,1,0,6453,Clark Bishop,Stan Szczurek,Jordan Watt,,
+1028121,2,2nd,3:40,403,ONT,9249,Angus Booth,24,D,Roughing,2.00,0,0,9249,Angus Booth,Stan Szczurek,Jordan Watt,,
+1028121,2,2nd,3:40,444,CGY,5018,Martin Frk,29,RW,Roughing,2.00,0,0,5018,Martin Frk,Stan Szczurek,Jordan Watt,,
+1028121,2,2nd,14:53,403,ONT,9043,Taylor Ward,34,F,Slashing,2.00,1,0,9043,Taylor Ward,Stan Szczurek,Jordan Watt,,
+1028121,2,2nd,16:28,444,CGY,5018,Martin Frk,29,RW,Interference,2.00,1,0,5018,Martin Frk,Stan Szczurek,Jordan Watt,,
+1028121,2,2nd,18:35,403,ONT,9043,Taylor Ward,34,F,High-sticking,2.00,1,0,9043,Taylor Ward,Stan Szczurek,Jordan Watt,,

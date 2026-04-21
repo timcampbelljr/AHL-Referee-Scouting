@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028117,1,1st,3:17,328,GR,9973,Antti Tuomisto,4,D,Tripping,2.00,1,0,9973,Antti Tuomisto,Mike Sullivan,Cole MacDonald,,
+1028117,2,2nd,7:41,335,TOR,10513,John Prokop,37,D,Cross-checking,2.00,1,0,10513,John Prokop,Mike Sullivan,Cole MacDonald,,
+1028117,3,3rd,4:12,335,TOR,10513,John Prokop,37,D,Delay of game,2.00,1,0,10513,John Prokop,Mike Sullivan,Cole MacDonald,,
+1028117,3,3rd,14:09,328,GR,10932,Nolan Moyle,27,RW,Slashing,2.00,1,0,10932,Nolan Moyle,Mike Sullivan,Cole MacDonald,,

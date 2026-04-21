@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028128,1,1st,3:12,402,BAK,10874,Quinn Hutson,23,RW,High-sticking,2.00,1,0,10874,Quinn Hutson,Jordan Deckard,Tatu Kunto,,
+1028128,1,1st,3:31,437,HSK,9278,Lukas Cormier,51,D,Holding,2.00,1,0,9278,Lukas Cormier,Jordan Deckard,Tatu Kunto,,
+1028128,1,1st,8:04,402,BAK,7927,Rem Pitlick,16,LW,Hooking,2.00,1,0,7927,Rem Pitlick,Jordan Deckard,Tatu Kunto,,
+1028128,1,1st,11:59,402,BAK,5080,Seth Griffith,39,LW,Roughing,2.00,0,0,5080,Seth Griffith,Jordan Deckard,Tatu Kunto,,
+1028128,1,1st,11:59,437,HSK,7926,Jeremy Davies,84,D,Roughing,2.00,0,0,7926,Jeremy Davies,Jordan Deckard,Tatu Kunto,,
+1028128,1,1st,14:59,402,BAK,6058,Josh Brown,44,D,High-sticking,2.00,1,0,6058,Josh Brown,Jordan Deckard,Tatu Kunto,,
+1028128,2,2nd,10:19,437,HSK,6787,Lucas Johansen,78,D,Tripping,2.00,1,0,6787,Lucas Johansen,Jordan Deckard,Tatu Kunto,,
+1028128,2,2nd,11:20,437,HSK,10680,Jackson Hallum,59,F,High-sticking,2.00,1,0,10680,Jackson Hallum,Jordan Deckard,Tatu Kunto,,
+1028128,2,2nd,15:05,402,BAK,9384,Luke Prokop,77,D,Tripping,2.00,1,0,9384,Luke Prokop,Jordan Deckard,Tatu Kunto,,
+1028128,3,3rd,2:07,402,BAK,10880,Beau Akey,82,D,Holding,2.00,1,0,10880,Beau Akey,Jordan Deckard,Tatu Kunto,,
+1028128,3,3rd,12:16,437,HSK,7760,Jonas Røndbjerg,46,F,Slashing,2.00,1,0,7760,Jonas Røndbjerg,Jordan Deckard,Tatu Kunto,,

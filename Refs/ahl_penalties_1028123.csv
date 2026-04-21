@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028123,1,1st,0:30,380,TEX,7101,Kole Lind,17,F,Tripping,2.00,1,0,7101,Kole Lind,Bobby Jo Love,Tyler Spott,,
+1028123,1,1st,5:06,380,TEX,10527,Sean Chisholm,21,F,Kneeing,2.00,1,0,10527,Sean Chisholm,Bobby Jo Love,Tyler Spott,,
+1028123,1,1st,17:31,380,TEX,9962,Gavin White,8,D,Hooking,2.00,1,0,9962,Gavin White,Bobby Jo Love,Tyler Spott,,
+1028123,2,2nd,4:55,404,SD,9194,Tristan Luneau,6,D,Hooking,2.00,1,0,9194,Tristan Luneau,Bobby Jo Love,Tyler Spott,,
+1028123,3,3rd,5:16,380,TEX,10517,Tommy Bergsland,5,D,Double minor - High-sticking,4.00,1,0,10517,Tommy Bergsland,Bobby Jo Love,Tyler Spott,,
+1028123,3,3rd,14:09,380,TEX,10527,Sean Chisholm,21,F,Roughing,2.00,0,0,10527,Sean Chisholm,Bobby Jo Love,Tyler Spott,,
+1028123,3,3rd,14:09,404,SD,6442,Nikolas Brouillard,15,D,Roughing,2.00,0,0,6442,Nikolas Brouillard,Bobby Jo Love,Tyler Spott,,
+1028123,3,3rd,14:09,404,SD,9702,Judd Caulfield,28,RW,Hooking,2.00,1,0,9702,Judd Caulfield,Bobby Jo Love,Tyler Spott,,

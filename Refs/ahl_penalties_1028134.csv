@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028134,1,1st,6:56,372,RFD,10342,Landon Slaggert,84,F,Tripping,2.00,1,0,10342,Landon Slaggert,Bobby Jo Love,Kyle Bauman,,
+1028134,1,1st,11:59,389,IA,9347,Michael Milne,50,F,Hooking,2.00,1,0,9347,Michael Milne,Bobby Jo Love,Kyle Bauman,,
+1028134,1,1st,17:33,372,RFD,10177,Samuel Savoie,67,F,Elbowing,2.00,1,0,10177,Samuel Savoie,Bobby Jo Love,Kyle Bauman,,
+1028134,2,2nd,0:20,372,RFD,10618,Aidan Thompson,78,F,Slashing,2.00,1,0,10618,Aidan Thompson,Bobby Jo Love,Kyle Bauman,,
+1028134,2,2nd,0:56,372,RFD,9153,Nolan Allan,42,D,Holding,2.00,1,0,9153,Nolan Allan,Bobby Jo Love,Kyle Bauman,,
+1028134,2,2nd,5:22,372,RFD,10382,Kevin Korchinski,14,D,Hooking,2.00,1,0,10382,Kevin Korchinski,Bobby Jo Love,Kyle Bauman,,
+1028134,2,2nd,12:47,389,IA,9715,Cameron Butler,42,RW,Boarding,2.00,1,0,9715,Cameron Butler,Bobby Jo Love,Kyle Bauman,,
+1028134,2,2nd,12:52,389,IA,9799,Bradley Marek,10,F,Tripping,2.00,1,0,9799,Bradley Marek,Bobby Jo Love,Kyle Bauman,,
+1028134,2,2nd,17:19,372,RFD,10503,Jamie Engelbert,45,F,Tripping,2.00,1,0,10503,Jamie Engelbert,Bobby Jo Love,Kyle Bauman,,
+1028134,3,3rd,5:22,372,RFD,9827,Ryan Mast,58,D,Hooking,2.00,1,0,9827,Ryan Mast,Bobby Jo Love,Kyle Bauman,,
+1028134,3,3rd,17:22,372,RFD,10138,Nick Lardis,76,F,High-sticking,2.00,1,0,10138,Nick Lardis,Bobby Jo Love,Kyle Bauman,,

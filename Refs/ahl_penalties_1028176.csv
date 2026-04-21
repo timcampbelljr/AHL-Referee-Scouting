@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028176,1,1st,2:31,313,LV,10300,Sawyer Boulton,36,F,Fighting,5.00,0,0,10300,Sawyer Boulton,Jack Young,Luke Stork,,
+1028176,1,1st,2:31,411,SPR,10941,Troy Murray,34,F,Fighting,5.00,0,0,10941,Troy Murray,Jack Young,Luke Stork,,
+1028176,1,1st,13:42,411,SPR,10143,Dylan Peterson,22,F,Cross-checking,2.00,1,0,10143,Dylan Peterson,Jack Young,Luke Stork,,
+1028176,2,2nd,6:11,313,LV,9825,Alexis Gendron,72,F,Hooking,2.00,1,0,9825,Alexis Gendron,Jack Young,Luke Stork,,
+1028176,2,2nd,11:10,411,SPR,8461,Hugh McGing,11,F,Tripping,2.00,1,0,8461,Hugh McGing,Jack Young,Luke Stork,,
+1028176,2,2nd,15:41,411,SPR,10846,Nikita Susuyev,91,F,Slashing,2.00,1,0,10846,Nikita Susuyev,Jack Young,Luke Stork,,
+1028176,2,2nd,18:37,411,SPR,0,None None,0,,Too many men - Bench minor,2.00,1,1,10846,Nikita Susuyev,Jack Young,Luke Stork,,
+1028176,3,3rd,4:01,313,LV,4334,Garrett Wilson,17,LW,Delay of game,2.00,1,0,4334,Garrett Wilson,Jack Young,Luke Stork,,
+1028176,3,3rd,11:00,411,SPR,10328,Aleksanteri Kaskimäki,41,F,Holding,2.00,1,0,10328,Aleksanteri Kaskimäki,Jack Young,Luke Stork,,

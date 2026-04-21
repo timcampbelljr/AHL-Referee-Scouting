@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028152,1,1st,9:09,372,RFD,10503,Jamie Engelbert,45,F,Holding,2.00,1,0,10503,Jamie Engelbert,Alex Lepkowski,Ibrahim Arifi,,
+1028152,1,1st,17:43,328,GR,8654,Eduards Tralmaks,34,LW,Holding,2.00,1,0,8654,Eduards Tralmaks,Alex Lepkowski,Ibrahim Arifi,,
+1028152,1,1st,18:44,328,GR,6627,Dominik Shine,65,RW,Cross-checking,2.00,1,0,6627,Dominik Shine,Alex Lepkowski,Ibrahim Arifi,,
+1028152,3,3rd,1:27,372,RFD,10382,Kevin Korchinski,14,D,Tripping,2.00,1,0,10382,Kevin Korchinski,Alex Lepkowski,Ibrahim Arifi,,
+1028152,3,3rd,6:13,372,RFD,10342,Landon Slaggert,84,F,Tripping,2.00,1,0,10342,Landon Slaggert,Alex Lepkowski,Ibrahim Arifi,,
+1028152,3,3rd,16:12,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Holding,2.00,1,0,10629,Michael Brandsegg-Nygård,Alex Lepkowski,Ibrahim Arifi,,

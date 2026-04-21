@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028107,1,1st,3:45,327,MIL,9228,Austin Roest,63,C,Hooking,2.00,1,0,9228,Austin Roest,Ben Betker,Austin Rook,,
+1028107,1,1st,4:51,327,MIL,0,None None,0,,Too many men - Bench minor,2.00,1,1,7121,Isaac Ratcliffe,Ben Betker,Austin Rook,,
+1028107,1,1st,17:03,330,CHI,9742,Skyler Brind’Amour,22,C,Slashing,2.00,1,0,9742,Skyler Brind’Amour,Ben Betker,Austin Rook,,
+1028107,1,1st,19:48,330,CHI,10001,Domenick Fensore,2,D,Fighting,5.00,0,0,10001,Domenick Fensore,Ben Betker,Austin Rook,,
+1028107,1,1st,19:48,327,MIL,7512,Jake Lucchini,19,C,Fighting,5.00,0,0,7512,Jake Lucchini,Ben Betker,Austin Rook,,
+1028107,3,3rd,17:59,327,MIL,10832,Oasiz Wiesblatt,88,C,Misconduct - Continuing altercation,10.00,0,0,10832,Oasiz Wiesblatt,Ben Betker,Austin Rook,,
+1028107,3,3rd,17:59,327,MIL,10832,Oasiz Wiesblatt,88,C,Slashing,2.00,1,0,10832,Oasiz Wiesblatt,Ben Betker,Austin Rook,,
+1028107,3,3rd,18:08,330,CHI,10469,Justin Robidas,93,RW,High-sticking,2.00,1,0,10469,Justin Robidas,Ben Betker,Austin Rook,,

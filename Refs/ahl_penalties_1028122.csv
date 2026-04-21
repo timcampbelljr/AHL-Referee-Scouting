@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028122,1,1st,7:03,309,PRO,9148,Colin Felix,9,D,Delay of game,2.00,1,0,9148,Colin Felix,Graedy Hamilton,Chad Ingalls,,
+1028122,1,1st,9:17,411,SPR,9862,Leo Lööf,7,D,Tripping,2.00,1,0,9862,Leo Lööf,Graedy Hamilton,Chad Ingalls,,
+1028122,2,2nd,6:11,309,PRO,9148,Colin Felix,9,D,Holding,2.00,0,0,9148,Colin Felix,Graedy Hamilton,Chad Ingalls,,
+1028122,2,2nd,6:11,411,SPR,8461,Hugh McGing,11,F,High-sticking,2.00,0,0,8461,Hugh McGing,Graedy Hamilton,Chad Ingalls,,
+1028122,2,2nd,15:35,309,PRO,8462,Billy Sweezey,6,D,Fighting,5.00,0,0,8462,Billy Sweezey,Graedy Hamilton,Chad Ingalls,,
+1028122,2,2nd,15:35,411,SPR,5039,Kale Kessy,13,LW,Fighting,5.00,0,0,5039,Kale Kessy,Graedy Hamilton,Chad Ingalls,,
+1028122,2,2nd,16:08,309,PRO,7943,Riley Tufte,27,LW,Holding,2.00,1,0,7943,Riley Tufte,Graedy Hamilton,Chad Ingalls,,
+1028122,3,3rd,1:50,411,SPR,10331,Samuel Johannesson,8,D,Tripping,2.00,1,0,10331,Samuel Johannesson,Graedy Hamilton,Chad Ingalls,,

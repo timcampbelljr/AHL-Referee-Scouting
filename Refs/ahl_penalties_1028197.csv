@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028197,1,1st,1:10,403,ONT,10712,Kirill Kirsanov,19,D,Holding,2.00,1,0,10712,Kirill Kirsanov,Alex Lepkowski,Tyler Spott,,
+1028197,1,1st,13:09,405,SJ,9621,Anthony Vincent,76,F,Tripping,2.00,1,0,9621,Anthony Vincent,Alex Lepkowski,Tyler Spott,,
+1028197,1,1st,16:28,403,ONT,9357,Cole Guttman,81,F,Match - Illegal check to the head,15.00,1,0,9241,Aatu Jämsen,Alex Lepkowski,Tyler Spott,,
+1028197,2,2nd,13:42,403,ONT,7822,Samuel Bolduc,58,D,Tripping,2.00,1,0,7822,Samuel Bolduc,Alex Lepkowski,Tyler Spott,,
+1028197,2,2nd,15:29,405,SJ,7434,Lucas Carlsson,32,D,Slashing,2.00,1,0,7434,Lucas Carlsson,Alex Lepkowski,Tyler Spott,,
+1028197,2,2nd,19:47,405,SJ,9190,Pavol Regenda,84,LW,Interference,2.00,1,0,9190,Pavol Regenda,Alex Lepkowski,Tyler Spott,,
+1028197,3,3rd,1:14,403,ONT,8714,Martin Chromiak,8,F,Interference,2.00,1,0,8714,Martin Chromiak,Alex Lepkowski,Tyler Spott,,
+1028197,3,3rd,3:31,405,SJ,10231,Kasper Halttunen,14,F,High-sticking,2.00,1,0,10231,Kasper Halttunen,Alex Lepkowski,Tyler Spott,,
+1028197,3,3rd,6:04,403,ONT,10703,Kenta Isogai,46,F,Holding,2.00,1,0,10703,Kenta Isogai,Alex Lepkowski,Tyler Spott,,
+1028197,3,3rd,13:36,403,ONT,9249,Angus Booth,24,D,Roughing,2.00,1,0,9249,Angus Booth,Alex Lepkowski,Tyler Spott,,
+1028197,3,3rd,15:39,403,ONT,8718,Nikita Alexandrov,59,F,Slashing,2.00,1,0,8718,Nikita Alexandrov,Alex Lepkowski,Tyler Spott,,

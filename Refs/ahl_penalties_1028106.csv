@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028106,1,1st,8:18,384,CLT,10456,Sandis Vilmanis,29,F,Roughing,2.00,0,0,10456,Sandis Vilmanis,Riley Brace,Jack Young,,
+1028106,1,1st,8:18,323,ROC,8580,Carson Meyer,72,RW,Roughing,2.00,0,0,8580,Carson Meyer,Riley Brace,Jack Young,,
+1028106,1,1st,13:21,384,CLT,9988,Michael Benning,2,D,Slashing,2.00,1,0,9988,Michael Benning,Riley Brace,Jack Young,,
+1028106,1,1st,16:26,384,CLT,10913,Ludvig Jansson,3,D,Roughing,2.00,0,0,10913,Ludvig Jansson,Riley Brace,Jack Young,,
+1028106,1,1st,16:26,323,ROC,9700,Trevor Kuntar,16,LW,Roughing,2.00,0,0,9700,Trevor Kuntar,Riley Brace,Jack Young,,
+1028106,1,1st,18:12,384,CLT,8405,Nolan Foote,28,LW,Double minor - High-sticking,4.00,1,0,8405,Nolan Foote,Riley Brace,Jack Young,,
+1028106,2,2nd,15:29,323,ROC,5475,Mason Geertsen,4,LW,Roughing,2.00,1,0,5475,Mason Geertsen,Riley Brace,Jack Young,,
+1028106,2,2nd,19:04,323,ROC,9930,Nikita Novikov,74,D,Roughing,2.00,0,0,9930,Nikita Novikov,Riley Brace,Jack Young,,
+1028106,2,2nd,19:04,384,CLT,9988,Michael Benning,2,D,Roughing,2.00,0,0,9988,Michael Benning,Riley Brace,Jack Young,,
+1028106,3,3rd,10:16,323,ROC,10052,Anton Wahlberg,24,LW,Tripping,2.00,1,0,10052,Anton Wahlberg,Riley Brace,Jack Young,,
+1028106,3,3rd,12:05,323,ROC,10002,Devon Levi,27,G,Tripping,2.00,1,0,9700,Trevor Kuntar,Riley Brace,Jack Young,,

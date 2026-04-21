@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028139,1,1st,9:37,403,ONT,5478,Kyle Burroughs,7,D,Hooking,2.00,1,0,5478,Kyle Burroughs,Chad Ingalls,Mike Dietrich,,
+1028139,2,2nd,7:20,419,COL,0,None None,0,,Too many men - Bench minor,2.00,1,1,10161,Maroš Jedlička,Chad Ingalls,Mike Dietrich,,
+1028139,2,2nd,19:10,403,ONT,9239,Francesco Pinelli,71,F,Hooking,2.00,1,0,9239,Francesco Pinelli,Chad Ingalls,Mike Dietrich,,
+1028139,2,2nd,19:51,419,COL,7345,Alex Barré-Boulet,72,C,Hooking,2.00,1,0,7345,Alex Barré-Boulet,Chad Ingalls,Mike Dietrich,,
+1028139,3,3rd,4:22,403,ONT,9081,Andre Lee,26,F,Roughing,2.00,0,0,9081,Andre Lee,Chad Ingalls,Mike Dietrich,,
+1028139,3,3rd,4:22,419,COL,10257,Nikita Prishchepov,85,F,Roughing,2.00,0,0,10257,Nikita Prishchepov,Chad Ingalls,Mike Dietrich,,
+1028139,3,3rd,4:22,419,COL,10257,Nikita Prishchepov,85,F,Misconduct - Unsportsmanlike conduct,10.00,0,0,10161,Maroš Jedlička,Chad Ingalls,Mike Dietrich,,
+1028139,3,3rd,9:19,419,COL,9723,Jake Wise,28,F,Double minor - High-sticking,4.00,1,0,9723,Jake Wise,Chad Ingalls,Mike Dietrich,,
+1028139,3,3rd,16:01,419,COL,7218,Keaton Middleton,67,D,Holding,2.00,1,0,7218,Keaton Middleton,Chad Ingalls,Mike Dietrich,,

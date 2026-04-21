@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028118,1,1st,3:18,440,ABB,0,None None,0,,Too many men - Bench minor,2.00,1,1,9674,Ben Berard,Mike Campbell,Jacob Hicks,,
+1028118,1,1st,16:21,440,ABB,7696,Chase Wouters,21,C,Tripping,2.00,1,0,7696,Chase Wouters,Mike Campbell,Jacob Hicks,,
+1028118,1,1st,19:10,445,CV,6956,John Hayden,15,F,Misconduct - Instigating,10.00,0,0,6956,John Hayden,Mike Campbell,Jacob Hicks,,
+1028118,1,1st,19:10,440,ABB,10146,Joe Arntsen,3,D,Fighting,5.00,0,0,10146,Joe Arntsen,Mike Campbell,Jacob Hicks,,
+1028118,1,1st,19:10,445,CV,6956,John Hayden,15,F,Instigating,2.00,1,0,10184,Eduard Šalé,Mike Campbell,Jacob Hicks,,
+1028118,1,1st,19:10,445,CV,6956,John Hayden,15,F,Fighting,5.00,0,0,6956,John Hayden,Mike Campbell,Jacob Hicks,,
+1028118,2,2nd,4:33,445,CV,9755,Jagger Firkus,57,F,Tripping,2.00,1,0,9755,Jagger Firkus,Mike Campbell,Jacob Hicks,,
+1028118,2,2nd,12:38,440,ABB,7767,Jimmy Schuldt,48,D,High-sticking,2.00,1,0,7767,Jimmy Schuldt,Mike Campbell,Jacob Hicks,,
+1028118,2,2nd,15:42,440,ABB,8928,Danila Klimovich,9,RW,High-sticking,2.00,1,0,8928,Danila Klimovich,Mike Campbell,Jacob Hicks,,
+1028118,3,3rd,19:41,445,CV,10183,Caden Price,4,D,Holding,2.00,1,0,10183,Caden Price,Mike Campbell,Jacob Hicks,,

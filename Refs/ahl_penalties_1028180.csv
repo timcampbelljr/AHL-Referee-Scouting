@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028180,1,1st,11:00,444,CGY,10753,Andrew Basha,49,LW,High-sticking,2.00,1,0,10753,Andrew Basha,David Elford,Jacob Hicks,,
+1028180,1,1st,13:18,444,CGY,8617,Rory Kerins,6,C,Holding,2.00,1,0,8617,Rory Kerins,David Elford,Jacob Hicks,,
+1028180,1,1st,15:55,404,SD,9194,Tristan Luneau,6,D,Holding,2.00,1,0,9194,Tristan Luneau,David Elford,Jacob Hicks,,
+1028180,2,2nd,13:22,444,CGY,0,None None,0,,Too many men - Bench minor,2.00,1,1,5018,Martin Frk,David Elford,Jacob Hicks,,
+1028180,2,2nd,19:25,444,CGY,9726,Parker Bell,22,LW,Hooking,2.00,1,0,9726,Parker Bell,David Elford,Jacob Hicks,,
+1028180,3,3rd,6:11,404,SD,9185,Nathan Gaucher,17,C,Tripping,2.00,1,0,9185,Nathan Gaucher,David Elford,Jacob Hicks,,
+1028180,3,3rd,9:18,444,CGY,5018,Martin Frk,29,RW,Hooking,2.00,1,0,5018,Martin Frk,David Elford,Jacob Hicks,,
+1028180,3,3rd,15:32,404,SD,10274,Yegor Sidorov,19,LW,High-sticking,2.00,1,0,10274,Yegor Sidorov,David Elford,Jacob Hicks,,
+1028180,3,3rd,17:57,444,CGY,9952,Lucas Ciona,17,LW,Slashing,2.00,1,0,9952,Lucas Ciona,David Elford,Jacob Hicks,,
+1028180,3,3rd,19:05,404,SD,9189,Sasha Pastujov,16,LW,Tripping,2.00,1,0,9189,Sasha Pastujov,David Elford,Jacob Hicks,,
+1028180,OT,OT,2:07,444,CGY,7099,Turner Ottenbreit,2,D,Tripping,2.00,1,0,7099,Turner Ottenbreit,David Elford,Jacob Hicks,,

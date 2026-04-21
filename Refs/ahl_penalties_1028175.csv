@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028175,2,2nd,16:10,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Interference,2.00,1,0,10629,Michael Brandsegg-Nygård,Nolan Bloyer,Kyle Bauman,,
+1028175,2,2nd,17:57,389,IA,7375,Ben Gleason,6,D,Slashing,2.00,1,0,7375,Ben Gleason,Nolan Bloyer,Kyle Bauman,,
+1028175,3,3rd,8:50,389,IA,9472,Mark Liwiski,26,F,Tripping,2.00,1,0,9472,Mark Liwiski,Nolan Bloyer,Kyle Bauman,,

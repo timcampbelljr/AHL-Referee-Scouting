@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028161,1,1st,15:43,390,UTC,10632,Shane Lachance,18,F,Tripping,2.00,1,0,10632,Shane Lachance,Rob Hennessey,Hayden Verbeek,,
+1028161,2,2nd,9:59,390,UTC,10474,Seamus Casey,22,D,Elbowing,2.00,1,0,10474,Seamus Casey,Rob Hennessey,Hayden Verbeek,,
+1028161,3,3rd,10:15,411,SPR,9862,Leo Lööf,7,D,Boarding,2.00,1,0,9862,Leo Lööf,Rob Hennessey,Hayden Verbeek,,

@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028188,1,1st,3:33,412,TUC,7069,Austin Poganski,27,RW,Holding,2.00,1,0,7069,Austin Poganski,Simon Desbiens,Jack Young,,
+1028188,1,1st,5:27,440,ABB,10089,Ty Mueller,39,C,Tripping,2.00,1,0,10089,Ty Mueller,Simon Desbiens,Jack Young,,
+1028188,2,2nd,6:08,440,ABB,8813,Dino Kambeitz,17,RW,Fighting,5.00,0,0,8813,Dino Kambeitz,Simon Desbiens,Jack Young,,
+1028188,2,2nd,6:08,412,TUC,10665,Dmitri Simashev,26,D,Fighting,5.00,0,0,10665,Dmitri Simashev,Simon Desbiens,Jack Young,,
+1028188,2,2nd,11:49,440,ABB,9554,Arshdeep Bains,13,LW,Slashing,2.00,1,0,9554,Arshdeep Bains,Simon Desbiens,Jack Young,,
+1028188,2,2nd,17:50,412,TUC,3697,Kevin Connauton,44,D,Fighting,5.00,0,0,3697,Kevin Connauton,Simon Desbiens,Jack Young,,
+1028188,2,2nd,17:50,440,ABB,5502,Jujhar Khaira,15,C,Fighting,5.00,0,0,5502,Jujhar Khaira,Simon Desbiens,Jack Young,,
+1028188,3,3rd,2:18,440,ABB,10146,Joe Arntsen,3,D,Slashing,2.00,1,0,10146,Joe Arntsen,Simon Desbiens,Jack Young,,
+1028188,3,3rd,11:15,412,TUC,8631,Ty Tullio,17,RW,Holding,2.00,1,0,8631,Ty Tullio,Simon Desbiens,Jack Young,,
+1028188,3,3rd,18:47,440,ABB,10089,Ty Mueller,39,C,Tripping,2.00,1,0,10089,Ty Mueller,Simon Desbiens,Jack Young,,

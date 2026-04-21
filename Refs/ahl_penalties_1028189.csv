@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028189,1,1st,6:08,445,CV,10190,Tyson Jugnauth,43,D,Hooking,2.00,1,0,10190,Tyson Jugnauth,Riley Brace,John Lindner,,
+1028189,2,2nd,4:55,445,CV,9797,Jakov Novak,68,F,Tripping,2.00,1,0,9797,Jakov Novak,Riley Brace,John Lindner,,
+1028189,2,2nd,12:02,402,BAK,10877,Josh Samanski,81,C,Holding,2.00,1,0,10877,Josh Samanski,Riley Brace,John Lindner,,
+1028189,2,2nd,15:54,445,CV,9797,Jakov Novak,68,F,Interference,2.00,1,0,9797,Jakov Novak,Riley Brace,John Lindner,,
+1028189,2,2nd,19:34,445,CV,10575,Oscar Fisker Mølgaard,78,F,Boarding,2.00,1,0,10575,Oscar Fisker Mølgaard,Riley Brace,John Lindner,,
+1028189,3,3rd,15:46,402,BAK,10877,Josh Samanski,81,C,Hooking,2.00,1,0,10877,Josh Samanski,Riley Brace,John Lindner,,

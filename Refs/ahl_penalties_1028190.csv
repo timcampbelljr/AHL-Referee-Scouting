@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028190,1,1st,1:48,411,SPR,6917,Calle Rosén,43,D,Tripping,2.00,1,0,6917,Calle Rosén,Adam Tobias,Matt Mannella,,
+1028190,1,1st,9:54,384,CLT,9220,Nate Smith,15,C,High-sticking,2.00,1,0,9220,Nate Smith,Adam Tobias,Matt Mannella,,
+1028190,2,2nd,5:54,411,SPR,8461,Hugh McGing,11,F,Hooking,2.00,1,0,8461,Hugh McGing,Adam Tobias,Matt Mannella,,
+1028190,2,2nd,7:53,384,CLT,5614,Trevor Carrick,5,D,Holding,2.00,1,0,5614,Trevor Carrick,Adam Tobias,Matt Mannella,,
+1028190,2,2nd,8:57,384,CLT,7687,Tobias Björnfot,40,D,Delay of game,2.00,1,0,7687,Tobias Björnfot,Adam Tobias,Matt Mannella,,
+1028190,2,2nd,13:46,384,CLT,7337,Brian Pinho,26,F,Holding,2.00,1,0,7337,Brian Pinho,Adam Tobias,Matt Mannella,,
+1028190,3,3rd,3:34,384,CLT,9745,Marek Alscher,27,D,Interference,2.00,1,0,9745,Marek Alscher,Adam Tobias,Matt Mannella,,
+1028190,3,3rd,6:24,411,SPR,10330,Simon Robertsson,26,F,Roughing,2.00,0,0,10330,Simon Robertsson,Adam Tobias,Matt Mannella,,
+1028190,3,3rd,6:24,384,CLT,8405,Nolan Foote,28,LW,Roughing,2.00,0,0,8405,Nolan Foote,Adam Tobias,Matt Mannella,,
+1028190,3,3rd,8:26,411,SPR,10143,Dylan Peterson,22,F,Double minor - High-sticking,4.00,1,0,10143,Dylan Peterson,Adam Tobias,Matt Mannella,,

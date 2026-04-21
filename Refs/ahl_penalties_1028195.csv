@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028195,1,1st,3:16,313,LV,8451,Zayde Wisdom,74,C,Tripping,2.00,1,0,8451,Zayde Wisdom,Ben Betker,Mike Dietrich,,
+1028195,2,2nd,1:11,307,HFD,9667,Bryce McConnell-Barker,18,F,Unsportsmanlike conduct,2.00,1,0,9667,Bryce McConnell-Barker,Ben Betker,Mike Dietrich,,
+1028195,2,2nd,8:00,313,LV,10552,Ty Murchison,4,D,Fighting,5.00,0,0,10552,Ty Murchison,Ben Betker,Mike Dietrich,,
+1028195,2,2nd,8:00,313,LV,10552,Ty Murchison,4,D,Illegal check to the head,2.00,1,0,10432,Oscar Eklind,Ben Betker,Mike Dietrich,,
+1028195,2,2nd,8:00,307,HFD,9119,Brendan Brisson,19,F,Fighting,5.00,0,0,9119,Brendan Brisson,Ben Betker,Mike Dietrich,,
+1028195,2,2nd,10:52,313,LV,7132,Cooper Marody,20,RW,Hooking,2.00,1,0,7132,Cooper Marody,Ben Betker,Mike Dietrich,,
+1028195,3,3rd,19:04,313,LV,4334,Garrett Wilson,17,LW,Misconduct - Unsportsmanlike conduct,10.00,0,0,4334,Garrett Wilson,Ben Betker,Mike Dietrich,,
+1028195,3,3rd,19:04,313,LV,10552,Ty Murchison,4,D,Roughing,2.00,1,0,10552,Ty Murchison,Ben Betker,Mike Dietrich,,

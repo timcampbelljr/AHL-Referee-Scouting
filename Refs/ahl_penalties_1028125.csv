@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028125,1,1st,1:29,444,CGY,10755,Aydar Suniev,36,LW,Double minor - High-sticking,4.00,1,0,10755,Aydar Suniev,Mathieu Menniti,Reid Anderson,,
+1028125,1,1st,6:01,444,CGY,6142,Alex Gallant,20,LW,Fighting,5.00,0,0,6142,Alex Gallant,Mathieu Menniti,Reid Anderson,,
+1028125,1,1st,6:01,445,CV,10179,Kaden Hammell,47,D,Fighting,5.00,0,0,10179,Kaden Hammell,Mathieu Menniti,Reid Anderson,,
+1028125,1,1st,6:01,444,CGY,6453,Clark Bishop,19,C,Misconduct - Continuing altercation,10.00,0,0,6453,Clark Bishop,Mathieu Menniti,Reid Anderson,,
+1028125,1,1st,6:01,445,CV,8625,Ian McKinnon,21,F,Misconduct - Continuing altercation,10.00,0,0,8625,Ian McKinnon,Mathieu Menniti,Reid Anderson,,
+1028125,2,2nd,8:13,444,CGY,9669,William Strömgren,11,LW,Slashing,2.00,1,0,9669,William Strömgren,Mathieu Menniti,Reid Anderson,,
+1028125,2,2nd,11:33,444,CGY,6142,Alex Gallant,20,LW,Tripping,2.00,1,0,6142,Alex Gallant,Mathieu Menniti,Reid Anderson,,
+1028125,2,2nd,12:23,444,CGY,8741,Nick Cicek,41,D,Tripping,2.00,1,0,8741,Nick Cicek,Mathieu Menniti,Reid Anderson,,
+1028125,2,2nd,16:24,445,CV,8625,Ian McKinnon,21,F,Interference,2.00,1,0,8625,Ian McKinnon,Mathieu Menniti,Reid Anderson,,
+1028125,2,2nd,18:01,444,CGY,0,None None,0,,Too many men - Bench minor,2.00,1,1,5018,Martin Frk,Mathieu Menniti,Reid Anderson,,
+1028125,3,3rd,10:31,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,0,0,8625,Ian McKinnon,Mathieu Menniti,Reid Anderson,,
+1028125,3,3rd,10:31,444,CGY,5018,Martin Frk,29,RW,Slashing,2.00,0,0,5018,Martin Frk,Mathieu Menniti,Reid Anderson,,

@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028131,1,1st,5:26,328,GR,8927,Alex Kannok Leipert,41,D,Fighting,5.00,0,0,8927,Alex Kannok Leipert,Jake Rekucki,Kurtis Pare,,
+1028131,1,1st,5:26,327,MIL,8825,Kyle Marino,36,RW,Fighting,5.00,0,0,8825,Kyle Marino,Jake Rekucki,Kurtis Pare,,
+1028131,2,2nd,9:13,327,MIL,5489,Jordan Oesterle,82,D,Tripping,2.00,1,0,5489,Jordan Oesterle,Jake Rekucki,Kurtis Pare,,
+1028131,2,2nd,17:54,327,MIL,10645,David Edstrom,41,C,Roughing,2.00,0,0,10645,David Edstrom,Jake Rekucki,Kurtis Pare,,
+1028131,2,2nd,17:54,328,GR,10108,Chad Hillebrand,26,LW,Roughing,2.00,0,0,10108,Chad Hillebrand,Jake Rekucki,Kurtis Pare,,
+1028131,2,2nd,19:32,327,MIL,9631,Joakim Kemell,25,F,Tripping,2.00,1,0,9631,Joakim Kemell,Jake Rekucki,Kurtis Pare,,
+1028131,3,3rd,2:44,328,GR,7404,William Lagesson,37,D,Unsportsmanlike conduct,2.00,1,0,7404,William Lagesson,Jake Rekucki,Kurtis Pare,,

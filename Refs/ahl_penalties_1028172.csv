@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028172,1,1st,13:11,317,BRI,10564,Cam Berg,14,F,Holding,2.00,1,0,10564,Cam Berg,Austin Rook,Austin O’Rourke,,
+1028172,2,2nd,16:38,317,BRI,10564,Cam Berg,14,F,Holding the stick,2.00,1,0,10564,Cam Berg,Austin Rook,Austin O’Rourke,,
+1028172,2,2nd,19:25,317,BRI,7627,Hunter Drew,36,RW,Tripping,2.00,1,0,7627,Hunter Drew,Austin Rook,Austin O’Rourke,,
+1028172,3,3rd,9:45,324,SYR,9693,Brendan Furry,13,LW,Holding,2.00,1,0,9693,Brendan Furry,Austin Rook,Austin O’Rourke,,
+1028172,3,3rd,17:21,317,BRI,8549,Adam Beckman,34,LW,High-sticking,2.00,1,0,8549,Adam Beckman,Austin Rook,Austin O’Rourke,,
+1028172,3,3rd,18:04,317,BRI,9442,Daylan Kuefler,11,F,Holding,2.00,1,0,9442,Daylan Kuefler,Austin Rook,Austin O’Rourke,,

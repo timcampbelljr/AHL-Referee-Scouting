@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028174,1,1st,5:55,405,SJ,9621,Anthony Vincent,76,F,High-sticking,2.00,1,0,9621,Anthony Vincent,Jackson Kozari,Tatu Kunto,,
+1028174,1,1st,8:51,445,CV,10179,Kaden Hammell,47,D,Hooking,2.00,1,0,10179,Kaden Hammell,Jackson Kozari,Tatu Kunto,,
+1028174,1,1st,11:43,405,SJ,6859,Samuel Laberge,41,F,Cross-checking,2.00,1,0,6859,Samuel Laberge,Jackson Kozari,Tatu Kunto,,
+1028174,1,1st,14:25,405,SJ,7434,Lucas Carlsson,32,D,Holding,2.00,1,0,7434,Lucas Carlsson,Jackson Kozari,Tatu Kunto,,
+1028174,2,2nd,7:01,405,SJ,9621,Anthony Vincent,76,F,Roughing,2.00,0,0,9621,Anthony Vincent,Jackson Kozari,Tatu Kunto,,
+1028174,2,2nd,7:01,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,0,0,8625,Ian McKinnon,Jackson Kozari,Tatu Kunto,,
+1028174,2,2nd,8:31,405,SJ,10234,Quentin Musty,13,F,Tripping,2.00,1,0,10234,Quentin Musty,Jackson Kozari,Tatu Kunto,,
+1028174,2,2nd,19:19,445,CV,10180,Carson Rehkopf,16,F,Slashing,2.00,1,0,10180,Carson Rehkopf,Jackson Kozari,Tatu Kunto,,
+1028174,3,3rd,0:14,445,CV,6956,John Hayden,15,F,High-sticking,2.00,1,0,6956,John Hayden,Jackson Kozari,Tatu Kunto,,
+1028174,3,3rd,7:39,445,CV,10184,Eduard Šalé,12,F,Goaltender interference,2.00,1,0,10184,Eduard Šalé,Jackson Kozari,Tatu Kunto,,
+1028174,3,3rd,10:30,445,CV,0,None None,0,,Too many men - Bench minor,2.00,1,1,10184,Eduard Šalé,Jackson Kozari,Tatu Kunto,,
+1028174,3,3rd,19:26,405,SJ,7575,Oliver Wahlstrom,24,RW,Hooking,2.00,1,0,7575,Oliver Wahlstrom,Jackson Kozari,Tatu Kunto,,

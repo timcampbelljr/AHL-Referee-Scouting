@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028113,1,1st,1:35,403,ONT,10567,Otto Salin,10,D,Delay of game,2.00,1,0,10567,Otto Salin,Beau Halkidis,Sydney Harris,,
+1028113,1,1st,8:03,444,CGY,7099,Turner Ottenbreit,2,D,Tripping,2.00,1,0,7099,Turner Ottenbreit,Beau Halkidis,Sydney Harris,,
+1028113,1,1st,11:08,444,CGY,10037,Sam Morton,45,C,High-sticking,2.00,1,0,10037,Sam Morton,Beau Halkidis,Sydney Harris,,
+1028113,1,1st,16:26,444,CGY,8741,Nick Cicek,41,D,Tripping,2.00,1,0,8741,Nick Cicek,Beau Halkidis,Sydney Harris,,
+1028113,2,2nd,6:07,403,ONT,10712,Kirill Kirsanov,19,D,Holding,2.00,1,0,10712,Kirill Kirsanov,Beau Halkidis,Sydney Harris,,
+1028113,2,2nd,18:00,403,ONT,10567,Otto Salin,10,D,Roughing,2.00,0,0,10567,Otto Salin,Beau Halkidis,Sydney Harris,,
+1028113,2,2nd,18:00,444,CGY,10103,David Silye,25,C,Roughing,2.00,0,0,10103,David Silye,Beau Halkidis,Sydney Harris,,
+1028113,2,2nd,18:00,444,CGY,6142,Alex Gallant,20,LW,Roughing,2.00,1,0,6142,Alex Gallant,Beau Halkidis,Sydney Harris,,
+1028113,3,3rd,7:35,403,ONT,10567,Otto Salin,10,D,Roughing,2.00,0,0,10567,Otto Salin,Beau Halkidis,Sydney Harris,,
+1028113,3,3rd,7:35,444,CGY,9952,Lucas Ciona,17,LW,Roughing,2.00,0,0,9952,Lucas Ciona,Beau Halkidis,Sydney Harris,,
+1028113,3,3rd,14:23,403,ONT,6784,Glenn Gawdin,21,F,Game misconduct - Slashing,10.00,0,0,6784,Glenn Gawdin,Beau Halkidis,Sydney Harris,,
+1028113,3,3rd,14:23,403,ONT,6784,Glenn Gawdin,21,F,Major - Slashing,5.00,1,0,6784,Glenn Gawdin,Beau Halkidis,Sydney Harris,,

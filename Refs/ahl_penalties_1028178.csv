@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028178,1,1st,5:05,373,CLE,9978,James Malatesta,11,LW,Hooking,2.00,1,0,9978,James Malatesta,Sean Fernandez,Bobby Jo Love,,
+1028178,1,1st,11:36,373,CLE,9025,Roman Ahcan,37,LW,High-sticking,2.00,1,0,9025,Roman Ahcan,Sean Fernandez,Bobby Jo Love,,
+1028178,2,2nd,6:34,373,CLE,9633,Justin Pearson,24,LW,Roughing,2.00,0,0,9633,Justin Pearson,Sean Fernandez,Bobby Jo Love,,
+1028178,2,2nd,6:34,415,LAV,10139,Florian Xhekaj,63,C,Roughing,2.00,0,0,10139,Florian Xhekaj,Sean Fernandez,Bobby Jo Love,,
+1028178,2,2nd,10:42,373,CLE,9618,Corson Ceulemans,4,D,Hooking,2.00,1,0,9618,Corson Ceulemans,Sean Fernandez,Bobby Jo Love,,
+1028178,2,2nd,11:16,415,LAV,9522,Filip Mešár,48,RW,High-sticking,2.00,1,0,9522,Filip Mešár,Sean Fernandez,Bobby Jo Love,,
+1028178,2,2nd,16:44,415,LAV,5970,Samuel Blais,19,LW,Cross-checking,2.00,1,0,5970,Samuel Blais,Sean Fernandez,Bobby Jo Love,,
+1028178,2,2nd,19:32,373,CLE,9633,Justin Pearson,24,LW,Holding,2.00,1,0,9633,Justin Pearson,Sean Fernandez,Bobby Jo Love,,
+1028178,3,3rd,9:39,415,LAV,8554,Ryan O’Rourke,25,D,Slashing,2.00,1,0,8554,Ryan O’Rourke,Sean Fernandez,Bobby Jo Love,,
+1028178,3,3rd,17:25,373,CLE,10895,Caleb MacDonald,43,D,Delay of game,2.00,1,0,10895,Caleb MacDonald,Sean Fernandez,Bobby Jo Love,,

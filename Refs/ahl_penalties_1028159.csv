@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028159,1,1st,4:05,405,SJ,10234,Quentin Musty,13,F,High-sticking,2.00,1,0,10234,Quentin Musty,Jordan Deckard,Jarrett Burton,,
+1028159,1,1st,10:08,380,TEX,7101,Kole Lind,17,F,Tripping,2.00,1,0,7101,Kole Lind,Jordan Deckard,Jarrett Burton,,
+1028159,2,2nd,3:28,380,TEX,9750,Chase Wheatcroft,29,F,Hooking,2.00,1,0,9750,Chase Wheatcroft,Jordan Deckard,Jarrett Burton,,
+1028159,2,2nd,13:25,405,SJ,9040,Patrick Giles,54,F,Slashing,2.00,1,0,9040,Patrick Giles,Jordan Deckard,Jarrett Burton,,
+1028159,3,3rd,7:24,405,SJ,7591,Shane Bowers,15,F,Cross-checking,2.00,1,0,7591,Shane Bowers,Jordan Deckard,Jarrett Burton,,
+1028159,3,3rd,12:22,380,TEX,9962,Gavin White,8,D,Tripping,2.00,1,0,9962,Gavin White,Jordan Deckard,Jarrett Burton,,
+1028159,OT,OT,0:18,380,TEX,7016,Cameron Hughes,19,F,Interference,2.00,1,0,7016,Cameron Hughes,Jordan Deckard,Jarrett Burton,,

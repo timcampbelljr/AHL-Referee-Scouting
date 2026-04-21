@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028110,1,1st,2:21,319,HER,9356,Henrik Rybinski,12,C,High-sticking,2.00,1,0,9356,Henrik Rybinski,Adam Tobias,Patrick Hanrahan,,
+1028110,2,2nd,13:53,316,WBS,10504,Chase Pietila,44,D,Holding,2.00,1,0,10504,Chase Pietila,Adam Tobias,Patrick Hanrahan,,
+1028110,2,2nd,18:17,319,HER,9881,Sam Bitten,43,RW,Roughing,2.00,0,0,9881,Sam Bitten,Adam Tobias,Patrick Hanrahan,,
+1028110,2,2nd,18:17,316,WBS,9359,Jack St. Ivany,3,D,Roughing,2.00,0,0,9359,Jack St. Ivany,Adam Tobias,Patrick Hanrahan,,
+1028110,3,3rd,10:05,319,HER,9012,Justin Nachbaur,32,LW,Slashing,2.00,1,0,9012,Justin Nachbaur,Adam Tobias,Patrick Hanrahan,,
+1028110,3,3rd,18:39,316,WBS,9359,Jack St. Ivany,3,D,Hooking,2.00,1,0,9359,Jack St. Ivany,Adam Tobias,Patrick Hanrahan,,

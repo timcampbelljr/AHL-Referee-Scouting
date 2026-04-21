@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028130,1,1st,15:43,373,CLE,9978,James Malatesta,11,LW,Slashing,2.00,1,0,9978,James Malatesta,Graedy Hamilton,Austin O’Rourke,,
+1028130,2,2nd,2:51,373,CLE,9532,Will Butcher,39,D,Holding,2.00,1,0,9532,Will Butcher,Graedy Hamilton,Austin O’Rourke,,
+1028130,3,3rd,7:47,384,CLT,10056,Ben Steeves,6,F,Roughing,2.00,0,0,10056,Ben Steeves,Graedy Hamilton,Austin O’Rourke,,
+1028130,3,3rd,7:47,373,CLE,9570,Riley Bezeau,25,RW,Roughing,2.00,0,0,9570,Riley Bezeau,Graedy Hamilton,Austin O’Rourke,,
+1028130,3,3rd,7:47,373,CLE,9618,Corson Ceulemans,4,D,Roughing,2.00,1,0,9618,Corson Ceulemans,Graedy Hamilton,Austin O’Rourke,,
+1028130,3,3rd,19:23,373,CLE,9978,James Malatesta,11,LW,Misconduct,10.00,0,0,9978,James Malatesta,Graedy Hamilton,Austin O’Rourke,,
+1028130,3,3rd,19:23,373,CLE,9978,James Malatesta,11,LW,Unsportsmanlike conduct,2.00,1,0,10176,Luca Pinelli,Graedy Hamilton,Austin O’Rourke,,
+1028130,3,3rd,19:23,373,CLE,9058,Owen Sillinger,12,LW,Misconduct,10.00,0,0,9058,Owen Sillinger,Graedy Hamilton,Austin O’Rourke,,
+1028130,3,3rd,19:23,373,CLE,9058,Owen Sillinger,12,LW,Slashing,2.00,1,0,9904,Tate Singleton,Graedy Hamilton,Austin O’Rourke,,

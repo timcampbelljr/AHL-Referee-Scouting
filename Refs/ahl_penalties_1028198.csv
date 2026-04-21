@@ -1,0 +1,3 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028198,1,1st,9:51,309,PRO,9435,Joey Abate,47,LW,Fighting,5.00,0,0,9435,Joey Abate,Samuel Heidemann,Austin Rook,,
+1028198,1,1st,9:51,324,SYR,8884,Matteo Pietroniro,75,D,Fighting,5.00,0,0,8884,Matteo Pietroniro,Samuel Heidemann,Austin Rook,,

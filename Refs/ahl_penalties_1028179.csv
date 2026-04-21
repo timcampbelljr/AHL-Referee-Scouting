@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028179,1,1st,8:08,412,TUC,6037,Robbie Russo,5,D,Roughing,2.00,0,0,6037,Robbie Russo,Simon Desbiens,Jack Young,,
+1028179,1,1st,8:08,440,ABB,7597,Jett Woo,4,D,Roughing,2.00,0,0,7597,Jett Woo,Simon Desbiens,Jack Young,,
+1028179,1,1st,10:13,412,TUC,8734,Ben McCartney,22,F,Fighting,5.00,0,0,8734,Ben McCartney,Simon Desbiens,Jack Young,,
+1028179,1,1st,10:13,440,ABB,7597,Jett Woo,4,D,Fighting,5.00,0,0,7597,Jett Woo,Simon Desbiens,Jack Young,,
+1028179,2,2nd,5:41,440,ABB,10077,Sawyer Mynio,45,D,Tripping,2.00,1,0,10077,Sawyer Mynio,Simon Desbiens,Jack Young,,
+1028179,2,2nd,6:55,412,TUC,10665,Dmitri Simashev,26,D,Tripping,2.00,1,0,10665,Dmitri Simashev,Simon Desbiens,Jack Young,,
+1028179,2,2nd,13:22,412,TUC,6037,Robbie Russo,5,D,Slashing,2.00,1,0,6037,Robbie Russo,Simon Desbiens,Jack Young,,

@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028193,1,1st,1:26,419,COL,9118,Wyatt Aamodt,5,D,Tripping,2.00,1,0,9118,Wyatt Aamodt,Stephen Hiff,Bobby Jo Love,,
+1028193,1,1st,8:45,437,HSK,10680,Jackson Hallum,59,F,High-sticking,2.00,1,0,10680,Jackson Hallum,Stephen Hiff,Bobby Jo Love,,
+1028193,1,1st,8:45,437,HSK,7926,Jeremy Davies,84,D,Cross-checking,2.00,1,0,7926,Jeremy Davies,Stephen Hiff,Bobby Jo Love,,
+1028193,1,1st,14:06,437,HSK,7926,Jeremy Davies,84,D,Holding,2.00,1,0,7926,Jeremy Davies,Stephen Hiff,Bobby Jo Love,,
+1028193,2,2nd,13:47,437,HSK,10284,Kai Uchacz,77,F,Roughing,2.00,0,0,10284,Kai Uchacz,Stephen Hiff,Bobby Jo Love,,
+1028193,2,2nd,13:47,419,COL,9969,Ivan Ivan,82,F,Roughing,2.00,0,0,9969,Ivan Ivan,Stephen Hiff,Bobby Jo Love,,
+1028193,2,2nd,16:37,419,COL,4584,Jayson Megna,21,F,High-sticking,2.00,1,0,4584,Jayson Megna,Stephen Hiff,Bobby Jo Love,,
+1028193,3,3rd,0:56,419,COL,8500,Jack Ahcan,15,D,Tripping,2.00,1,0,8500,Jack Ahcan,Stephen Hiff,Bobby Jo Love,,
+1028193,3,3rd,5:02,419,COL,10257,Nikita Prishchepov,85,F,High-sticking,2.00,1,0,10257,Nikita Prishchepov,Stephen Hiff,Bobby Jo Love,,
+1028193,3,3rd,14:01,437,HSK,8448,Tanner Laczynski,28,F,Hooking,2.00,1,0,8448,Tanner Laczynski,Stephen Hiff,Bobby Jo Love,,

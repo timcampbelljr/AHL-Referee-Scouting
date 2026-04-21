@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028162,1,1st,2:05,316,WBS,6845,Sebastian Aho,25,D,Tripping,2.00,1,0,6845,Sebastian Aho,Riley Brace,Nick Isaacson,,
+1028162,1,1st,7:43,309,PRO,10541,Jake Schmaltz,8,C,Hooking,2.00,1,0,10541,Jake Schmaltz,Riley Brace,Nick Isaacson,,
+1028162,1,1st,9:56,316,WBS,6865,Bokondji Imama,14,LW,Fighting,5.00,0,0,6865,Bokondji Imama,Riley Brace,Nick Isaacson,,
+1028162,1,1st,9:56,309,PRO,9148,Colin Felix,9,D,Fighting,5.00,0,0,9148,Colin Felix,Riley Brace,Nick Isaacson,,
+1028162,1,1st,13:34,309,PRO,9712,Frederic Brunet,42,D,Holding,2.00,1,0,9712,Frederic Brunet,Riley Brace,Nick Isaacson,,
+1028162,1,1st,14:45,316,WBS,9673,Owen Pickering,38,D,Interference,2.00,1,0,9673,Owen Pickering,Riley Brace,Nick Isaacson,,
+1028162,2,2nd,5:37,309,PRO,8462,Billy Sweezey,6,D,Roughing,2.00,1,0,8462,Billy Sweezey,Riley Brace,Nick Isaacson,,
+1028162,2,2nd,13:46,316,WBS,10326,Atley Calvert,84,LW,Holding,2.00,1,0,10326,Atley Calvert,Riley Brace,Nick Isaacson,,
+1028162,2,2nd,15:48,316,WBS,9223,Gabe Klassen,64,C,Cross-checking,2.00,1,0,9223,Gabe Klassen,Riley Brace,Nick Isaacson,,
+1028162,2,2nd,17:59,309,PRO,9729,Matthew Poitras,21,C,Holding,2.00,1,0,9729,Matthew Poitras,Riley Brace,Nick Isaacson,,
+1028162,3,3rd,4:07,316,WBS,10850,Daniel Laatsch,6,D,Tripping,2.00,1,0,10850,Daniel Laatsch,Riley Brace,Nick Isaacson,,

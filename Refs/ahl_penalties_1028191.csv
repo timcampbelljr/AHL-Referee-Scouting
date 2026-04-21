@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028191,1,1st,2:30,389,IA,9856,Carson Lambos,7,D,Interference,2.00,1,0,9856,Carson Lambos,Shaun Davis,Liam Maaskant,,
+1028191,1,1st,2:30,389,IA,9856,Carson Lambos,7,D,Unsportsmanlike conduct,2.00,1,0,9856,Carson Lambos,Shaun Davis,Liam Maaskant,,
+1028191,2,2nd,10:55,330,CHI,6633,Gavin Bayreuther,55,D,Hooking,2.00,1,0,6633,Gavin Bayreuther,Shaun Davis,Liam Maaskant,,
+1028191,3,3rd,1:27,389,IA,10313,Hunter Haight,43,F,Holding,2.00,0,0,10313,Hunter Haight,Shaun Davis,Liam Maaskant,,
+1028191,3,3rd,1:27,330,CHI,8615,Nikita Pavlychev,15,C,Roughing,2.00,0,0,8615,Nikita Pavlychev,Shaun Davis,Liam Maaskant,,
+1028191,3,3rd,9:50,330,CHI,7089,Cal Foote,52,D,Tripping,2.00,1,0,7089,Cal Foote,Shaun Davis,Liam Maaskant,,

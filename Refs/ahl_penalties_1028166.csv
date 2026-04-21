@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028166,1,1st,4:37,321,MB,10908,Brayden Yager,29,C,Hooking,2.00,1,0,10908,Brayden Yager,Liam Maaskant,Kurtis Pare,,
+1028166,1,1st,7:44,321,MB,7152,Kale Clague,56,D,Tripping,2.00,1,0,7152,Kale Clague,Liam Maaskant,Kurtis Pare,,
+1028166,1,1st,17:10,389,IA,9472,Mark Liwiski,26,F,Interference,2.00,0,0,9472,Mark Liwiski,Liam Maaskant,Kurtis Pare,,
+1028166,1,1st,17:10,321,MB,8706,Walker Duehr,7,RW,Roughing,2.00,0,0,8706,Walker Duehr,Liam Maaskant,Kurtis Pare,,
+1028166,2,2nd,7:18,321,MB,9656,Parker Ford,25,RW,Elbowing,2.00,1,0,9656,Parker Ford,Liam Maaskant,Kurtis Pare,,
+1028166,2,2nd,9:43,389,IA,9472,Mark Liwiski,26,F,Roughing,2.00,1,0,9472,Mark Liwiski,Liam Maaskant,Kurtis Pare,,
+1028166,2,2nd,19:01,389,IA,0,None None,0,,Too many men - Bench minor,2.00,1,1,9472,Mark Liwiski,Liam Maaskant,Kurtis Pare,,
+1028166,3,3rd,7:29,321,MB,9746,Danny Zhilkin,17,C,Slashing,2.00,1,0,9746,Danny Zhilkin,Liam Maaskant,Kurtis Pare,,
+1028166,3,3rd,14:44,321,MB,7118,Jaret Anderson-Dolan,28,C,Double minor - High-sticking,4.00,1,0,7118,Jaret Anderson-Dolan,Liam Maaskant,Kurtis Pare,,
+1028166,3,3rd,20:00,321,MB,5469,Phillip Di Giuseppe,34,LW,Misconduct - Continuing altercation,10.00,0,0,5469,Phillip Di Giuseppe,Liam Maaskant,Kurtis Pare,,
+1028166,3,3rd,20:00,321,MB,9555,Tyrel Bauer,2,D,Misconduct - Continuing altercation,10.00,0,0,9555,Tyrel Bauer,Liam Maaskant,Kurtis Pare,,
+1028166,3,3rd,20:00,389,IA,9472,Mark Liwiski,26,F,Misconduct - Unsportsmanlike conduct,10.00,0,0,9472,Mark Liwiski,Liam Maaskant,Kurtis Pare,,

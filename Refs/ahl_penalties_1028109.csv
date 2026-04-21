@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028109,1,1st,10:53,437,HSK,10284,Kai Uchacz,77,F,Boarding,2.00,1,0,10284,Kai Uchacz,Morgan MacPhee,Tyler Spott,,
+1028109,1,1st,12:28,402,BAK,10599,Rhett Pitlick,68,RW,High-sticking,2.00,1,0,10599,Rhett Pitlick,Morgan MacPhee,Tyler Spott,,
+1028109,2,2nd,7:45,437,HSK,9279,Joe Fleming,50,F,Roughing,2.00,1,0,9279,Joe Fleming,Morgan MacPhee,Tyler Spott,,
+1028109,2,2nd,9:40,402,BAK,6780,Max Jones,46,LW,Holding,2.00,1,0,6780,Max Jones,Morgan MacPhee,Tyler Spott,,
+1028109,3,3rd,2:39,402,BAK,6058,Josh Brown,44,D,Cross-checking,2.00,1,0,6058,Josh Brown,Morgan MacPhee,Tyler Spott,,
+1028109,3,3rd,3:30,402,BAK,8846,Daniel D’Amato,19,LW,Tripping,2.00,1,0,8846,Daniel D’Amato,Morgan MacPhee,Tyler Spott,,
+1028109,3,3rd,7:09,402,BAK,6780,Max Jones,46,LW,Misconduct - Abuse of officials,10.00,0,0,6780,Max Jones,Morgan MacPhee,Tyler Spott,,
+1028109,3,3rd,7:09,402,BAK,6780,Max Jones,46,LW,Misconduct,10.00,0,0,6780,Max Jones,Morgan MacPhee,Tyler Spott,,
+1028109,3,3rd,11:28,437,HSK,7444,Brandon Hickey,41,D,Misconduct,10.00,0,0,7444,Brandon Hickey,Morgan MacPhee,Tyler Spott,,
+1028109,3,3rd,11:28,402,BAK,10877,Josh Samanski,81,C,Misconduct,10.00,0,0,10877,Josh Samanski,Morgan MacPhee,Tyler Spott,,
+1028109,3,3rd,20:00,402,BAK,8726,Roby Järventie,15,RW,Unsportsmanlike conduct,2.00,0,0,8726,Roby Järventie,Morgan MacPhee,Tyler Spott,,
