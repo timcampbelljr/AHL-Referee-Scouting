@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028613,1,1st,1:00,309,PRO,5721,Patrick Brown,38,C,High-sticking,2.00,1,0,5721,Patrick Brown,Alex Lepkowski,Damian Figueira,,
+1028613,1,1st,4:39,317,BRI,9442,Daylan Kuefler,11,F,Tripping,2.00,1,0,9442,Daylan Kuefler,Alex Lepkowski,Damian Figueira,,
+1028613,2,2nd,2:47,309,PRO,10541,Jake Schmaltz,8,C,Slashing,2.00,1,0,10541,Jake Schmaltz,Alex Lepkowski,Damian Figueira,,
+1028613,3,3rd,10:53,317,BRI,10389,Isaiah George,4,D,High-sticking,2.00,1,0,10389,Isaiah George,Alex Lepkowski,Damian Figueira,,
+1028613,3,3rd,19:57,317,BRI,0,None None,0,,Too many men - Bench minor,2.00,1,1,9443,Matthew Maggio,Alex Lepkowski,Damian Figueira,,

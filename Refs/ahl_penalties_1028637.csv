@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028637,1,1st,8:49,404,SD,10096,Sam Colangelo,29,RW,Slashing,2.00,0,0,10096,Sam Colangelo,Ben Betker,Sydney Harris,,
+1028637,1,1st,8:49,372,RFD,10563,Taige Harding,47,D,Roughing,2.00,0,0,10563,Taige Harding,Ben Betker,Sydney Harris,,
+1028637,2,2nd,6:13,372,RFD,10563,Taige Harding,47,D,High-sticking,2.00,1,0,10563,Taige Harding,Ben Betker,Sydney Harris,,
+1028637,2,2nd,9:48,404,SD,9778,Nikita Nesterenko,13,C,High-sticking,2.00,1,0,9778,Nikita Nesterenko,Ben Betker,Sydney Harris,,
+1028637,2,2nd,13:23,372,RFD,10503,Jamie Engelbert,45,F,Hooking,2.00,1,0,10503,Jamie Engelbert,Ben Betker,Sydney Harris,,
+1028637,2,2nd,17:47,404,SD,9778,Nikita Nesterenko,13,C,High-sticking,2.00,1,0,9778,Nikita Nesterenko,Ben Betker,Sydney Harris,,
+1028637,2,2nd,17:58,372,RFD,6813,Dominic Toninato,25,C,Hooking,2.00,1,0,6813,Dominic Toninato,Ben Betker,Sydney Harris,,
+1028637,3,3rd,2:26,372,RFD,10317,Connor Mylymok,26,LW,Hooking,2.00,1,0,10317,Connor Mylymok,Ben Betker,Sydney Harris,,
+1028637,3,3rd,3:38,404,SD,6729,Matthew Phillips,18,RW,Goaltender interference,2.00,1,0,6729,Matthew Phillips,Ben Betker,Sydney Harris,,
+1028637,3,3rd,3:55,372,RFD,9341,Andrew Perrott,75,D,Slashing,2.00,1,0,9341,Andrew Perrott,Ben Betker,Sydney Harris,,
+1028637,3,3rd,12:01,404,SD,10506,Stian Solberg,7,D,Tripping,2.00,1,0,10506,Stian Solberg,Ben Betker,Sydney Harris,,
+1028637,3,3rd,14:35,372,RFD,10761,Harrison Israels,43,C,Hooking,2.00,1,0,10761,Harrison Israels,Ben Betker,Sydney Harris,,

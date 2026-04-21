@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028684,1,1st,16:15,415,LAV,10781,Darick Louis-Jean,12,D,Holding,2.00,1,0,10781,Darick Louis-Jean,Austin O’Rourke,Jared Cummins,,
+1028684,1,1st,18:59,415,LAV,0,None None,0,,Too many men - Bench minor,2.00,1,1,10149,Luke Tuch,Austin O’Rourke,Jared Cummins,,
+1028684,2,2nd,4:24,390,UTC,10815,Matyas Melovsky,21,F,Slashing,2.00,1,0,10815,Matyas Melovsky,Austin O’Rourke,Jared Cummins,,
+1028684,3,3rd,9:00,390,UTC,9067,Brian Halonen,24,F,Slashing,2.00,1,0,9067,Brian Halonen,Austin O’Rourke,Jared Cummins,,
+1028684,3,3rd,11:44,415,LAV,10149,Luke Tuch,17,LW,Holding,2.00,1,0,10149,Luke Tuch,Austin O’Rourke,Jared Cummins,,
+1028684,3,3rd,12:48,390,UTC,7624,Calen Addison,2,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,7624,Calen Addison,Austin O’Rourke,Jared Cummins,,
+1028684,3,3rd,13:37,415,LAV,6337,Josh Jacobs,28,D,Tripping,2.00,1,0,6337,Josh Jacobs,Austin O’Rourke,Jared Cummins,,

@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028670,1,1st,6:37,404,SD,10274,Yegor Sidorov,19,LW,Holding,2.00,1,0,10274,Yegor Sidorov,Koletrane Wilson,Tatu Kunto,,
+1028670,1,1st,10:27,405,SJ,9177,Braden Hache,86,D,Roughing,2.00,1,0,9177,Braden Hache,Koletrane Wilson,Tatu Kunto,,
+1028670,2,2nd,13:17,405,SJ,10231,Kasper Halttunen,14,F,Cross-checking,2.00,1,0,10231,Kasper Halttunen,Koletrane Wilson,Tatu Kunto,,
+1028670,3,3rd,13:06,404,SD,0,None None,0,,Too many men - Bench minor,2.00,1,1,9189,Sasha Pastujov,Koletrane Wilson,Tatu Kunto,,
+1028670,3,3rd,19:50,404,SD,10096,Sam Colangelo,29,RW,Roughing,2.00,0,0,10096,Sam Colangelo,Koletrane Wilson,Tatu Kunto,,
+1028670,3,3rd,19:50,405,SJ,9177,Braden Hache,86,D,Roughing,2.00,0,0,9177,Braden Hache,Koletrane Wilson,Tatu Kunto,,
+1028670,3,3rd,19:50,405,SJ,9621,Anthony Vincent,76,F,Roughing,2.00,1,0,9621,Anthony Vincent,Koletrane Wilson,Tatu Kunto,,

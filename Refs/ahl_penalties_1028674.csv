@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028674,1,1st,0:14,321,MB,9555,Tyrel Bauer,2,D,Fighting,5.00,0,0,9555,Tyrel Bauer,Damian Figueira,Taylor Burzminski,,
+1028674,1,1st,0:14,444,CGY,6142,Alex Gallant,20,LW,Fighting,5.00,0,0,6142,Alex Gallant,Damian Figueira,Taylor Burzminski,,
+1028674,1,1st,5:13,444,CGY,6367,Dryden Hunt,15,LW,Tripping,2.00,1,0,6367,Dryden Hunt,Damian Figueira,Taylor Burzminski,,
+1028674,1,1st,8:27,321,MB,5929,Ashton Sautner,6,D,Hooking,2.00,1,0,5929,Ashton Sautner,Damian Figueira,Taylor Burzminski,,
+1028674,1,1st,15:27,321,MB,7118,Jaret Anderson-Dolan,28,C,High-sticking,2.00,1,0,7118,Jaret Anderson-Dolan,Damian Figueira,Taylor Burzminski,,
+1028674,2,2nd,17:32,321,MB,10447,Domenic DiVincentiis,50,G,Tripping,2.00,1,0,10121,Colby Barlow,Damian Figueira,Taylor Burzminski,,
+1028674,3,3rd,0:13,444,CGY,10626,Carter King,44,C,High-sticking,2.00,1,0,10626,Carter King,Damian Figueira,Taylor Burzminski,,
+1028674,3,3rd,10:23,321,MB,10907,Jacob Julien,24,C,Slashing,2.00,0,0,10907,Jacob Julien,Damian Figueira,Taylor Burzminski,,
+1028674,3,3rd,10:23,444,CGY,9669,William Strömgren,11,LW,Unsportsmanlike conduct,2.00,0,0,9669,William Strömgren,Damian Figueira,Taylor Burzminski,,

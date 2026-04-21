@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028666,1,1st,0:18,307,HFD,7669,Trey Fix-Wolansky,64,F,Hooking,2.00,1,0,7669,Trey Fix-Wolansky,Liam Maaskant,Austin O’Rourke,,
+1028666,1,1st,1:49,373,CLE,6644,Zach Aston-Reese,21,LW,Slashing,2.00,1,0,6644,Zach Aston-Reese,Liam Maaskant,Austin O’Rourke,,
+1028666,1,1st,4:07,307,HFD,9666,Adam Sýkora,10,F,Tripping,2.00,1,0,9666,Adam Sýkora,Liam Maaskant,Austin O’Rourke,,
+1028666,1,1st,16:10,373,CLE,10556,Guillaume Richard,26,D,Tripping,2.00,1,0,10556,Guillaume Richard,Liam Maaskant,Austin O’Rourke,,
+1028666,2,2nd,2:09,373,CLE,9978,James Malatesta,11,LW,Holding,2.00,1,0,9978,James Malatesta,Liam Maaskant,Austin O’Rourke,,
+1028666,2,2nd,15:58,307,HFD,9642,Brett Berard,9,F,Interference,2.00,1,0,9642,Brett Berard,Liam Maaskant,Austin O’Rourke,,
+1028666,3,3rd,9:36,307,HFD,10189,Dylan Roobroeck,28,F,Slashing,2.00,1,0,10189,Dylan Roobroeck,Liam Maaskant,Austin O’Rourke,,

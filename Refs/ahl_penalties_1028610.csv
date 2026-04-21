@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028610,2,2nd,13:30,307,HFD,5995,Anton Blidh,21,F,Roughing,2.00,0,0,5995,Anton Blidh,Morgan MacPhee,Luke Stork,,
+1028610,2,2nd,13:30,313,LV,8451,Zayde Wisdom,74,C,Interference,2.00,0,0,8451,Zayde Wisdom,Morgan MacPhee,Luke Stork,,
+1028610,3,3rd,5:41,307,HFD,8622,Connor Mackey,14,D,Holding,2.00,1,0,8622,Connor Mackey,Morgan MacPhee,Luke Stork,,

@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028663,1,1st,16:12,412,TUC,7401,Cameron Hebig,39,C,Cross-checking,2.00,1,0,7401,Cameron Hebig,Stan Szczurek,Kyle Bauman,,
+1028663,2,2nd,7:18,437,HSK,0,None None,0,,Too many men - Bench minor,2.00,1,1,9279,Joe Fleming,Stan Szczurek,Kyle Bauman,,
+1028663,3,3rd,0:54,437,HSK,9272,Ben Hemmerling,63,F,High-sticking,2.00,0,0,9272,Ben Hemmerling,Stan Szczurek,Kyle Bauman,,
+1028663,3,3rd,0:54,412,TUC,8519,Scott Perunovich,7,D,Holding,2.00,0,0,8519,Scott Perunovich,Stan Szczurek,Kyle Bauman,,
+1028663,3,3rd,6:28,412,TUC,10665,Dmitri Simashev,26,D,Slashing,2.00,1,0,10665,Dmitri Simashev,Stan Szczurek,Kyle Bauman,,

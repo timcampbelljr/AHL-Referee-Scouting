@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028607,1,1st,7:14,335,TOR,9624,Ryan Tverberg,77,F,High-sticking,2.00,1,0,9624,Ryan Tverberg,Liam Maaskant,James Kraft,,
+1028607,1,1st,9:36,330,CHI,10597,Joel Nyström,9,D,Holding,2.00,1,0,10597,Joel Nyström,Liam Maaskant,James Kraft,,
+1028607,2,2nd,0:54,335,TOR,6014,Dakota Mermis,36,D,Tripping,2.00,1,0,6014,Dakota Mermis,Liam Maaskant,James Kraft,,
+1028607,2,2nd,3:28,330,CHI,6657,Givani Smith,24,RW,Tripping,2.00,1,0,6657,Givani Smith,Liam Maaskant,James Kraft,,
+1028607,2,2nd,15:05,330,CHI,10460,Charles Alexis Legault,5,D,Hooking,2.00,1,0,10460,Charles Alexis Legault,Liam Maaskant,James Kraft,,
+1028607,3,3rd,7:09,335,TOR,7383,Michael Pezzetta,61,LW,Tripping,2.00,1,0,7383,Michael Pezzetta,Liam Maaskant,James Kraft,,
+1028607,3,3rd,14:03,335,TOR,10613,Borya Valis,39,F,Hooking,2.00,1,0,10613,Borya Valis,Liam Maaskant,James Kraft,,

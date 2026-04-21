@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028662,1,1st,14:51,384,CLT,9745,Marek Alscher,27,D,Roughing,2.00,0,0,9745,Marek Alscher,Will Kelly,Mathieu Menniti,,
+1028662,1,1st,14:51,319,HER,9881,Sam Bitten,43,LW,Roughing,2.00,0,0,9881,Sam Bitten,Will Kelly,Mathieu Menniti,,
+1028662,1,1st,20:00,319,HER,7921,Brett Leason,23,RW,Charging,2.00,1,0,7921,Brett Leason,Will Kelly,Mathieu Menniti,,
+1028662,2,2nd,5:46,319,HER,10644,Ilya Protas,40,C,Tripping,2.00,1,0,10644,Ilya Protas,Will Kelly,Mathieu Menniti,,
+1028662,3,3rd,1:46,319,HER,8598,Graeme Clarke,92,RW,Hooking,2.00,1,0,8598,Graeme Clarke,Will Kelly,Mathieu Menniti,,

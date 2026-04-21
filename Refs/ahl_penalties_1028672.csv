@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028672,1,1st,19:36,324,SYR,9896,Maxim Groshev,23,D,Holding,2.00,1,0,9896,Maxim Groshev,Adam Tobias,James Kraft,,
+1028672,2,2nd,5:15,335,TOR,9023,Marc Johnstone,57,RW,Slashing,2.00,1,0,9023,Marc Johnstone,Adam Tobias,James Kraft,,
+1028672,2,2nd,9:54,335,TOR,10836,Landon Sim,42,F,Fighting,5.00,0,0,10836,Landon Sim,Adam Tobias,James Kraft,,
+1028672,2,2nd,9:54,324,SYR,7821,Reece Newkirk,18,RW,Fighting,5.00,0,0,7821,Reece Newkirk,Adam Tobias,James Kraft,,
+1028672,2,2nd,15:42,324,SYR,10566,Lucas Mercuri,11,C,Interference,2.00,1,0,10566,Lucas Mercuri,Adam Tobias,James Kraft,,
+1028672,3,3rd,0:47,335,TOR,10525,Luke Haymes,43,C,Tripping,2.00,1,0,10525,Luke Haymes,Adam Tobias,James Kraft,,
+1028672,3,3rd,4:29,324,SYR,4666,Jarred Tinordi,28,D,Cross-checking,2.00,1,0,4666,Jarred Tinordi,Adam Tobias,James Kraft,,
+1028672,3,3rd,19:51,335,TOR,10836,Landon Sim,42,F,Slashing,2.00,1,0,10836,Landon Sim,Adam Tobias,James Kraft,,

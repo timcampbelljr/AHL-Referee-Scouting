@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028665,1,1st,4:21,330,CHI,8437,Ryan Suzuki,6,C,Hooking,2.00,1,0,8437,Ryan Suzuki,Graedy Hamilton,Ben Betker,,
+1028665,1,1st,14:46,389,IA,8937,Matt Kiersted,23,D,Cross-checking,2.00,1,0,8937,Matt Kiersted,Graedy Hamilton,Ben Betker,,
+1028665,1,1st,14:48,389,IA,9856,Carson Lambos,7,D,High-sticking,2.00,1,0,9856,Carson Lambos,Graedy Hamilton,Ben Betker,,
+1028665,2,2nd,15:56,330,CHI,10468,Bradly Nadeau,82,LW,Tripping,2.00,1,0,10468,Bradly Nadeau,Graedy Hamilton,Ben Betker,,
+1028665,3,3rd,5:17,389,IA,9154,Oskar Olausson,24,F,Interference,2.00,1,0,9154,Oskar Olausson,Graedy Hamilton,Ben Betker,,
+1028665,3,3rd,8:18,330,CHI,10460,Charles Alexis Legault,5,D,Holding,2.00,1,0,10460,Charles Alexis Legault,Graedy Hamilton,Ben Betker,,
+1028665,3,3rd,12:10,389,IA,9856,Carson Lambos,7,D,Holding the stick,2.00,1,0,9856,Carson Lambos,Graedy Hamilton,Ben Betker,,
+1028665,3,3rd,16:07,330,CHI,6657,Givani Smith,24,RW,Hooking,2.00,1,0,6657,Givani Smith,Graedy Hamilton,Ben Betker,,

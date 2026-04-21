@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028679,1,1st,3:00,335,TOR,10635,Blake Smith,59,D,Fighting,5.00,0,0,10635,Blake Smith,David Elford,Alex Gagné,,
+1028679,1,1st,3:00,323,ROC,9245,Kaleb Lawrence,25,C,Fighting,5.00,0,0,9245,Kaleb Lawrence,David Elford,Alex Gagné,,
+1028679,1,1st,8:10,335,TOR,7780,Cédric Paré,56,F,Closing hand on puck,2.00,1,0,7780,Cédric Paré,David Elford,Alex Gagné,,
+1028679,1,1st,11:33,335,TOR,9994,Henry Thrun,3,D,High-sticking,2.00,1,0,9994,Henry Thrun,David Elford,Alex Gagné,,
+1028679,1,1st,19:33,323,ROC,8580,Carson Meyer,72,RW,Roughing,2.00,0,0,8580,Carson Meyer,David Elford,Alex Gagné,,
+1028679,1,1st,19:33,335,TOR,8738,William Villeneuve,76,D,Roughing,2.00,0,0,8738,William Villeneuve,David Elford,Alex Gagné,,
+1028679,1,1st,19:33,335,TOR,10613,Borya Valis,39,F,Roughing,2.00,1,0,10613,Borya Valis,David Elford,Alex Gagné,,
+1028679,2,2nd,5:30,323,ROC,9767,Ryan Johnson,23,D,Holding,2.00,1,0,9767,Ryan Johnson,David Elford,Alex Gagné,,
+1028679,2,2nd,7:55,335,TOR,10119,Noah Chadwick,58,D,Broken stick,2.00,1,0,10119,Noah Chadwick,David Elford,Alex Gagné,,
+1028679,2,2nd,14:02,323,ROC,9245,Kaleb Lawrence,25,C,Cross-checking,2.00,1,0,9245,Kaleb Lawrence,David Elford,Alex Gagné,,
+1028679,3,3rd,11:47,335,TOR,7780,Cédric Paré,56,F,Tripping,2.00,1,0,7780,Cédric Paré,David Elford,Alex Gagné,,

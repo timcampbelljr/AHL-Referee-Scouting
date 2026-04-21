@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028659,1,1st,10:15,319,HER,7545,Corey Schueneman,6,D,Tripping,2.00,1,0,7545,Corey Schueneman,Harrison O’Pray,Samuel Heidemann,,
+1028659,1,1st,12:43,319,HER,0,None None,0,,Too many men - Bench minor,2.00,1,1,5856,Sonny Milano,Harrison O’Pray,Samuel Heidemann,,
+1028659,2,2nd,1:31,319,HER,10572,Ryan Chesley,5,D,Boarding,2.00,1,0,10572,Ryan Chesley,Harrison O’Pray,Samuel Heidemann,,
+1028659,2,2nd,2:54,319,HER,9698,Grant Cruikshank,19,C,Holding,2.00,1,0,9698,Grant Cruikshank,Harrison O’Pray,Samuel Heidemann,,
+1028659,2,2nd,5:12,319,HER,9734,Alex Suzdalev,41,RW,High-sticking,2.00,1,0,9734,Alex Suzdalev,Harrison O’Pray,Samuel Heidemann,,
+1028659,2,2nd,7:14,319,HER,0,None None,0,,Too many men - Bench minor,2.00,1,1,10174,Andrew Cristall,Harrison O’Pray,Samuel Heidemann,,
+1028659,2,2nd,15:15,309,PRO,9108,Georgii Merkulov,10,LW,Hooking,2.00,1,0,9108,Georgii Merkulov,Harrison O’Pray,Samuel Heidemann,,
+1028659,3,3rd,4:27,309,PRO,9712,Frederic Brunet,42,D,Tripping,2.00,1,0,9712,Frederic Brunet,Harrison O’Pray,Samuel Heidemann,,
+1028659,3,3rd,5:12,319,HER,10644,Ilya Protas,40,C,Holding,2.00,1,0,10644,Ilya Protas,Harrison O’Pray,Samuel Heidemann,,
+1028659,3,3rd,10:36,309,PRO,9712,Frederic Brunet,42,D,High-sticking,2.00,1,0,9712,Frederic Brunet,Harrison O’Pray,Samuel Heidemann,,

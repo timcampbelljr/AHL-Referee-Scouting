@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028606,1,1st,1:12,380,TEX,10535,Trey Taylor,2,D,Holding,2.00,1,0,10535,Trey Taylor,Tyler Hascall,Jordan Deckard,,
+1028606,1,1st,8:12,404,SD,6442,Nikolas Brouillard,15,D,Tripping,2.00,1,0,6442,Nikolas Brouillard,Tyler Hascall,Jordan Deckard,,
+1028606,1,1st,14:31,380,TEX,10555,Harrison Scott,11,F,Hooking,2.00,1,0,10555,Harrison Scott,Tyler Hascall,Jordan Deckard,,
+1028606,1,1st,18:00,404,SD,9197,Noah Warren,2,D,Hooking,2.00,1,0,9197,Noah Warren,Tyler Hascall,Jordan Deckard,,
+1028606,2,2nd,8:59,404,SD,5912,Roland McKeown,37,D,Fighting,5.00,0,0,5912,Roland McKeown,Tyler Hascall,Jordan Deckard,,
+1028606,2,2nd,8:59,380,TEX,10527,Sean Chisholm,21,F,Fighting,5.00,0,0,10527,Sean Chisholm,Tyler Hascall,Jordan Deckard,,
+1028606,2,2nd,11:07,404,SD,10506,Stian Solberg,7,D,Holding,2.00,0,0,10506,Stian Solberg,Tyler Hascall,Jordan Deckard,,
+1028606,2,2nd,11:07,380,TEX,10135,Tristan Bertucci,3,D,Slashing,2.00,0,0,10135,Tristan Bertucci,Tyler Hascall,Jordan Deckard,,
+1028606,3,3rd,15:06,404,SD,10506,Stian Solberg,7,D,Tripping,2.00,1,0,10506,Stian Solberg,Tyler Hascall,Jordan Deckard,,

@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028617,1,1st,5:50,402,BAK,10874,Quinn Hutson,23,RW,Tripping,2.00,1,0,10874,Quinn Hutson,Bobby Jo Love,John Lindner,,
+1028617,1,1st,10:59,419,COL,9723,Jake Wise,28,F,Slashing,2.00,1,0,9723,Jake Wise,Bobby Jo Love,John Lindner,,
+1028617,1,1st,13:22,419,COL,4584,Jayson Megna,21,F,Tripping,2.00,1,0,4584,Jayson Megna,Bobby Jo Love,John Lindner,,
+1028617,1,1st,16:47,419,COL,10249,Chase Bradley,38,F,Fighting,5.00,0,0,10249,Chase Bradley,Bobby Jo Love,John Lindner,,
+1028617,1,1st,16:47,402,BAK,8696,Ethan Keppen,63,RW,Fighting,5.00,0,0,8696,Ethan Keppen,Bobby Jo Love,John Lindner,,
+1028617,2,2nd,12:40,419,COL,7782,Luke Toporowski,61,RW,Roughing,2.00,1,0,7782,Luke Toporowski,Bobby Jo Love,John Lindner,,
+1028617,2,2nd,12:50,419,COL,4584,Jayson Megna,21,F,Double minor - High-sticking,4.00,1,0,4584,Jayson Megna,Bobby Jo Love,John Lindner,,
+1028617,2,2nd,14:35,402,BAK,10874,Quinn Hutson,23,RW,Hooking,2.00,0,0,10874,Quinn Hutson,Bobby Jo Love,John Lindner,,
+1028617,3,3rd,4:02,402,BAK,7352,Riley Stillman,61,D,High-sticking,2.00,1,0,7352,Riley Stillman,Bobby Jo Love,John Lindner,,
+1028617,3,3rd,8:51,402,BAK,8890,Sam Poulin,8,C,Interference,2.00,1,0,8890,Sam Poulin,Bobby Jo Love,John Lindner,,
+1028617,3,3rd,15:57,419,COL,9969,Ivan Ivan,82,F,High-sticking,2.00,1,0,9969,Ivan Ivan,Bobby Jo Love,John Lindner,,

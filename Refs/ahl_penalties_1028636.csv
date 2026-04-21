@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028636,1,1st,16:05,403,ONT,9785,Koehn Ziemmer,13,F,High-sticking,2.00,1,0,9785,Koehn Ziemmer,Tyler Spott,Jordan Watt,,
+1028636,2,2nd,0:49,403,ONT,9357,Cole Guttman,81,F,Cross-checking,2.00,1,0,9357,Cole Guttman,Tyler Spott,Jordan Watt,,
+1028636,2,2nd,16:17,437,HSK,7028,Mitch McLain,75,F,Tripping,2.00,1,0,7028,Mitch McLain,Tyler Spott,Jordan Watt,,
+1028636,2,2nd,19:35,403,ONT,5592,Jacob Doty,37,F,Tripping,2.00,1,0,5592,Jacob Doty,Tyler Spott,Jordan Watt,,
+1028636,3,3rd,9:03,403,ONT,6784,Glenn Gawdin,21,F,Holding,2.00,1,0,6784,Glenn Gawdin,Tyler Spott,Jordan Watt,,
+1028636,3,3rd,18:58,437,HSK,10680,Jackson Hallum,59,F,Slashing,2.00,0,0,10680,Jackson Hallum,Tyler Spott,Jordan Watt,,
+1028636,3,3rd,18:58,403,ONT,9239,Francesco Pinelli,71,F,Roughing,2.00,0,0,9239,Francesco Pinelli,Tyler Spott,Jordan Watt,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028605,1,1st,9:05,415,LAV,8717,Marc Del Gaizo,2,D,Slashing,2.00,1,0,8717,Marc Del Gaizo,Austin Rook,Tyler Spott,,
+1028605,1,1st,20:00,324,SYR,10566,Lucas Mercuri,11,C,Slashing,2.00,1,0,10566,Lucas Mercuri,Austin Rook,Tyler Spott,,
+1028605,2,2nd,3:24,324,SYR,8884,Matteo Pietroniro,75,D,Interference,2.00,1,0,8884,Matteo Pietroniro,Austin Rook,Tyler Spott,,
+1028605,2,2nd,6:17,324,SYR,10148,Dylan Duke,25,LW,Tripping,2.00,1,0,10148,Dylan Duke,Austin Rook,Tyler Spott,,
+1028605,2,2nd,12:25,415,LAV,5970,Samuel Blais,19,LW,Roughing,2.00,1,0,5970,Samuel Blais,Austin Rook,Tyler Spott,,
+1028605,3,3rd,1:09,415,LAV,9182,Joshua Roy,10,LW,Hooking,2.00,1,0,9182,Joshua Roy,Austin Rook,Tyler Spott,,
+1028605,3,3rd,9:18,415,LAV,5889,Josiah Didier,44,D,Roughing,2.00,0,0,5889,Josiah Didier,Austin Rook,Tyler Spott,,
+1028605,3,3rd,9:18,324,SYR,8744,Jakob Pelletier,22,LW,Roughing,2.00,0,0,8744,Jakob Pelletier,Austin Rook,Tyler Spott,,
+1028605,3,3rd,10:34,324,SYR,9754,Tristan Allard,14,RW,Slashing,2.00,1,0,9754,Tristan Allard,Austin Rook,Tyler Spott,,

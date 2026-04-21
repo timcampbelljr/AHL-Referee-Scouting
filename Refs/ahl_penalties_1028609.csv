@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028609,1,1st,10:00,437,HSK,0,None None,0,,Too many men - Bench minor,2.00,1,1,10579,Trevor Connelly,Chad Ingalls,Tatu Kunto,,
+1028609,1,1st,15:55,419,COL,10654,Alex Gagne,45,D,Holding,2.00,1,0,10654,Alex Gagne,Chad Ingalls,Tatu Kunto,,
+1028609,1,1st,19:58,419,COL,10561,Taylor Makar,16,F,Roughing,2.00,1,0,10561,Taylor Makar,Chad Ingalls,Tatu Kunto,,
+1028609,2,2nd,5:18,419,COL,9969,Ivan Ivan,82,F,Slashing,2.00,1,0,9969,Ivan Ivan,Chad Ingalls,Tatu Kunto,,
+1028609,2,2nd,9:25,437,HSK,10280,Tuomas Uronen,37,F,Hooking,2.00,1,0,10280,Tuomas Uronen,Chad Ingalls,Tatu Kunto,,
+1028609,3,3rd,7:14,419,COL,9969,Ivan Ivan,82,F,Slashing,2.00,1,0,9969,Ivan Ivan,Chad Ingalls,Tatu Kunto,,
+1028609,3,3rd,9:00,419,COL,9118,Wyatt Aamodt,5,D,High-sticking,2.00,1,0,9118,Wyatt Aamodt,Chad Ingalls,Tatu Kunto,,
+1028609,OT,OT,1:02,419,COL,9969,Ivan Ivan,82,F,Holding,2.00,1,0,9969,Ivan Ivan,Chad Ingalls,Tatu Kunto,,

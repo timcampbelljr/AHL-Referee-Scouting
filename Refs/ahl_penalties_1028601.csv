@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028601,1,1st,4:31,309,PRO,9524,Fabian Lysell,22,RW,Hooking,2.00,1,0,9524,Fabian Lysell,Damian Figueira,Johnny Daniels,,
+1028601,1,1st,11:16,317,BRI,10389,Isaiah George,4,D,Holding,2.00,0,0,10389,Isaiah George,Damian Figueira,Johnny Daniels,,
+1028601,1,1st,11:16,309,PRO,9166,Brett Harrison,72,RW,Roughing,2.00,0,0,9166,Brett Harrison,Damian Figueira,Johnny Daniels,,
+1028601,1,1st,14:50,317,BRI,10152,Marshall Warren,6,D,Holding,2.00,1,0,10152,Marshall Warren,Damian Figueira,Johnny Daniels,,
+1028601,1,1st,17:01,317,BRI,10388,Cam Thiesing,15,F,Tripping,2.00,1,0,10388,Cam Thiesing,Damian Figueira,Johnny Daniels,,
+1028601,2,2nd,18:26,309,PRO,9032,Michael Callahan,23,D,Interference,2.00,1,0,9032,Michael Callahan,Damian Figueira,Johnny Daniels,,
+1028601,3,3rd,11:37,309,PRO,7704,Victor Söderström,29,D,High-sticking,2.00,1,0,7704,Victor Söderström,Damian Figueira,Johnny Daniels,,
+1028601,OT,OT,1:10,309,PRO,5721,Patrick Brown,38,C,Interference,2.00,1,0,5721,Patrick Brown,Damian Figueira,Johnny Daniels,,

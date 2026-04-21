@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028623,1,1st,10:02,327,MIL,10078,Ryan Ufko,12,D,Interference,2.00,1,0,10078,Ryan Ufko,Shaun Davis,Ibrahim Arifi,,
+1028623,2,2nd,4:11,327,MIL,7722,Navrin Mutter,47,LW,Fighting,5.00,0,0,7722,Navrin Mutter,Shaun Davis,Ibrahim Arifi,,
+1028623,2,2nd,4:11,330,CHI,6937,Yanick Turcotte,20,LW,Fighting,5.00,0,0,6937,Yanick Turcotte,Shaun Davis,Ibrahim Arifi,,
+1028623,2,2nd,9:19,330,CHI,9742,Skyler Brind’Amour,22,C,Tripping,2.00,1,0,9742,Skyler Brind’Amour,Shaun Davis,Ibrahim Arifi,,
+1028623,2,2nd,11:54,330,CHI,10462,Felix Unger Sörum,14,RW,Tripping,2.00,1,0,10462,Felix Unger Sörum,Shaun Davis,Ibrahim Arifi,,
+1028623,2,2nd,13:19,327,MIL,5671,Daniel Carr,43,LW,High-sticking,2.00,1,0,5671,Daniel Carr,Shaun Davis,Ibrahim Arifi,,
+1028623,3,3rd,0:24,330,CHI,10597,Joel Nyström,9,D,High-sticking,2.00,1,0,10597,Joel Nyström,Shaun Davis,Ibrahim Arifi,,
+1028623,3,3rd,9:38,330,CHI,7605,Noah Philp,12,C,Cross-checking,2.00,1,0,7605,Noah Philp,Shaun Davis,Ibrahim Arifi,,

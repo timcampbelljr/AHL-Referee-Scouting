@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028645,2,2nd,1:01,380,TEX,7101,Kole Lind,17,F,Hooking,2.00,1,0,7101,Kole Lind,Stephen Hiff,Ibrahim Arifi,,
+1028645,2,2nd,2:43,330,CHI,9927,Viktor Neuchev,79,LW,Hooking,2.00,1,0,9927,Viktor Neuchev,Stephen Hiff,Ibrahim Arifi,,
+1028645,2,2nd,15:01,330,CHI,7490,Juuso Välimäki,4,D,Hooking,2.00,1,0,7490,Juuso Välimäki,Stephen Hiff,Ibrahim Arifi,,
+1028645,2,2nd,19:25,380,TEX,7016,Cameron Hughes,19,F,Hooking,2.00,1,0,7016,Cameron Hughes,Stephen Hiff,Ibrahim Arifi,,
+1028645,3,3rd,2:11,380,TEX,8692,Vladislav Kolyachonok,18,D,Roughing,2.00,0,0,8692,Vladislav Kolyachonok,Stephen Hiff,Ibrahim Arifi,,
+1028645,3,3rd,2:11,330,CHI,9090,Noel Gunler,10,RW,Roughing,2.00,1,0,9927,Viktor Neuchev,Stephen Hiff,Ibrahim Arifi,,
+1028645,3,3rd,2:11,330,CHI,9090,Noel Gunler,10,RW,Roughing,2.00,0,0,9090,Noel Gunler,Stephen Hiff,Ibrahim Arifi,,
+1028645,3,3rd,8:16,380,TEX,10135,Tristan Bertucci,3,D,Tripping,2.00,1,0,10135,Tristan Bertucci,Stephen Hiff,Ibrahim Arifi,,

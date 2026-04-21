@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028686,1,1st,12:04,437,HSK,8663,Raphael Lavoie,36,F,Boarding,2.00,1,0,8663,Raphael Lavoie,Morgan MacPhee,Simon Desbiens,,
+1028686,2,2nd,14:45,437,HSK,10284,Kai Uchacz,77,F,Fighting,5.00,0,0,10284,Kai Uchacz,Morgan MacPhee,Simon Desbiens,,
+1028686,2,2nd,14:45,440,ABB,7767,Jimmy Schuldt,48,D,Fighting,5.00,0,0,7767,Jimmy Schuldt,Morgan MacPhee,Simon Desbiens,,
+1028686,3,3rd,9:47,440,ABB,9406,Nils Åman,88,C,Holding,2.00,1,0,9406,Nils Åman,Morgan MacPhee,Simon Desbiens,,

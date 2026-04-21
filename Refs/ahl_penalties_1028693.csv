@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028693,1,1st,5:36,419,COL,7218,Keaton Middleton,67,D,Interference,2.00,1,0,7218,Keaton Middleton,Koletrane Wilson,Tatu Kunto,,
+1028693,1,1st,13:21,404,SD,9185,Nathan Gaucher,17,C,Roughing,2.00,1,0,9185,Nathan Gaucher,Koletrane Wilson,Tatu Kunto,,
+1028693,1,1st,16:39,404,SD,5461,Ryan Carpenter,22,C,Roughing,2.00,0,0,5461,Ryan Carpenter,Koletrane Wilson,Tatu Kunto,,
+1028693,1,1st,16:39,419,COL,10545,Cooper Gay,58,F,Roughing,2.00,0,0,10545,Cooper Gay,Koletrane Wilson,Tatu Kunto,,
+1028693,2,2nd,3:39,419,COL,10161,Maroš Jedlička,55,F,Roughing,2.00,0,0,10161,Maroš Jedlička,Koletrane Wilson,Tatu Kunto,,
+1028693,2,2nd,3:39,404,SD,10506,Stian Solberg,7,D,Roughing,2.00,0,0,10506,Stian Solberg,Koletrane Wilson,Tatu Kunto,,
+1028693,2,2nd,12:17,404,SD,9778,Nikita Nesterenko,13,C,Slashing,2.00,1,0,9778,Nikita Nesterenko,Koletrane Wilson,Tatu Kunto,,
+1028693,2,2nd,16:24,404,SD,10506,Stian Solberg,7,D,Cross-checking,2.00,1,0,10506,Stian Solberg,Koletrane Wilson,Tatu Kunto,,
+1028693,2,2nd,19:57,404,SD,10506,Stian Solberg,7,D,Holding,2.00,1,0,10506,Stian Solberg,Koletrane Wilson,Tatu Kunto,,
+1028693,3,3rd,5:32,419,COL,8500,Jack Ahcan,15,D,High-sticking,2.00,1,0,8500,Jack Ahcan,Koletrane Wilson,Tatu Kunto,,
+1028693,3,3rd,12:57,419,COL,6340,Jacob MacDonald,4,D,Slashing,2.00,1,0,6340,Jacob MacDonald,Koletrane Wilson,Tatu Kunto,,

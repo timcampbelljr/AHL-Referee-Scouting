@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028682,1,1st,6:04,324,SYR,10566,Lucas Mercuri,11,C,Tripping,2.00,1,0,10566,Lucas Mercuri,Riley Brace,Will Kelly,,
+1028682,1,1st,14:53,313,LV,9545,David Jiříček,5,D,Cross-checking,2.00,1,0,9545,David Jiříček,Riley Brace,Will Kelly,,
+1028682,2,2nd,6:30,313,LV,7788,Maxence Guenette,82,D,Fighting,5.00,0,0,7788,Maxence Guenette,Riley Brace,Will Kelly,,
+1028682,2,2nd,6:30,324,SYR,10566,Lucas Mercuri,11,C,Fighting,5.00,0,0,10566,Lucas Mercuri,Riley Brace,Will Kelly,,
+1028682,2,2nd,11:23,313,LV,6779,Boris Katchouk,61,LW,Roughing,2.00,0,0,6779,Boris Katchouk,Riley Brace,Will Kelly,,
+1028682,2,2nd,11:23,324,SYR,10165,Milo Roelens,81,C,Roughing,2.00,0,0,10165,Milo Roelens,Riley Brace,Will Kelly,,
+1028682,2,2nd,19:09,313,LV,6872,Lane Pederson,25,C,Interference,2.00,1,0,6872,Lane Pederson,Riley Brace,Will Kelly,,
+1028682,3,3rd,2:16,324,SYR,9896,Maxim Groshev,23,D,Tripping,2.00,1,0,9896,Maxim Groshev,Riley Brace,Will Kelly,,

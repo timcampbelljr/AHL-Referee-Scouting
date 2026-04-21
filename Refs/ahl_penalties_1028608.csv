@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028608,1,1st,12:27,444,CGY,6453,Clark Bishop,19,C,Roughing,2.00,0,0,6453,Clark Bishop,Graedy Hamilton,Alex Clarke,,
+1028608,1,1st,12:27,440,ABB,10077,Sawyer Mynio,45,D,Roughing,2.00,0,0,10077,Sawyer Mynio,Graedy Hamilton,Alex Clarke,,
+1028608,OT,OT,0:09,440,ABB,10089,Ty Mueller,39,C,Holding,2.00,1,0,10089,Ty Mueller,Graedy Hamilton,Alex Clarke,,

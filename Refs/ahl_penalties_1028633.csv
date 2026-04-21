@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028633,1,1st,7:48,384,CLT,9880,Jake Livingstone,21,D,Boarding,2.00,1,0,9880,Jake Livingstone,Nolan Bloyer,Mike Dietrich,,
+1028633,1,1st,15:04,384,CLT,10056,Ben Steeves,6,F,Hooking,2.00,1,0,10056,Ben Steeves,Nolan Bloyer,Mike Dietrich,,
+1028633,1,1st,16:48,313,LV,10718,Karsen Dorwart,23,F,Interference,2.00,1,0,10718,Karsen Dorwart,Nolan Bloyer,Mike Dietrich,,
+1028633,2,2nd,2:01,384,CLT,5614,Trevor Carrick,5,D,Tripping,2.00,1,0,5614,Trevor Carrick,Nolan Bloyer,Mike Dietrich,,
+1028633,2,2nd,11:54,313,LV,4334,Garrett Wilson,17,LW,Boarding,2.00,1,0,4334,Garrett Wilson,Nolan Bloyer,Mike Dietrich,,
+1028633,2,2nd,16:27,384,CLT,7106,Jack Studnicka,23,F,Unsportsmanlike conduct,2.00,0,0,7106,Jack Studnicka,Nolan Bloyer,Mike Dietrich,,
+1028633,2,2nd,16:27,313,LV,9378,Jacob Gaucher,56,F,Unsportsmanlike conduct,2.00,0,0,9378,Jacob Gaucher,Nolan Bloyer,Mike Dietrich,,
+1028633,3,3rd,9:52,384,CLT,10615,Jack Devine,4,F,High-sticking,2.00,1,0,10615,Jack Devine,Nolan Bloyer,Mike Dietrich,,
+1028633,3,3rd,19:21,384,CLT,10615,Jack Devine,4,F,High-sticking,2.00,1,0,10615,Jack Devine,Nolan Bloyer,Mike Dietrich,,

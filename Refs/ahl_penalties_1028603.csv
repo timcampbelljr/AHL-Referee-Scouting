@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028603,1,1st,7:03,405,SJ,7575,Oliver Wahlstrom,24,RW,Double minor - High-sticking,4.00,1,0,7575,Oliver Wahlstrom,John Lindner,Taylor Burzminski,,
+1028603,1,1st,18:09,405,SJ,8914,Egor Afanasyev,11,LW,High-sticking,2.00,1,0,8914,Egor Afanasyev,John Lindner,Taylor Burzminski,,
+1028603,2,2nd,5:14,405,SJ,7575,Oliver Wahlstrom,24,RW,Tripping,2.00,1,0,7575,Oliver Wahlstrom,John Lindner,Taylor Burzminski,,
+1028603,2,2nd,5:53,412,TUC,8519,Scott Perunovich,7,D,Interference,2.00,1,0,8519,Scott Perunovich,John Lindner,Taylor Burzminski,,
+1028603,2,2nd,9:33,412,TUC,10668,Michal Kunc,23,F,High-sticking,2.00,1,0,10668,Michal Kunc,John Lindner,Taylor Burzminski,,
+1028603,2,2nd,10:23,405,SJ,10234,Quentin Musty,13,F,High-sticking,2.00,1,0,10234,Quentin Musty,John Lindner,Taylor Burzminski,,
+1028603,2,2nd,15:37,412,TUC,10665,Dmitri Simashev,26,D,Slashing,2.00,1,0,10665,Dmitri Simashev,John Lindner,Taylor Burzminski,,
+1028603,3,3rd,3:16,412,TUC,3642,Andrew Agozzino,29,C,Cross-checking,2.00,0,0,3642,Andrew Agozzino,John Lindner,Taylor Burzminski,,
+1028603,3,3rd,3:16,405,SJ,10234,Quentin Musty,13,F,Cross-checking,2.00,0,0,10234,Quentin Musty,John Lindner,Taylor Burzminski,,
+1028603,3,3rd,8:16,412,TUC,8631,Ty Tullio,17,RW,Tripping,2.00,1,0,8631,Ty Tullio,John Lindner,Taylor Burzminski,,

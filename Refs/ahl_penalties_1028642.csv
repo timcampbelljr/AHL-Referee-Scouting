@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028642,1,1st,7:59,402,BAK,7352,Riley Stillman,61,D,Slashing,2.00,1,0,7352,Riley Stillman,Jack Young,Jacob Hicks,,
+1028642,1,1st,12:10,402,BAK,10933,Isaac Howard,53,LW,Hooking,2.00,1,0,10933,Isaac Howard,Jack Young,Jacob Hicks,,
+1028642,2,2nd,4:40,412,TUC,10220,Maveric Lamoureux,10,D,High-sticking,2.00,1,0,10220,Maveric Lamoureux,Jack Young,Jacob Hicks,,
+1028642,2,2nd,15:19,412,TUC,8631,Ty Tullio,17,RW,Tripping,2.00,1,0,8631,Ty Tullio,Jack Young,Jacob Hicks,,
+1028642,3,3rd,6:36,402,BAK,10879,Atro Leppanen,37,D,High-sticking,2.00,1,0,10879,Atro Leppanen,Jack Young,Jacob Hicks,,
+1028642,3,3rd,13:34,412,TUC,8519,Scott Perunovich,7,D,Roughing,2.00,1,0,8519,Scott Perunovich,Jack Young,Jacob Hicks,,

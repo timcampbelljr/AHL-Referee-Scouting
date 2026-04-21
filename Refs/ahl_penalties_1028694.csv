@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028694,1,1st,2:26,411,SPR,8584,Wyatt Newpower,37,D,Game misconduct - Kneeing,10.00,0,0,8584,Wyatt Newpower,Johnny Daniels,Samuel Heidemann,,
+1028694,1,1st,2:26,411,SPR,8584,Wyatt Newpower,37,D,Major - Kneeing,5.00,1,0,5039,Kale Kessy,Johnny Daniels,Samuel Heidemann,,
+1028694,1,1st,18:00,411,SPR,9737,Michael Buchinger,9,D,Cross-checking,2.00,1,0,9737,Michael Buchinger,Johnny Daniels,Samuel Heidemann,,
+1028694,2,2nd,1:42,390,UTC,6362,Colton White,6,D,Cross-checking,2.00,1,0,6362,Colton White,Johnny Daniels,Samuel Heidemann,,
+1028694,3,3rd,3:58,411,SPR,4622,Chris Wagner,88,C,Slashing,2.00,1,0,4622,Chris Wagner,Johnny Daniels,Samuel Heidemann,,

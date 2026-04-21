@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028618,1,1st,18:18,390,UTC,8891,Nathan Légaré,11,RW,Holding,2.00,1,0,8891,Nathan Légaré,Austin O’Rourke,Matt Mannella,,
+1028618,2,2nd,0:57,313,LV,10633,Alex Bump,21,F,Hooking,2.00,1,0,10633,Alex Bump,Austin O’Rourke,Matt Mannella,,
+1028618,2,2nd,10:05,390,UTC,9516,Xavier Parent,67,F,Slashing,2.00,1,0,9516,Xavier Parent,Austin O’Rourke,Matt Mannella,,
+1028618,2,2nd,10:40,390,UTC,10442,Mikaël Diotte,58,D,Roughing,2.00,0,0,10442,Mikaël Diotte,Austin O’Rourke,Matt Mannella,,
+1028618,2,2nd,10:40,390,UTC,10442,Mikaël Diotte,58,D,Roughing,2.00,0,0,10442,Mikaël Diotte,Austin O’Rourke,Matt Mannella,,
+1028618,2,2nd,10:40,313,LV,8559,Phil Tomasino,26,RW,Boarding,2.00,1,0,8559,Phil Tomasino,Austin O’Rourke,Matt Mannella,,
+1028618,2,2nd,10:40,313,LV,9963,Christian Kyrou,15,D,Roughing,2.00,0,0,9963,Christian Kyrou,Austin O’Rourke,Matt Mannella,,
+1028618,2,2nd,10:40,313,LV,10633,Alex Bump,21,F,Roughing,2.00,0,0,10633,Alex Bump,Austin O’Rourke,Matt Mannella,,
+1028618,3,3rd,1:58,313,LV,7690,Vincent Sévigny,55,D,Holding,2.00,1,0,7690,Vincent Sévigny,Austin O’Rourke,Matt Mannella,,
+1028618,3,3rd,6:58,390,UTC,9036,Marc McLaughlin,28,F,Tripping,2.00,1,0,9036,Marc McLaughlin,Austin O’Rourke,Matt Mannella,,
+1028618,3,3rd,9:35,313,LV,9825,Alexis Gendron,72,F,Slashing,2.00,1,0,9825,Alexis Gendron,Austin O’Rourke,Matt Mannella,,
+1028618,3,3rd,18:25,313,LV,6342,Anthony Richard,90,LW,Misconduct - Abuse of officials,10.00,0,0,6342,Anthony Richard,Austin O’Rourke,Matt Mannella,,

@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028676,1,1st,6:18,445,CV,10575,Oscar Fisker Mølgaard,78,F,Tripping,2.00,1,0,10575,Oscar Fisker Mølgaard,Koletrane Wilson,Nick Isaacson,,
+1028676,1,1st,10:37,403,ONT,9930,Nikita Novikov,74,D,Tripping,2.00,1,0,9930,Nikita Novikov,Koletrane Wilson,Nick Isaacson,,
+1028676,2,2nd,8:03,403,ONT,9249,Angus Booth,24,D,Tripping,2.00,1,0,9249,Angus Booth,Koletrane Wilson,Nick Isaacson,,
+1028676,2,2nd,8:06,445,CV,6956,John Hayden,15,F,High-sticking,2.00,1,0,6956,John Hayden,Koletrane Wilson,Nick Isaacson,,
+1028676,2,2nd,10:37,403,ONT,10712,Kirill Kirsanov,19,D,Hooking,2.00,1,0,10712,Kirill Kirsanov,Koletrane Wilson,Nick Isaacson,,
+1028676,2,2nd,15:10,403,ONT,0,None None,0,,Too many men - Bench minor,2.00,0,1,10715,Jack Hughes,Koletrane Wilson,Nick Isaacson,,
+1028676,2,2nd,15:10,445,CV,5471,Gustav Olofsson,23,D,Slashing,2.00,0,0,5471,Gustav Olofsson,Koletrane Wilson,Nick Isaacson,,
+1028676,2,2nd,15:53,445,CV,9755,Jagger Firkus,57,F,Tripping,2.00,1,0,9755,Jagger Firkus,Koletrane Wilson,Nick Isaacson,,
+1028676,3,3rd,11:23,403,ONT,5976,Joe Hicketts,27,D,Tripping,2.00,1,0,5976,Joe Hicketts,Koletrane Wilson,Nick Isaacson,,
+1028676,3,3rd,15:18,445,CV,9755,Jagger Firkus,57,F,Slashing,2.00,1,0,9755,Jagger Firkus,Koletrane Wilson,Nick Isaacson,,

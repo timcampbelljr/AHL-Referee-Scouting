@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028655,1,1st,7:49,330,CHI,9090,Noel Gunler,10,RW,Tripping,2.00,1,0,9090,Noel Gunler,Alex Lepkowski,Adam Tobias,,
+1028655,1,1st,19:05,330,CHI,7490,Juuso Välimäki,4,D,Hooking,2.00,1,0,7490,Juuso Välimäki,Alex Lepkowski,Adam Tobias,,
+1028655,2,2nd,8:19,380,TEX,7101,Kole Lind,17,F,Roughing,2.00,1,0,7101,Kole Lind,Alex Lepkowski,Adam Tobias,,
+1028655,3,3rd,16:20,330,CHI,10001,Domenick Fensore,2,D,Interference,2.00,1,0,10001,Domenick Fensore,Alex Lepkowski,Adam Tobias,,
+1028655,3,3rd,18:31,380,TEX,10555,Harrison Scott,11,F,Tripping,2.00,1,0,10555,Harrison Scott,Alex Lepkowski,Adam Tobias,,

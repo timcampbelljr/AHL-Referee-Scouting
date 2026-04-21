@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028668,1,1st,1:13,419,COL,9969,Ivan Ivan,82,F,Tripping,2.00,1,0,9969,Ivan Ivan,John Lindner,Jordan Watt,,
+1028668,1,1st,10:45,403,ONT,6784,Glenn Gawdin,21,F,Tripping,2.00,1,0,6784,Glenn Gawdin,John Lindner,Jordan Watt,,
+1028668,2,2nd,12:02,419,COL,9127,Danil Gushchin,75,F,Holding,2.00,1,0,9127,Danil Gushchin,John Lindner,Jordan Watt,,
+1028668,2,2nd,13:10,403,ONT,10705,Kenny Connors,17,F,Holding,2.00,1,0,10705,Kenny Connors,John Lindner,Jordan Watt,,
+1028668,2,2nd,18:58,403,ONT,9081,Andre Lee,26,F,Roughing,2.00,0,0,9081,Andre Lee,John Lindner,Jordan Watt,,
+1028668,2,2nd,18:58,419,COL,10654,Alex Gagne,45,D,Roughing,2.00,0,0,10654,Alex Gagne,John Lindner,Jordan Watt,,
+1028668,3,3rd,18:09,419,COL,7345,Alex Barré-Boulet,72,C,Tripping,2.00,1,0,7345,Alex Barré-Boulet,John Lindner,Jordan Watt,,

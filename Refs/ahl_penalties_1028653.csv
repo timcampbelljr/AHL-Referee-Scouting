@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028653,1,1st,5:30,389,IA,9856,Carson Lambos,7,D,Roughing,2.00,0,0,9856,Carson Lambos,Jordan Deckard,Austin O’Rourke,,
+1028653,1,1st,5:30,411,SPR,9114,Thomas Bordeleau,12,F,Roughing,2.00,0,0,9114,Thomas Bordeleau,Jordan Deckard,Austin O’Rourke,,
+1028653,1,1st,7:49,389,IA,9853,David Špaček,21,D,Slashing,2.00,1,0,9853,David Špaček,Jordan Deckard,Austin O’Rourke,,
+1028653,1,1st,8:45,411,SPR,6786,Dillon Dube,29,LW,Tripping,2.00,1,0,6786,Dillon Dube,Jordan Deckard,Austin O’Rourke,,
+1028653,1,1st,13:55,411,SPR,9268,Zach Dean,14,F,Slashing,2.00,1,0,9268,Zach Dean,Jordan Deckard,Austin O’Rourke,,
+1028653,1,1st,19:55,411,SPR,8630,Hunter Skinner,55,D,High-sticking,2.00,1,0,8630,Hunter Skinner,Jordan Deckard,Austin O’Rourke,,
+1028653,2,2nd,6:58,389,IA,9749,Roman Schmidt,76,D,Interference,2.00,1,0,9749,Roman Schmidt,Jordan Deckard,Austin O’Rourke,,
+1028653,2,2nd,8:52,411,SPR,7682,Akil Thomas,16,F,Interference,2.00,1,0,7682,Akil Thomas,Jordan Deckard,Austin O’Rourke,,
+1028653,2,2nd,16:50,411,SPR,10843,Quinton Burns,42,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,10843,Quinton Burns,Jordan Deckard,Austin O’Rourke,,
+1028653,2,2nd,16:50,411,SPR,9268,Zach Dean,14,F,Holding,2.00,1,0,6786,Dillon Dube,Jordan Deckard,Austin O’Rourke,,
+1028653,2,2nd,19:33,389,IA,8576,Jean-Luc Foudy,86,RW,Slashing,2.00,1,0,8576,Jean-Luc Foudy,Jordan Deckard,Austin O’Rourke,,
+1028653,3,3rd,8:36,389,IA,8937,Matt Kiersted,23,D,Hooking,2.00,1,0,8937,Matt Kiersted,Jordan Deckard,Austin O’Rourke,,

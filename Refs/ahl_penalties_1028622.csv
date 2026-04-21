@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028622,2,2nd,2:46,324,SYR,7821,Reece Newkirk,18,C,Playing without helmet,2.00,0,0,7821,Reece Newkirk,Chad Ingalls,Jarrett Burton,,
+1028622,2,2nd,2:46,415,LAV,9520,William Trudeau,84,D,Roughing - Removing opponent's helmet,2.00,0,0,9520,William Trudeau,Chad Ingalls,Jarrett Burton,,
+1028622,2,2nd,3:27,415,LAV,5927,Laurent Dauphin,27,F,Holding,2.00,1,0,5927,Laurent Dauphin,Chad Ingalls,Jarrett Burton,,
+1028622,2,2nd,10:25,324,SYR,9079,Tommy Miller,8,D,Tripping,2.00,1,0,9079,Tommy Miller,Chad Ingalls,Jarrett Burton,,
+1028622,2,2nd,14:12,415,LAV,10149,Luke Tuch,17,LW,Roughing,2.00,1,0,10149,Luke Tuch,Chad Ingalls,Jarrett Burton,,
+1028622,2,2nd,16:39,324,SYR,9079,Tommy Miller,8,D,Holding,2.00,1,0,9079,Tommy Miller,Chad Ingalls,Jarrett Burton,,
+1028622,3,3rd,3:58,415,LAV,10505,Will Dineen,26,F,High-sticking,2.00,1,0,10505,Will Dineen,Chad Ingalls,Jarrett Burton,,
+1028622,3,3rd,9:40,324,SYR,10165,Milo Roelens,81,C,Hooking,2.00,1,0,10165,Milo Roelens,Chad Ingalls,Jarrett Burton,,

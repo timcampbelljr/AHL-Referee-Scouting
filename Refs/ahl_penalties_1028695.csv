@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028695,1,1st,6:53,415,LAV,9520,William Trudeau,84,D,Interference,2.00,1,0,9520,William Trudeau,Austin O’Rourke,Alex Gagné,,
+1028695,1,1st,10:06,324,SYR,9202,Conor Geekie,94,C,Interference,2.00,1,0,9202,Conor Geekie,Austin O’Rourke,Alex Gagné,,
+1028695,1,1st,13:41,324,SYR,9202,Conor Geekie,94,C,Holding,2.00,1,0,9202,Conor Geekie,Austin O’Rourke,Alex Gagné,,
+1028695,1,1st,14:57,415,LAV,10036,David Reinbacher,64,D,Holding,2.00,1,0,10036,David Reinbacher,Austin O’Rourke,Alex Gagné,,
+1028695,1,1st,16:30,415,LAV,4819,Alex Belzile,22,F,Double minor - High-sticking,4.00,1,0,4819,Alex Belzile,Austin O’Rourke,Alex Gagné,,
+1028695,3,3rd,2:51,324,SYR,9823,Ethan Samson,42,D,Holding the stick,2.00,1,0,9823,Ethan Samson,Austin O’Rourke,Alex Gagné,,
+1028695,OT,OT,1:14,415,LAV,8717,Marc Del Gaizo,2,D,Tripping,2.00,1,0,8717,Marc Del Gaizo,Austin O’Rourke,Alex Gagné,,
+1028695,OT,OT,4:58,324,SYR,9896,Maxim Groshev,23,D,Tripping,2.00,1,0,9896,Maxim Groshev,Austin O’Rourke,Alex Gagné,,

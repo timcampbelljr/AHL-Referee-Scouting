@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028638,1,1st,7:08,411,SPR,4622,Chris Wagner,88,C,Tripping,2.00,1,0,4622,Chris Wagner,Liam Maaskant,Hayden Verbeek,,
+1028638,1,1st,12:04,411,SPR,7682,Akil Thomas,16,F,Tripping,2.00,1,0,7682,Akil Thomas,Liam Maaskant,Hayden Verbeek,,
+1028638,2,2nd,0:25,411,SPR,9268,Zach Dean,14,F,High-sticking,2.00,1,0,9268,Zach Dean,Liam Maaskant,Hayden Verbeek,,
+1028638,2,2nd,16:35,389,IA,9749,Roman Schmidt,76,D,Fighting,5.00,0,0,9749,Roman Schmidt,Liam Maaskant,Hayden Verbeek,,
+1028638,2,2nd,16:35,411,SPR,10143,Dylan Peterson,22,F,Fighting,5.00,0,0,10143,Dylan Peterson,Liam Maaskant,Hayden Verbeek,,
+1028638,2,2nd,18:43,389,IA,9856,Carson Lambos,7,D,Cross-checking,2.00,1,0,9856,Carson Lambos,Liam Maaskant,Hayden Verbeek,,
+1028638,3,3rd,3:42,389,IA,10067,Jack Peart,3,D,Interference,2.00,1,0,10067,Jack Peart,Liam Maaskant,Hayden Verbeek,,

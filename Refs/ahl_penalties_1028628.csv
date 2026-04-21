@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028628,1,1st,2:32,419,COL,7782,Luke Toporowski,61,RW,High-sticking,2.00,1,0,7782,Luke Toporowski,Damian Figueira,David Elford,,
+1028628,1,1st,12:09,440,ABB,7696,Chase Wouters,21,C,High-sticking,2.00,1,0,7696,Chase Wouters,Damian Figueira,David Elford,,
+1028628,1,1st,19:13,419,COL,8929,Tristen Nielsen,57,F,High-sticking,2.00,1,0,8929,Tristen Nielsen,Damian Figueira,David Elford,,
+1028628,2,2nd,10:03,440,ABB,7696,Chase Wouters,21,C,High-sticking,2.00,1,0,7696,Chase Wouters,Damian Figueira,David Elford,,
+1028628,2,2nd,13:30,440,ABB,8928,Danila Klimovich,9,RW,Tripping,2.00,1,0,8928,Danila Klimovich,Damian Figueira,David Elford,,
+1028628,3,3rd,2:57,419,COL,8500,Jack Ahcan,15,D,Closing hand on puck,2.00,1,0,8500,Jack Ahcan,Damian Figueira,David Elford,,
+1028628,3,3rd,10:23,440,ABB,10077,Sawyer Mynio,45,D,Slashing,2.00,1,0,10077,Sawyer Mynio,Damian Figueira,David Elford,,
+1028628,3,3rd,17:54,419,COL,8793,Valtteri Puustinen,83,RW,Roughing,2.00,0,0,8793,Valtteri Puustinen,Damian Figueira,David Elford,,
+1028628,3,3rd,17:54,440,ABB,8709,Jack Thompson,2,D,Holding,2.00,0,0,8709,Jack Thompson,Damian Figueira,David Elford,,

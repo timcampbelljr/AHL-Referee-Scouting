@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028671,1,1st,5:40,411,SPR,9737,Michael Buchinger,9,D,Tripping,2.00,1,0,9737,Michael Buchinger,Stephen Hiff,Austin Rook,,
+1028671,1,1st,14:10,309,PRO,7943,Riley Tufte,27,LW,Interference,2.00,1,0,7943,Riley Tufte,Stephen Hiff,Austin Rook,,
+1028671,2,2nd,0:35,309,PRO,0,None None,0,,Too many men - Bench minor,2.00,1,1,9533,Matěj Blümel,Stephen Hiff,Austin Rook,,
+1028671,2,2nd,3:04,309,PRO,9712,Frederic Brunet,42,D,Cross-checking,2.00,1,0,9712,Frederic Brunet,Stephen Hiff,Austin Rook,,
+1028671,2,2nd,9:13,411,SPR,6917,Calle Rosén,43,D,Holding,2.00,1,0,6917,Calle Rosén,Stephen Hiff,Austin Rook,,
+1028671,2,2nd,12:22,411,SPR,8630,Hunter Skinner,55,D,Hooking,2.00,1,0,8630,Hunter Skinner,Stephen Hiff,Austin Rook,,
+1028671,2,2nd,18:14,411,SPR,9862,Leo Lööf,7,D,Holding,2.00,1,0,9862,Leo Lööf,Stephen Hiff,Austin Rook,,
+1028671,3,3rd,8:02,309,PRO,7378,Christian Wolanin,86,D,Holding,2.00,1,0,7378,Christian Wolanin,Stephen Hiff,Austin Rook,,
+1028671,3,3rd,17:10,411,SPR,10843,Quinton Burns,42,D,High-sticking,2.00,1,0,10843,Quinton Burns,Stephen Hiff,Austin Rook,,
+1028671,3,3rd,18:41,309,PRO,0,None None,0,,Too many men - Bench minor,2.00,1,1,9524,Fabian Lysell,Stephen Hiff,Austin Rook,,

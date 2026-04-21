@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028632,1,1st,14:20,323,ROC,9688,Aidan Fulp,29,D,Tripping,2.00,1,0,9688,Aidan Fulp,Koletrane Wilson,Brendan Schreider,,
+1028632,1,1st,16:35,415,LAV,6337,Josh Jacobs,28,D,Holding,2.00,1,0,6337,Josh Jacobs,Koletrane Wilson,Brendan Schreider,,
+1028632,2,2nd,12:48,415,LAV,10149,Luke Tuch,17,LW,Fighting,5.00,0,0,10149,Luke Tuch,Koletrane Wilson,Brendan Schreider,,
+1028632,2,2nd,12:48,323,ROC,5475,Mason Geertsen,4,LW,Misconduct - Instigating,10.00,0,0,5475,Mason Geertsen,Koletrane Wilson,Brendan Schreider,,
+1028632,2,2nd,12:48,323,ROC,5475,Mason Geertsen,4,LW,Fighting,5.00,0,0,5475,Mason Geertsen,Koletrane Wilson,Brendan Schreider,,
+1028632,2,2nd,12:48,323,ROC,5475,Mason Geertsen,4,LW,Instigating,2.00,1,0,10544,Tyler Kopff,Koletrane Wilson,Brendan Schreider,,
+1028632,2,2nd,15:25,323,ROC,9803,Isaac Belliveau,58,D,Interference,2.00,1,0,9803,Isaac Belliveau,Koletrane Wilson,Brendan Schreider,,
+1028632,3,3rd,8:57,323,ROC,9643,Jagger Joshua,8,LW,Interference,2.00,1,0,9643,Jagger Joshua,Koletrane Wilson,Brendan Schreider,,
+1028632,3,3rd,14:32,323,ROC,9700,Trevor Kuntar,16,LW,Roughing,2.00,0,0,9700,Trevor Kuntar,Koletrane Wilson,Brendan Schreider,,
+1028632,3,3rd,14:32,415,LAV,9522,Filip Mešár,48,RW,Roughing,2.00,0,0,9522,Filip Mešár,Koletrane Wilson,Brendan Schreider,,
+1028632,3,3rd,14:32,415,LAV,10036,David Reinbacher,64,D,Roughing,2.00,1,0,10036,David Reinbacher,Koletrane Wilson,Brendan Schreider,,
+1028632,3,3rd,14:51,415,LAV,9093,Lucas Condotta,42,LW,Hooking,2.00,1,0,9093,Lucas Condotta,Koletrane Wilson,Brendan Schreider,,

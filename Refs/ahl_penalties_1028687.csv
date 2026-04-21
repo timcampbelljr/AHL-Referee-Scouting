@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028687,1,1st,0:55,317,BRI,8549,Adam Beckman,34,LW,Fighting,5.00,0,0,7627,Hunter Drew,Ben Betker,Harrison O’Pray,,
+1028687,1,1st,0:55,317,BRI,8549,Adam Beckman,34,LW,Game misconduct - Boarding,10.00,0,0,8549,Adam Beckman,Ben Betker,Harrison O’Pray,,
+1028687,1,1st,0:55,384,CLT,5614,Trevor Carrick,5,D,Fighting,5.00,0,0,5614,Trevor Carrick,Ben Betker,Harrison O’Pray,,
+1028687,1,1st,0:55,317,BRI,8549,Adam Beckman,34,LW,Major - Boarding,5.00,1,0,7627,Hunter Drew,Ben Betker,Harrison O’Pray,,
+1028687,1,1st,8:55,317,BRI,9886,Cole McWard,3,D,Holding,2.00,1,0,9886,Cole McWard,Ben Betker,Harrison O’Pray,,
+1028687,1,1st,13:51,384,CLT,10056,Ben Steeves,6,F,High-sticking,2.00,1,0,10056,Ben Steeves,Ben Betker,Harrison O’Pray,,
+1028687,1,1st,17:14,384,CLT,5614,Trevor Carrick,5,D,Roughing,2.00,1,0,5614,Trevor Carrick,Ben Betker,Harrison O’Pray,,
+1028687,2,2nd,3:52,384,CLT,7106,Jack Studnicka,23,F,Hooking,2.00,1,0,7106,Jack Studnicka,Ben Betker,Harrison O’Pray,,
+1028687,2,2nd,15:24,384,CLT,10459,Mikulas Hovorka,14,D,Double minor - High-sticking,4.00,1,0,10459,Mikulas Hovorka,Ben Betker,Harrison O’Pray,,
+1028687,3,3rd,9:23,384,CLT,10459,Mikulas Hovorka,14,D,Delay of game,2.00,1,0,10459,Mikulas Hovorka,Ben Betker,Harrison O’Pray,,

@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028616,1,1st,1:36,330,CHI,10597,Joel Nyström,9,D,Hooking,2.00,1,0,10597,Joel Nyström,Liam Maaskant,Jarrett Burton,,
+1028616,1,1st,10:57,335,TOR,4573,Logan Shaw,11,F,High-sticking,2.00,1,0,4573,Logan Shaw,Liam Maaskant,Jarrett Burton,,
+1028616,1,1st,18:02,335,TOR,9679,Dennis Hildeby,35,G,Interference,2.00,0,0,10613,Borya Valis,Liam Maaskant,Jarrett Burton,,
+1028616,1,1st,18:02,330,CHI,6657,Givani Smith,24,RW,Slashing,2.00,0,0,6657,Givani Smith,Liam Maaskant,Jarrett Burton,,
+1028616,2,2nd,7:36,330,CHI,8645,Josiah Slavin,23,LW,Holding,2.00,1,0,8645,Josiah Slavin,Liam Maaskant,Jarrett Burton,,
+1028616,2,2nd,7:50,335,TOR,7383,Michael Pezzetta,61,LW,Fighting,5.00,0,0,7383,Michael Pezzetta,Liam Maaskant,Jarrett Burton,,
+1028616,2,2nd,7:50,330,CHI,6657,Givani Smith,24,RW,Fighting,5.00,0,0,6657,Givani Smith,Liam Maaskant,Jarrett Burton,,
+1028616,2,2nd,10:25,335,TOR,10426,Cade Webber,52,D,Tripping,2.00,1,0,10426,Cade Webber,Liam Maaskant,Jarrett Burton,,
+1028616,2,2nd,14:29,335,TOR,6014,Dakota Mermis,36,D,Roughing,2.00,0,0,6014,Dakota Mermis,Liam Maaskant,Jarrett Burton,,
+1028616,2,2nd,14:29,330,CHI,9742,Skyler Brind’Amour,22,C,Roughing,2.00,0,0,9742,Skyler Brind’Amour,Liam Maaskant,Jarrett Burton,,
+1028616,2,2nd,17:05,335,TOR,10426,Cade Webber,52,D,Holding,2.00,1,0,10426,Cade Webber,Liam Maaskant,Jarrett Burton,,

@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028651,1,1st,4:18,405,SJ,7575,Oliver Wahlstrom,24,RW,Holding,2.00,1,0,7575,Oliver Wahlstrom,Adam Tobias,Shaun Davis,,
+1028651,1,1st,11:32,327,MIL,7121,Isaac Ratcliffe,15,LW,Boarding,2.00,1,0,7121,Isaac Ratcliffe,Adam Tobias,Shaun Davis,,
+1028651,1,1st,19:03,405,SJ,10086,Filip Bystedt,18,F,Tripping,2.00,1,0,10086,Filip Bystedt,Adam Tobias,Shaun Davis,,
+1028651,1,1st,19:29,405,SJ,10494,Igor Chernyshov,92,F,Illegal stick (carrying two sticks),2.00,1,0,10494,Igor Chernyshov,Adam Tobias,Shaun Davis,,
+1028651,3,3rd,8:42,327,MIL,8837,Shawn Element,22,LW,Cross-checking,2.00,1,0,8837,Shawn Element,Adam Tobias,Shaun Davis,,

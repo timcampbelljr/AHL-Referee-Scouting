@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028646,1,1st,13:33,373,CLE,9025,Roman Ahcan,37,LW,Tripping,2.00,1,0,9025,Roman Ahcan,Beau Halkidis,Mathieu Menniti,,
+1028646,1,1st,20:00,328,GR,4085,Austin Watson,51,RW,Slashing,2.00,1,0,4085,Austin Watson,Beau Halkidis,Mathieu Menniti,,
+1028646,2,2nd,4:54,328,GR,9672,William Wallinder,22,D,Hooking,2.00,1,0,9672,William Wallinder,Beau Halkidis,Mathieu Menniti,,
+1028646,2,2nd,11:35,373,CLE,10471,Max McCue,93,C,Tripping,2.00,1,0,10471,Max McCue,Beau Halkidis,Mathieu Menniti,,

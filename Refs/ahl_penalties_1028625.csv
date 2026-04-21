@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028625,1,1st,9:42,404,SD,10506,Stian Solberg,7,D,Unsportsmanlike conduct,2.00,0,0,10506,Stian Solberg,Austin Rook,Tyler Spott,,
+1028625,1,1st,9:42,405,SJ,10099,Donavan Houle,83,F,Unsportsmanlike conduct,2.00,0,0,10099,Donavan Houle,Austin Rook,Tyler Spott,,
+1028625,2,2nd,4:22,405,SJ,8914,Egor Afanasyev,11,LW,Hooking,2.00,1,0,8914,Egor Afanasyev,Austin Rook,Tyler Spott,,
+1028625,2,2nd,10:43,404,SD,10506,Stian Solberg,7,D,Holding,2.00,1,0,10506,Stian Solberg,Austin Rook,Tyler Spott,,
+1028625,3,3rd,16:14,405,SJ,9153,Nolan Allan,7,D,Interference,2.00,1,0,9153,Nolan Allan,Austin Rook,Tyler Spott,,

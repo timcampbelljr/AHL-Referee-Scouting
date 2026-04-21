@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028639,1,1st,0:33,324,SYR,8922,Simon Lundmark,7,D,Holding,2.00,1,0,8922,Simon Lundmark,Riley Brace,Jared Cummins,,
+1028639,1,1st,4:18,324,SYR,4666,Jarred Tinordi,28,D,Fighting,5.00,0,0,4666,Jarred Tinordi,Riley Brace,Jared Cummins,,
+1028639,1,1st,4:18,316,WBS,6865,Bokondji Imama,14,LW,Fighting,5.00,0,0,6865,Bokondji Imama,Riley Brace,Jared Cummins,,
+1028639,1,1st,14:33,324,SYR,9754,Tristan Allard,14,RW,Holding,2.00,1,0,9754,Tristan Allard,Riley Brace,Jared Cummins,,
+1028639,2,2nd,4:41,324,SYR,8884,Matteo Pietroniro,75,D,Slashing,2.00,1,0,8884,Matteo Pietroniro,Riley Brace,Jared Cummins,,
+1028639,2,2nd,10:30,316,WBS,10962,Tanner Howe,22,LW,Roughing,2.00,1,0,10962,Tanner Howe,Riley Brace,Jared Cummins,,
+1028639,OT,OT,2:27,316,WBS,10848,Finn Harding,50,D,Holding,2.00,1,0,10848,Finn Harding,Riley Brace,Jared Cummins,,

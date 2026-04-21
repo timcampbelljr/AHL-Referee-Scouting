@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028688,1,1st,0:36,328,GR,10479,Ondrej Becher,25,C,Holding,2.00,1,0,10479,Ondrej Becher,Tyler Spott,Bobby Jo Love,,
+1028688,1,1st,7:02,327,MIL,10185,Andrew Gibson,6,D,Misconduct - Instigating,10.00,0,0,10185,Andrew Gibson,Tyler Spott,Bobby Jo Love,,
+1028688,1,1st,7:02,327,MIL,10185,Andrew Gibson,6,D,Instigating,2.00,1,0,10554,Kalan Lind,Tyler Spott,Bobby Jo Love,,
+1028688,1,1st,7:02,328,GR,10475,Gabriel Seger,11,LW,Fighting,5.00,0,0,10475,Gabriel Seger,Tyler Spott,Bobby Jo Love,,
+1028688,1,1st,7:02,327,MIL,10185,Andrew Gibson,6,D,Fighting,5.00,0,0,10185,Andrew Gibson,Tyler Spott,Bobby Jo Love,,
+1028688,1,1st,10:00,328,GR,9661,Carter Mazur,43,RW,Holding,2.00,1,0,9661,Carter Mazur,Tyler Spott,Bobby Jo Love,,
+1028688,2,2nd,0:11,328,GR,10479,Ondrej Becher,25,C,Tripping,2.00,1,0,10479,Ondrej Becher,Tyler Spott,Bobby Jo Love,,
+1028688,2,2nd,11:59,327,MIL,8837,Shawn Element,22,LW,Tripping,2.00,1,0,8837,Shawn Element,Tyler Spott,Bobby Jo Love,,
+1028688,2,2nd,16:11,328,GR,9661,Carter Mazur,43,RW,Double minor - High-sticking,4.00,1,0,9661,Carter Mazur,Tyler Spott,Bobby Jo Love,,
+1028688,2,2nd,17:39,327,MIL,9757,Jack Matier,51,D,High-sticking,2.00,0,0,9757,Jack Matier,Tyler Spott,Bobby Jo Love,,
+1028688,3,3rd,5:35,328,GR,10475,Gabriel Seger,11,LW,Tripping,2.00,1,0,10475,Gabriel Seger,Tyler Spott,Bobby Jo Love,,
+1028688,3,3rd,15:34,328,GR,10479,Ondrej Becher,25,C,Hooking,2.00,1,0,10479,Ondrej Becher,Tyler Spott,Bobby Jo Love,,

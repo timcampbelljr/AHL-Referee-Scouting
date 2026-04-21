@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028690,1,1st,1:14,445,CV,9756,Logan Morrison,96,F,Slashing,2.00,1,0,9756,Logan Morrison,Jack Young,Nick Isaacson,,
+1028690,1,1st,7:25,403,ONT,6784,Glenn Gawdin,21,F,Interference,2.00,1,0,6784,Glenn Gawdin,Jack Young,Nick Isaacson,,
+1028690,2,2nd,7:45,403,ONT,10199,Jakub Dvořák,55,D,Interference,2.00,1,0,10199,Jakub Dvořák,Jack Young,Nick Isaacson,,
+1028690,2,2nd,10:18,445,CV,10127,Jani Nyman,33,F,Roughing,2.00,1,0,10127,Jani Nyman,Jack Young,Nick Isaacson,,
+1028690,2,2nd,16:47,445,CV,9992,J.R. Avon,10,F,Tripping,2.00,1,0,9992,J.R. Avon,Jack Young,Nick Isaacson,,
+1028690,3,3rd,17:07,403,ONT,5592,Jacob Doty,37,F,Misconduct,10.00,0,0,5592,Jacob Doty,Jack Young,Nick Isaacson,,
