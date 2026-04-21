@@ -524,8 +524,28 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown("### 🔍 Game Scouting Snapshot")
-    game_ids = sorted(df_all["game_id"].unique())
-    selected_game = st.selectbox("Select Game ID", game_ids, label_visibility="collapsed")
+
+    # Build "TEAM_A vs TEAM_B (game_id)" labels for each game
+    @st.cache_data
+    def build_game_labels(df: pd.DataFrame) -> dict:
+        """Returns {label: game_id} sorted by game_id descending (most recent first)."""
+        labels = {}
+        for gid, grp in df.groupby("game_id"):
+            teams = sorted(grp["team_abbrev"].dropna().unique())
+            if len(teams) >= 2:
+                label = f"{teams[0]} vs {teams[1]}  (#{gid})"
+            elif len(teams) == 1:
+                label = f"{teams[0]}  (#{gid})"
+            else:
+                label = f"Game #{gid}"
+            labels[label] = gid
+        # Sort most recent game first
+        return dict(sorted(labels.items(), key=lambda x: x[1], reverse=True))
+
+    game_labels = build_game_labels(df_all)
+    selected_label = st.selectbox("Select Game", list(game_labels.keys()), label_visibility="collapsed")
+    selected_game  = game_labels.get(selected_label)
+
     if selected_game:
         game_data = df_all[df_all["game_id"] == selected_game]
         crew = []
