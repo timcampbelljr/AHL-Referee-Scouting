@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028772,1,1st,1:55,319,HER,9820,Jon McDonald,47,D,Double minor - High-sticking,4.00,1,0,9820,Jon McDonald,Damian Figueira,Alex Joubert,,
+1028772,2,2nd,5:08,324,SYR,8884,Matteo Pietroniro,75,D,Holding the stick,2.00,1,0,8884,Matteo Pietroniro,Damian Figueira,Alex Joubert,,
+1028772,2,2nd,9:55,319,HER,9161,Bogdan Trineyev,44,RW,Roughing,2.00,1,0,9161,Bogdan Trineyev,Damian Figueira,Alex Joubert,,
+1028772,2,2nd,9:55,319,HER,10644,Ilya Protas,40,C,Roughing,2.00,0,0,10644,Ilya Protas,Damian Figueira,Alex Joubert,,
+1028772,2,2nd,9:55,324,SYR,10526,Cooper Flinton,20,LW,Roughing,2.00,0,0,10526,Cooper Flinton,Damian Figueira,Alex Joubert,,
+1028772,2,2nd,14:38,319,HER,10592,Leon Muggli,34,D,Roughing,2.00,1,0,10592,Leon Muggli,Damian Figueira,Alex Joubert,,
+1028772,2,2nd,15:30,324,SYR,10526,Cooper Flinton,20,LW,Unsportsmanlike conduct,2.00,0,0,10526,Cooper Flinton,Damian Figueira,Alex Joubert,,
+1028772,2,2nd,15:30,319,HER,9881,Sam Bitten,43,LW,Unsportsmanlike conduct,2.00,0,0,9881,Sam Bitten,Damian Figueira,Alex Joubert,,
+1028772,3,3rd,8:07,319,HER,10174,Andrew Cristall,20,LW,Hooking,2.00,1,0,10174,Andrew Cristall,Damian Figueira,Alex Joubert,,
+1028772,3,3rd,11:00,319,HER,7024,Louie Belpedio,7,D,Cross-checking,2.00,1,0,7024,Louie Belpedio,Damian Figueira,Alex Joubert,,
+1028772,3,3rd,15:57,324,SYR,8884,Matteo Pietroniro,75,D,Fighting,5.00,0,0,8884,Matteo Pietroniro,Damian Figueira,Alex Joubert,,
+1028772,3,3rd,15:57,319,HER,7921,Brett Leason,23,RW,Fighting,5.00,0,0,7921,Brett Leason,Damian Figueira,Alex Joubert,,

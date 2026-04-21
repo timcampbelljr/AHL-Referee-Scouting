@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028745,1,1st,5:52,389,IA,9856,Carson Lambos,7,D,Interference,2.00,1,0,9856,Carson Lambos,Morgan MacPhee,Mike Dietrich,,
+1028745,1,1st,7:51,330,CHI,9742,Skyler Brind’Amour,22,C,Goaltender interference,2.00,1,0,9742,Skyler Brind’Amour,Morgan MacPhee,Mike Dietrich,,
+1028745,1,1st,15:28,389,IA,9381,Elliot Desnoyers,91,LW,Roughing,2.00,1,0,9381,Elliot Desnoyers,Morgan MacPhee,Mike Dietrich,,
+1028745,1,1st,16:25,389,IA,7653,Ben Jones,18,C,Roughing,2.00,0,0,7653,Ben Jones,Morgan MacPhee,Mike Dietrich,,
+1028745,1,1st,16:25,330,CHI,9090,Noel Gunler,10,RW,Roughing,2.00,0,0,9090,Noel Gunler,Morgan MacPhee,Mike Dietrich,,
+1028745,1,1st,19:07,330,CHI,10460,Charles Alexis Legault,5,D,Cross-checking,2.00,0,0,10460,Charles Alexis Legault,Morgan MacPhee,Mike Dietrich,,
+1028745,1,1st,19:07,389,IA,6869,Cal Petersen,40,G,Major - Spearing,5.00,1,0,8576,Jean-Luc Foudy,Morgan MacPhee,Mike Dietrich,,
+1028745,1,1st,19:07,389,IA,6869,Cal Petersen,40,G,Game misconduct - Spearing,10.00,0,0,6869,Cal Petersen,Morgan MacPhee,Mike Dietrich,,
+1028745,2,2nd,4:09,330,CHI,8936,Amir Miftakhov,35,G,Interference,2.00,1,0,8437,Ryan Suzuki,Morgan MacPhee,Mike Dietrich,,
+1028745,2,2nd,12:21,330,CHI,7605,Noah Philp,12,C,Tripping,2.00,1,0,7605,Noah Philp,Morgan MacPhee,Mike Dietrich,,
+1028745,3,3rd,1:16,389,IA,6304,Nicolas Aubé-Kubel,96,RW,Slashing,2.00,1,0,6304,Nicolas Aubé-Kubel,Morgan MacPhee,Mike Dietrich,,
+1028745,3,3rd,16:16,330,CHI,0,None None,0,,Too many men - Bench minor,2.00,1,1,8437,Ryan Suzuki,Morgan MacPhee,Mike Dietrich,,

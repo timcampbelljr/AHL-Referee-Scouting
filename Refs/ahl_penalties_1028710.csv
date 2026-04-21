@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028710,1,1st,10:25,330,CHI,10622,Dominik Badinka,3,D,Slashing,2.00,1,0,10622,Dominik Badinka,Koletrane Wilson,Tyler Spott,,
+1028710,1,1st,17:53,380,TEX,9075,Michael Karow,26,D,Hooking,2.00,1,0,9075,Michael Karow,Koletrane Wilson,Tyler Spott,,
+1028710,2,2nd,2:26,330,CHI,8645,Josiah Slavin,23,LW,Slashing,2.00,1,0,8645,Josiah Slavin,Koletrane Wilson,Tyler Spott,,
+1028710,2,2nd,5:31,380,TEX,4883,Curtis McKenzie,16,F,Cross-checking,2.00,1,0,4883,Curtis McKenzie,Koletrane Wilson,Tyler Spott,,
+1028710,2,2nd,15:13,330,CHI,9742,Skyler Brind’Amour,22,C,Hooking,2.00,1,0,9742,Skyler Brind’Amour,Koletrane Wilson,Tyler Spott,,
+1028710,2,2nd,17:41,380,TEX,10522,Ayrton Martino,20,F,Hooking,2.00,1,0,10522,Ayrton Martino,Koletrane Wilson,Tyler Spott,,
+1028710,3,3rd,5:22,380,TEX,8459,Antonio Stranges,40,F,Tripping,2.00,1,0,8459,Antonio Stranges,Koletrane Wilson,Tyler Spott,,
+1028710,3,3rd,7:34,330,CHI,10001,Domenick Fensore,2,D,Hooking,2.00,1,0,10001,Domenick Fensore,Koletrane Wilson,Tyler Spott,,
+1028710,3,3rd,16:32,380,TEX,9548,Cross Hanas,32,F,Boarding,2.00,1,0,9548,Cross Hanas,Koletrane Wilson,Tyler Spott,,

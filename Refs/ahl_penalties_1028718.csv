@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028718,1,1st,16:31,403,ONT,5592,Jacob Doty,37,F,Interference,2.00,1,0,5592,Jacob Doty,Tatu Kunto,John Lindner,,
+1028718,1,1st,16:39,440,ABB,9554,Arshdeep Bains,13,LW,Hooking,2.00,1,0,9554,Arshdeep Bains,Tatu Kunto,John Lindner,,
+1028718,1,1st,19:00,403,ONT,9785,Koehn Ziemmer,13,F,Slashing,2.00,1,0,9785,Koehn Ziemmer,Tatu Kunto,John Lindner,,
+1028718,2,2nd,15:23,440,ABB,7696,Chase Wouters,21,C,Fighting,5.00,0,0,7696,Chase Wouters,Tatu Kunto,John Lindner,,
+1028718,2,2nd,15:23,403,ONT,9239,Francesco Pinelli,71,F,Fighting,5.00,0,0,9239,Francesco Pinelli,Tatu Kunto,John Lindner,,
+1028718,3,3rd,15:51,403,ONT,9357,Cole Guttman,81,F,Hooking,2.00,1,0,9357,Cole Guttman,Tatu Kunto,John Lindner,,

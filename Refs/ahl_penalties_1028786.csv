@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028786,1,1st,3:48,412,TUC,3642,Andrew Agozzino,29,C,Slashing,2.00,1,0,3642,Andrew Agozzino,Ben Betker,Austin Rook,,
+1028786,1,1st,18:14,403,ONT,10125,Jack Millar,45,D,Tripping,2.00,1,0,10125,Jack Millar,Ben Betker,Austin Rook,,
+1028786,1,1st,19:19,403,ONT,9930,Nikita Novikov,74,D,Cross-checking,2.00,0,0,9930,Nikita Novikov,Ben Betker,Austin Rook,,
+1028786,1,1st,19:19,412,TUC,8519,Scott Perunovich,7,D,Roughing,2.00,0,0,8519,Scott Perunovich,Ben Betker,Austin Rook,,
+1028786,2,2nd,6:22,403,ONT,10199,Jakub Dvořák,55,D,Cross-checking,2.00,1,0,10199,Jakub Dvořák,Ben Betker,Austin Rook,,
+1028786,2,2nd,18:46,412,TUC,10670,Jack Ricketts,15,F,Slashing,2.00,1,0,10670,Jack Ricketts,Ben Betker,Austin Rook,,
+1028786,2,2nd,19:52,403,ONT,8718,Nikita Alexandrov,59,F,Interference,2.00,1,0,8718,Nikita Alexandrov,Ben Betker,Austin Rook,,
+1028786,3,3rd,1:34,412,TUC,8734,Ben McCartney,22,F,Hooking,2.00,1,0,8734,Ben McCartney,Ben Betker,Austin Rook,,
+1028786,3,3rd,10:53,403,ONT,5976,Joe Hicketts,27,D,Holding,2.00,1,0,5976,Joe Hicketts,Ben Betker,Austin Rook,,
+1028786,3,3rd,12:04,412,TUC,8631,Ty Tullio,17,RW,Misconduct,10.00,0,0,8631,Ty Tullio,Ben Betker,Austin Rook,,
+1028786,3,3rd,15:08,403,ONT,9357,Cole Guttman,81,F,Cross-checking,2.00,1,0,9357,Cole Guttman,Ben Betker,Austin Rook,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028737,1,1st,4:02,403,ONT,5976,Joe Hicketts,27,D,Roughing,2.00,0,0,5976,Joe Hicketts,Koletrane Wilson,Mathieu Menniti,,
+1028737,1,1st,4:02,389,IA,7653,Ben Jones,18,C,Roughing,2.00,0,0,7653,Ben Jones,Koletrane Wilson,Mathieu Menniti,,
+1028737,1,1st,7:19,403,ONT,9239,Francesco Pinelli,71,F,Slashing,2.00,1,0,9239,Francesco Pinelli,Koletrane Wilson,Mathieu Menniti,,
+1028737,1,1st,17:49,403,ONT,5976,Joe Hicketts,27,D,Interference,2.00,1,0,5976,Joe Hicketts,Koletrane Wilson,Mathieu Menniti,,
+1028737,2,2nd,13:37,389,IA,7653,Ben Jones,18,C,Roughing,2.00,1,0,7653,Ben Jones,Koletrane Wilson,Mathieu Menniti,,
+1028737,2,2nd,18:51,403,ONT,7713,Jan Jeník,73,F,Interference,2.00,1,0,7713,Jan Jeník,Koletrane Wilson,Mathieu Menniti,,
+1028737,3,3rd,4:55,403,ONT,9249,Angus Booth,24,D,Holding,2.00,1,0,9249,Angus Booth,Koletrane Wilson,Mathieu Menniti,,
+1028737,3,3rd,11:35,389,IA,9749,Roman Schmidt,76,D,Roughing,2.00,1,0,9749,Roman Schmidt,Koletrane Wilson,Mathieu Menniti,,
+1028737,3,3rd,16:00,403,ONT,9930,Nikita Novikov,74,D,Delay of game,2.00,1,0,9930,Nikita Novikov,Koletrane Wilson,Mathieu Menniti,,

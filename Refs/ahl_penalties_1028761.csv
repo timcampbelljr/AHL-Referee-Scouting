@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028761,1,1st,10:36,380,TEX,10535,Trey Taylor,2,D,Interference,2.00,1,0,10535,Trey Taylor,Bobby Jo Love,Austin Rook,,
+1028761,1,1st,11:03,405,SJ,8914,Egor Afanasyev,11,LW,Hooking,2.00,1,0,8914,Egor Afanasyev,Bobby Jo Love,Austin Rook,,
+1028761,1,1st,13:23,405,SJ,0,None None,0,,Too many men - Bench minor,2.00,1,1,10234,Quentin Musty,Bobby Jo Love,Austin Rook,,
+1028761,1,1st,18:53,405,SJ,10099,Donavan Houle,83,F,Roughing,2.00,0,0,10099,Donavan Houle,Bobby Jo Love,Austin Rook,,
+1028761,1,1st,18:53,405,SJ,10099,Donavan Houle,83,F,Boarding,2.00,1,0,10231,Kasper Halttunen,Bobby Jo Love,Austin Rook,,
+1028761,1,1st,18:53,380,TEX,10535,Trey Taylor,2,D,Roughing,2.00,0,0,10535,Trey Taylor,Bobby Jo Love,Austin Rook,,
+1028761,2,2nd,2:45,380,TEX,10555,Harrison Scott,11,F,Interference,2.00,1,0,10555,Harrison Scott,Bobby Jo Love,Austin Rook,,
+1028761,2,2nd,6:41,405,SJ,10543,Noah Beck,70,D,Slashing,2.00,1,0,10543,Noah Beck,Bobby Jo Love,Austin Rook,,
+1028761,2,2nd,14:38,380,TEX,9964,Kyle McDonald,25,RW,Closing hand on puck,2.00,1,0,9964,Kyle McDonald,Bobby Jo Love,Austin Rook,,
+1028761,3,3rd,2:57,405,SJ,10100,Lucas Vanroboys,67,F,Slashing,2.00,1,0,10100,Lucas Vanroboys,Bobby Jo Love,Austin Rook,,
+1028761,3,3rd,7:08,380,TEX,10555,Harrison Scott,11,F,High-sticking,2.00,1,0,10555,Harrison Scott,Bobby Jo Love,Austin Rook,,
+1028761,3,3rd,14:26,405,SJ,10543,Noah Beck,70,D,Holding,2.00,1,0,10543,Noah Beck,Bobby Jo Love,Austin Rook,,

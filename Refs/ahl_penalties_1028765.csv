@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028765,2,2nd,1:32,402,BAK,5080,Seth Griffith,39,RW,Double minor - High-sticking,4.00,1,0,5080,Seth Griffith,Alex Lepkowski,Morgan MacPhee,,
+1028765,2,2nd,5:24,402,BAK,8846,Daniel D’Amato,19,LW,Tripping,2.00,1,0,8846,Daniel D’Amato,Alex Lepkowski,Morgan MacPhee,,
+1028765,2,2nd,7:37,380,TEX,10044,Luke Krys,4,D,Interference,2.00,1,0,10044,Luke Krys,Alex Lepkowski,Morgan MacPhee,,
+1028765,2,2nd,18:24,402,BAK,10595,Connor Clattenburg,64,LW,Unsportsmanlike conduct,2.00,1,0,10595,Connor Clattenburg,Alex Lepkowski,Morgan MacPhee,,
+1028765,3,3rd,13:48,380,TEX,7016,Cameron Hughes,19,F,Tripping,2.00,1,0,7016,Cameron Hughes,Alex Lepkowski,Morgan MacPhee,,

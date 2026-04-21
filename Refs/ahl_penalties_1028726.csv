@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028726,1,1st,19:27,324,SYR,5896,Matthew Peca,63,C,Roughing,2.00,0,0,5896,Matthew Peca,Beau Halkidis,Jared Cummins,,
+1028726,1,1st,19:27,323,ROC,9643,Jagger Joshua,8,LW,Fighting,5.00,0,0,9643,Jagger Joshua,Beau Halkidis,Jared Cummins,,
+1028726,1,1st,19:27,323,ROC,9700,Trevor Kuntar,16,LW,Roughing,2.00,0,0,9700,Trevor Kuntar,Beau Halkidis,Jared Cummins,,
+1028726,1,1st,19:27,324,SYR,10526,Cooper Flinton,20,LW,Fighting,5.00,0,0,10526,Cooper Flinton,Beau Halkidis,Jared Cummins,,
+1028726,2,2nd,4:12,323,ROC,9923,Riley Fiddler-Schultz,12,LW,Delay of game,2.00,1,0,9923,Riley Fiddler-Schultz,Beau Halkidis,Jared Cummins,,
+1028726,2,2nd,6:39,323,ROC,8580,Carson Meyer,72,RW,Broken stick,2.00,1,0,8580,Carson Meyer,Beau Halkidis,Jared Cummins,,
+1028726,2,2nd,9:44,323,ROC,9803,Isaac Belliveau,58,D,Cross-checking,2.00,1,0,9803,Isaac Belliveau,Beau Halkidis,Jared Cummins,,
+1028726,2,2nd,12:10,324,SYR,8922,Simon Lundmark,7,D,Holding,2.00,1,0,8922,Simon Lundmark,Beau Halkidis,Jared Cummins,,
+1028726,2,2nd,17:32,324,SYR,5896,Matthew Peca,63,C,Hooking,2.00,1,0,5896,Matthew Peca,Beau Halkidis,Jared Cummins,,
+1028726,3,3rd,15:08,324,SYR,10566,Lucas Mercuri,11,C,Roughing,2.00,1,0,10566,Lucas Mercuri,Beau Halkidis,Jared Cummins,,

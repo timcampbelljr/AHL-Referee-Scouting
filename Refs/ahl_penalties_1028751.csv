@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028751,1,1st,6:32,444,CGY,0,None None,0,,Too many men - Bench minor,2.00,1,1,9669,William Strömgren,Ben Betker,Jake Kamrass,,
+1028751,1,1st,12:09,404,SD,10096,Sam Colangelo,29,LW,Game misconduct - Cross-checking,10.00,0,0,10096,Sam Colangelo,Ben Betker,Jake Kamrass,,
+1028751,1,1st,12:09,404,SD,10096,Sam Colangelo,29,LW,Major - Cross-checking,5.00,1,0,10274,Yegor Sidorov,Ben Betker,Jake Kamrass,,
+1028751,1,1st,19:17,404,SD,0,None None,0,,Too many men - Bench minor,2.00,1,1,9189,Sasha Pastujov,Ben Betker,Jake Kamrass,,
+1028751,2,2nd,2:09,444,CGY,6142,Alex Gallant,20,LW,Holding,2.00,1,0,6142,Alex Gallant,Ben Betker,Jake Kamrass,,
+1028751,2,2nd,2:56,404,SD,6442,Nikolas Brouillard,15,D,Double minor - High-sticking,4.00,1,0,6442,Nikolas Brouillard,Ben Betker,Jake Kamrass,,
+1028751,2,2nd,8:37,444,CGY,6142,Alex Gallant,20,LW,Roughing,2.00,1,0,6142,Alex Gallant,Ben Betker,Jake Kamrass,,
+1028751,3,3rd,12:29,444,CGY,8729,Daniil Miromanov,26,D,Slashing,2.00,1,0,8729,Daniil Miromanov,Ben Betker,Jake Kamrass,,
+1028751,3,3rd,14:27,444,CGY,10643,Arsenii Sergeev,35,G,Tripping,2.00,1,0,10626,Carter King,Ben Betker,Jake Kamrass,,

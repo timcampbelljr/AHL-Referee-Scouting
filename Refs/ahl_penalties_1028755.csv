@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028755,1,1st,7:31,412,TUC,8740,Montana Onyebuchi,79,D,Tripping,2.00,1,0,8740,Montana Onyebuchi,Mike Sullivan,Nick Isaacson,,
+1028755,1,1st,14:30,412,TUC,9711,Jalen Luypen,72,C,Tripping,2.00,1,0,9711,Jalen Luypen,Mike Sullivan,Nick Isaacson,,
+1028755,1,1st,19:06,321,MB,9759,Nikita Chibrikov,19,LW,Cross-checking,2.00,1,0,9759,Nikita Chibrikov,Mike Sullivan,Nick Isaacson,,
+1028755,2,2nd,5:30,412,TUC,9396,Sammy Walker,25,F,Hooking,2.00,1,0,9396,Sammy Walker,Mike Sullivan,Nick Isaacson,,
+1028755,2,2nd,16:40,412,TUC,8631,Ty Tullio,17,RW,Hooking,2.00,1,0,8631,Ty Tullio,Mike Sullivan,Nick Isaacson,,
+1028755,3,3rd,2:36,321,MB,10907,Jacob Julien,24,C,Hooking,2.00,1,0,10907,Jacob Julien,Mike Sullivan,Nick Isaacson,,
+1028755,3,3rd,19:00,321,MB,10907,Jacob Julien,24,C,Slashing,2.00,1,0,10907,Jacob Julien,Mike Sullivan,Nick Isaacson,,

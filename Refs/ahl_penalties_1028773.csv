@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028773,1,1st,10:18,412,TUC,9217,Max Szuber,55,D,Hooking,2.00,1,0,9217,Max Szuber,Ben Betker,Austin Rook,,
+1028773,1,1st,11:07,403,ONT,7362,Logan Brown,91,F,High-sticking,2.00,1,0,7362,Logan Brown,Ben Betker,Austin Rook,,
+1028773,1,1st,11:58,403,ONT,9249,Angus Booth,24,D,Hooking,2.00,1,0,9249,Angus Booth,Ben Betker,Austin Rook,,
+1028773,1,1st,14:53,412,TUC,3642,Andrew Agozzino,29,C,Hooking,2.00,1,0,3642,Andrew Agozzino,Ben Betker,Austin Rook,,
+1028773,1,1st,17:37,403,ONT,9249,Angus Booth,24,D,Tripping,2.00,1,0,9249,Angus Booth,Ben Betker,Austin Rook,,
+1028773,1,1st,18:22,412,TUC,10665,Dmitri Simashev,26,D,Slashing,2.00,1,0,10665,Dmitri Simashev,Ben Betker,Austin Rook,,
+1028773,2,2nd,8:46,403,ONT,8718,Nikita Alexandrov,59,F,Tripping,2.00,1,0,8718,Nikita Alexandrov,Ben Betker,Austin Rook,,
+1028773,2,2nd,14:59,403,ONT,10125,Jack Millar,45,D,Cross-checking,2.00,1,0,10125,Jack Millar,Ben Betker,Austin Rook,,
+1028773,2,2nd,19:02,412,TUC,6037,Robbie Russo,5,D,Tripping,2.00,1,0,6037,Robbie Russo,Ben Betker,Austin Rook,,
+1028773,3,3rd,7:58,403,ONT,9239,Francesco Pinelli,71,F,High-sticking,2.00,1,0,9239,Francesco Pinelli,Ben Betker,Austin Rook,,

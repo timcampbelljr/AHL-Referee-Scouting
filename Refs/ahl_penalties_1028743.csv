@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028743,1,1st,11:57,307,HFD,7669,Trey Fix-Wolansky,64,F,Hooking,2.00,1,0,7669,Trey Fix-Wolansky,Liam Maaskant,David Elford,,
+1028743,1,1st,13:42,335,TOR,10613,Borya Valis,39,F,Holding,2.00,1,0,10613,Borya Valis,Liam Maaskant,David Elford,,
+1028743,1,1st,19:30,307,HFD,10465,Scott Morrow,55,D,Holding,2.00,1,0,10465,Scott Morrow,Liam Maaskant,David Elford,,
+1028743,2,2nd,5:40,335,TOR,9188,Ben King,66,C,High-sticking,2.00,1,0,9188,Ben King,Liam Maaskant,David Elford,,
+1028743,2,2nd,18:44,335,TOR,10992,Brandon Buhr,64,F,Hooking,2.00,1,0,10992,Brandon Buhr,Liam Maaskant,David Elford,,
+1028743,3,3rd,1:41,335,TOR,7780,Cédric Paré,56,F,Delay of game,2.00,1,0,7780,Cédric Paré,Liam Maaskant,David Elford,,
+1028743,3,3rd,5:44,335,TOR,6014,Dakota Mermis,36,D,Tripping,2.00,1,0,6014,Dakota Mermis,Liam Maaskant,David Elford,,
+1028743,3,3rd,14:21,307,HFD,10786,Zakary Karpa,59,F,High-sticking,2.00,1,0,10786,Zakary Karpa,Liam Maaskant,David Elford,,

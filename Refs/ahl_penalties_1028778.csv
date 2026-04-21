@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028778,1,1st,2:31,445,CV,8625,Ian McKinnon,21,F,Fighting,5.00,0,0,8625,Ian McKinnon,Alex Lepkowski,Tatu Kunto,,
+1028778,1,1st,2:31,405,SJ,9153,Nolan Allan,7,D,Fighting,5.00,0,0,9153,Nolan Allan,Alex Lepkowski,Tatu Kunto,,
+1028778,1,1st,4:06,445,CV,7132,Cooper Marody,20,F,High-sticking,2.00,1,0,7132,Cooper Marody,Alex Lepkowski,Tatu Kunto,,
+1028778,1,1st,13:44,405,SJ,9153,Nolan Allan,7,D,Tripping,2.00,1,0,9153,Nolan Allan,Alex Lepkowski,Tatu Kunto,,
+1028778,2,2nd,4:44,445,CV,10083,Lleyton Roed,29,F,Hooking,2.00,1,0,10083,Lleyton Roed,Alex Lepkowski,Tatu Kunto,,
+1028778,3,3rd,6:13,405,SJ,10981,Jake Boltmann,94,D,Holding,2.00,1,0,10981,Jake Boltmann,Alex Lepkowski,Tatu Kunto,,
+1028778,3,3rd,6:35,445,CV,10184,Eduard Šalé,12,F,Interference,2.00,1,0,10184,Eduard Šalé,Alex Lepkowski,Tatu Kunto,,

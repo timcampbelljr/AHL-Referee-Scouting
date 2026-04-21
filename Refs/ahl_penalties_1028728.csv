@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028728,1,1st,15:41,402,BAK,10874,Quinn Hutson,23,RW,Slashing,2.00,1,0,10874,Quinn Hutson,Ben Betker,Jake Kamrass,,
+1028728,2,2nd,0:19,404,SD,6080,Justin Bailey,12,RW,Tripping,2.00,1,0,6080,Justin Bailey,Ben Betker,Jake Kamrass,,
+1028728,2,2nd,15:04,404,SD,6729,Matthew Phillips,18,RW,High-sticking,2.00,1,0,6729,Matthew Phillips,Ben Betker,Jake Kamrass,,
+1028728,3,3rd,1:20,404,SD,6729,Matthew Phillips,18,RW,Double minor - High-sticking,4.00,1,0,6729,Matthew Phillips,Ben Betker,Jake Kamrass,,
+1028728,3,3rd,2:31,402,BAK,8890,Sam Poulin,8,C,High-sticking,2.00,0,0,8890,Sam Poulin,Ben Betker,Jake Kamrass,,
+1028728,3,3rd,11:25,402,BAK,10594,Damien Carfagna,73,D,Interference,2.00,1,0,10594,Damien Carfagna,Ben Betker,Jake Kamrass,,

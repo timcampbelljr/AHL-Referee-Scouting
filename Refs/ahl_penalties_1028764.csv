@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028764,1,1st,13:34,373,CLE,6516,Hudson Fasching,20,RW,High-sticking,2.00,1,0,6516,Hudson Fasching,Jared Cummins,Adam Tobias,,
+1028764,2,2nd,2:34,373,CLE,9532,Will Butcher,39,D,Hooking,2.00,1,0,9532,Will Butcher,Jared Cummins,Adam Tobias,,
+1028764,2,2nd,3:27,373,CLE,9618,Corson Ceulemans,4,D,Delay of game,2.00,1,0,9618,Corson Ceulemans,Jared Cummins,Adam Tobias,,
+1028764,2,2nd,6:37,328,GR,9347,Michael Milne,42,F,Holding,2.00,1,0,9347,Michael Milne,Jared Cummins,Adam Tobias,,
+1028764,2,2nd,16:24,373,CLE,10895,Caleb MacDonald,43,D,Cross-checking,2.00,1,0,10895,Caleb MacDonald,Jared Cummins,Adam Tobias,,
+1028764,2,2nd,16:43,328,GR,6103,Erik Gustafsson,56,D,Slashing,2.00,1,0,6103,Erik Gustafsson,Jared Cummins,Adam Tobias,,
+1028764,2,2nd,17:49,328,GR,8511,John Leonard,19,LW,Slashing,2.00,1,0,8511,John Leonard,Jared Cummins,Adam Tobias,,
+1028764,3,3rd,5:38,328,GR,9661,Carter Mazur,43,RW,Interference,2.00,1,0,9661,Carter Mazur,Jared Cummins,Adam Tobias,,
+1028764,3,3rd,8:20,373,CLE,9618,Corson Ceulemans,4,D,Elbowing,2.00,1,0,9618,Corson Ceulemans,Jared Cummins,Adam Tobias,,

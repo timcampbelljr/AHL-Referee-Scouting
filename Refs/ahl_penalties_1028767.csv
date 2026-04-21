@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028767,1,1st,7:21,415,LAV,9796,Jared Davidson,49,F,Fighting,5.00,0,0,9796,Jared Davidson,Riley Brace,Beau Halkidis,,
+1028767,1,1st,7:21,317,BRI,9442,Daylan Kuefler,11,F,Fighting,5.00,0,0,9442,Daylan Kuefler,Riley Brace,Beau Halkidis,,
+1028767,1,1st,9:56,415,LAV,9093,Lucas Condotta,42,LW,Fighting,5.00,0,0,9093,Lucas Condotta,Riley Brace,Beau Halkidis,,
+1028767,1,1st,9:56,317,BRI,9689,Travis Mitchell,10,D,Fighting,5.00,0,0,9689,Travis Mitchell,Riley Brace,Beau Halkidis,,
+1028767,1,1st,19:13,415,LAV,5970,Samuel Blais,19,LW,Goaltender interference,2.00,1,0,5970,Samuel Blais,Riley Brace,Beau Halkidis,,
+1028767,2,2nd,3:19,317,BRI,10020,Luke Rowe,24,D,Fighting,5.00,0,0,10020,Luke Rowe,Riley Brace,Beau Halkidis,,
+1028767,2,2nd,3:19,415,LAV,10505,Will Dineen,26,F,Fighting,5.00,0,0,10505,Will Dineen,Riley Brace,Beau Halkidis,,
+1028767,2,2nd,15:31,415,LAV,10139,Florian Xhekaj,63,C,Roughing,2.00,1,0,10139,Florian Xhekaj,Riley Brace,Beau Halkidis,,
+1028767,3,3rd,9:58,317,BRI,10020,Luke Rowe,24,D,Hooking,2.00,1,0,10020,Luke Rowe,Riley Brace,Beau Halkidis,,
+1028767,OT,OT,5:00,317,BRI,10040,Alex Jefferies,16,F,Holding,2.00,0,0,10040,Alex Jefferies,Riley Brace,Beau Halkidis,,

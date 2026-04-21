@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028727,1,1st,9:14,328,GR,10008,Alex Doucet,47,LW,Illegal check to the head,2.00,1,0,10008,Alex Doucet,Koletrane Wilson,Mathieu Menniti,,
+1028727,1,1st,12:35,372,RFD,9840,Ryan Gagnier,74,C,High-sticking,2.00,1,0,9840,Ryan Gagnier,Koletrane Wilson,Mathieu Menniti,,
+1028727,2,2nd,4:16,328,GR,9973,Antti Tuomisto,4,D,Hooking,2.00,1,0,9973,Antti Tuomisto,Koletrane Wilson,Mathieu Menniti,,
+1028727,2,2nd,17:46,372,RFD,10500,Ryland Mosley,42,LW,Holding,2.00,1,0,10500,Ryland Mosley,Koletrane Wilson,Mathieu Menniti,,
+1028727,3,3rd,0:33,328,GR,9661,Carter Mazur,43,RW,Tripping,2.00,1,0,9661,Carter Mazur,Koletrane Wilson,Mathieu Menniti,,
+1028727,3,3rd,7:20,328,GR,9440,William Dufour,23,LW,Slashing,2.00,1,0,9440,William Dufour,Koletrane Wilson,Mathieu Menniti,,
+1028727,3,3rd,9:40,372,RFD,10177,Samuel Savoie,67,F,Interference,2.00,1,0,10177,Samuel Savoie,Koletrane Wilson,Mathieu Menniti,,

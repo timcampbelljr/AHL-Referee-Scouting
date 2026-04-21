@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028713,1,1st,2:29,384,CLT,10056,Ben Steeves,6,F,Hooking,2.00,1,0,10056,Ben Steeves,Stephen Hiff,Cole MacDonald,,
+1028713,1,1st,16:04,307,HFD,9667,Bryce McConnell-Barker,18,F,Holding,2.00,1,0,9667,Bryce McConnell-Barker,Stephen Hiff,Cole MacDonald,,
+1028713,2,2nd,7:03,307,HFD,8622,Connor Mackey,14,D,Tripping,2.00,1,0,8622,Connor Mackey,Stephen Hiff,Cole MacDonald,,
+1028713,2,2nd,14:50,307,HFD,10189,Dylan Roobroeck,28,F,Roughing,2.00,0,0,10189,Dylan Roobroeck,Stephen Hiff,Cole MacDonald,,
+1028713,2,2nd,14:50,384,CLT,5614,Trevor Carrick,5,D,Roughing,2.00,0,0,5614,Trevor Carrick,Stephen Hiff,Cole MacDonald,,
+1028713,3,3rd,0:39,307,HFD,10523,Jackson Dorrington,38,D,Tripping,2.00,1,0,10523,Jackson Dorrington,Stephen Hiff,Cole MacDonald,,
+1028713,3,3rd,4:37,384,CLT,5614,Trevor Carrick,5,D,Roughing,2.00,1,0,5614,Trevor Carrick,Stephen Hiff,Cole MacDonald,,
+1028713,3,3rd,20:00,384,CLT,10056,Ben Steeves,6,F,Misconduct - Unsportsmanlike conduct,10.00,0,0,10056,Ben Steeves,Stephen Hiff,Cole MacDonald,,

@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028709,1,1st,4:43,419,COL,4584,Jayson Megna,21,F,Holding,2.00,1,0,4584,Jayson Megna,Graedy Hamilton,Sydney Harris,,
+1028709,1,1st,15:43,419,COL,10580,Aiden Hansen-Bukata,81,D,High-sticking,2.00,1,0,10580,Aiden Hansen-Bukata,Graedy Hamilton,Sydney Harris,,
+1028709,2,2nd,2:12,404,SD,10270,Coulson Pitre,14,RW,Slashing,2.00,1,0,10270,Coulson Pitre,Graedy Hamilton,Sydney Harris,,
+1028709,2,2nd,15:41,404,SD,9185,Nathan Gaucher,17,C,Holding,2.00,1,0,9185,Nathan Gaucher,Graedy Hamilton,Sydney Harris,,
+1028709,2,2nd,18:48,404,SD,9185,Nathan Gaucher,17,C,Tripping,2.00,1,0,9185,Nathan Gaucher,Graedy Hamilton,Sydney Harris,,
+1028709,3,3rd,0:13,419,COL,8500,Jack Ahcan,15,D,Interference,2.00,1,0,8500,Jack Ahcan,Graedy Hamilton,Sydney Harris,,
+1028709,3,3rd,17:44,419,COL,10561,Taylor Makar,16,F,Tripping,2.00,1,0,10561,Taylor Makar,Graedy Hamilton,Sydney Harris,,
+1028709,OT,OT,4:15,404,SD,5912,Roland McKeown,37,D,Hooking,2.00,1,0,5912,Roland McKeown,Graedy Hamilton,Sydney Harris,,

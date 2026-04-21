@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028788,1,1st,6:44,404,SD,9201,Drew Elliott,36,LW,Holding,2.00,1,0,9201,Drew Elliott,Graedy Hamilton,Bobby Jo Love,,
+1028788,1,1st,12:57,440,ABB,10974,Bennett Schimek,52,RW,Holding,2.00,1,0,10974,Bennett Schimek,Graedy Hamilton,Bobby Jo Love,,
+1028788,1,1st,18:59,440,ABB,9406,Nils Åman,88,C,High-sticking,2.00,1,0,9406,Nils Åman,Graedy Hamilton,Bobby Jo Love,,
+1028788,2,2nd,19:21,440,ABB,8813,Dino Kambeitz,17,RW,Tripping,2.00,1,0,8813,Dino Kambeitz,Graedy Hamilton,Bobby Jo Love,,
+1028788,3,3rd,3:51,440,ABB,10973,Austin Brimmer,8,RW,Delay of game,2.00,1,0,10973,Austin Brimmer,Graedy Hamilton,Bobby Jo Love,,
+1028788,3,3rd,6:59,404,SD,9778,Nikita Nesterenko,13,C,Double minor - High-sticking,4.00,1,0,9778,Nikita Nesterenko,Graedy Hamilton,Bobby Jo Love,,
+1028788,3,3rd,16:59,440,ABB,10931,Nick Poisson,62,C,Tripping,2.00,1,0,10931,Nick Poisson,Graedy Hamilton,Bobby Jo Love,,
+1028788,3,3rd,19:00,440,ABB,7767,Jimmy Schuldt,48,D,Boarding,2.00,1,0,7767,Jimmy Schuldt,Graedy Hamilton,Bobby Jo Love,,

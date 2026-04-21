@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028775,1,1st,5:39,402,BAK,9384,Luke Prokop,77,D,Cross-checking,2.00,1,0,9384,Luke Prokop,Jordan Watt,Stan Szczurek,,
+1028775,1,1st,17:57,380,TEX,9456,Jack Becker,27,F,Fighting,5.00,0,0,9456,Jack Becker,Jordan Watt,Stan Szczurek,,
+1028775,1,1st,17:57,402,BAK,10933,Isaac Howard,53,LW,Tripping,2.00,1,0,10933,Isaac Howard,Jordan Watt,Stan Szczurek,,
+1028775,1,1st,17:57,402,BAK,7663,Alec Regula,75,D,Fighting,5.00,0,0,7663,Alec Regula,Jordan Watt,Stan Szczurek,,
+1028775,2,2nd,4:37,380,TEX,7101,Kole Lind,17,F,Slashing,2.00,1,0,7101,Kole Lind,Jordan Watt,Stan Szczurek,,
+1028775,2,2nd,8:53,402,BAK,10595,Connor Clattenburg,64,LW,Fighting,5.00,0,0,10595,Connor Clattenburg,Jordan Watt,Stan Szczurek,,
+1028775,2,2nd,8:53,380,TEX,10527,Sean Chisholm,21,F,Fighting,5.00,0,0,10527,Sean Chisholm,Jordan Watt,Stan Szczurek,,
+1028775,2,2nd,12:28,380,TEX,8692,Vladislav Kolyachonok,18,D,Tripping,2.00,1,0,8692,Vladislav Kolyachonok,Jordan Watt,Stan Szczurek,,
+1028775,3,3rd,11:16,380,TEX,4883,Curtis McKenzie,16,F,Roughing,2.00,1,0,10522,Ayrton Martino,Jordan Watt,Stan Szczurek,,
+1028775,3,3rd,11:16,402,BAK,10595,Connor Clattenburg,64,LW,Roughing,2.00,0,0,10595,Connor Clattenburg,Jordan Watt,Stan Szczurek,,
+1028775,3,3rd,11:16,380,TEX,4883,Curtis McKenzie,16,F,Roughing,2.00,0,0,4883,Curtis McKenzie,Jordan Watt,Stan Szczurek,,
+1028775,3,3rd,15:03,380,TEX,10989,Jack Anderson,35,D,Delay of game,2.00,1,0,10989,Jack Anderson,Jordan Watt,Stan Szczurek,,

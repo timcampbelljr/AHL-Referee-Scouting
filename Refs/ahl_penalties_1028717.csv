@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028717,1,1st,12:24,327,MIL,8825,Kyle Marino,36,RW,Holding,2.00,1,0,8825,Kyle Marino,Riley Brace,Simon Desbiens,,
+1028717,1,1st,15:54,321,MB,9746,Danny Zhilkin,17,C,Fighting,5.00,0,0,9746,Danny Zhilkin,Riley Brace,Simon Desbiens,,
+1028717,1,1st,15:54,327,MIL,10554,Kalan Lind,48,LW,Fighting,5.00,0,0,10554,Kalan Lind,Riley Brace,Simon Desbiens,,
+1028717,1,1st,18:02,321,MB,7113,Mason Shaw,18,RW,Slashing,2.00,1,0,7113,Mason Shaw,Riley Brace,Simon Desbiens,,
+1028717,2,2nd,16:20,327,MIL,10185,Andrew Gibson,6,D,Hooking,2.00,1,0,10185,Andrew Gibson,Riley Brace,Simon Desbiens,,
+1028717,3,3rd,4:50,327,MIL,10833,Joey Willis,13,LW,Slashing,2.00,1,0,10833,Joey Willis,Riley Brace,Simon Desbiens,,
+1028717,3,3rd,19:01,321,MB,8454,Dawson Barteaux,4,D,Hooking,2.00,1,0,8454,Dawson Barteaux,Riley Brace,Simon Desbiens,,

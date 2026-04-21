@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028736,1,1st,10:51,380,TEX,7101,Kole Lind,17,F,Hooking,2.00,1,0,7101,Kole Lind,Graedy Hamilton,Nolan Bloyer,,
+1028736,1,1st,19:33,437,HSK,8663,Raphael Lavoie,36,F,Interference,2.00,1,0,8663,Raphael Lavoie,Graedy Hamilton,Nolan Bloyer,,
+1028736,3,3rd,3:15,380,TEX,4883,Curtis McKenzie,16,F,Slashing,2.00,1,0,4883,Curtis McKenzie,Graedy Hamilton,Nolan Bloyer,,
+1028736,3,3rd,9:22,380,TEX,10135,Tristan Bertucci,3,D,Tripping,2.00,1,0,10135,Tristan Bertucci,Graedy Hamilton,Nolan Bloyer,,

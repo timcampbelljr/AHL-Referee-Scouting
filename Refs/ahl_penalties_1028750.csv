@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028750,1,1st,6:34,372,RFD,9341,Andrew Perrott,75,D,Boarding,2.00,1,0,9341,Andrew Perrott,Damian Figueira,Harrison O’Pray,,
+1028750,1,1st,12:08,372,RFD,9259,Jake Furlong,61,D,Cross-checking,2.00,1,0,9259,Jake Furlong,Damian Figueira,Harrison O’Pray,,
+1028750,2,2nd,5:05,372,RFD,9827,Ryan Mast,58,D,Tripping,2.00,1,0,9827,Ryan Mast,Damian Figueira,Harrison O’Pray,,
+1028750,2,2nd,19:26,328,GR,9973,Antti Tuomisto,4,D,Roughing,2.00,0,0,9973,Antti Tuomisto,Damian Figueira,Harrison O’Pray,,
+1028750,2,2nd,19:26,372,RFD,7927,Rem Pitlick,12,LW,Roughing,2.00,0,0,7927,Rem Pitlick,Damian Figueira,Harrison O’Pray,,
+1028750,3,3rd,2:05,372,RFD,10142,Martin Misiak,68,F,Holding,2.00,1,0,10142,Martin Misiak,Damian Figueira,Harrison O’Pray,,
+1028750,3,3rd,19:13,372,RFD,10975,Chase Dafoe,52,F,Holding,2.00,1,0,10975,Chase Dafoe,Damian Figueira,Harrison O’Pray,,

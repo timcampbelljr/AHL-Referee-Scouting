@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028723,1,1st,6:57,316,WBS,10848,Finn Harding,50,D,Holding,2.00,1,0,10848,Finn Harding,Alex Lepkowski,Mitchell Hardy,,
+1028723,1,1st,14:20,413,BEL,7677,Arthur Kaliyev,43,LW,High-sticking,2.00,1,0,7677,Arthur Kaliyev,Alex Lepkowski,Mitchell Hardy,,
+1028723,2,2nd,1:27,413,BEL,10922,Carter Yakemchuk,26,D,Hooking,2.00,1,0,10922,Carter Yakemchuk,Alex Lepkowski,Mitchell Hardy,,
+1028723,2,2nd,16:02,316,WBS,10472,Rutger McGroarty,2,LW,Slashing,2.00,0,0,10472,Rutger McGroarty,Alex Lepkowski,Mitchell Hardy,,
+1028723,2,2nd,16:02,413,BEL,10922,Carter Yakemchuk,26,D,Roughing,2.00,0,0,10922,Carter Yakemchuk,Alex Lepkowski,Mitchell Hardy,,
+1028723,2,2nd,17:10,316,WBS,7017,Joona Koppanen,15,C,Slashing,2.00,1,0,7017,Joona Koppanen,Alex Lepkowski,Mitchell Hardy,,
+1028723,3,3rd,7:57,413,BEL,8987,Tyler Boucher,16,RW,Interference,2.00,1,0,8987,Tyler Boucher,Alex Lepkowski,Mitchell Hardy,,
+1028723,3,3rd,10:04,316,WBS,10172,Emil Pieniniemi,79,D,Tripping,2.00,1,0,10172,Emil Pieniniemi,Alex Lepkowski,Mitchell Hardy,,
+1028723,3,3rd,13:18,316,WBS,7632,Alex Alexeyev,56,D,Delay of game,2.00,1,0,7632,Alex Alexeyev,Alex Lepkowski,Mitchell Hardy,,

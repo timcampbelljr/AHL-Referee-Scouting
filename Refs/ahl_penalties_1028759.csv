@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028759,1,1st,6:59,330,CHI,6657,Givani Smith,24,RW,Hooking,2.00,1,0,6657,Givani Smith,Harrison O’Pray,Jordan Deckard,,
+1028759,1,1st,6:59,330,CHI,8615,Nikita Pavlychev,15,C,Slashing,2.00,1,0,8615,Nikita Pavlychev,Harrison O’Pray,Jordan Deckard,,
+1028759,1,1st,8:27,330,CHI,7089,Cal Foote,52,D,Cross-checking,2.00,1,0,7089,Cal Foote,Harrison O’Pray,Jordan Deckard,,
+1028759,1,1st,12:13,389,IA,9472,Mark Liwiski,26,F,Interference,2.00,1,0,9472,Mark Liwiski,Harrison O’Pray,Jordan Deckard,,
+1028759,2,2nd,7:51,389,IA,9853,David Špaček,21,D,Tripping,2.00,1,0,9853,David Špaček,Harrison O’Pray,Jordan Deckard,,
+1028759,2,2nd,17:00,330,CHI,9927,Viktor Neuchev,79,LW,Hooking,2.00,1,0,9927,Viktor Neuchev,Harrison O’Pray,Jordan Deckard,,
+1028759,3,3rd,7:42,330,CHI,10462,Felix Unger Sörum,14,RW,Tripping,2.00,1,0,10462,Felix Unger Sörum,Harrison O’Pray,Jordan Deckard,,
+1028759,3,3rd,9:06,330,CHI,8615,Nikita Pavlychev,15,C,Slashing,2.00,0,0,8615,Nikita Pavlychev,Harrison O’Pray,Jordan Deckard,,
+1028759,3,3rd,9:06,389,IA,9859,Caedan Bankier,19,C,Slashing,2.00,0,0,9859,Caedan Bankier,Harrison O’Pray,Jordan Deckard,,
+1028759,3,3rd,9:35,389,IA,7428,Dylan Gambrell,14,C,Tripping,2.00,1,0,7428,Dylan Gambrell,Harrison O’Pray,Jordan Deckard,,
+1028759,3,3rd,11:59,330,CHI,9090,Noel Gunler,10,RW,High-sticking,2.00,1,0,9090,Noel Gunler,Harrison O’Pray,Jordan Deckard,,

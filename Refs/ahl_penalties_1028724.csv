@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028724,1,1st,2:29,389,IA,10886,Braidan Simmons-Fischer,29,F,Fighting,5.00,0,0,10886,Braidan Simmons-Fischer,Ibrahim Arifi,Mike Dietrich,,
+1028724,1,1st,2:29,403,ONT,5592,Jacob Doty,37,F,Fighting,5.00,0,0,5592,Jacob Doty,Ibrahim Arifi,Mike Dietrich,,
+1028724,1,1st,5:49,389,IA,9655,Ryan Sandelin,13,F,Holding,2.00,1,0,9655,Ryan Sandelin,Ibrahim Arifi,Mike Dietrich,,
+1028724,1,1st,15:03,403,ONT,7713,Jan Jeník,73,F,High-sticking,2.00,1,0,7713,Jan Jeník,Ibrahim Arifi,Mike Dietrich,,
+1028724,2,2nd,6:20,403,ONT,9239,Francesco Pinelli,71,F,Slashing,2.00,1,0,9239,Francesco Pinelli,Ibrahim Arifi,Mike Dietrich,,
+1028724,2,2nd,12:44,403,ONT,6784,Glenn Gawdin,21,F,Roughing,2.00,1,0,6784,Glenn Gawdin,Ibrahim Arifi,Mike Dietrich,,
+1028724,2,2nd,15:22,389,IA,10608,Riley Heidt,27,C,Tripping,2.00,1,0,10608,Riley Heidt,Ibrahim Arifi,Mike Dietrich,,
+1028724,3,3rd,6:19,403,ONT,9081,Andre Lee,26,F,Elbowing,2.00,1,0,9081,Andre Lee,Ibrahim Arifi,Mike Dietrich,,
+1028724,3,3rd,9:58,389,IA,6616,Gerry Mayhew,20,C,Interference,2.00,1,0,6616,Gerry Mayhew,Ibrahim Arifi,Mike Dietrich,,
+1028724,3,3rd,16:42,403,ONT,10705,Kenny Connors,17,F,Holding,2.00,1,0,10705,Kenny Connors,Ibrahim Arifi,Mike Dietrich,,

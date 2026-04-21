@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028774,1,1st,3:07,440,ABB,7696,Chase Wouters,21,C,Interference,2.00,1,0,7696,Chase Wouters,Bobby Jo Love,Mike Campbell,,
+1028774,1,1st,14:16,404,SD,10076,Nico Myatovic,21,LW,Tripping,2.00,1,0,10076,Nico Myatovic,Bobby Jo Love,Mike Campbell,,
+1028774,1,1st,17:31,440,ABB,10973,Austin Brimmer,8,RW,Holding,2.00,1,0,10973,Austin Brimmer,Bobby Jo Love,Mike Campbell,,
+1028774,2,2nd,2:45,440,ABB,7696,Chase Wouters,21,C,Slashing,2.00,1,0,7696,Chase Wouters,Bobby Jo Love,Mike Campbell,,
+1028774,2,2nd,12:51,404,SD,9193,Tyson Hinds,5,D,Hooking,2.00,1,0,9193,Tyson Hinds,Bobby Jo Love,Mike Campbell,,
+1028774,2,2nd,16:31,404,SD,9193,Tyson Hinds,5,D,Cross-checking,2.00,1,0,9193,Tyson Hinds,Bobby Jo Love,Mike Campbell,,
+1028774,2,2nd,17:19,440,ABB,9554,Arshdeep Bains,13,LW,Goaltender interference,2.00,1,0,9554,Arshdeep Bains,Bobby Jo Love,Mike Campbell,,
+1028774,3,3rd,11:46,440,ABB,10973,Austin Brimmer,8,RW,Slashing,2.00,1,0,10973,Austin Brimmer,Bobby Jo Love,Mike Campbell,,

@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028733,1,1st,13:53,313,LV,7788,Maxence Guenette,82,D,Slashing,2.00,1,0,7788,Maxence Guenette,Jordan Deckard,Austin O’Rourke,,
+1028733,2,2nd,2:13,313,LV,6779,Boris Katchouk,61,LW,Tripping,2.00,1,0,6779,Boris Katchouk,Jordan Deckard,Austin O’Rourke,,
+1028733,2,2nd,3:08,384,CLT,9220,Nate Smith,15,C,Tripping,2.00,1,0,9220,Nate Smith,Jordan Deckard,Austin O’Rourke,,
+1028733,2,2nd,10:14,384,CLT,10056,Ben Steeves,6,F,High-sticking,2.00,1,0,10056,Ben Steeves,Jordan Deckard,Austin O’Rourke,,

@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028797,1,1st,0:37,316,WBS,9223,Gabe Klassen,64,C,Tripping,2.00,1,0,9223,Gabe Klassen,Jack Young,Mason Riley,,
+1028797,1,1st,4:41,316,WBS,10042,Scooter Brickey,63,D,Cross-checking,2.00,1,0,10042,Scooter Brickey,Jack Young,Mason Riley,,
+1028797,2,2nd,13:37,313,LV,6342,Anthony Richard,90,LW,Hooking,2.00,1,0,6342,Anthony Richard,Jack Young,Mason Riley,,
+1028797,2,2nd,14:20,316,WBS,6845,Sebastian Aho,25,D,Tripping,2.00,1,0,6845,Sebastian Aho,Jack Young,Mason Riley,,
+1028797,2,2nd,17:12,313,LV,8451,Zayde Wisdom,74,C,Interference,2.00,1,0,8451,Zayde Wisdom,Jack Young,Mason Riley,,
+1028797,2,2nd,18:53,313,LV,9545,David Jiříček,5,D,Slashing,2.00,1,0,9545,David Jiříček,Jack Young,Mason Riley,,
+1028797,3,3rd,10:39,316,WBS,7017,Joona Koppanen,15,C,Tripping,2.00,1,0,7017,Joona Koppanen,Jack Young,Mason Riley,,
+1028797,3,3rd,15:35,316,WBS,10326,Atley Calvert,84,RW,Tripping,2.00,1,0,10326,Atley Calvert,Jack Young,Mason Riley,,

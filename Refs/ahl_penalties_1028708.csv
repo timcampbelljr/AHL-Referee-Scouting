@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028708,1,1st,15:55,384,CLT,10056,Ben Steeves,6,F,Interference,2.00,1,0,10056,Ben Steeves,Stephen Hiff,Cole MacDonald,,
+1028708,1,1st,18:48,384,CLT,9914,Robert Mastrosimone,7,LW,Hooking,2.00,1,0,9914,Robert Mastrosimone,Stephen Hiff,Cole MacDonald,,
+1028708,2,2nd,5:05,307,HFD,9048,Brandon Scanlin,58,D,Roughing,2.00,1,0,9048,Brandon Scanlin,Stephen Hiff,Cole MacDonald,,
+1028708,2,2nd,6:45,307,HFD,10276,Carey Terrance,11,F,Delay of game,2.00,1,0,10276,Carey Terrance,Stephen Hiff,Cole MacDonald,,
+1028708,2,2nd,11:37,307,HFD,10465,Scott Morrow,55,D,Roughing,2.00,0,0,10465,Scott Morrow,Stephen Hiff,Cole MacDonald,,
+1028708,2,2nd,11:37,384,CLT,10056,Ben Steeves,6,F,Roughing,2.00,0,0,10056,Ben Steeves,Stephen Hiff,Cole MacDonald,,
+1028708,2,2nd,12:33,384,CLT,7106,Jack Studnicka,23,F,Roughing,2.00,1,0,7106,Jack Studnicka,Stephen Hiff,Cole MacDonald,,
+1028708,2,2nd,15:09,307,HFD,7569,Casey Fitzgerald,4,D,Boarding,2.00,1,0,7569,Casey Fitzgerald,Stephen Hiff,Cole MacDonald,,
+1028708,2,2nd,17:26,307,HFD,9048,Brandon Scanlin,58,D,Delay of game,2.00,1,0,9048,Brandon Scanlin,Stephen Hiff,Cole MacDonald,,
+1028708,3,3rd,8:13,384,CLT,9745,Marek Alscher,27,D,Tripping,2.00,1,0,9745,Marek Alscher,Stephen Hiff,Cole MacDonald,,

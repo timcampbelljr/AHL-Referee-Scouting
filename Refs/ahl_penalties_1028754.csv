@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028754,1,1st,4:29,335,TOR,9994,Henry Thrun,3,D,Tripping,2.00,1,0,9994,Henry Thrun,Riley Brace,Liam Maaskant,,
+1028754,1,1st,18:02,316,WBS,10504,Chase Pietila,44,D,Hooking,2.00,1,0,10504,Chase Pietila,Riley Brace,Liam Maaskant,,
+1028754,2,2nd,1:59,316,WBS,10326,Atley Calvert,84,C,Tripping,2.00,1,0,10326,Atley Calvert,Riley Brace,Liam Maaskant,,
+1028754,2,2nd,17:57,316,WBS,10504,Chase Pietila,44,D,Fighting,5.00,0,0,10504,Chase Pietila,Riley Brace,Liam Maaskant,,
+1028754,2,2nd,17:57,335,TOR,10836,Landon Sim,42,F,Fighting,5.00,0,0,10836,Landon Sim,Riley Brace,Liam Maaskant,,
+1028754,3,3rd,9:54,316,WBS,7632,Alex Alexeyev,56,D,High-sticking,2.00,1,0,7632,Alex Alexeyev,Riley Brace,Liam Maaskant,,
+1028754,3,3rd,15:02,335,TOR,9023,Marc Johnstone,57,RW,Roughing,2.00,0,0,9023,Marc Johnstone,Riley Brace,Liam Maaskant,,
+1028754,3,3rd,15:02,316,WBS,10848,Finn Harding,50,D,Roughing,2.00,0,0,10848,Finn Harding,Riley Brace,Liam Maaskant,,

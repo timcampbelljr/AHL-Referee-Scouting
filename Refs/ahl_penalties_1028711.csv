@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028711,1,1st,3:20,335,TOR,8738,William Villeneuve,76,D,Hooking,2.00,1,0,8738,William Villeneuve,Alex Lepkowski,Jacob Hicks,,
+1028711,1,1st,11:36,335,TOR,10635,Blake Smith,59,D,Hooking,2.00,1,0,10635,Blake Smith,Alex Lepkowski,Jacob Hicks,,
+1028711,1,1st,14:16,335,TOR,6014,Dakota Mermis,36,D,High-sticking,2.00,1,0,6014,Dakota Mermis,Alex Lepkowski,Jacob Hicks,,
+1028711,2,2nd,1:53,373,CLE,10950,Luca Marrelli,54,D,Interference,2.00,1,0,10950,Luca Marrelli,Alex Lepkowski,Jacob Hicks,,
+1028711,2,2nd,13:06,335,TOR,8738,William Villeneuve,76,D,Tripping,2.00,1,0,8738,William Villeneuve,Alex Lepkowski,Jacob Hicks,,

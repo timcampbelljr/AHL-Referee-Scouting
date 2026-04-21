@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028752,1,1st,7:18,440,ABB,8749,Chase Stillman,61,RW,Hooking,2.00,1,0,8749,Chase Stillman,Jack Young,Ben Solomon,,
+1028752,1,1st,12:53,405,SJ,7597,Jett Woo,22,D,Cross-checking,2.00,1,0,7597,Jett Woo,Jack Young,Ben Solomon,,
+1028752,2,2nd,12:05,440,ABB,6901,Guillaume Brisebois,55,D,Slashing,2.00,1,0,6901,Guillaume Brisebois,Jack Young,Ben Solomon,,
+1028752,2,2nd,16:16,440,ABB,0,None None,0,,Too many men - Bench minor,2.00,1,1,10029,Christian Felton,Jack Young,Ben Solomon,,

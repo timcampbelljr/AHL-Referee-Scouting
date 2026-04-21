@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028762,1,1st,3:10,309,PRO,9363,Brooklyn Kalmikov,37,LW,Holding,2.00,1,0,9363,Brooklyn Kalmikov,Austin O’Rourke,Damian Figueira,,
+1028762,1,1st,3:10,411,SPR,8584,Wyatt Newpower,37,D,Fighting,5.00,0,0,8584,Wyatt Newpower,Austin O’Rourke,Damian Figueira,,
+1028762,1,1st,3:10,309,PRO,7722,Navrin Mutter,17,LW,Fighting,5.00,0,0,7722,Navrin Mutter,Austin O’Rourke,Damian Figueira,,
+1028762,1,1st,8:59,309,PRO,7378,Christian Wolanin,86,D,Holding,2.00,1,0,7378,Christian Wolanin,Austin O’Rourke,Damian Figueira,,
+1028762,2,2nd,4:55,411,SPR,9268,Zach Dean,14,F,Holding,2.00,1,0,9268,Zach Dean,Austin O’Rourke,Damian Figueira,,
+1028762,2,2nd,9:24,309,PRO,9533,Matěj Blümel,18,LW,Slashing,2.00,1,0,9533,Matěj Blümel,Austin O’Rourke,Damian Figueira,,
+1028762,2,2nd,17:06,411,SPR,10143,Dylan Peterson,22,F,Cross-checking,2.00,1,0,10143,Dylan Peterson,Austin O’Rourke,Damian Figueira,,
+1028762,3,3rd,5:21,411,SPR,10328,Aleksanteri Kaskimäki,41,F,Tripping,2.00,1,0,10328,Aleksanteri Kaskimäki,Austin O’Rourke,Damian Figueira,,
+1028762,3,3rd,8:49,411,SPR,4622,Chris Wagner,88,C,Holding the stick,2.00,1,0,4622,Chris Wagner,Austin O’Rourke,Damian Figueira,,
+1028762,3,3rd,16:03,309,PRO,5721,Patrick Brown,38,C,Tripping,2.00,1,0,5721,Patrick Brown,Austin O’Rourke,Damian Figueira,,

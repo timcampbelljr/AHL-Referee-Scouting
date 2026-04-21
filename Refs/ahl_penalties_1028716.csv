@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028716,1,1st,9:44,313,LV,10722,Oliver Bonk,59,D,Hooking,2.00,1,0,10722,Oliver Bonk,Liam Maaskant,Patrick Hanrahan,,
+1028716,1,1st,16:46,313,LV,8559,Phil Tomasino,26,RW,High-sticking,2.00,1,0,9166,Brett Harrison,Liam Maaskant,Patrick Hanrahan,,
+1028716,1,1st,16:46,313,LV,8559,Phil Tomasino,26,RW,Misconduct - Abuse of officials,10.00,0,0,8559,Phil Tomasino,Liam Maaskant,Patrick Hanrahan,,
+1028716,2,2nd,0:25,309,PRO,9435,Joey Abate,47,LW,Holding the stick,2.00,1,0,9435,Joey Abate,Liam Maaskant,Patrick Hanrahan,,
+1028716,2,2nd,2:05,309,PRO,10055,Riley Duran,11,RW,Tripping,2.00,1,0,10055,Riley Duran,Liam Maaskant,Patrick Hanrahan,,
+1028716,2,2nd,6:29,309,PRO,9533,Matěj Blümel,18,LW,Tripping,2.00,1,0,9533,Matěj Blümel,Liam Maaskant,Patrick Hanrahan,,
+1028716,2,2nd,7:45,313,LV,6779,Boris Katchouk,61,LW,Slashing,2.00,1,0,6779,Boris Katchouk,Liam Maaskant,Patrick Hanrahan,,
+1028716,2,2nd,17:58,313,LV,0,None None,0,,Too many men - Bench minor,2.00,1,1,9166,Brett Harrison,Liam Maaskant,Patrick Hanrahan,,
+1028716,2,2nd,19:23,309,PRO,7943,Riley Tufte,27,LW,Roughing,2.00,0,0,7943,Riley Tufte,Liam Maaskant,Patrick Hanrahan,,
+1028716,2,2nd,19:23,313,LV,10046,Hunter McDonald,19,D,Roughing,2.00,0,0,10046,Hunter McDonald,Liam Maaskant,Patrick Hanrahan,,

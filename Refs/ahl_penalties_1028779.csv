@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028779,1,1st,10:17,330,CHI,10460,Charles Alexis Legault,5,D,Tripping,2.00,1,0,10460,Charles Alexis Legault,Adam Tobias,Jonathon Sitarski,,
+1028779,3,3rd,5:00,330,CHI,6937,Yanick Turcotte,20,LW,Hooking,2.00,1,0,9742,Skyler Brind’Amour,Adam Tobias,Jonathon Sitarski,,
+1028779,3,3rd,7:29,328,GR,9973,Antti Tuomisto,4,D,Tripping,2.00,1,0,9973,Antti Tuomisto,Adam Tobias,Jonathon Sitarski,,
+1028779,3,3rd,17:27,330,CHI,9807,Evan Vierling,41,RW,Tripping,2.00,1,0,9807,Evan Vierling,Adam Tobias,Jonathon Sitarski,,
+1028779,3,3rd,18:29,328,GR,8654,Eduards Tralmaks,34,LW,Interference,2.00,1,0,8654,Eduards Tralmaks,Adam Tobias,Jonathon Sitarski,,

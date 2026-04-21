@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028701,1,1st,9:09,444,CGY,6142,Alex Gallant,20,LW,Charging,2.00,1,0,6142,Alex Gallant,Damian Figueira,Taylor Burzminski,,
+1028701,1,1st,11:10,444,CGY,8741,Nick Cicek,41,D,High-sticking,2.00,1,0,8741,Nick Cicek,Damian Figueira,Taylor Burzminski,,
+1028701,1,1st,15:50,444,CGY,9970,Brennan Othmann,28,LW,Fighting,5.00,0,0,9970,Brennan Othmann,Damian Figueira,Taylor Burzminski,,
+1028701,1,1st,15:50,321,MB,8424,Isaak Phillips,3,D,Fighting,5.00,0,0,8424,Isaak Phillips,Damian Figueira,Taylor Burzminski,,
+1028701,1,1st,19:22,321,MB,8454,Dawson Barteaux,4,D,Holding,2.00,1,0,8454,Dawson Barteaux,Damian Figueira,Taylor Burzminski,,
+1028701,3,3rd,0:36,321,MB,9656,Parker Ford,25,RW,Tripping,2.00,1,0,9656,Parker Ford,Damian Figueira,Taylor Burzminski,,
+1028701,3,3rd,19:51,444,CGY,6367,Dryden Hunt,15,LW,Roughing,2.00,1,0,5018,Martin Frk,Damian Figueira,Taylor Burzminski,,
+1028701,3,3rd,19:51,444,CGY,6367,Dryden Hunt,15,LW,Misconduct - Continuing altercation,10.00,0,0,6367,Dryden Hunt,Damian Figueira,Taylor Burzminski,,

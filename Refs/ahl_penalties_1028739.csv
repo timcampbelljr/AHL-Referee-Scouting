@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028739,1,1st,4:48,327,MIL,8825,Kyle Marino,36,RW,High-sticking,2.00,1,0,8825,Kyle Marino,Damian Figueira,Harrison O’Pray,,
+1028739,1,1st,5:31,328,GR,8581,Tyler Angle,77,RW,Tripping,2.00,1,0,8581,Tyler Angle,Damian Figueira,Harrison O’Pray,,
+1028739,1,1st,9:33,328,GR,0,None None,0,,Too many men - Bench minor,2.00,1,1,9440,William Dufour,Damian Figueira,Harrison O’Pray,,
+1028739,2,2nd,3:38,328,GR,9973,Antti Tuomisto,4,D,Hooking,2.00,1,0,9973,Antti Tuomisto,Damian Figueira,Harrison O’Pray,,
+1028739,2,2nd,10:33,328,GR,8511,John Leonard,19,LW,Slashing,2.00,1,0,8511,John Leonard,Damian Figueira,Harrison O’Pray,,
+1028739,2,2nd,19:22,327,MIL,10554,Kalan Lind,48,LW,High-sticking,2.00,1,0,10554,Kalan Lind,Damian Figueira,Harrison O’Pray,,
+1028739,3,3rd,4:41,328,GR,8654,Eduards Tralmaks,34,LW,Elbowing,2.00,1,0,8654,Eduards Tralmaks,Damian Figueira,Harrison O’Pray,,
+1028739,3,3rd,15:18,328,GR,10453,Jakub Rychlovský,81,LW,Tripping,2.00,1,0,10453,Jakub Rychlovský,Damian Figueira,Harrison O’Pray,,
+1028739,3,3rd,17:12,327,MIL,8825,Kyle Marino,36,RW,Slashing,2.00,1,0,8825,Kyle Marino,Damian Figueira,Harrison O’Pray,,

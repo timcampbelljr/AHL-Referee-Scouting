@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028777,1,1st,3:31,373,CLE,9904,Tate Singleton,48,RW,Slashing,2.00,1,0,9904,Tate Singleton,Liam Maaskant,Sydney Harris,,
+1028777,1,1st,8:48,390,UTC,9067,Brian Halonen,24,F,Holding,2.00,1,0,9067,Brian Halonen,Liam Maaskant,Sydney Harris,,
+1028777,1,1st,14:37,373,CLE,10895,Caleb MacDonald,43,D,Cross-checking,2.00,1,0,10895,Caleb MacDonald,Liam Maaskant,Sydney Harris,,
+1028777,2,2nd,4:13,390,UTC,7608,Jonathan Gruden,14,C,Holding,2.00,1,0,7608,Jonathan Gruden,Liam Maaskant,Sydney Harris,,
+1028777,2,2nd,14:28,390,UTC,9758,Topias Vilen,38,D,Slashing,2.00,1,0,9758,Topias Vilen,Liam Maaskant,Sydney Harris,,
+1028777,3,3rd,0:32,373,CLE,9904,Tate Singleton,48,RW,Clipping,2.00,1,0,9904,Tate Singleton,Liam Maaskant,Sydney Harris,,
+1028777,3,3rd,13:09,373,CLE,9978,James Malatesta,11,LW,Roughing,2.00,0,0,9978,James Malatesta,Liam Maaskant,Sydney Harris,,
+1028777,3,3rd,13:09,390,UTC,8891,Nathan Légaré,11,RW,Roughing,2.00,0,0,8891,Nathan Légaré,Liam Maaskant,Sydney Harris,,

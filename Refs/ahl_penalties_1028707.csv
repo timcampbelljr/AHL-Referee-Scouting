@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028707,1,1st,4:12,437,HSK,8421,Riley McKay,89,F,Holding,2.00,1,0,8421,Riley McKay,Hayden Verbeek,Reid Anderson,,
+1028707,1,1st,15:42,437,HSK,10579,Trevor Connelly,24,F,Holding,2.00,1,0,10579,Trevor Connelly,Hayden Verbeek,Reid Anderson,,
+1028707,2,2nd,2:14,444,CGY,7099,Turner Ottenbreit,2,D,Tripping,2.00,1,0,7099,Turner Ottenbreit,Hayden Verbeek,Reid Anderson,,
+1028707,2,2nd,9:29,444,CGY,10547,Carter Wilkie,16,C,Delay of game,2.00,1,0,10547,Carter Wilkie,Hayden Verbeek,Reid Anderson,,
+1028707,2,2nd,12:58,444,CGY,6453,Clark Bishop,19,C,Cross-checking,2.00,1,0,6453,Clark Bishop,Hayden Verbeek,Reid Anderson,,
+1028707,3,3rd,5:39,444,CGY,10137,Étienne Morin,21,D,Holding,2.00,1,0,10137,Étienne Morin,Hayden Verbeek,Reid Anderson,,

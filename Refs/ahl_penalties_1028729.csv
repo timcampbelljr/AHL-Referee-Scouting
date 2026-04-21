@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028729,1,1st,6:05,309,PRO,9831,John Farinacci,26,C,Tripping,2.00,1,0,9831,John Farinacci,Bobby Jo Love,Brendan Schreider,,
+1028729,1,1st,7:53,390,UTC,9681,Josh Filmon,19,F,Hooking,2.00,1,0,9681,Josh Filmon,Bobby Jo Love,Brendan Schreider,,
+1028729,1,1st,13:09,390,UTC,10529,Ethan Edwards,73,D,Interference,2.00,1,0,10529,Ethan Edwards,Bobby Jo Love,Brendan Schreider,,
+1028729,2,2nd,18:24,390,UTC,6879,Dmitry Osipov,44,D,Slashing,2.00,1,0,6879,Dmitry Osipov,Bobby Jo Love,Brendan Schreider,,

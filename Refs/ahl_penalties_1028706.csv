@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028706,1,1st,7:18,412,TUC,10664,Daniil But,50,F,Roughing,2.00,0,0,10664,Daniil But,Beau Halkidis,Jordan Watt,,
+1028706,1,1st,7:18,405,SJ,8914,Egor Afanasyev,11,LW,Slashing,2.00,0,0,8914,Egor Afanasyev,Beau Halkidis,Jordan Watt,,
+1028706,1,1st,16:21,412,TUC,9217,Max Szuber,55,D,Interference,2.00,1,0,9217,Max Szuber,Beau Halkidis,Jordan Watt,,
+1028706,1,1st,17:51,412,TUC,10208,Owen Allard,12,F,High-sticking,2.00,1,0,10208,Owen Allard,Beau Halkidis,Jordan Watt,,
+1028706,2,2nd,5:38,405,SJ,8914,Egor Afanasyev,11,LW,Tripping,2.00,1,0,8914,Egor Afanasyev,Beau Halkidis,Jordan Watt,,
+1028706,3,3rd,6:00,412,TUC,10220,Maveric Lamoureux,10,D,Tripping,2.00,1,0,10220,Maveric Lamoureux,Beau Halkidis,Jordan Watt,,
+1028706,3,3rd,17:19,412,TUC,3697,Kevin Connauton,44,D,Hooking,2.00,1,0,3697,Kevin Connauton,Beau Halkidis,Jordan Watt,,

@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028756,1,1st,5:58,384,CLT,10056,Ben Steeves,6,F,Hooking,2.00,1,0,10056,Ben Steeves,Liam Maaskant,Jim Curtin,,
+1028756,1,1st,6:17,317,BRI,9515,Pierrick Dubé,7,RW,Tripping,2.00,1,0,9515,Pierrick Dubé,Liam Maaskant,Jim Curtin,,
+1028756,2,2nd,13:00,317,BRI,7627,Hunter Drew,36,RW,Fighting,5.00,0,0,7627,Hunter Drew,Liam Maaskant,Jim Curtin,,
+1028756,2,2nd,13:00,384,CLT,10507,Colton Huard,12,D,Fighting,5.00,0,0,10507,Colton Huard,Liam Maaskant,Jim Curtin,,
+1028756,3,3rd,16:12,384,CLT,9220,Nate Smith,15,C,Tripping,2.00,1,0,9220,Nate Smith,Liam Maaskant,Jim Curtin,,

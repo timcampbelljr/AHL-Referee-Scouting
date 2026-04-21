@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028783,1,1st,18:57,317,BRI,10020,Luke Rowe,24,D,Roughing,2.00,0,0,10020,Luke Rowe,Riley Brace,David Elford,,
+1028783,1,1st,18:57,309,PRO,11000,James Hagens,12,F,Roughing,2.00,0,0,11000,James Hagens,Riley Brace,David Elford,,
+1028783,2,2nd,12:02,317,BRI,10564,Cam Berg,14,F,Hooking,2.00,1,0,10564,Cam Berg,Riley Brace,David Elford,,
+1028783,3,3rd,0:27,309,PRO,9032,Michael Callahan,23,D,High-sticking,2.00,1,0,9032,Michael Callahan,Riley Brace,David Elford,,
+1028783,3,3rd,7:04,317,BRI,10388,Cam Thiesing,15,F,High-sticking,2.00,1,0,10388,Cam Thiesing,Riley Brace,David Elford,,
+1028783,3,3rd,11:47,309,PRO,10508,Ty Gallagher,24,D,Holding,2.00,1,0,10508,Ty Gallagher,Riley Brace,David Elford,,
