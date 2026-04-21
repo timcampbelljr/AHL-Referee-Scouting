@@ -464,8 +464,19 @@ def build_summary(df: pd.DataFrame):
         body  = _median_per_game(grp, "Rough|Fight|Cross|Charg|Board")
         misc  = _median_per_game(grp, "Misc|Unsport|Instig|Conduct")
         trap  = _median_per_game(grp, "Trip|Hold|Obstruct")
-        p1 = grp.groupby("game_id").apply(lambda g: (g["period"] == 1).sum()).median()
-        p3 = grp.groupby("game_id").apply(lambda g: (g["period"] == 3).sum()).median()
+        # P3/P1: compute ratio per game first, then take median of those ratios
+        # This is correct — taking median(p3)/median(p1) separately gives wrong results
+        def _p3p1_ratio(g):
+            p1_count = (g["period"] == 1).sum()
+            p3_count = (g["period"] == 3).sum()
+            return p3_count / p1_count if p1_count > 0 else None
+        per_game_ratios = (
+            grp.groupby("game_id")
+            .apply(_p3p1_ratio)
+            .dropna()
+        )
+        p3_ratio = round(per_game_ratios.median(), 3) if len(per_game_ratios) > 0 else None
+
         rows.append({
             "ref":            ref_name,
             "games":          games,
@@ -479,7 +490,7 @@ def build_summary(df: pd.DataFrame):
             "body_per_game":  round(body,  2),
             "misc_per_game":  round(misc,  2),
             "trap_per_game":  round(trap,  2),
-            "p3_ratio":       round(p3 / p1, 3) if p1 > 0 else None,
+            "p3_ratio":       p3_ratio,
         })
     return pd.DataFrame(rows), stacked
 
