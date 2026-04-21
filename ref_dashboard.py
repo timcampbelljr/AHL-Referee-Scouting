@@ -511,19 +511,11 @@ def build_summary(df: pd.DataFrame):
         body  = _median_per_game(grp, "Rough|Fight|Cross|Charg|Board")
         misc  = _median_per_game(grp, "Misc|Unsport|Instig|Conduct")
         trap  = _median_per_game(grp, "Trip|Hold|Obstruct")
-        # P3/P1: count P1 and P3 per game directly, ratio per game, then median
-        # Force period to int to avoid str/float dtype mismatches from CSV loading
-        grp_p = grp.copy()
-        grp_p["_period_int"] = pd.to_numeric(grp_p["period"], errors="coerce")
-        p1_per_game = grp_p[grp_p["_period_int"] == 1].groupby("game_id").size()
-        p3_per_game = grp_p[grp_p["_period_int"] == 3].groupby("game_id").size()
-        # Align on game_id, fill missing periods with 0
-        all_games   = grp_p["game_id"].unique()
-        p1_per_game = p1_per_game.reindex(all_games, fill_value=0)
-        p3_per_game = p3_per_game.reindex(all_games, fill_value=0)
-        valid       = p1_per_game > 0
-        ratios      = (p3_per_game[valid] / p1_per_game[valid]).dropna()
-        p3_ratio    = round(float(ratios.median()), 3) if len(ratios) > 0 else 1.000
+        # P3/P1: total P3 penalties / total P1 penalties across all games
+        period_int = pd.to_numeric(grp["period"], errors="coerce")
+        p1_total   = (period_int == 1).sum()
+        p3_total   = (period_int == 3).sum()
+        p3_ratio   = round(p3_total / p1_total, 3) if p1_total > 0 else 1.000
 
         rows.append({
             "ref":            ref_name,
