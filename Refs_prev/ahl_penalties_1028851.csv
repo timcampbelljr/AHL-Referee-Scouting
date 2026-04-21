@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028851,2,2nd,1:19,440,ABB,9406,Nils Åman,88,C,Hooking,2.00,1,0,9406,Nils Åman,Alex Lepkowski,Cole MacDonald,,
+1028851,2,2nd,5:56,440,ABB,7696,Chase Wouters,21,C,Tripping,2.00,1,0,7696,Chase Wouters,Alex Lepkowski,Cole MacDonald,,
+1028851,2,2nd,8:04,444,CGY,5018,Martin Frk,29,RW,Tripping,2.00,1,0,5018,Martin Frk,Alex Lepkowski,Cole MacDonald,,
+1028851,2,2nd,11:31,440,ABB,10013,Cooper Walker,93,C,Holding,2.00,1,0,10013,Cooper Walker,Alex Lepkowski,Cole MacDonald,,

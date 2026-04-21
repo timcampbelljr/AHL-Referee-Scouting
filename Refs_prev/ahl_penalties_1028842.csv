@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028842,1,1st,3:44,389,IA,7653,Ben Jones,18,C,Holding the stick,2.00,1,0,7653,Ben Jones,Adam Tobias,Tyler Hascall,,
+1028842,1,1st,13:14,380,TEX,10044,Luke Krys,4,D,Roughing,2.00,0,0,10044,Luke Krys,Adam Tobias,Tyler Hascall,,
+1028842,1,1st,13:14,389,IA,10608,Riley Heidt,27,C,Roughing,2.00,0,0,10608,Riley Heidt,Adam Tobias,Tyler Hascall,,
+1028842,1,1st,17:32,380,TEX,9548,Cross Hanas,32,F,Hooking,2.00,1,0,9548,Cross Hanas,Adam Tobias,Tyler Hascall,,
+1028842,2,2nd,5:34,389,IA,9154,Oskar Olausson,24,F,Tripping,2.00,1,0,9154,Oskar Olausson,Adam Tobias,Tyler Hascall,,
+1028842,2,2nd,12:37,380,TEX,9075,Michael Karow,26,D,Slashing,2.00,1,0,9075,Michael Karow,Adam Tobias,Tyler Hascall,,
+1028842,2,2nd,19:24,380,TEX,9961,Matthew Seminoff,13,F,Slashing,2.00,1,0,9961,Matthew Seminoff,Adam Tobias,Tyler Hascall,,
+1028842,3,3rd,5:52,380,TEX,10044,Luke Krys,4,D,Delay of game,2.00,1,0,10044,Luke Krys,Adam Tobias,Tyler Hascall,,
+1028842,3,3rd,7:14,389,IA,10608,Riley Heidt,27,C,Hooking,2.00,1,0,10608,Riley Heidt,Adam Tobias,Tyler Hascall,,
+1028842,3,3rd,8:58,389,IA,10313,Hunter Haight,43,F,Roughing,2.00,0,0,10313,Hunter Haight,Adam Tobias,Tyler Hascall,,
+1028842,3,3rd,8:58,380,TEX,10555,Harrison Scott,11,F,Roughing,2.00,0,0,10555,Harrison Scott,Adam Tobias,Tyler Hascall,,

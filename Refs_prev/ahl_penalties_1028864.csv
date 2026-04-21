@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028864,1,1st,0:23,384,CLT,10615,Jack Devine,4,F,High-sticking,2.00,1,0,10615,Jack Devine,Jake Kamrass,Mathieu Menniti,,
+1028864,2,2nd,14:00,319,HER,9356,Henrik Rybinski,12,C,Tripping,2.00,1,0,9356,Henrik Rybinski,Jake Kamrass,Mathieu Menniti,,
+1028864,3,3rd,1:04,384,CLT,9880,Jake Livingstone,21,D,Delay of game,2.00,1,0,9880,Jake Livingstone,Jake Kamrass,Mathieu Menniti,,
+1028864,3,3rd,16:14,384,CLT,9914,Robert Mastrosimone,7,LW,Roughing,2.00,0,0,9914,Robert Mastrosimone,Jake Kamrass,Mathieu Menniti,,
+1028864,3,3rd,16:14,319,HER,7545,Corey Schueneman,6,D,Roughing,2.00,0,0,7545,Corey Schueneman,Jake Kamrass,Mathieu Menniti,,

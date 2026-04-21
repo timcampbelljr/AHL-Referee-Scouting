@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028883,1,1st,1:28,335,TOR,10991,Vinny Borgesi,20,D,Delay of game,2.00,1,0,10991,Vinny Borgesi,Tyler Spott,Koletrane Wilson,,
+1028883,1,1st,17:31,335,TOR,9994,Henry Thrun,3,D,Cross-checking,2.00,0,0,9994,Henry Thrun,Tyler Spott,Koletrane Wilson,,
+1028883,1,1st,17:31,324,SYR,10148,Dylan Duke,25,LW,Roughing,2.00,0,0,10148,Dylan Duke,Tyler Spott,Koletrane Wilson,,
+1028883,1,1st,19:35,335,TOR,10635,Blake Smith,59,D,Hooking,2.00,1,0,10635,Blake Smith,Tyler Spott,Koletrane Wilson,,
+1028883,3,3rd,6:20,324,SYR,4666,Jarred Tinordi,28,D,Roughing,2.00,1,0,4666,Jarred Tinordi,Tyler Spott,Koletrane Wilson,,

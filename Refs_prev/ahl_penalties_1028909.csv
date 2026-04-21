@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028909,1,1st,11:02,321,MB,7113,Mason Shaw,18,RW,High-sticking,2.00,1,0,7113,Mason Shaw,Riley Brace,Hayden Verbeek,,
+1028909,1,1st,17:32,321,MB,7113,Mason Shaw,18,RW,Hooking,2.00,1,0,7113,Mason Shaw,Riley Brace,Hayden Verbeek,,
+1028909,2,2nd,10:41,389,IA,6304,Nicolas Aubé-Kubel,96,RW,Holding,2.00,1,0,6304,Nicolas Aubé-Kubel,Riley Brace,Hayden Verbeek,,
+1028909,2,2nd,13:11,389,IA,10067,Jack Peart,3,D,Delay of game,2.00,1,0,10067,Jack Peart,Riley Brace,Hayden Verbeek,,
+1028909,2,2nd,20:00,321,MB,11040,Lucas Wahlin,33,F,Hooking,2.00,1,0,11040,Lucas Wahlin,Riley Brace,Hayden Verbeek,,
+1028909,3,3rd,0:27,389,IA,10313,Hunter Haight,43,F,Slashing,2.00,1,0,10313,Hunter Haight,Riley Brace,Hayden Verbeek,,
+1028909,3,3rd,13:19,321,MB,7113,Mason Shaw,18,RW,Delay of game,2.00,1,0,7113,Mason Shaw,Riley Brace,Hayden Verbeek,,
+1028909,3,3rd,14:46,389,IA,9859,Caedan Bankier,19,C,Holding,2.00,1,0,9859,Caedan Bankier,Riley Brace,Hayden Verbeek,,

@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028886,2,2nd,14:52,390,UTC,10892,Lenni Hämeenaho,29,F,High-sticking,2.00,1,0,10892,Lenni Hämeenaho,Ben Betker,Dan Kovachik,,
+1028886,2,2nd,20:00,390,UTC,10529,Ethan Edwards,73,D,Roughing,2.00,0,0,10529,Ethan Edwards,Ben Betker,Dan Kovachik,,
+1028886,2,2nd,20:00,413,BEL,10922,Carter Yakemchuk,26,D,Roughing,2.00,0,0,10922,Carter Yakemchuk,Ben Betker,Dan Kovachik,,
+1028886,3,3rd,0:21,390,UTC,7251,Ryan Schmelzer,26,C,Slashing,2.00,1,0,7251,Ryan Schmelzer,Ben Betker,Dan Kovachik,,
+1028886,3,3rd,6:21,413,BEL,11087,Blake Montgomery,17,LW,Tripping,2.00,1,0,11087,Blake Montgomery,Ben Betker,Dan Kovachik,,

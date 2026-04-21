@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028897,1,1st,19:41,389,IA,11085,Rieger Lorenz,15,LW,High-sticking,2.00,1,0,11085,Rieger Lorenz,Riley Brace,Hayden Verbeek,,
+1028897,2,2nd,14:14,389,IA,10313,Hunter Haight,43,F,High-sticking,2.00,1,0,10313,Hunter Haight,Riley Brace,Hayden Verbeek,,
+1028897,2,2nd,18:24,321,MB,8454,Dawson Barteaux,4,D,Roughing,2.00,0,0,8454,Dawson Barteaux,Riley Brace,Hayden Verbeek,,
+1028897,2,2nd,18:24,389,IA,10608,Riley Heidt,27,C,Roughing,2.00,0,0,10608,Riley Heidt,Riley Brace,Hayden Verbeek,,
+1028897,3,3rd,0:27,389,IA,9853,David Špaček,21,D,Holding,2.00,1,0,9853,David Špaček,Riley Brace,Hayden Verbeek,,
+1028897,3,3rd,9:19,321,MB,11042,Lukas Gustafsson,5,D,Slashing,2.00,0,0,11042,Lukas Gustafsson,Riley Brace,Hayden Verbeek,,
+1028897,3,3rd,9:19,389,IA,6304,Nicolas Aubé-Kubel,96,RW,Slashing,2.00,0,0,6304,Nicolas Aubé-Kubel,Riley Brace,Hayden Verbeek,,
+1028897,3,3rd,14:32,389,IA,6304,Nicolas Aubé-Kubel,96,RW,Tripping,2.00,1,0,6304,Nicolas Aubé-Kubel,Riley Brace,Hayden Verbeek,,

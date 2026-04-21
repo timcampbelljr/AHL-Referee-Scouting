@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028888,1,1st,2:07,307,HFD,7669,Trey Fix-Wolansky,64,F,Hooking,2.00,1,0,7669,Trey Fix-Wolansky,Austin Rook,Mike Dietrich,,
+1028888,1,1st,2:21,307,HFD,10276,Carey Terrance,11,F,Double minor - High-sticking,4.00,1,0,10276,Carey Terrance,Austin Rook,Mike Dietrich,,
+1028888,1,1st,16:27,317,BRI,10020,Luke Rowe,24,D,Delay of game,2.00,1,0,10020,Luke Rowe,Austin Rook,Mike Dietrich,,
+1028888,1,1st,17:16,317,BRI,10389,Isaiah George,4,D,Tripping,2.00,1,0,10389,Isaiah George,Austin Rook,Mike Dietrich,,
+1028888,2,2nd,10:35,307,HFD,8622,Connor Mackey,14,D,Holding,2.00,1,0,8622,Connor Mackey,Austin Rook,Mike Dietrich,,
+1028888,2,2nd,13:22,317,BRI,0,None None,0,,Too many men - Bench minor,2.00,1,1,7627,Hunter Drew,Austin Rook,Mike Dietrich,,
+1028888,3,3rd,8:34,307,HFD,10465,Scott Morrow,55,D,Roughing,2.00,0,0,10123,Kalle Väisänen,Austin Rook,Mike Dietrich,,
+1028888,3,3rd,8:34,307,HFD,10465,Scott Morrow,55,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,10465,Scott Morrow,Austin Rook,Mike Dietrich,,
+1028888,3,3rd,8:34,317,BRI,10040,Alex Jefferies,16,F,Holding,2.00,0,0,10040,Alex Jefferies,Austin Rook,Mike Dietrich,,
+1028888,3,3rd,11:53,307,HFD,10189,Dylan Roobroeck,28,F,Interference,2.00,1,0,10189,Dylan Roobroeck,Austin Rook,Mike Dietrich,,

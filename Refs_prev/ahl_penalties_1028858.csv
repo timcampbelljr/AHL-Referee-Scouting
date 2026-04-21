@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028858,1,1st,10:02,403,ONT,6784,Glenn Gawdin,21,F,Illegal check to the head,2.00,1,0,6784,Glenn Gawdin,Bobby Jo Love,Jack Young,,
+1028858,1,1st,12:00,445,CV,5471,Gustav Olofsson,23,D,Hooking,2.00,1,0,5471,Gustav Olofsson,Bobby Jo Love,Jack Young,,
+1028858,1,1st,17:14,445,CV,9797,Jakov Novak,68,F,Tripping,2.00,1,0,9797,Jakov Novak,Bobby Jo Love,Jack Young,,
+1028858,3,3rd,1:50,445,CV,10181,Andrei Loshko,72,F,Goaltender interference,2.00,1,0,10181,Andrei Loshko,Bobby Jo Love,Jack Young,,

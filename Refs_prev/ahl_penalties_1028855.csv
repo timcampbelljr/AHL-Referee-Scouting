@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028855,1,1st,4:03,437,HSK,9266,Jakub Brabenec,12,F,Holding,2.00,1,0,9266,Jakub Brabenec,Austin Rook,Stan Szczurek,,
+1028855,1,1st,11:28,437,HSK,10131,Mathieu Cataford,8,F,Tripping,2.00,1,0,10131,Mathieu Cataford,Austin Rook,Stan Szczurek,,
+1028855,1,1st,16:45,405,SJ,8914,Egor Afanasyev,11,LW,Holding,2.00,1,0,8914,Egor Afanasyev,Austin Rook,Stan Szczurek,,
+1028855,2,2nd,4:46,405,SJ,9177,Braden Hache,86,D,Cross-checking,2.00,1,0,9177,Braden Hache,Austin Rook,Stan Szczurek,,
+1028855,2,2nd,7:56,437,HSK,7760,Jonas Røndbjerg,46,F,Tripping,2.00,1,0,7760,Jonas Røndbjerg,Austin Rook,Stan Szczurek,,
+1028855,2,2nd,15:09,405,SJ,7897,Jimmy Huntington,40,F,Holding,2.00,1,0,7897,Jimmy Huntington,Austin Rook,Stan Szczurek,,
+1028855,3,3rd,0:10,405,SJ,9621,Anthony Vincent,76,F,Tripping,2.00,1,0,9621,Anthony Vincent,Austin Rook,Stan Szczurek,,
+1028855,3,3rd,4:53,437,HSK,7028,Mitch McLain,75,F,Slashing,2.00,1,0,7028,Mitch McLain,Austin Rook,Stan Szczurek,,

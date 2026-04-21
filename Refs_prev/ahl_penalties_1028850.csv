@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028850,1,1st,9:20,402,BAK,9384,Luke Prokop,77,D,Holding,2.00,1,0,9384,Luke Prokop,Harrison O’Pray,John Lindner,,
+1028850,1,1st,14:38,402,BAK,11064,William Nicholl,56,C,Cross-checking,2.00,1,0,11064,William Nicholl,Harrison O’Pray,John Lindner,,
+1028850,2,2nd,1:42,404,SD,10116,Konnor Smith,38,D,Tripping,2.00,1,0,10116,Konnor Smith,Harrison O’Pray,John Lindner,,
+1028850,2,2nd,3:41,404,SD,10506,Stian Solberg,7,D,Tripping,2.00,1,0,10506,Stian Solberg,Harrison O’Pray,John Lindner,,
+1028850,2,2nd,6:40,402,BAK,11064,William Nicholl,56,C,Tripping,2.00,1,0,11064,William Nicholl,Harrison O’Pray,John Lindner,,
+1028850,2,2nd,12:26,404,SD,9778,Nikita Nesterenko,13,C,Delay of game,2.00,1,0,9778,Nikita Nesterenko,Harrison O’Pray,John Lindner,,

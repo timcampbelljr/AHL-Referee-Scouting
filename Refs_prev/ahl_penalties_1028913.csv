@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028913,1,1st,10:10,402,BAK,7663,Alec Regula,75,D,Hooking,2.00,1,0,5080,Seth Griffith,Kyle Bauman,John Lindner,,
+1028913,1,1st,10:10,402,BAK,7663,Alec Regula,75,D,Roughing,2.00,0,0,7663,Alec Regula,Kyle Bauman,John Lindner,,
+1028913,1,1st,10:10,405,SJ,9177,Braden Hache,86,D,Roughing,2.00,0,0,9177,Braden Hache,Kyle Bauman,John Lindner,,
+1028913,1,1st,15:38,402,BAK,11064,William Nicholl,56,C,Interference,2.00,1,0,11064,William Nicholl,Kyle Bauman,John Lindner,,
+1028913,2,2nd,2:38,405,SJ,10099,Donavan Houle,83,F,Slashing,2.00,1,0,10099,Donavan Houle,Kyle Bauman,John Lindner,,
+1028913,2,2nd,12:00,405,SJ,9621,Anthony Vincent,76,F,Slashing,2.00,1,0,9621,Anthony Vincent,Kyle Bauman,John Lindner,,
+1028913,3,3rd,4:36,405,SJ,7897,Jimmy Huntington,40,F,Tripping,2.00,1,0,7897,Jimmy Huntington,Kyle Bauman,John Lindner,,
+1028913,3,3rd,8:22,402,BAK,10933,Isaac Howard,53,LW,Hooking,2.00,1,0,10933,Isaac Howard,Kyle Bauman,John Lindner,,
+1028913,3,3rd,17:26,405,SJ,9040,Patrick Giles,54,F,Slashing,2.00,1,0,9040,Patrick Giles,Kyle Bauman,John Lindner,,
+1028913,3,3rd,19:40,402,BAK,11064,William Nicholl,56,C,Tripping,2.00,1,0,11064,William Nicholl,Kyle Bauman,John Lindner,,

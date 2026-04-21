@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028902,1,1st,1:00,437,HSK,0,None None,0,,Too many men - Bench minor,2.00,1,1,10280,Tuomas Uronen,Liam Maaskant,Jack Young,,
+1028902,1,1st,3:01,412,TUC,8631,Ty Tullio,17,RW,Tripping,2.00,1,0,8631,Ty Tullio,Liam Maaskant,Jack Young,,
+1028902,1,1st,6:31,412,TUC,10208,Owen Allard,12,F,Tripping,2.00,1,0,10208,Owen Allard,Liam Maaskant,Jack Young,,
+1028902,1,1st,9:02,437,HSK,7267,Dylan Coghlan,52,D,Tripping,2.00,1,0,7267,Dylan Coghlan,Liam Maaskant,Jack Young,,
+1028902,1,1st,14:30,412,TUC,9217,Max Szuber,55,D,Tripping,2.00,1,0,9217,Max Szuber,Liam Maaskant,Jack Young,,
+1028902,2,2nd,8:38,437,HSK,10285,Viliam Kmec,74,D,Tripping,2.00,1,0,10285,Viliam Kmec,Liam Maaskant,Jack Young,,
+1028902,2,2nd,19:11,412,TUC,8734,Ben McCartney,22,F,Hooking,2.00,1,0,8734,Ben McCartney,Liam Maaskant,Jack Young,,
+1028902,3,3rd,9:17,412,TUC,8740,Montana Onyebuchi,79,D,Slashing,2.00,1,0,8740,Montana Onyebuchi,Liam Maaskant,Jack Young,,
+1028902,3,3rd,9:28,437,HSK,8663,Raphael Lavoie,36,F,Holding,2.00,1,0,8663,Raphael Lavoie,Liam Maaskant,Jack Young,,

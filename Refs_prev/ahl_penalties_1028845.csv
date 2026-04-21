@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028845,1,1st,0:29,327,MIL,11024,Viggo Gustafsson,7,D,Holding,2.00,1,0,11024,Viggo Gustafsson,Morgan MacPhee,Koletrane Wilson,,
+1028845,2,2nd,3:22,321,MB,7113,Mason Shaw,18,RW,Cross-checking,2.00,1,0,7113,Mason Shaw,Morgan MacPhee,Koletrane Wilson,,
+1028845,2,2nd,13:37,321,MB,7113,Mason Shaw,18,RW,Roughing,2.00,1,0,7113,Mason Shaw,Morgan MacPhee,Koletrane Wilson,,
+1028845,3,3rd,5:40,327,MIL,10166,Massimo Rizzo,73,F,Slashing,2.00,1,0,10166,Massimo Rizzo,Morgan MacPhee,Koletrane Wilson,,
+1028845,3,3rd,8:03,321,MB,10121,Colby Barlow,39,RW,Roughing,2.00,1,0,10121,Colby Barlow,Morgan MacPhee,Koletrane Wilson,,
+1028845,3,3rd,9:46,327,MIL,10832,Oasiz Wiesblatt,88,C,Holding,2.00,1,0,10832,Oasiz Wiesblatt,Morgan MacPhee,Koletrane Wilson,,
+1028845,3,3rd,19:14,321,MB,9759,Nikita Chibrikov,19,LW,Misconduct - Unsportsmanlike conduct,10.00,0,0,9759,Nikita Chibrikov,Morgan MacPhee,Koletrane Wilson,,
+1028845,3,3rd,19:14,327,MIL,8825,Kyle Marino,36,RW,Misconduct - Unsportsmanlike conduct,10.00,0,0,8825,Kyle Marino,Morgan MacPhee,Koletrane Wilson,,

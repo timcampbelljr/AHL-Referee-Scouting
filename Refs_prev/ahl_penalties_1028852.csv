@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028852,1,1st,9:05,412,TUC,8519,Scott Perunovich,7,D,Tripping,2.00,1,0,8519,Scott Perunovich,Ben Betker,Simon Desbiens,,
+1028852,2,2nd,18:20,412,TUC,9396,Sammy Walker,25,F,Slashing,2.00,1,0,9396,Sammy Walker,Ben Betker,Simon Desbiens,,
+1028852,3,3rd,5:10,419,COL,10561,Taylor Makar,16,F,High-sticking,2.00,1,0,10561,Taylor Makar,Ben Betker,Simon Desbiens,,
+1028852,3,3rd,18:25,419,COL,9638,Mark Senden,51,F,High-sticking,2.00,1,0,9638,Mark Senden,Ben Betker,Simon Desbiens,,

@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028903,1,1st,9:45,309,PRO,9524,Fabian Lysell,22,RW,Roughing,2.00,1,0,9524,Fabian Lysell,Austin Rook,Rob Hennessey,,
+1028903,1,1st,15:12,309,PRO,8462,Billy Sweezey,6,D,Roughing,2.00,0,0,8462,Billy Sweezey,Austin Rook,Rob Hennessey,,
+1028903,1,1st,15:12,390,UTC,8891,Nathan Légaré,11,RW,Roughing,2.00,0,0,8891,Nathan Légaré,Austin Rook,Rob Hennessey,,
+1028903,1,1st,17:22,390,UTC,10815,Matyas Melovsky,21,F,Hooking,2.00,1,0,10815,Matyas Melovsky,Austin Rook,Rob Hennessey,,
+1028903,1,1st,17:25,390,UTC,10442,Mikaël Diotte,58,D,Delay of game,2.00,1,0,10442,Mikaël Diotte,Austin Rook,Rob Hennessey,,
+1028903,2,2nd,5:30,309,PRO,9729,Matthew Poitras,21,C,Cross-checking,2.00,1,0,9729,Matthew Poitras,Austin Rook,Rob Hennessey,,
+1028903,2,2nd,5:30,309,PRO,9148,Colin Felix,9,D,Roughing,2.00,1,0,9148,Colin Felix,Austin Rook,Rob Hennessey,,
+1028903,2,2nd,14:14,390,UTC,7251,Ryan Schmelzer,26,C,Roughing,2.00,0,0,7251,Ryan Schmelzer,Austin Rook,Rob Hennessey,,
+1028903,2,2nd,14:14,309,PRO,8462,Billy Sweezey,6,D,Roughing,2.00,0,0,8462,Billy Sweezey,Austin Rook,Rob Hennessey,,
+1028903,2,2nd,14:14,309,PRO,10869,Loke Johansson,15,D,Cross-checking,2.00,1,0,10869,Loke Johansson,Austin Rook,Rob Hennessey,,
+1028903,2,2nd,19:00,309,PRO,9435,Joey Abate,47,LW,Tripping,2.00,1,0,9435,Joey Abate,Austin Rook,Rob Hennessey,,

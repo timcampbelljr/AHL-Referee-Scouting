@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028879,1,1st,11:04,313,LV,10046,Hunter McDonald,19,D,Tripping,2.00,1,0,10046,Hunter McDonald,Mike Dietrich,Rob Hennessey,,
+1028879,1,1st,12:36,373,CLE,6322,Dysin Mayo,6,D,Tripping,2.00,1,0,6322,Dysin Mayo,Mike Dietrich,Rob Hennessey,,
+1028879,1,1st,18:45,313,LV,6342,Anthony Richard,90,LW,Roughing,2.00,1,0,6779,Boris Katchouk,Mike Dietrich,Rob Hennessey,,
+1028879,1,1st,18:45,373,CLE,6322,Dysin Mayo,6,D,Fighting,5.00,0,0,6322,Dysin Mayo,Mike Dietrich,Rob Hennessey,,
+1028879,1,1st,18:45,313,LV,6342,Anthony Richard,90,LW,Fighting,5.00,0,0,6342,Anthony Richard,Mike Dietrich,Rob Hennessey,,
+1028879,2,2nd,9:39,373,CLE,10895,Caleb MacDonald,43,D,Holding,2.00,1,0,10895,Caleb MacDonald,Mike Dietrich,Rob Hennessey,,
+1028879,2,2nd,14:41,373,CLE,9058,Owen Sillinger,12,C,Delay of game,2.00,1,0,9058,Owen Sillinger,Mike Dietrich,Rob Hennessey,,
+1028879,3,3rd,1:45,373,CLE,9980,Hunter McKown,41,C,Holding,2.00,1,0,9980,Hunter McKown,Mike Dietrich,Rob Hennessey,,
+1028879,3,3rd,17:26,373,CLE,9904,Tate Singleton,48,RW,High-sticking,2.00,1,0,9904,Tate Singleton,Mike Dietrich,Rob Hennessey,,

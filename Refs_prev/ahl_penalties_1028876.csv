@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028876,1,1st,0:14,307,HFD,7569,Casey Fitzgerald,4,D,Fighting,5.00,0,0,7569,Casey Fitzgerald,Riley Brace,Jacob Hicks,,
+1028876,1,1st,0:14,317,BRI,10020,Luke Rowe,24,D,Fighting,5.00,0,0,10020,Luke Rowe,Riley Brace,Jacob Hicks,,
+1028876,1,1st,3:47,307,HFD,9048,Brandon Scanlin,58,D,Double minor - High-sticking,4.00,1,0,9048,Brandon Scanlin,Riley Brace,Jacob Hicks,,
+1028876,2,2nd,7:03,307,HFD,8622,Connor Mackey,14,D,Tripping,2.00,1,0,8622,Connor Mackey,Riley Brace,Jacob Hicks,,
+1028876,2,2nd,12:08,317,BRI,9442,Daylan Kuefler,11,F,Holding,2.00,1,0,9442,Daylan Kuefler,Riley Brace,Jacob Hicks,,
+1028876,2,2nd,15:40,317,BRI,9442,Daylan Kuefler,11,F,Hooking,2.00,1,0,9442,Daylan Kuefler,Riley Brace,Jacob Hicks,,
+1028876,2,2nd,17:33,317,BRI,6700,Marcus Högberg,1,G,Tripping,2.00,1,0,10388,Cam Thiesing,Riley Brace,Jacob Hicks,,
+1028876,3,3rd,2:05,307,HFD,8789,Chris Ortiz,5,D,Interference,2.00,1,0,8789,Chris Ortiz,Riley Brace,Jacob Hicks,,
+1028876,3,3rd,7:21,317,BRI,2350,Chris Terry,25,F,High-sticking,2.00,0,0,2350,Chris Terry,Riley Brace,Jacob Hicks,,
+1028876,3,3rd,7:21,307,HFD,10735,Cooper Moore,3,D,Interference,2.00,0,0,10735,Cooper Moore,Riley Brace,Jacob Hicks,,
+1028876,3,3rd,16:58,307,HFD,10581,Sullivan Mack,13,F,Hooking,2.00,1,0,10581,Sullivan Mack,Riley Brace,Jacob Hicks,,

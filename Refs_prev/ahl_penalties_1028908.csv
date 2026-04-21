@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028908,2,2nd,8:06,317,BRI,10020,Luke Rowe,24,D,Tripping,2.00,1,0,10020,Luke Rowe,Morgan MacPhee,Austin Rook,,
+1028908,2,2nd,10:46,317,BRI,9515,Pierrick Dubé,7,RW,Tripping,2.00,1,0,9515,Pierrick Dubé,Morgan MacPhee,Austin Rook,,
+1028908,2,2nd,15:56,319,HER,9161,Bogdan Trineyev,44,RW,Tripping,2.00,1,0,9161,Bogdan Trineyev,Morgan MacPhee,Austin Rook,,

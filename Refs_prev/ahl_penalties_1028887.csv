@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028887,1,1st,8:56,330,CHI,10775,Braden Doyle,28,D,Tripping,2.00,1,0,10775,Braden Doyle,Riley Brace,Jarrod Ragusin,,
+1028887,1,1st,17:48,330,CHI,10511,Blake Biondi,25,RW,Holding,2.00,1,0,10511,Blake Biondi,Riley Brace,Jarrod Ragusin,,
+1028887,2,2nd,6:46,330,CHI,9927,Viktor Neuchev,79,LW,Slashing,2.00,1,0,9927,Viktor Neuchev,Riley Brace,Jarrod Ragusin,,
+1028887,2,2nd,16:57,321,MB,8424,Isaak Phillips,3,D,Holding,2.00,1,0,8424,Isaak Phillips,Riley Brace,Jarrod Ragusin,,
+1028887,3,3rd,4:44,330,CHI,10775,Braden Doyle,28,D,Tripping,2.00,1,0,10775,Braden Doyle,Riley Brace,Jarrod Ragusin,,
+1028887,3,3rd,12:09,330,CHI,10778,David Gagnon,37,C,Hooking,2.00,1,0,10778,David Gagnon,Riley Brace,Jarrod Ragusin,,

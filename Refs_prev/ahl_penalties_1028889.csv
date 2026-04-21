@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028889,1,1st,6:31,389,IA,10608,Riley Heidt,27,C,Tripping,2.00,1,0,10608,Riley Heidt,Tyler Spott,Koletrane Wilson,,
+1028889,1,1st,16:22,389,IA,9655,Ryan Sandelin,13,F,Slashing,2.00,1,0,9655,Ryan Sandelin,Tyler Spott,Koletrane Wilson,,
+1028889,1,1st,18:51,389,IA,9856,Carson Lambos,7,D,Interference,2.00,1,0,9856,Carson Lambos,Tyler Spott,Koletrane Wilson,,
+1028889,2,2nd,7:29,328,GR,10982,Eddie Genborg,55,F,Holding,2.00,1,0,10982,Eddie Genborg,Tyler Spott,Koletrane Wilson,,
+1028889,2,2nd,11:31,389,IA,9749,Roman Schmidt,76,D,Double minor - High-sticking,4.00,1,0,9749,Roman Schmidt,Tyler Spott,Koletrane Wilson,,
+1028889,3,3rd,3:32,328,GR,10835,Wojciech Stachowiak,49,C,Tripping,2.00,1,0,10835,Wojciech Stachowiak,Tyler Spott,Koletrane Wilson,,
+1028889,3,3rd,10:31,328,GR,6103,Erik Gustafsson,56,D,Hooking,2.00,1,0,6103,Erik Gustafsson,Tyler Spott,Koletrane Wilson,,
+1028889,3,3rd,15:56,389,IA,11085,Rieger Lorenz,15,LW,Hooking,2.00,1,0,11085,Rieger Lorenz,Tyler Spott,Koletrane Wilson,,

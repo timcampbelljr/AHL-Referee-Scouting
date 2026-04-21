@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028885,1,1st,2:10,405,SJ,10100,Lucas Vanroboys,67,F,Fighting,5.00,0,0,10100,Lucas Vanroboys,Jordan Deckard,Ben Solomon,,
+1028885,1,1st,2:10,445,CV,9710,David Goyette,88,F,Fighting,5.00,0,0,9710,David Goyette,Jordan Deckard,Ben Solomon,,
+1028885,1,1st,9:21,445,CV,10548,Justin Janicke,9,F,Hooking,2.00,1,0,10548,Justin Janicke,Jordan Deckard,Ben Solomon,,
+1028885,2,2nd,9:10,405,SJ,7597,Jett Woo,22,D,Tripping,2.00,1,0,7597,Jett Woo,Jordan Deckard,Ben Solomon,,
+1028885,2,2nd,14:41,405,SJ,10543,Noah Beck,70,D,High-sticking,2.00,1,0,10543,Noah Beck,Jordan Deckard,Ben Solomon,,
+1028885,3,3rd,1:46,445,CV,9706,Ville Ottavainen,36,D,Holding,2.00,1,0,9706,Ville Ottavainen,Jordan Deckard,Ben Solomon,,
+1028885,3,3rd,2:29,445,CV,5471,Gustav Olofsson,23,D,Double minor - High-sticking,4.00,1,0,5471,Gustav Olofsson,Jordan Deckard,Ben Solomon,,

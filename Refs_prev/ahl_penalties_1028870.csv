@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028870,1,1st,6:17,313,LV,9378,Jacob Gaucher,56,F,Holding,2.00,1,0,9378,Jacob Gaucher,Jordan Deckard,Koletrane Wilson,,
+1028870,1,1st,6:44,313,LV,10046,Hunter McDonald,19,D,Tripping,2.00,1,0,10046,Hunter McDonald,Jordan Deckard,Koletrane Wilson,,
+1028870,2,2nd,1:51,317,BRI,9515,Pierrick Dubé,7,RW,Tripping,2.00,1,0,9515,Pierrick Dubé,Jordan Deckard,Koletrane Wilson,,
+1028870,2,2nd,3:11,317,BRI,10388,Cam Thiesing,15,F,Tripping,2.00,1,0,10388,Cam Thiesing,Jordan Deckard,Koletrane Wilson,,
+1028870,2,2nd,6:20,317,BRI,2350,Chris Terry,25,F,Fighting,5.00,0,0,2350,Chris Terry,Jordan Deckard,Koletrane Wilson,,
+1028870,2,2nd,6:20,313,LV,8805,Helge Grans,3,D,Fighting,5.00,0,0,8805,Helge Grans,Jordan Deckard,Koletrane Wilson,,
+1028870,2,2nd,8:34,313,LV,10046,Hunter McDonald,19,D,Tripping,2.00,1,0,10046,Hunter McDonald,Jordan Deckard,Koletrane Wilson,,
+1028870,2,2nd,9:57,313,LV,11066,Jack Berglund,16,C,Tripping,2.00,1,0,11066,Jack Berglund,Jordan Deckard,Koletrane Wilson,,
+1028870,2,2nd,15:22,317,BRI,9886,Cole McWard,3,D,Holding,2.00,1,0,9886,Cole McWard,Jordan Deckard,Koletrane Wilson,,
+1028870,3,3rd,17:19,313,LV,10722,Oliver Bonk,59,D,Holding,2.00,1,0,10722,Oliver Bonk,Jordan Deckard,Koletrane Wilson,,

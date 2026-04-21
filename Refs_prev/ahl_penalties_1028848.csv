@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028848,1,1st,12:03,335,TOR,10836,Landon Sim,42,F,Fighting,5.00,0,0,10836,Landon Sim,Riley Brace,Dan Kovachik,,
+1028848,1,1st,12:03,390,UTC,10621,Cam Squires,12,F,Fighting,5.00,0,0,10621,Cam Squires,Riley Brace,Dan Kovachik,,
+1028848,1,1st,12:55,335,TOR,10613,Borya Valis,39,F,Elbowing,2.00,1,0,10613,Borya Valis,Riley Brace,Dan Kovachik,,
+1028848,2,2nd,5:36,335,TOR,9624,Ryan Tverberg,77,F,Tripping,2.00,1,0,9624,Ryan Tverberg,Riley Brace,Dan Kovachik,,
+1028848,2,2nd,8:56,335,TOR,10836,Landon Sim,42,F,Roughing,2.00,0,0,10836,Landon Sim,Riley Brace,Dan Kovachik,,
+1028848,2,2nd,8:56,390,UTC,7251,Ryan Schmelzer,26,C,Roughing,2.00,0,0,7251,Ryan Schmelzer,Riley Brace,Dan Kovachik,,
+1028848,2,2nd,10:46,390,UTC,6362,Colton White,6,D,Hooking,2.00,1,0,6362,Colton White,Riley Brace,Dan Kovachik,,
+1028848,2,2nd,17:51,335,TOR,7780,Cédric Paré,56,F,Slashing,2.00,1,0,7780,Cédric Paré,Riley Brace,Dan Kovachik,,
+1028848,2,2nd,19:04,390,UTC,6362,Colton White,6,D,Roughing,2.00,1,0,6362,Colton White,Riley Brace,Dan Kovachik,,
+1028848,3,3rd,7:18,390,UTC,10529,Ethan Edwards,73,D,Interference,2.00,1,0,10529,Ethan Edwards,Riley Brace,Dan Kovachik,,
+1028848,3,3rd,12:08,335,TOR,9994,Henry Thrun,3,D,Roughing,2.00,0,0,9994,Henry Thrun,Riley Brace,Dan Kovachik,,
+1028848,3,3rd,12:08,390,UTC,9516,Xavier Parent,67,F,Roughing,2.00,0,0,9516,Xavier Parent,Riley Brace,Dan Kovachik,,

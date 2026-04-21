@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028860,1,1st,6:50,323,ROC,9078,Graham Slaggert,19,LW,Hooking,2.00,1,0,9078,Graham Slaggert,Riley Brace,Liam Maaskant,,
+1028860,1,1st,12:25,411,SPR,10843,Quinton Burns,42,D,Tripping,2.00,1,0,10843,Quinton Burns,Riley Brace,Liam Maaskant,,
+1028860,1,1st,18:53,411,SPR,9268,Zach Dean,14,F,Hooking,2.00,1,0,9268,Zach Dean,Riley Brace,Liam Maaskant,,
+1028860,2,2nd,2:59,323,ROC,9803,Isaac Belliveau,58,D,Delay of game,2.00,1,0,9803,Isaac Belliveau,Riley Brace,Liam Maaskant,,
+1028860,2,2nd,18:04,411,SPR,9737,Michael Buchinger,9,D,Double minor - High-sticking,4.00,1,0,9737,Michael Buchinger,Riley Brace,Liam Maaskant,,
+1028860,3,3rd,10:45,323,ROC,9643,Jagger Joshua,8,LW,Tripping,2.00,1,0,9643,Jagger Joshua,Riley Brace,Liam Maaskant,,
+1028860,3,3rd,11:51,323,ROC,9803,Isaac Belliveau,58,D,Delay of game,2.00,1,0,9803,Isaac Belliveau,Riley Brace,Liam Maaskant,,

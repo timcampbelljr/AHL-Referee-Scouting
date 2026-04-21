@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028877,1,1st,2:31,384,CLT,10915,Hunter St. Martin,19,F,Holding,2.00,1,0,10915,Hunter St. Martin,Jake Kamrass,Mathieu Menniti,,
+1028877,1,1st,5:48,319,HER,9820,Jon McDonald,47,D,Tripping,2.00,1,0,9820,Jon McDonald,Jake Kamrass,Mathieu Menniti,,
+1028877,1,1st,9:56,384,CLT,5614,Trevor Carrick,5,D,Holding,2.00,1,0,5614,Trevor Carrick,Jake Kamrass,Mathieu Menniti,,
+1028877,1,1st,19:32,319,HER,9881,Sam Bitten,43,LW,High-sticking,2.00,1,0,9881,Sam Bitten,Jake Kamrass,Mathieu Menniti,,
+1028877,2,2nd,3:01,319,HER,10956,Reilly Webb,4,D,Holding,2.00,1,0,10956,Reilly Webb,Jake Kamrass,Mathieu Menniti,,
+1028877,2,2nd,6:29,319,HER,10573,David Gucciardi,48,D,Roughing,2.00,0,0,10573,David Gucciardi,Jake Kamrass,Mathieu Menniti,,
+1028877,2,2nd,6:29,384,CLT,10056,Ben Steeves,6,F,Roughing,2.00,0,0,10056,Ben Steeves,Jake Kamrass,Mathieu Menniti,,
+1028877,3,3rd,10:12,319,HER,10592,Leon Muggli,34,D,Cross-checking,2.00,1,0,10592,Leon Muggli,Jake Kamrass,Mathieu Menniti,,

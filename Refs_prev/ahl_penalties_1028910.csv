@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028910,1,1st,8:35,440,ABB,10013,Cooper Walker,93,C,Hooking,2.00,1,0,10013,Cooper Walker,Mike Sullivan,Sydney Harris,,
+1028910,1,1st,10:51,403,ONT,9239,Francesco Pinelli,71,F,Interference,2.00,1,0,9239,Francesco Pinelli,Mike Sullivan,Sydney Harris,,
+1028910,1,1st,13:23,403,ONT,7362,Logan Brown,91,F,Hooking,2.00,1,0,7362,Logan Brown,Mike Sullivan,Sydney Harris,,
+1028910,2,2nd,6:10,403,ONT,10711,Henry Brzustewicz,68,D,Cross-checking,2.00,1,0,10711,Henry Brzustewicz,Mike Sullivan,Sydney Harris,,
+1028910,2,2nd,11:01,403,ONT,9241,Aatu Jämsen,86,F,Goaltender interference,2.00,1,0,9241,Aatu Jämsen,Mike Sullivan,Sydney Harris,,
+1028910,2,2nd,11:43,440,ABB,8709,Jack Thompson,2,D,Interference,2.00,1,0,8709,Jack Thompson,Mike Sullivan,Sydney Harris,,
+1028910,2,2nd,17:41,440,ABB,9554,Arshdeep Bains,13,LW,Hooking,2.00,1,0,9554,Arshdeep Bains,Mike Sullivan,Sydney Harris,,
+1028910,3,3rd,2:00,440,ABB,10077,Sawyer Mynio,45,D,High-sticking,2.00,1,0,10077,Sawyer Mynio,Mike Sullivan,Sydney Harris,,
+1028910,3,3rd,5:37,440,ABB,8709,Jack Thompson,2,D,High-sticking,2.00,1,0,8709,Jack Thompson,Mike Sullivan,Sydney Harris,,

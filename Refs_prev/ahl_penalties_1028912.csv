@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028912,1,1st,11:16,445,CV,9706,Ville Ottavainen,36,D,Cross-checking,2.00,1,0,9706,Ville Ottavainen,Graedy Hamilton,Mathieu Menniti,,
+1028912,1,1st,17:08,404,SD,6442,Nikolas Brouillard,15,D,Interference,2.00,1,0,6442,Nikolas Brouillard,Graedy Hamilton,Mathieu Menniti,,
+1028912,2,2nd,3:50,445,CV,10127,Jani Nyman,33,F,Tripping,2.00,1,0,10127,Jani Nyman,Graedy Hamilton,Mathieu Menniti,,
+1028912,2,2nd,18:12,404,SD,10116,Konnor Smith,38,D,Cross-checking,2.00,1,0,10116,Konnor Smith,Graedy Hamilton,Mathieu Menniti,,
+1028912,3,3rd,14:10,445,CV,9992,J.R. Avon,10,F,Tripping,2.00,1,0,9992,J.R. Avon,Graedy Hamilton,Mathieu Menniti,,

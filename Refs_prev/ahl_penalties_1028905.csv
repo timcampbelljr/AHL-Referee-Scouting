@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028905,1,1st,3:32,384,CLT,10456,Sandis Vilmanis,29,F,Hooking,2.00,1,0,10456,Sandis Vilmanis,Stephen Hiff,Bobby Jo Love,,
+1028905,1,1st,18:40,313,LV,10349,Jackson Edward,44,D,Holding,2.00,1,0,10349,Jackson Edward,Stephen Hiff,Bobby Jo Love,,
+1028905,2,2nd,3:27,313,LV,9963,Christian Kyrou,15,D,Hooking,2.00,1,0,9963,Christian Kyrou,Stephen Hiff,Bobby Jo Love,,
+1028905,2,2nd,4:37,384,CLT,9990,Wilmer Skoog,25,F,Cross-checking,2.00,1,0,9990,Wilmer Skoog,Stephen Hiff,Bobby Jo Love,,
+1028905,2,2nd,8:17,313,LV,9963,Christian Kyrou,15,D,Hooking,2.00,1,0,9963,Christian Kyrou,Stephen Hiff,Bobby Jo Love,,
+1028905,2,2nd,9:08,384,CLT,10459,Mikulas Hovorka,14,D,Interference,2.00,1,0,10459,Mikulas Hovorka,Stephen Hiff,Bobby Jo Love,,
+1028905,2,2nd,13:02,384,CLT,9914,Robert Mastrosimone,7,LW,Roughing,2.00,0,0,9914,Robert Mastrosimone,Stephen Hiff,Bobby Jo Love,,
+1028905,2,2nd,13:02,313,LV,10300,Sawyer Boulton,36,F,Roughing,2.00,0,0,10300,Sawyer Boulton,Stephen Hiff,Bobby Jo Love,,
+1028905,2,2nd,19:44,313,LV,10300,Sawyer Boulton,36,F,Roughing,2.00,1,0,10300,Sawyer Boulton,Stephen Hiff,Bobby Jo Love,,
+1028905,3,3rd,3:43,384,CLT,10056,Ben Steeves,6,F,Double minor - High-sticking,4.00,1,0,10056,Ben Steeves,Stephen Hiff,Bobby Jo Love,,

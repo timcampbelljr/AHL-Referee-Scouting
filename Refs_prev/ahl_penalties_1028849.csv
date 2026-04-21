@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028849,1,1st,19:33,317,BRI,10388,Cam Thiesing,15,F,Interference,2.00,1,0,10388,Cam Thiesing,Liam Maaskant,Mike Dietrich,,
+1028849,2,2nd,6:44,317,BRI,10994,Cole Eiserman,43,F,Tripping,2.00,1,0,10994,Cole Eiserman,Liam Maaskant,Mike Dietrich,,
+1028849,2,2nd,13:24,317,BRI,9442,Daylan Kuefler,11,F,Tripping,2.00,1,0,9442,Daylan Kuefler,Liam Maaskant,Mike Dietrich,,
+1028849,2,2nd,14:29,316,WBS,6845,Sebastian Aho,25,D,Holding the stick,2.00,1,0,6845,Sebastian Aho,Liam Maaskant,Mike Dietrich,,
+1028849,3,3rd,5:44,316,WBS,6865,Bokondji Imama,14,LW,Major - Boarding,5.00,1,0,11044,Daniel Russell,Liam Maaskant,Mike Dietrich,,
+1028849,3,3rd,5:44,316,WBS,6865,Bokondji Imama,14,LW,Game misconduct - Boarding,10.00,0,0,6865,Bokondji Imama,Liam Maaskant,Mike Dietrich,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028880,1,1st,2:24,380,TEX,10044,Luke Krys,4,D,Tripping,2.00,1,0,10044,Luke Krys,Graedy Hamilton,Chad Ingalls,,
+1028880,1,1st,16:46,380,TEX,9961,Matthew Seminoff,13,F,Roughing,2.00,0,0,9961,Matthew Seminoff,Graedy Hamilton,Chad Ingalls,,
+1028880,1,1st,16:46,321,MB,9746,Danny Zhilkin,17,C,Roughing,2.00,0,0,9746,Danny Zhilkin,Graedy Hamilton,Chad Ingalls,,
+1028880,1,1st,20:00,380,TEX,7101,Kole Lind,17,F,Unsportsmanlike conduct,2.00,0,0,7101,Kole Lind,Graedy Hamilton,Chad Ingalls,,
+1028880,1,1st,20:00,321,MB,7113,Mason Shaw,18,RW,Unsportsmanlike conduct,2.00,0,0,7113,Mason Shaw,Graedy Hamilton,Chad Ingalls,,
+1028880,2,2nd,2:16,380,TEX,4883,Curtis McKenzie,16,F,Fighting,5.00,0,0,4883,Curtis McKenzie,Graedy Hamilton,Chad Ingalls,,
+1028880,2,2nd,2:16,321,MB,8809,Tyson Empey,20,LW,Fighting,5.00,0,0,8809,Tyson Empey,Graedy Hamilton,Chad Ingalls,,
+1028880,2,2nd,9:52,380,TEX,10135,Tristan Bertucci,3,D,Interference,2.00,1,0,10135,Tristan Bertucci,Graedy Hamilton,Chad Ingalls,,
+1028880,2,2nd,17:48,321,MB,7680,Samuel Fagemo,16,LW,Holding,2.00,1,0,7680,Samuel Fagemo,Graedy Hamilton,Chad Ingalls,,

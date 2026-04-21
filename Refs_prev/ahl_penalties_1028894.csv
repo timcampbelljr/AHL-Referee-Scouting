@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028894,1,1st,9:28,413,BEL,8598,Graeme Clarke,92,C,Double minor - High-sticking,4.00,1,0,8442,Jamieson Rees,Ben Betker,Dan Kovachik,,
+1028894,1,1st,9:28,324,SYR,10148,Dylan Duke,25,LW,Roughing,2.00,0,0,10148,Dylan Duke,Ben Betker,Dan Kovachik,,
+1028894,1,1st,13:54,413,BEL,9448,Xavier Bourgault,13,RW,High-sticking,2.00,1,0,9448,Xavier Bourgault,Ben Betker,Dan Kovachik,,
+1028894,1,1st,17:48,324,SYR,10148,Dylan Duke,25,LW,Slashing,2.00,1,0,10148,Dylan Duke,Ben Betker,Dan Kovachik,,
+1028894,2,2nd,4:04,324,SYR,11060,Ethan Czata,9,C,Holding,2.00,1,0,11060,Ethan Czata,Ben Betker,Dan Kovachik,,
+1028894,2,2nd,7:01,324,SYR,8667,Ian Mitchell,5,D,High-sticking,2.00,1,0,8667,Ian Mitchell,Ben Betker,Dan Kovachik,,
+1028894,2,2nd,13:02,324,SYR,10399,Spencer Kersten,41,RW,Double minor - High-sticking,4.00,1,0,10399,Spencer Kersten,Ben Betker,Dan Kovachik,,
+1028894,3,3rd,13:06,413,BEL,9906,Djibril Touré,44,D,Roughing,2.00,0,0,9906,Djibril Touré,Ben Betker,Dan Kovachik,,
+1028894,3,3rd,13:06,324,SYR,10526,Cooper Flinton,20,LW,Roughing,2.00,0,0,10526,Cooper Flinton,Ben Betker,Dan Kovachik,,

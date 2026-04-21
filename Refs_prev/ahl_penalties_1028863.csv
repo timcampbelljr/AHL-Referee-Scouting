@@ -1,0 +1,3 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028863,1,1st,9:22,444,CGY,9970,Brennan Othmann,28,LW,Delay of game,2.00,1,0,9970,Brennan Othmann,Alex Lepkowski,Cole MacDonald,,
+1028863,3,3rd,13:24,440,ABB,9554,Arshdeep Bains,13,LW,Double minor - High-sticking,4.00,1,0,9554,Arshdeep Bains,Alex Lepkowski,Cole MacDonald,,

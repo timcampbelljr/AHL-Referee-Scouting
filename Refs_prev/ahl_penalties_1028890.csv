@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028890,1,1st,18:19,412,TUC,7069,Austin Poganski,27,RW,Hooking,2.00,1,0,7069,Austin Poganski,Mike Sullivan,Jordan Deckard,,
+1028890,2,2nd,0:47,412,TUC,10664,Daniil But,50,F,Hooking,2.00,1,0,10664,Daniil But,Mike Sullivan,Jordan Deckard,,
+1028890,2,2nd,14:55,412,TUC,3642,Andrew Agozzino,29,C,Slashing,2.00,1,0,3642,Andrew Agozzino,Mike Sullivan,Jordan Deckard,,
+1028890,2,2nd,17:12,404,SD,5912,Roland McKeown,37,D,Slashing,2.00,1,0,5912,Roland McKeown,Mike Sullivan,Jordan Deckard,,
+1028890,3,3rd,10:03,412,TUC,10111,Sam Lipkin,71,F,Interference,2.00,1,0,10111,Sam Lipkin,Mike Sullivan,Jordan Deckard,,
+1028890,3,3rd,16:21,412,TUC,10111,Sam Lipkin,71,F,Slashing,2.00,1,0,10111,Sam Lipkin,Mike Sullivan,Jordan Deckard,,
+1028890,3,3rd,16:40,412,TUC,9217,Max Szuber,55,D,Tripping,2.00,1,0,9217,Max Szuber,Mike Sullivan,Jordan Deckard,,

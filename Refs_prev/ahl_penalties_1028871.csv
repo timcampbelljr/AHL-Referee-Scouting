@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028871,1,1st,12:30,327,MIL,8837,Shawn Element,22,LW,Elbowing,2.00,1,0,8837,Shawn Element,Beau Halkidis,Nick Isaacson,,
+1028871,1,1st,17:17,327,MIL,10554,Kalan Lind,48,LW,Delay of game,2.00,1,0,10554,Kalan Lind,Beau Halkidis,Nick Isaacson,,
+1028871,1,1st,18:04,327,MIL,9757,Jack Matier,51,D,Holding,2.00,1,0,9757,Jack Matier,Beau Halkidis,Nick Isaacson,,
+1028871,2,2nd,2:46,330,CHI,6657,Givani Smith,24,LW,Tripping,2.00,1,0,6657,Givani Smith,Beau Halkidis,Nick Isaacson,,
+1028871,2,2nd,4:38,327,MIL,8825,Kyle Marino,36,RW,Roughing,2.00,1,0,8825,Kyle Marino,Beau Halkidis,Nick Isaacson,,
+1028871,2,2nd,16:03,330,CHI,10622,Dominik Badinka,3,D,Interference,2.00,1,0,10622,Dominik Badinka,Beau Halkidis,Nick Isaacson,,
+1028871,2,2nd,18:22,330,CHI,10622,Dominik Badinka,3,D,High-sticking,2.00,1,0,10622,Dominik Badinka,Beau Halkidis,Nick Isaacson,,

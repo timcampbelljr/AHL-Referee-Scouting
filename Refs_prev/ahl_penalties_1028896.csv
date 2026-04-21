@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028896,1,1st,7:40,411,SPR,0,None None,0,,Too many men - Bench minor,2.00,1,1,10839,Juraj Pekarcik,Adam Tobias,Mike Dietrich,,
+1028896,1,1st,14:38,307,HFD,10618,Aidan Thompson,6,F,Tripping,2.00,1,0,10618,Aidan Thompson,Adam Tobias,Mike Dietrich,,
+1028896,1,1st,19:22,307,HFD,10276,Carey Terrance,11,F,Slashing,2.00,1,0,10276,Carey Terrance,Adam Tobias,Mike Dietrich,,
+1028896,2,2nd,9:24,307,HFD,11014,Caige Sterzer,44,F,Tripping,2.00,1,0,11014,Caige Sterzer,Adam Tobias,Mike Dietrich,,
+1028896,2,2nd,13:21,307,HFD,5995,Anton Blidh,21,F,Double minor - High-sticking,4.00,1,0,5995,Anton Blidh,Adam Tobias,Mike Dietrich,,
+1028896,2,2nd,16:17,411,SPR,9268,Zach Dean,14,F,Hooking,2.00,1,0,9268,Zach Dean,Adam Tobias,Mike Dietrich,,
+1028896,3,3rd,0:20,411,SPR,6917,Calle Rosén,43,D,Slashing,2.00,1,0,6917,Calle Rosén,Adam Tobias,Mike Dietrich,,

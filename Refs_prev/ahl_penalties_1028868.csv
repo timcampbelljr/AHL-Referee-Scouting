@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028868,1,1st,9:14,437,HSK,10280,Tuomas Uronen,37,F,Tripping,2.00,1,0,10280,Tuomas Uronen,Austin Rook,Stan Szczurek,,
+1028868,1,1st,16:21,437,HSK,7028,Mitch McLain,75,F,Boarding,2.00,1,0,10280,Tuomas Uronen,Austin Rook,Stan Szczurek,,
+1028868,1,1st,16:21,405,SJ,9177,Braden Hache,86,D,Fighting,5.00,0,0,9177,Braden Hache,Austin Rook,Stan Szczurek,,
+1028868,1,1st,16:21,437,HSK,7028,Mitch McLain,75,F,Fighting,5.00,0,0,7028,Mitch McLain,Austin Rook,Stan Szczurek,,
+1028868,2,2nd,6:51,405,SJ,10964,Brendan Hoffmann,95,F,Hooking,2.00,1,0,10964,Brendan Hoffmann,Austin Rook,Stan Szczurek,,
+1028868,2,2nd,7:26,405,SJ,7597,Jett Woo,22,D,Tripping,2.00,1,0,7597,Jett Woo,Austin Rook,Stan Szczurek,,
+1028868,2,2nd,10:35,437,HSK,7760,Jonas Røndbjerg,46,F,Hooking,2.00,1,0,7760,Jonas Røndbjerg,Austin Rook,Stan Szczurek,,
+1028868,3,3rd,6:08,405,SJ,10231,Kasper Halttunen,14,F,Hooking,2.00,1,0,10231,Kasper Halttunen,Austin Rook,Stan Szczurek,,
+1028868,3,3rd,7:51,437,HSK,6787,Lucas Johansen,78,D,Holding,2.00,1,0,6787,Lucas Johansen,Austin Rook,Stan Szczurek,,

@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028846,1,1st,8:08,324,SYR,10566,Lucas Mercuri,11,C,Holding,2.00,1,0,10566,Lucas Mercuri,Hayden Verbeek,Mathieu Menniti,,
+1028846,1,1st,12:17,323,ROC,10436,Vsevolod Komarov,83,D,Fighting,5.00,0,0,10436,Vsevolod Komarov,Hayden Verbeek,Mathieu Menniti,,
+1028846,1,1st,12:17,324,SYR,10986,Max Grondin,84,LW,Fighting,5.00,0,0,10986,Max Grondin,Hayden Verbeek,Mathieu Menniti,,
+1028846,3,3rd,9:21,323,ROC,9700,Trevor Kuntar,16,LW,Cross-checking,2.00,1,0,9700,Trevor Kuntar,Hayden Verbeek,Mathieu Menniti,,
+1028846,3,3rd,13:47,323,ROC,10436,Vsevolod Komarov,83,D,Holding,2.00,1,0,10436,Vsevolod Komarov,Hayden Verbeek,Mathieu Menniti,,
+1028846,3,3rd,15:39,324,SYR,11060,Ethan Czata,9,C,Game misconduct - Interference,10.00,0,0,11060,Ethan Czata,Hayden Verbeek,Mathieu Menniti,,
+1028846,3,3rd,15:39,324,SYR,11060,Ethan Czata,9,C,Major - Interference,5.00,1,0,11060,Ethan Czata,Hayden Verbeek,Mathieu Menniti,,
+1028846,3,3rd,19:55,323,ROC,8580,Carson Meyer,72,RW,Tripping,2.00,0,0,8580,Carson Meyer,Hayden Verbeek,Mathieu Menniti,,

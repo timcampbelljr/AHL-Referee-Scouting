@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028881,1,1st,10:44,389,IA,6304,Nicolas Aubé-Kubel,96,RW,Fighting,5.00,0,0,6304,Nicolas Aubé-Kubel,Beau Halkidis,Nick Isaacson,,
+1028881,1,1st,10:44,327,MIL,10554,Kalan Lind,48,LW,Fighting,5.00,0,0,10554,Kalan Lind,Beau Halkidis,Nick Isaacson,,
+1028881,1,1st,11:56,389,IA,7653,Ben Jones,18,C,Tripping,2.00,1,0,7653,Ben Jones,Beau Halkidis,Nick Isaacson,,
+1028881,2,2nd,3:40,389,IA,10917,Rasmus Kumpulainen,95,F,Holding,2.00,1,0,10917,Rasmus Kumpulainen,Beau Halkidis,Nick Isaacson,,
+1028881,2,2nd,5:14,327,MIL,8825,Kyle Marino,36,RW,Interference,2.00,1,0,8825,Kyle Marino,Beau Halkidis,Nick Isaacson,,
+1028881,2,2nd,8:47,389,IA,10094,Jaxon Nelson,16,F,Hooking,2.00,1,0,10094,Jaxon Nelson,Beau Halkidis,Nick Isaacson,,
+1028881,2,2nd,12:29,327,MIL,10890,Tanner Molendyk,50,D,Interference,2.00,1,0,10890,Tanner Molendyk,Beau Halkidis,Nick Isaacson,,
+1028881,2,2nd,18:45,389,IA,8576,Jean-Luc Foudy,86,RW,Holding the stick,2.00,0,0,8576,Jean-Luc Foudy,Beau Halkidis,Nick Isaacson,,
+1028881,2,2nd,18:45,327,MIL,9622,Ryder Rolston,18,F,Holding,2.00,0,0,9622,Ryder Rolston,Beau Halkidis,Nick Isaacson,,
+1028881,3,3rd,14:53,327,MIL,11024,Viggo Gustafsson,7,D,Tripping,2.00,1,0,11024,Viggo Gustafsson,Beau Halkidis,Nick Isaacson,,

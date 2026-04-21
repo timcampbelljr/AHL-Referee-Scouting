@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028862,1,1st,10:02,402,BAK,5080,Seth Griffith,39,RW,Interference,2.00,1,0,5080,Seth Griffith,Bobby Jo Love,Tatu Kunto,,
+1028862,1,1st,17:23,404,SD,6442,Nikolas Brouillard,15,D,Cross-checking,2.00,1,0,6442,Nikolas Brouillard,Bobby Jo Love,Tatu Kunto,,
+1028862,1,1st,19:08,404,SD,9194,Tristan Luneau,6,D,High-sticking,2.00,1,0,9194,Tristan Luneau,Bobby Jo Love,Tatu Kunto,,
+1028862,2,2nd,4:56,402,BAK,7159,Cam Dineen,55,D,Interference,2.00,1,0,7159,Cam Dineen,Bobby Jo Love,Tatu Kunto,,
+1028862,2,2nd,13:55,402,BAK,10874,Quinn Hutson,23,RW,Holding,2.00,1,0,10874,Quinn Hutson,Bobby Jo Love,Tatu Kunto,,
+1028862,2,2nd,19:25,402,BAK,5080,Seth Griffith,39,RW,Tripping,2.00,1,0,5080,Seth Griffith,Bobby Jo Love,Tatu Kunto,,
+1028862,3,3rd,19:01,404,SD,9625,Roman Kinal,41,D,Hooking,2.00,1,0,9625,Roman Kinal,Bobby Jo Love,Tatu Kunto,,
