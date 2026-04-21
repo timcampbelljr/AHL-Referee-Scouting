@@ -193,6 +193,12 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg):
             tc_ts.add(*cmd)
         tc_t.setStyle(tc_ts)
         story.append(tc_t)
+        story.append(Paragraph(
+            "Percentile = how this ref ranks vs all refs in dataset. "
+            "Green 70+ = top tier  |  Yellow 35-69 = middle  |  Red 0-34 = bottom. "
+            f"Requires {RELIABILITY_THRESHOLD}+ games to display.",
+            small_style,
+        ))
         story.append(Spacer(1, 10))
 
         # Infraction categories + percentiles
@@ -228,6 +234,11 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg):
             cat_ts.add(*cmd)
         cat_t.setStyle(cat_ts)
         story.append(cat_t)
+        story.append(Paragraph(
+            "Higher percentile = calls more of that infraction type than most refs. "
+            "e.g. Stick 90th = calls stick infractions more than 90% of officials.",
+            small_style,
+        ))
         story.append(Spacer(1, 10))
 
         # Period breakdown
@@ -728,6 +739,13 @@ def render_ref_column(ref_name: str):
       <tr class="data-row"><td><b>{ref_name}</b></td>{vals_row}</tr>
       <tr class="pct-row"><td>Percentile</td>{pct_row}</tr>
     </table>
+    <small style="color:#888">
+      <b>Percentile</b> = how this ref ranks vs all refs in your dataset for that stat.
+      <span style="background:#c8f7c5;color:#1a6b16;padding:1px 5px;border-radius:3px;font-weight:600">70+</span> top tier &nbsp;
+      <span style="background:#fff3b0;color:#7a5c00;padding:1px 5px;border-radius:3px;font-weight:600">35–69</span> middle &nbsp;
+      <span style="background:#ffd6d6;color:#8b0000;padding:1px 5px;border-radius:3px;font-weight:600">0–34</span> bottom &nbsp;
+      &mdash; requires {RELIABILITY_THRESHOLD}+ games to show.
+    </small>
     """, unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
@@ -752,6 +770,10 @@ def render_ref_column(ref_name: str):
       <tr class="data-row"><td><b>{ref_name}</b></td>{cat_vals}</tr>
       <tr class="pct-row"><td>Percentile</td>{cat_pct_row}</tr>
     </table>
+    <small style="color:#888">
+      Higher pen/G percentile = calls more of that infraction type than most refs.
+      A 90th percentile in Stick means this ref calls stick infractions more than 90% of officials.
+    </small>
     """, unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
@@ -817,9 +839,11 @@ def render_ref_column(ref_name: str):
     team_data["per_game"]     = team_data["team_abbrev"].apply(lambda t: _team_median(t, "pen"))
     team_data["pim_per_game"] = team_data["team_abbrev"].apply(lambda t: _team_median(t, "minutes"))
     # Bias = ref pen/g vs this team - team season pen/g baseline
+    BIAS_MIN_GAMES = 3  # Lower threshold for bias — 3G is enough for a directional read
+
     def _bias(row):
         team = row["team_abbrev"]
-        if row["ref_games"] < RELIABILITY_THRESHOLD or team not in team_baseline.index:
+        if row["ref_games"] < BIAS_MIN_GAMES or team not in team_baseline.index:
             return None
         return round(row["per_game"] - team_baseline.loc[team, "season_ppg"], 2)
     team_data["bias"] = team_data.apply(_bias, axis=1)
@@ -827,7 +851,7 @@ def render_ref_column(ref_name: str):
 
     def _bias_cell(val):
         if val is None:
-            return "<td><span style='color:#aaa;font-size:11px'>min 3G</span></td>"
+            return f"<td><span style='color:#aaa;font-size:11px'>min {BIAS_MIN_GAMES}G</span></td>"
         color = "#8b0000" if val > 0 else "#1a6b16"
         sign  = "+" if val > 0 else ""
         return f"<td style='color:{color};font-weight:600'>{sign}{val}</td>"
@@ -843,7 +867,11 @@ def render_ref_column(ref_name: str):
       <tr><th>Team</th><th>Games Reffed</th><th>Pen/G</th><th>PIM/G</th><th>Bias</th></tr>
       {team_rows}
     </table>
-    <small style="color:#888">Bias = ref pen/g vs team &minus; team season pen/g &nbsp;|&nbsp; red = harder on team &nbsp;|&nbsp; green = easier</small>
+    <small style="color:#888">
+      Bias = ref pen/g vs team &minus; team season pen/g &nbsp;|&nbsp;
+      red = harder on team &nbsp;|&nbsp; green = easier &nbsp;|&nbsp;
+      bias shown for {BIAS_MIN_GAMES}+ games together (lower bar than overall reliability — treat small samples as directional only)
+    </small>
     """, unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
@@ -910,6 +938,15 @@ with st.expander("📊 All Referees Comparison"):
         hide_index=True,
     )
     st.caption("Blue = Referee A · Pink = Referee B")
+    st.markdown(
+        "<small style='color:#888'>"
+        "<b>Percentile note:</b> Each stat is ranked across all refs in your dataset. "
+        "A Pen/G percentile of 80 means this ref calls more penalties per game than 80% of officials. "
+        "For infraction categories, higher = calls more of that type. "
+        f"Only refs with {RELIABILITY_THRESHOLD}+ games are ranked — others show —."
+        "</small>",
+        unsafe_allow_html=True,
+    )
 
 # ── Team View — pick a team, rank all refs by bias ────────────────────────────
 st.markdown("---")
