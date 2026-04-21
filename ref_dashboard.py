@@ -468,6 +468,24 @@ for col in STAT_COLS:
 
 league_median_ppg = round(summary["pen_per_game"].median(), 2)
 
+# ── Team season pen/game baseline (across all refs, all games) ────────────────
+# For each team: how many penalties called against them per game on average
+# Used for the ref bias metric: ref pen/g vs team - team season pen/g
+@st.cache_data
+def build_team_baseline(df: pd.DataFrame) -> pd.DataFrame:
+    """Returns a DataFrame with team_abbrev and their season pen/game baseline."""
+    team_games = (
+        df.groupby(["team_abbrev", "game_id"])
+        .size().reset_index(name="pen")
+        .groupby("team_abbrev")
+        .agg(total_pen=("pen", "sum"), games=("game_id", "nunique"))
+        .reset_index()
+    )
+    team_games["season_ppg"] = (team_games["total_pen"] / team_games["games"]).round(2)
+    return team_games.set_index("team_abbrev")
+
+team_baseline = build_team_baseline(df_all)
+
 # ── Sidebar — two independent selectors ──────────────────────────────────────
 all_refs = sorted(summary["ref"].unique())
 
@@ -669,27 +687,45 @@ def render_ref_column(ref_name: str):
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # Teams called against
+    # Teams called against + bias
     st.markdown('<div class="section-title">Teams Called Against</div>', unsafe_allow_html=True)
+    team_games_ref = df_r.groupby("team_abbrev")["game_id"].nunique().rename("ref_games")
     team_data = (
         df_r.groupby("team_abbrev")
         .agg(total=("infraction", "count"), pim=("minutes", "sum"))
-        .sort_values("total", ascending=False)
         .reset_index()
+        .join(team_games_ref, on="team_abbrev")
     )
-    team_data["per_game"]     = (team_data["total"] / games).round(2)
-    team_data["pim_per_game"] = (team_data["pim"]   / games).round(2)
+    team_data["per_game"]     = (team_data["total"] / team_data["ref_games"]).round(2)
+    team_data["pim_per_game"] = (team_data["pim"]   / team_data["ref_games"]).round(2)
+    # Bias = ref pen/g vs this team - team season pen/g baseline
+    def _bias(row):
+        team = row["team_abbrev"]
+        if row["ref_games"] < 3 or team not in team_baseline.index:
+            return None
+        return round(row["per_game"] - team_baseline.loc[team, "season_ppg"], 2)
+    team_data["bias"] = team_data.apply(_bias, axis=1)
+    team_data = team_data.sort_values("total", ascending=False)
+
+    def _bias_cell(val):
+        if val is None:
+            return "<td><span style='color:#aaa;font-size:11px'>min 3G</span></td>"
+        color = "#8b0000" if val > 0 else "#1a6b16"
+        sign  = "+" if val > 0 else ""
+        return f"<td style='color:{color};font-weight:600'>{sign}{val}</td>"
+
     team_rows = "".join(
         f"<tr class='data-row'><td><b>{r['team_abbrev']}</b></td>"
-        f"<td>{r['total']}</td><td>{r['per_game']}</td>"
-        f"<td>{r['pim']}</td><td>{r['pim_per_game']}</td></tr>"
+        f"<td>{r['ref_games']}</td><td>{r['per_game']}</td>"
+        f"<td>{r['pim_per_game']}</td>{_bias_cell(r['bias'])}</tr>"
         for _, r in team_data.iterrows()
     )
     st.markdown(f"""
     <table class="stat-table">
-      <tr><th>Team</th><th>Total</th><th>Pen/G</th><th>PIM</th><th>PIM/G</th></tr>
+      <tr><th>Team</th><th>G Together</th><th>Pen/G</th><th>PIM/G</th><th>Bias</th></tr>
       {team_rows}
     </table>
+    <small style="color:#888">Bias = ref pen/g vs team &minus; team season pen/g &nbsp;|&nbsp; red = harder on team &nbsp;|&nbsp; green = easier</small>
     """, unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
@@ -756,6 +792,92 @@ with st.expander("📊 All Referees Comparison"):
         hide_index=True,
     )
     st.caption("Blue = Referee A · Pink = Referee B")
+
+# ── Team View — pick a team, rank all refs by bias ────────────────────────────
+st.markdown("---")
+st.markdown('<div class="dash-header">🏒 Team View — Referee Bias by Team</div>', unsafe_allow_html=True)
+
+all_teams = sorted(df_all["team_abbrev"].dropna().unique())
+chosen_team = st.selectbox("Choose a team", all_teams)
+
+if chosen_team:
+    baseline_ppg = team_baseline.loc[chosen_team, "season_ppg"] if chosen_team in team_baseline.index else None
+    total_team_games = int(team_baseline.loc[chosen_team, "games"]) if chosen_team in team_baseline.index else 0
+
+    tc1, tc2 = st.columns(2)
+    tc1.markdown(
+        f'<div class="metric-card"><div class="val">{total_team_games}</div>' 
+        f'<div class="lbl">Season games (in dataset)</div></div>',
+        unsafe_allow_html=True,
+    )
+    tc2.markdown(
+        f'<div class="metric-card"><div class="val">{baseline_ppg}</div>'
+        f'<div class="lbl">Season pen/game baseline</div></div>',
+        unsafe_allow_html=True,
+    )
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    # Build per-ref bias against this team
+    bias_rows = []
+    for _, ref_row in summary.iterrows():
+        ref_name = ref_row["ref"]
+        df_r = df_stacked[df_stacked["_ref"] == ref_name]
+        df_rt = df_r[df_r["team_abbrev"] == chosen_team]
+        g_together = df_rt["game_id"].nunique()
+        if g_together == 0:
+            continue
+        pen_vs_team = len(df_rt)
+        ppg_vs_team = round(pen_vs_team / g_together, 2)
+        bias = round(ppg_vs_team - baseline_ppg, 2) if baseline_ppg is not None else None
+        bias_rows.append({
+            "Referee":       ref_name,
+            "G Together":    g_together,
+            "Pen/G vs Team": ppg_vs_team,
+            "Season Pen/G":  baseline_ppg,
+            "Bias":          bias,
+            "_reliable":     g_together >= 3,
+        })
+
+    if not bias_rows:
+        st.info(f"No data found for {chosen_team}.")
+    else:
+        bias_df = pd.DataFrame(bias_rows).sort_values("Bias", ascending=False)
+
+        def _bias_color(val, reliable):
+            if not reliable or val is None:
+                return "<td><span style='color:#aaa;font-size:11px'>min 3G</span></td>"
+            color = "#8b0000" if val > 0 else "#1a6b16"
+            sign  = "+" if val > 0 else ""
+            return f"<td style='color:{color};font-weight:700'>{sign}{val}</td>"
+
+        def _ref_cell(name, reliable):
+            style = "color:#aaa" if not reliable else ""
+            return f"<td style='{style}'><b>{name}</b></td>"
+
+        t_rows = "".join(
+            f"<tr class='data-row'>{_ref_cell(r['Referee'], r['_reliable'])}"
+            f"<td>{r['G Together']}</td>"
+            f"<td>{r['Pen/G vs Team']}</td>"
+            f"<td>{r['Season Pen/G']}</td>"
+            f"{_bias_color(r['Bias'], r['_reliable'])}</tr>"
+            for _, r in bias_df.iterrows()
+        )
+        st.markdown(f"""
+        <table class="stat-table">
+          <tr>
+            <th style="text-align:left">Referee</th>
+            <th>G Together</th>
+            <th>Pen/G vs {chosen_team}</th>
+            <th>{chosen_team} Season Pen/G</th>
+            <th>Bias</th>
+          </tr>
+          {t_rows}
+        </table>
+        <small style="color:#888">
+          Sorted hardest → easiest &nbsp;|&nbsp; red = harder on {chosen_team} than season avg &nbsp;|&nbsp;
+          green = easier &nbsp;|&nbsp; grey = fewer than 3 games together (unreliable)
+        </small>
+        """, unsafe_allow_html=True)
 
 st.markdown("---")
 st.caption("Data source: AHL / HockeyTech · Built with ahl_penalty_ref_scraper.py")
