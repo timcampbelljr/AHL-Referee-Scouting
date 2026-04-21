@@ -512,17 +512,16 @@ def build_summary(df: pd.DataFrame):
         misc  = _median_per_game(grp, "Misc|Unsport|Instig|Conduct")
         trap  = _median_per_game(grp, "Trip|Hold|Obstruct")
         # P3/P1: compute ratio per game first, then take median of those ratios
-        # This is correct — taking median(p3)/median(p1) separately gives wrong results
         def _p3p1_ratio(g):
             p1_count = (g["period"] == 1).sum()
             p3_count = (g["period"] == 3).sum()
+            # Returns the raw ratio for this specific game
             return p3_count / p1_count if p1_count > 0 else None
-        per_game_ratios = (
-            grp.groupby("game_id")
-            .apply(_p3p1_ratio)
-            .dropna()
-        )
-        p3_ratio = round(per_game_ratios.median(), 3) if len(per_game_ratios) > 0 else None
+        per_game_ratios = grp.groupby("game_id").apply(_p3p1_ratio).dropna()
+        if len(per_game_ratios) > 0:
+            p3_ratio = round(float(per_game_ratios.median()), 3)
+        else:
+            p3_ratio = 1.000  # Default baseline
 
         rows.append({
             "ref":            ref_name,
