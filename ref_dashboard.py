@@ -453,6 +453,7 @@ def build_summary(df: pd.DataFrame):
         rows.append({
             "ref":            ref_name,
             "games":          games,
+            "reliable":       games >= RELIABILITY_THRESHOLD,
             "total_pen":      pens,
             "pen_per_game":   round(grp.groupby("game_id").size().median(), 2) if games else 0,
             "pim_per_game":   round(grp.groupby("game_id")["minutes"].sum().median(), 2) if games else 0,
@@ -478,6 +479,9 @@ for col in STAT_COLS:
     pct_df[f"{col}_pct"] = pct_df[col].rank(pct=True).mul(100).round(0).astype(int)
 
 league_median_ppg = round(summary["pen_per_game"].median(), 2)
+
+# Minimum games before a ref's stats are considered reliable
+RELIABILITY_THRESHOLD = 5
 
 # ── Team season pen/game baseline (across all refs, all games) ────────────────
 # For each team: how many penalties called against them per game on average
@@ -516,6 +520,40 @@ with st.sidebar:
     st.markdown("### 🏒 Referee B")
     default_b = min(1, len(all_refs) - 1)
     ref_b = st.selectbox("Referee B", all_refs, index=default_b, label_visibility="collapsed")
+
+    st.markdown("---")
+    st.markdown("### 🔍 Game Scouting Snapshot")
+    game_ids = sorted(df_all["game_id"].unique())
+    selected_game = st.selectbox("Select Game ID", game_ids, label_visibility="collapsed")
+    if selected_game:
+        game_data = df_all[df_all["game_id"] == selected_game]
+        crew = []
+        if not game_data.empty:
+            crew = [game_data["ref1"].iloc[0], game_data["ref2"].iloc[0]]
+            crew = [r for r in crew if r and str(r).strip()]
+        if crew:
+            ref_median  = summary["pen_per_game"].median()
+            ref_sd      = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
+            for official in crew:
+                o_row = summary[summary["ref"] == official]
+                if o_row.empty:
+                    continue
+                o_stats = o_row.iloc[0]
+                reliable_tag = "" if o_stats["reliable"] else " ⚠️"
+                style    = _tight_label(o_stats["pen_per_game"], ref_median, ref_sd)
+                whistle  = "Swallows whistle late" if (o_stats["p3_ratio"] or 1) < 1.0 else "Active in 3rd"
+                style_color = "#8b0000" if style == "Tight" else ("#1a6b16" if style == "Loose" else "#7a5c00")
+                ppg = o_stats["pen_per_game"]
+                st.markdown(
+                    f"**{official}**{reliable_tag}  \n"
+                    f"Style: <span style='color:{style_color};font-weight:700'>{style}</span>  \n"
+                    f"Late game: {whistle}  \n"
+                    f"Median pen/G: {ppg}",
+                    unsafe_allow_html=True,
+                )
+                st.markdown("---")
+        else:
+            st.caption("No crew data for this game.")
 
     st.markdown("---")
     st.markdown("### 📁 Data")
@@ -565,7 +603,7 @@ def pct_badge(ref_name: str, col: str) -> str:
     if ref_name not in pct_df.index:
         return '<span class="pct-none">—</span>'
     ref_games = summary.loc[summary["ref"] == ref_name, "games"].iloc[0]
-    if ref_games < 3:
+    if ref_games < RELIABILITY_THRESHOLD:
         return '<span class="pct-none">—</span>'
     pct_col = f"{col}_pct"
     if pct_col not in pct_df.columns:
@@ -592,8 +630,9 @@ def render_ref_column(ref_name: str):
 
     # Name header + badge
     badge = tightness_badge(row["pen_per_game"])
+    reliable_warn = "" if row.get("reliable", True) else " &nbsp; ⚠️ Low sample"
     st.markdown(
-        f'<div class="ref-header">{ref_name} &nbsp; {badge}</div>',
+        f'<div class="ref-header">{ref_name} &nbsp; {badge}{reliable_warn}</div>',
         unsafe_allow_html=True,
     )
 
@@ -727,7 +766,7 @@ def render_ref_column(ref_name: str):
     # Bias = ref pen/g vs this team - team season pen/g baseline
     def _bias(row):
         team = row["team_abbrev"]
-        if row["ref_games"] < 3 or team not in team_baseline.index:
+        if row["ref_games"] < RELIABILITY_THRESHOLD or team not in team_baseline.index:
             return None
         return round(row["per_game"] - team_baseline.loc[team, "season_ppg"], 2)
     team_data["bias"] = team_data.apply(_bias, axis=1)
@@ -860,7 +899,7 @@ if chosen_team:
             "Pen/G vs Team": ppg_vs_team,
             "Season Pen/G":  baseline_ppg,
             "Bias":          bias,
-            "_reliable":     g_together >= 3,
+            "_reliable":     g_together >= RELIABILITY_THRESHOLD,
         })
 
     if not bias_rows:
@@ -905,4 +944,4 @@ if chosen_team:
         """, unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("Data source: AHL / HockeyTech · Built with ahl_penalty_ref_scraper.py")
+st.caption("Data source: AHL · Built with ahl_penalty_ref_scraper.py")
