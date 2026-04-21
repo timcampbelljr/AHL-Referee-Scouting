@@ -431,26 +431,37 @@ def build_summary(df: pd.DataFrame):
         games     = grp["game_id"].nunique()
         pens      = len(grp)
         pim       = grp["minutes"].sum()
-        pp_pct    = grp["is_power_play"].mean() * 100 if pens else 0
-        bench_pct = grp["is_bench"].mean() * 100 if pens else 0
-        stick     = grp["infraction"].str.contains("High-stick|Slash|Hook|Interfer", case=False).sum()
-        body      = grp["infraction"].str.contains("Rough|Fight|Cross|Charg|Board",  case=False).sum()
-        misc      = grp["infraction"].str.contains("Misc|Unsport|Instig|Conduct",    case=False).sum()
-        trap      = grp["infraction"].str.contains("Trip|Hold|Obstruct",             case=False).sum()
-        p1        = (grp["period"] == 1).sum()
-        p3        = (grp["period"] == 3).sum()
+        # Per-game PP and bench rates using median across games
+        game_pp    = grp.groupby("game_id")["is_power_play"].sum()
+        game_pen   = grp.groupby("game_id").size()
+        game_pp_rate = (game_pp / game_pen * 100)
+        pp_pct    = round(game_pp_rate.median(), 1) if len(game_pp_rate) else 0
+        game_bench = grp.groupby("game_id")["is_bench"].sum()
+        game_bench_rate = (game_bench / game_pen * 100)
+        bench_pct = round(game_bench_rate.median(), 1) if len(game_bench_rate) else 0
+        def _median_per_game(g, pattern):
+            counts = g.groupby("game_id")["infraction"].apply(
+                lambda x: x.str.contains(pattern, case=False).sum()
+            )
+            return counts.median() if len(counts) else 0
+        stick = _median_per_game(grp, "High-stick|Slash|Hook|Interfer")
+        body  = _median_per_game(grp, "Rough|Fight|Cross|Charg|Board")
+        misc  = _median_per_game(grp, "Misc|Unsport|Instig|Conduct")
+        trap  = _median_per_game(grp, "Trip|Hold|Obstruct")
+        p1 = grp.groupby("game_id").apply(lambda g: (g["period"] == 1).sum()).median()
+        p3 = grp.groupby("game_id").apply(lambda g: (g["period"] == 3).sum()).median()
         rows.append({
             "ref":            ref_name,
             "games":          games,
             "total_pen":      pens,
-            "pen_per_game":   round(pens  / games, 2) if games else 0,
-            "pim_per_game":   round(pim   / games, 2) if games else 0,
+            "pen_per_game":   round(grp.groupby("game_id").size().median(), 2) if games else 0,
+            "pim_per_game":   round(grp.groupby("game_id")["minutes"].sum().median(), 2) if games else 0,
             "pp_pct":         round(pp_pct, 1),
             "bench_pct":      round(bench_pct, 1),
-            "stick_per_game": round(stick / games, 2) if games else 0,
-            "body_per_game":  round(body  / games, 2) if games else 0,
-            "misc_per_game":  round(misc  / games, 2) if games else 0,
-            "trap_per_game":  round(trap  / games, 2) if games else 0,
+            "stick_per_game": round(stick, 2),
+            "body_per_game":  round(body,  2),
+            "misc_per_game":  round(misc,  2),
+            "trap_per_game":  round(trap,  2),
             "p3_ratio":       round(p3 / p1, 2) if p1 > 0 else None,
         })
     return pd.DataFrame(rows), stacked
@@ -473,16 +484,25 @@ league_median_ppg = round(summary["pen_per_game"].median(), 2)
 # Used for the ref bias metric: ref pen/g vs team - team season pen/g
 @st.cache_data
 def build_team_baseline(df: pd.DataFrame) -> pd.DataFrame:
-    """Returns a DataFrame with team_abbrev and their season pen/game baseline."""
-    team_games = (
+    """
+    Returns a DataFrame with team_abbrev and their season pen/game baseline.
+    Uses median of per-game penalty counts — resistant to blowout/brawl games
+    skewing the baseline.
+    """
+    per_game = (
         df.groupby(["team_abbrev", "game_id"])
         .size().reset_index(name="pen")
-        .groupby("team_abbrev")
-        .agg(total_pen=("pen", "sum"), games=("game_id", "nunique"))
+    )
+    team_stats = (
+        per_game.groupby("team_abbrev")
+        .agg(
+            season_ppg=("pen", "median"),
+            games=("game_id", "nunique"),
+        )
         .reset_index()
     )
-    team_games["season_ppg"] = (team_games["total_pen"] / team_games["games"]).round(2)
-    return team_games.set_index("team_abbrev")
+    team_stats["season_ppg"] = team_stats["season_ppg"].round(2)
+    return team_stats.set_index("team_abbrev")
 
 team_baseline = build_team_baseline(df_all)
 
@@ -696,8 +716,14 @@ def render_ref_column(ref_name: str):
         .reset_index()
         .join(team_games_ref, on="team_abbrev")
     )
-    team_data["per_game"]     = (team_data["total"] / team_data["ref_games"]).round(2)
-    team_data["pim_per_game"] = (team_data["pim"]   / team_data["ref_games"]).round(2)
+    # Use median of per-game counts for each ref-team combo
+    def _team_median(team_abbrev, col):
+        grp = df_r[df_r["team_abbrev"] == team_abbrev]
+        if col == "pen":
+            return round(grp.groupby("game_id").size().median(), 2)
+        return round(grp.groupby("game_id")[col].sum().median(), 2)
+    team_data["per_game"]     = team_data["team_abbrev"].apply(lambda t: _team_median(t, "pen"))
+    team_data["pim_per_game"] = team_data["team_abbrev"].apply(lambda t: _team_median(t, "minutes"))
     # Bias = ref pen/g vs this team - team season pen/g baseline
     def _bias(row):
         team = row["team_abbrev"]
@@ -826,8 +852,7 @@ if chosen_team:
         g_together = df_rt["game_id"].nunique()
         if g_together == 0:
             continue
-        pen_vs_team = len(df_rt)
-        ppg_vs_team = round(pen_vs_team / g_together, 2)
+        ppg_vs_team = round(df_rt.groupby("game_id").size().median(), 2) if g_together else 0
         bias = round(ppg_vs_team - baseline_ppg, 2) if baseline_ppg is not None else None
         bias_rows.append({
             "Referee":       ref_name,
