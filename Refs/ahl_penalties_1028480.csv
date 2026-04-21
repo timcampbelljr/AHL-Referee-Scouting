@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028480,1,1st,9:53,317,BRI,6807,Ethan Bear,49,D,High-sticking,2.00,1,0,6807,Ethan Bear,Adam Tobias,Jared Cummins,,
+1028480,1,1st,12:39,390,UTC,9681,Josh Filmon,19,F,Interference,2.00,1,0,9681,Josh Filmon,Adam Tobias,Jared Cummins,,
+1028480,2,2nd,8:03,317,BRI,10152,Marshall Warren,6,D,Holding,2.00,1,0,10152,Marshall Warren,Adam Tobias,Jared Cummins,,
+1028480,2,2nd,16:06,317,BRI,7655,Liam Foudy,8,F,Tripping,2.00,1,0,7655,Liam Foudy,Adam Tobias,Jared Cummins,,
+1028480,3,3rd,18:00,317,BRI,9442,Daylan Kuefler,11,F,Slashing,2.00,1,0,9442,Daylan Kuefler,Adam Tobias,Jared Cummins,,

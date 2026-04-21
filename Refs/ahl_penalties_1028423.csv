@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028423,1,1st,2:59,412,TUC,9396,Sammy Walker,25,F,Hooking,2.00,1,0,9396,Sammy Walker,Jordan Watt,Mike Dietrich,,
+1028423,1,1st,11:02,412,TUC,8734,Ben McCartney,22,F,Boarding,2.00,1,0,8734,Ben McCartney,Jordan Watt,Mike Dietrich,,
+1028423,2,2nd,6:44,404,SD,10274,Yegor Sidorov,19,LW,Tripping,2.00,1,0,10274,Yegor Sidorov,Jordan Watt,Mike Dietrich,,

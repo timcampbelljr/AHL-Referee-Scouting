@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028461,2,2nd,12:10,403,ONT,9081,Andre Lee,26,F,Tripping,2.00,1,0,9081,Andre Lee,Beau Halkidis,Tatu Kunto,,
+1028461,3,3rd,1:42,412,TUC,10220,Maveric Lamoureux,10,D,High-sticking,2.00,1,0,10220,Maveric Lamoureux,Beau Halkidis,Tatu Kunto,,
+1028461,3,3rd,13:17,412,TUC,10220,Maveric Lamoureux,10,D,Tripping,2.00,1,0,10220,Maveric Lamoureux,Beau Halkidis,Tatu Kunto,,
+1028461,3,3rd,17:54,403,ONT,10712,Kirill Kirsanov,19,D,Tripping,2.00,1,0,10712,Kirill Kirsanov,Beau Halkidis,Tatu Kunto,,

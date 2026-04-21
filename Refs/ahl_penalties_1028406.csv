@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028406,1,1st,0:16,413,BEL,10016,Oskar Pettersson,32,C,Slashing,2.00,1,0,10016,Oskar Pettersson,Nolan Bloyer,Johnny Daniels,,
+1028406,1,1st,17:02,413,BEL,8412,Cameron Crotty,4,D,Tripping,2.00,1,0,8412,Cameron Crotty,Nolan Bloyer,Johnny Daniels,,
+1028406,2,2nd,3:27,411,SPR,10843,Quinton Burns,42,D,Tripping,2.00,1,0,10843,Quinton Burns,Nolan Bloyer,Johnny Daniels,,
+1028406,2,2nd,5:29,411,SPR,10843,Quinton Burns,42,D,Interference,2.00,1,0,10843,Quinton Burns,Nolan Bloyer,Johnny Daniels,,
+1028406,3,3rd,9:50,413,BEL,7677,Arthur Kaliyev,43,LW,Tripping,2.00,1,0,7677,Arthur Kaliyev,Nolan Bloyer,Johnny Daniels,,
+1028406,3,3rd,17:04,413,BEL,7713,Jan Jeník,24,C,Hooking,2.00,1,0,7713,Jan Jeník,Nolan Bloyer,Johnny Daniels,,

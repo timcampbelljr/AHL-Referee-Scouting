@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028437,1,1st,11:12,309,PRO,9712,Frederic Brunet,42,D,Holding,2.00,1,0,9712,Frederic Brunet,Jake Kamrass,Jesse Wood-Schatz,,
+1028437,3,3rd,0:29,309,PRO,10055,Riley Duran,11,RW,Hooking,2.00,1,0,10055,Riley Duran,Jake Kamrass,Jesse Wood-Schatz,,
+1028437,3,3rd,3:41,309,PRO,0,None None,0,,Delay of game - Bench minor,2.00,1,1,9524,Fabian Lysell,Jake Kamrass,Jesse Wood-Schatz,,
+1028437,3,3rd,9:01,309,PRO,9524,Fabian Lysell,22,RW,Hooking,2.00,1,0,9524,Fabian Lysell,Jake Kamrass,Jesse Wood-Schatz,,
+1028437,3,3rd,12:19,384,CLT,9990,Wilmer Skoog,25,F,Goaltender interference,2.00,1,0,9990,Wilmer Skoog,Jake Kamrass,Jesse Wood-Schatz,,

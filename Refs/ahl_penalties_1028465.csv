@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028465,1,1st,13:09,324,SYR,6522,Steven Santini,16,D,Tripping,2.00,1,0,6522,Steven Santini,Riley Brace,Jared Cummins,,
+1028465,1,1st,19:34,411,SPR,9868,Marc-André Gaudet,45,D,Holding,2.00,1,0,9868,Marc-André Gaudet,Riley Brace,Jared Cummins,,
+1028465,2,2nd,13:30,411,SPR,4622,Chris Wagner,88,C,Unsportsmanlike conduct,2.00,1,0,4622,Chris Wagner,Riley Brace,Jared Cummins,,
+1028465,2,2nd,14:24,324,SYR,10607,Ethan Gauthier,79,RW,Hooking,2.00,1,0,10607,Ethan Gauthier,Riley Brace,Jared Cummins,,
+1028465,3,3rd,0:45,324,SYR,10566,Lucas Mercuri,11,C,Hooking,2.00,1,0,10566,Lucas Mercuri,Riley Brace,Jared Cummins,,
+1028465,3,3rd,3:19,324,SYR,10148,Dylan Duke,25,LW,Tripping,2.00,1,0,10148,Dylan Duke,Riley Brace,Jared Cummins,,
+1028465,3,3rd,19:33,411,SPR,6733,Matt Luff,39,RW,Tripping,2.00,1,0,6733,Matt Luff,Riley Brace,Jared Cummins,,

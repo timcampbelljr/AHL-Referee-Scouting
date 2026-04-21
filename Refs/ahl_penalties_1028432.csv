@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028432,1,1st,5:09,313,LV,0,None None,0,,Too many men - Bench minor,2.00,1,1,9825,Alexis Gendron,Damian Figueira,Adam Tobias,,
+1028432,1,1st,9:43,411,SPR,10143,Dylan Peterson,22,F,High-sticking,2.00,1,0,10143,Dylan Peterson,Damian Figueira,Adam Tobias,,
+1028432,1,1st,17:42,313,LV,9768,Tucker Robertson,22,F,Tripping,2.00,1,0,9768,Tucker Robertson,Damian Figueira,Adam Tobias,,
+1028432,2,2nd,9:28,411,SPR,9268,Zach Dean,14,F,Slashing,2.00,1,0,9268,Zach Dean,Damian Figueira,Adam Tobias,,
+1028432,2,2nd,16:05,411,SPR,10143,Dylan Peterson,22,F,Interference,2.00,1,0,10143,Dylan Peterson,Damian Figueira,Adam Tobias,,
+1028432,2,2nd,18:27,411,SPR,6917,Calle Rosén,43,D,Cross-checking,2.00,1,0,6917,Calle Rosén,Damian Figueira,Adam Tobias,,
+1028432,3,3rd,1:07,313,LV,10432,Oscar Eklind,43,F,Tripping,2.00,1,0,10432,Oscar Eklind,Damian Figueira,Adam Tobias,,
+1028432,3,3rd,10:27,411,SPR,10843,Quinton Burns,42,D,Fighting,5.00,0,0,10843,Quinton Burns,Damian Figueira,Adam Tobias,,
+1028432,3,3rd,10:27,313,LV,8451,Zayde Wisdom,74,C,Fighting,5.00,0,0,8451,Zayde Wisdom,Damian Figueira,Adam Tobias,,

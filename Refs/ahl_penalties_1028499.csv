@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028499,2,2nd,5:37,389,IA,8937,Matt Kiersted,23,D,High-sticking,2.00,1,0,8937,Matt Kiersted,Ben Betker,Graedy Hamilton,,
+1028499,2,2nd,7:42,411,SPR,8650,Zach Berzolla,48,D,Holding the stick,2.00,1,0,8650,Zach Berzolla,Ben Betker,Graedy Hamilton,,
+1028499,2,2nd,14:17,411,SPR,10532,Jakub Stancl,49,F,Slashing,2.00,1,0,10532,Jakub Stancl,Ben Betker,Graedy Hamilton,,
+1028499,2,2nd,17:41,389,IA,9545,David Jiříček,55,D,Tripping,2.00,1,0,9545,David Jiříček,Ben Betker,Graedy Hamilton,,
+1028499,2,2nd,19:39,411,SPR,10532,Jakub Stancl,49,F,Interference,2.00,1,0,10532,Jakub Stancl,Ben Betker,Graedy Hamilton,,
+1028499,3,3rd,14:29,411,SPR,4622,Chris Wagner,88,C,Tripping,2.00,1,0,4622,Chris Wagner,Ben Betker,Graedy Hamilton,,

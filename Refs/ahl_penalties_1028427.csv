@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028427,1,1st,3:25,328,GR,8511,John Leonard,19,LW,Tripping,2.00,1,0,8511,John Leonard,Mathieu Menniti,Ibrahim Arifi,,
+1028427,1,1st,9:04,330,CHI,9807,Evan Vierling,41,LW,Hooking,2.00,1,0,9807,Evan Vierling,Mathieu Menniti,Ibrahim Arifi,,
+1028427,2,2nd,15:25,328,GR,4085,Austin Watson,51,RW,Slashing,2.00,1,0,4085,Austin Watson,Mathieu Menniti,Ibrahim Arifi,,
+1028427,2,2nd,18:40,330,CHI,10001,Domenick Fensore,2,D,Tripping,2.00,1,0,10001,Domenick Fensore,Mathieu Menniti,Ibrahim Arifi,,
+1028427,3,3rd,5:21,330,CHI,9807,Evan Vierling,41,LW,Delay of game,2.00,1,0,9807,Evan Vierling,Mathieu Menniti,Ibrahim Arifi,,
+1028427,3,3rd,9:19,330,CHI,10778,David Gagnon,37,C,Hooking,2.00,1,0,10778,David Gagnon,Mathieu Menniti,Ibrahim Arifi,,

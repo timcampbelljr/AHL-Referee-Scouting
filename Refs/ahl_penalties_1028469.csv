@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028469,1,1st,0:20,412,TUC,9217,Max Szuber,55,D,Holding,2.00,1,0,9217,Max Szuber,Stephen Hiff,Koletrane Wilson,,
+1028469,1,1st,10:26,444,CGY,10626,Carter King,44,C,High-sticking,2.00,1,0,10626,Carter King,Stephen Hiff,Koletrane Wilson,,
+1028469,1,1st,15:19,412,TUC,10665,Dmitri Simashev,26,D,Holding,2.00,1,0,10665,Dmitri Simashev,Stephen Hiff,Koletrane Wilson,,
+1028469,1,1st,19:15,444,CGY,8741,Nick Cicek,41,D,High-sticking,2.00,1,0,8741,Nick Cicek,Stephen Hiff,Koletrane Wilson,,
+1028469,2,2nd,12:07,444,CGY,9669,William Strömgren,11,LW,Tripping,2.00,1,0,9669,William Strömgren,Stephen Hiff,Koletrane Wilson,,
+1028469,2,2nd,13:22,412,TUC,9217,Max Szuber,55,D,Interference,2.00,1,0,9217,Max Szuber,Stephen Hiff,Koletrane Wilson,,
+1028469,2,2nd,16:18,412,TUC,8740,Montana Onyebuchi,79,D,Fighting,5.00,0,0,8740,Montana Onyebuchi,Stephen Hiff,Koletrane Wilson,,
+1028469,2,2nd,16:18,444,CGY,9952,Lucas Ciona,17,LW,Fighting,5.00,0,0,9952,Lucas Ciona,Stephen Hiff,Koletrane Wilson,,
+1028469,3,3rd,7:14,444,CGY,9952,Lucas Ciona,17,LW,Interference,2.00,1,0,9952,Lucas Ciona,Stephen Hiff,Koletrane Wilson,,

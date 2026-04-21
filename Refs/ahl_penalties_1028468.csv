@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028468,2,2nd,2:57,402,BAK,9229,Brady Stonehouse,41,RW,Roughing,2.00,0,0,9229,Brady Stonehouse,Ben Betker,Tyler Spott,,
+1028468,2,2nd,2:57,403,ONT,9245,Kaleb Lawrence,22,F,Roughing,2.00,0,0,9245,Kaleb Lawrence,Ben Betker,Tyler Spott,,
+1028468,2,2nd,10:52,402,BAK,7352,Riley Stillman,61,D,Roughing,2.00,1,0,7352,Riley Stillman,Ben Betker,Tyler Spott,,
+1028468,2,2nd,12:21,402,BAK,10874,Quinn Hutson,23,RW,Holding,2.00,1,0,10874,Quinn Hutson,Ben Betker,Tyler Spott,,
+1028468,3,3rd,3:33,403,ONT,9245,Kaleb Lawrence,22,F,High-sticking,2.00,1,0,9245,Kaleb Lawrence,Ben Betker,Tyler Spott,,

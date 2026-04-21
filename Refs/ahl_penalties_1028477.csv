@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028477,1,1st,13:43,389,IA,6779,Boris Katchouk,61,LW,Slashing,2.00,1,0,6779,Boris Katchouk,Jordan Deckard,Nolan Bloyer,,
+1028477,1,1st,16:27,389,IA,9154,Oskar Olausson,24,F,Tripping,2.00,1,0,9154,Oskar Olausson,Jordan Deckard,Nolan Bloyer,,
+1028477,1,1st,16:46,372,RFD,7927,Rem Pitlick,12,LW,High-sticking,2.00,1,0,7927,Rem Pitlick,Jordan Deckard,Nolan Bloyer,,
+1028477,2,2nd,1:07,372,RFD,9833,Ethan Del Mastro,38,D,Hooking,2.00,1,0,9833,Ethan Del Mastro,Jordan Deckard,Nolan Bloyer,,
+1028477,2,2nd,8:35,372,RFD,7927,Rem Pitlick,12,LW,Hooking,2.00,1,0,7927,Rem Pitlick,Jordan Deckard,Nolan Bloyer,,
+1028477,2,2nd,18:05,389,IA,9859,Caedan Bankier,19,C,Boarding,2.00,1,0,9859,Caedan Bankier,Jordan Deckard,Nolan Bloyer,,
+1028477,3,3rd,4:51,372,RFD,9720,Gavin Hayes,92,F,Slashing,2.00,1,0,9720,Gavin Hayes,Jordan Deckard,Nolan Bloyer,,
+1028477,3,3rd,11:36,389,IA,8576,Jean-Luc Foudy,86,RW,Slashing,2.00,1,0,8576,Jean-Luc Foudy,Jordan Deckard,Nolan Bloyer,,
+1028477,3,3rd,15:14,389,IA,8576,Jean-Luc Foudy,86,RW,Tripping,2.00,1,0,8576,Jean-Luc Foudy,Jordan Deckard,Nolan Bloyer,,
+1028477,3,3rd,18:36,372,RFD,10563,Taige Harding,47,D,Misconduct,10.00,0,0,10563,Taige Harding,Jordan Deckard,Nolan Bloyer,,
+1028477,3,3rd,18:36,389,IA,9472,Mark Liwiski,26,F,Slashing,2.00,1,0,10608,Riley Heidt,Jordan Deckard,Nolan Bloyer,,
+1028477,3,3rd,18:36,389,IA,9472,Mark Liwiski,26,F,Misconduct,10.00,0,0,9472,Mark Liwiski,Jordan Deckard,Nolan Bloyer,,

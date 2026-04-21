@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028409,2,2nd,4:54,440,ABB,8928,Danila Klimovich,9,RW,Tripping,2.00,1,0,8928,Danila Klimovich,Graedy Hamilton,Alex Clarke,,
+1028409,2,2nd,10:15,404,SD,10506,Stian Solberg,7,D,Interference,2.00,1,0,10506,Stian Solberg,Graedy Hamilton,Alex Clarke,,
+1028409,3,3rd,3:42,440,ABB,5502,Jujhar Khaira,15,C,Tripping,2.00,1,0,5502,Jujhar Khaira,Graedy Hamilton,Alex Clarke,,
+1028409,3,3rd,15:00,404,SD,5461,Ryan Carpenter,22,C,Hooking,2.00,1,0,5461,Ryan Carpenter,Graedy Hamilton,Alex Clarke,,
+1028409,3,3rd,18:20,440,ABB,8916,Cole Clayton,34,D,Misconduct - Continuing altercation,10.00,0,0,8916,Cole Clayton,Graedy Hamilton,Alex Clarke,,
+1028409,3,3rd,18:20,404,SD,8535,Jan Myšák,11,C,Misconduct - Continuing altercation,10.00,0,0,8535,Jan Myšák,Graedy Hamilton,Alex Clarke,,

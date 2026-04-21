@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028433,2,2nd,0:53,324,SYR,8553,Mitchell Chaffee,21,RW,Kneeing,2.00,1,0,8553,Mitchell Chaffee,Hayden Verbeek,Jack Young,,
+1028433,2,2nd,12:56,324,SYR,9823,Ethan Samson,42,D,Roughing,2.00,1,0,9823,Ethan Samson,Hayden Verbeek,Jack Young,,
+1028433,2,2nd,14:56,324,SYR,6522,Steven Santini,16,D,Delay of game,2.00,1,0,6522,Steven Santini,Hayden Verbeek,Jack Young,,
+1028433,2,2nd,15:15,415,LAV,9522,Filip Mešár,48,RW,Hooking,2.00,1,0,9522,Filip Mešár,Hayden Verbeek,Jack Young,,
+1028433,2,2nd,19:02,415,LAV,8689,Nate Clurman,5,D,Holding,2.00,1,0,8689,Nate Clurman,Hayden Verbeek,Jack Young,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028471,1,1st,1:54,330,CHI,7089,Cal Foote,52,D,Tripping,2.00,1,0,7089,Cal Foote,Graedy Hamilton,Nick Isaacson,,
+1028471,1,1st,9:56,330,CHI,9090,Noel Gunler,10,RW,Slashing,2.00,1,0,9090,Noel Gunler,Graedy Hamilton,Nick Isaacson,,
+1028471,1,1st,15:31,419,COL,10561,Taylor Makar,16,F,Roughing,2.00,1,0,10561,Taylor Makar,Graedy Hamilton,Nick Isaacson,,
+1028471,1,1st,17:21,330,CHI,10778,David Gagnon,37,C,Slashing,2.00,1,0,10778,David Gagnon,Graedy Hamilton,Nick Isaacson,,
+1028471,2,2nd,20:00,419,COL,8793,Valtteri Puustinen,83,RW,Double minor - High-sticking,4.00,1,0,8793,Valtteri Puustinen,Graedy Hamilton,Nick Isaacson,,
+1028471,3,3rd,17:40,330,CHI,7490,Juuso Välimäki,4,D,Holding,2.00,1,0,7490,Juuso Välimäki,Graedy Hamilton,Nick Isaacson,,

@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028473,1,1st,7:31,373,CLE,9978,James Malatesta,11,LW,Delay of game,2.00,1,0,9978,James Malatesta,Damian Figueira,David Elford,,
+1028473,2,2nd,3:28,415,LAV,10139,Florian Xhekaj,63,C,Double minor - High-sticking,4.00,1,0,10139,Florian Xhekaj,Damian Figueira,David Elford,,
+1028473,2,2nd,4:28,415,LAV,5927,Laurent Dauphin,27,F,Goaltender interference,2.00,1,0,5927,Laurent Dauphin,Damian Figueira,David Elford,,
+1028473,2,2nd,5:05,373,CLE,10176,Luca Pinelli,53,LW,Roughing,2.00,0,0,10176,Luca Pinelli,Damian Figueira,David Elford,,
+1028473,2,2nd,5:05,415,LAV,9093,Lucas Condotta,42,LW,Roughing,2.00,0,0,9093,Lucas Condotta,Damian Figueira,David Elford,,
+1028473,2,2nd,7:32,373,CLE,9058,Owen Sillinger,12,C,High-sticking,2.00,1,0,9058,Owen Sillinger,Damian Figueira,David Elford,,
+1028473,2,2nd,14:01,373,CLE,10950,Luca Marrelli,54,D,Slashing,2.00,1,0,10950,Luca Marrelli,Damian Figueira,David Elford,,
+1028473,2,2nd,19:51,373,CLE,10176,Luca Pinelli,53,LW,Roughing,2.00,0,0,10176,Luca Pinelli,Damian Figueira,David Elford,,
+1028473,2,2nd,19:51,415,LAV,5889,Josiah Didier,44,D,Roughing,2.00,0,0,5889,Josiah Didier,Damian Figueira,David Elford,,
+1028473,3,3rd,13:41,373,CLE,5645,Brendan Gaunce,16,C,Tripping,2.00,1,0,5645,Brendan Gaunce,Damian Figueira,David Elford,,

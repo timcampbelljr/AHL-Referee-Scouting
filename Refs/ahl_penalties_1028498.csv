@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028498,1,1st,1:46,328,GR,10008,Alex Doucet,47,LW,High-sticking,2.00,1,0,10008,Alex Doucet,Damian Figueira,Austin Rook,,
+1028498,2,2nd,14:40,380,TEX,9075,Michael Karow,26,D,Slashing,2.00,1,0,9075,Michael Karow,Damian Figueira,Austin Rook,,
+1028498,2,2nd,15:49,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Holding,2.00,1,0,10629,Michael Brandsegg-Nygård,Damian Figueira,Austin Rook,,
+1028498,2,2nd,19:18,380,TEX,4883,Curtis McKenzie,16,F,Tripping,2.00,1,0,4883,Curtis McKenzie,Damian Figueira,Austin Rook,,
+1028498,3,3rd,5:32,380,TEX,10044,Luke Krys,4,D,Holding,2.00,1,0,10044,Luke Krys,Damian Figueira,Austin Rook,,
+1028498,3,3rd,10:11,328,GR,9718,Amadeus Lombardi,93,C,Holding,2.00,1,0,9718,Amadeus Lombardi,Damian Figueira,Austin Rook,,
+1028498,3,3rd,12:48,328,GR,9672,William Wallinder,22,D,High-sticking,2.00,1,0,9672,William Wallinder,Damian Figueira,Austin Rook,,

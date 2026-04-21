@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028425,1,1st,15:11,413,BEL,4955,Scott Harrington,14,D,Holding,2.00,1,0,4955,Scott Harrington,Koletrane Wilson,Chris Conway,,
+1028425,1,1st,20:00,373,CLE,10894,Jack Williams,29,C,Tripping,2.00,1,0,10894,Jack Williams,Koletrane Wilson,Chris Conway,,
+1028425,2,2nd,18:22,413,BEL,9485,Olle Lycksell,15,LW,Holding,2.00,1,0,9485,Olle Lycksell,Koletrane Wilson,Chris Conway,,
+1028425,3,3rd,11:06,373,CLE,9735,Stanislav Svozil,5,D,Tripping,2.00,1,0,9735,Stanislav Svozil,Koletrane Wilson,Chris Conway,,
+1028425,3,3rd,16:34,373,CLE,9058,Owen Sillinger,12,C,Delay of game,2.00,1,0,9058,Owen Sillinger,Koletrane Wilson,Chris Conway,,
+1028425,3,3rd,18:48,373,CLE,9634,Mikael Pyyhtiä,82,LW,Roughing,2.00,0,0,9634,Mikael Pyyhtiä,Koletrane Wilson,Chris Conway,,
+1028425,3,3rd,18:48,373,CLE,9618,Corson Ceulemans,4,D,Roughing,2.00,1,0,9618,Corson Ceulemans,Koletrane Wilson,Chris Conway,,
+1028425,3,3rd,18:48,413,BEL,7713,Jan Jeník,24,C,Roughing,2.00,0,0,7713,Jan Jeník,Koletrane Wilson,Chris Conway,,

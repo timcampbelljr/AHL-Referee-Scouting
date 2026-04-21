@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028435,1,1st,5:35,412,TUC,10670,Jack Ricketts,15,F,Cross-checking,2.00,1,0,10670,Jack Ricketts,Ben Betker,John Lindner,,
+1028435,1,1st,9:03,419,COL,9118,Wyatt Aamodt,5,D,Tripping,2.00,1,0,9118,Wyatt Aamodt,Ben Betker,John Lindner,,
+1028435,2,2nd,8:57,412,TUC,3642,Andrew Agozzino,29,C,Holding,2.00,1,0,3642,Andrew Agozzino,Ben Betker,John Lindner,,
+1028435,2,2nd,13:27,419,COL,9969,Ivan Ivan,82,F,Hooking,2.00,1,0,9969,Ivan Ivan,Ben Betker,John Lindner,,
+1028435,2,2nd,16:12,412,TUC,8519,Scott Perunovich,7,D,Roughing,2.00,1,0,8519,Scott Perunovich,Ben Betker,John Lindner,,
+1028435,3,3rd,1:46,419,COL,9969,Ivan Ivan,82,F,High-sticking,2.00,1,0,9969,Ivan Ivan,Ben Betker,John Lindner,,
+1028435,3,3rd,8:03,412,TUC,10220,Maveric Lamoureux,10,D,Roughing,2.00,1,0,10220,Maveric Lamoureux,Ben Betker,John Lindner,,
+1028435,3,3rd,13:36,419,COL,9571,Ronnie Attard,3,D,Tripping,2.00,1,0,9571,Ronnie Attard,Ben Betker,John Lindner,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028415,1,1st,7:54,415,LAV,10505,Will Dineen,26,F,Slashing,2.00,1,0,10505,Will Dineen,Ben Solomon,Reid Anderson,,
+1028415,1,1st,19:43,415,LAV,9520,William Trudeau,84,D,Slashing,2.00,1,0,9520,William Trudeau,Ben Solomon,Reid Anderson,,
+1028415,2,2nd,3:53,444,CGY,8729,Daniil Miromanov,26,D,Slashing,2.00,1,0,8729,Daniil Miromanov,Ben Solomon,Reid Anderson,,
+1028415,2,2nd,7:41,415,LAV,9093,Lucas Condotta,42,LW,Slashing,2.00,1,0,9093,Lucas Condotta,Ben Solomon,Reid Anderson,,
+1028415,2,2nd,16:14,444,CGY,6142,Alex Gallant,20,LW,Roughing,2.00,1,0,6142,Alex Gallant,Ben Solomon,Reid Anderson,,
+1028415,2,2nd,16:14,444,CGY,9447,Jérémie Poirier,4,D,Cross-checking,2.00,1,0,9447,Jérémie Poirier,Ben Solomon,Reid Anderson,,
+1028415,2,2nd,16:47,444,CGY,7099,Turner Ottenbreit,2,D,Cross-checking,2.00,1,0,7099,Turner Ottenbreit,Ben Solomon,Reid Anderson,,
+1028415,2,2nd,17:44,415,LAV,4819,Alex Belzile,22,F,Slashing,2.00,1,0,4819,Alex Belzile,Ben Solomon,Reid Anderson,,
+1028415,3,3rd,18:53,415,LAV,10139,Florian Xhekaj,63,C,Misconduct,10.00,0,0,10139,Florian Xhekaj,Ben Solomon,Reid Anderson,,

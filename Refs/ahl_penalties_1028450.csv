@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028450,2,2nd,1:48,316,WBS,4933,Matt Dumba,24,D,Roughing,2.00,0,0,4933,Matt Dumba,Austin Rook,Hayden Verbeek,,
+1028450,2,2nd,1:48,324,SYR,8744,Jakob Pelletier,22,LW,Interference,2.00,0,0,8744,Jakob Pelletier,Austin Rook,Hayden Verbeek,,
+1028450,3,3rd,2:19,316,WBS,10848,Finn Harding,50,D,Tripping,2.00,1,0,10848,Finn Harding,Austin Rook,Hayden Verbeek,,
+1028450,3,3rd,4:08,316,WBS,10326,Atley Calvert,84,C,Slashing,2.00,1,0,10326,Atley Calvert,Austin Rook,Hayden Verbeek,,
+1028450,3,3rd,13:08,324,SYR,0,None None,0,,Too many men - Bench minor,2.00,1,1,10165,Milo Roelens,Austin Rook,Hayden Verbeek,,
+1028450,3,3rd,13:08,324,SYR,9347,Michael Milne,50,LW,Roughing,2.00,0,0,9347,Michael Milne,Austin Rook,Hayden Verbeek,,
+1028450,3,3rd,13:08,316,WBS,9649,Ville Koivunen,41,RW,Roughing,2.00,0,0,9649,Ville Koivunen,Austin Rook,Hayden Verbeek,,

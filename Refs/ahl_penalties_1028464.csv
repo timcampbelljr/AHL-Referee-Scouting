@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028464,1,1st,6:20,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,1,0,8625,Ian McKinnon,Ben Betker,John Lindner,,
+1028464,1,1st,16:12,445,CV,6956,John Hayden,15,F,Fighting,5.00,0,0,6956,John Hayden,Ben Betker,John Lindner,,
+1028464,1,1st,16:12,405,SJ,7575,Oliver Wahlstrom,24,RW,Fighting,5.00,0,0,7575,Oliver Wahlstrom,Ben Betker,John Lindner,,
+1028464,2,2nd,16:13,445,CV,9797,Jakov Novak,68,F,Roughing,2.00,1,0,9797,Jakov Novak,Ben Betker,John Lindner,,
+1028464,2,2nd,18:53,445,CV,0,None None,0,,Delay of game (faceoff violation) - Bench minor,2.00,1,1,10127,Jani Nyman,Ben Betker,John Lindner,,
+1028464,3,3rd,0:20,405,SJ,10226,Luca Cagnoni,42,D,Slashing,2.00,1,0,10226,Luca Cagnoni,Ben Betker,John Lindner,,
+1028464,3,3rd,11:24,405,SJ,10494,Igor Chernyshov,92,F,Roughing,2.00,1,0,10494,Igor Chernyshov,Ben Betker,John Lindner,,

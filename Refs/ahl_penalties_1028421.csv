@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028421,1,1st,12:11,403,ONT,9249,Angus Booth,24,D,Slashing,2.00,1,0,9249,Angus Booth,Ben Betker,John Lindner,,
+1028421,2,2nd,11:57,440,ABB,7767,Jimmy Schuldt,48,D,Double minor - High-sticking,4.00,1,0,7767,Jimmy Schuldt,Ben Betker,John Lindner,,
+1028421,2,2nd,12:03,403,ONT,6784,Glenn Gawdin,21,F,Tripping,2.00,0,0,6784,Glenn Gawdin,Ben Betker,John Lindner,,
+1028421,3,3rd,3:34,403,ONT,5592,Jacob Doty,37,F,Double minor - High-sticking,4.00,1,0,5592,Jacob Doty,Ben Betker,John Lindner,,

@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028410,1,1st,4:12,412,TUC,3642,Andrew Agozzino,29,C,Slashing,2.00,1,0,3642,Andrew Agozzino,Alex Gagné,Nick Isaacson,,
+1028410,1,1st,9:19,412,TUC,0,None None,0,,Too many men - Bench minor,2.00,1,1,10211,Miko Matikka,Alex Gagné,Nick Isaacson,,
+1028410,1,1st,10:48,437,HSK,7926,Jeremy Davies,84,D,Holding,2.00,1,0,7926,Jeremy Davies,Alex Gagné,Nick Isaacson,,
+1028410,1,1st,13:42,437,HSK,10286,Sloan Stanick,92,F,Tripping,2.00,1,0,10286,Sloan Stanick,Alex Gagné,Nick Isaacson,,
+1028410,2,2nd,0:56,412,TUC,8519,Scott Perunovich,7,D,Roughing,2.00,1,0,8519,Scott Perunovich,Alex Gagné,Nick Isaacson,,
+1028410,2,2nd,3:40,437,HSK,8421,Riley McKay,89,F,Holding,2.00,1,0,8421,Riley McKay,Alex Gagné,Nick Isaacson,,
+1028410,2,2nd,16:36,437,HSK,10680,Jackson Hallum,59,F,Holding,2.00,1,0,10680,Jackson Hallum,Alex Gagné,Nick Isaacson,,
+1028410,2,2nd,18:32,412,TUC,10670,Jack Ricketts,15,F,Roughing,2.00,0,0,10670,Jack Ricketts,Alex Gagné,Nick Isaacson,,
+1028410,2,2nd,18:32,437,HSK,9951,Christoffer Sedoff,44,D,Roughing,2.00,0,0,9951,Christoffer Sedoff,Alex Gagné,Nick Isaacson,,
+1028410,2,2nd,19:40,412,TUC,8734,Ben McCartney,22,F,Tripping,2.00,1,0,8734,Ben McCartney,Alex Gagné,Nick Isaacson,,
+1028410,3,3rd,8:10,412,TUC,8631,Ty Tullio,17,RW,Holding,2.00,1,0,8631,Ty Tullio,Alex Gagné,Nick Isaacson,,
+1028410,3,3rd,12:08,437,HSK,5547,Jaycob Megna,88,D,Tripping,2.00,1,0,5547,Jaycob Megna,Alex Gagné,Nick Isaacson,,

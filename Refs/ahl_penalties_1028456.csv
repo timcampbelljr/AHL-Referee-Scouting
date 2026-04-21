@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028456,1,1st,3:12,402,BAK,8726,Roby Järventie,15,RW,Hooking,2.00,1,0,8726,Roby Järventie,Jack Young,Tatu Kunto,,
+1028456,1,1st,9:48,444,CGY,9952,Lucas Ciona,17,LW,Fighting,5.00,0,0,9952,Lucas Ciona,Jack Young,Tatu Kunto,,
+1028456,1,1st,9:48,402,BAK,9229,Brady Stonehouse,41,RW,Fighting,5.00,0,0,9229,Brady Stonehouse,Jack Young,Tatu Kunto,,
+1028456,2,2nd,9:00,444,CGY,5018,Martin Frk,29,RW,Slashing,2.00,0,0,5018,Martin Frk,Jack Young,Tatu Kunto,,
+1028456,2,2nd,9:00,402,BAK,7352,Riley Stillman,61,D,Roughing,2.00,0,0,7352,Riley Stillman,Jack Young,Tatu Kunto,,
+1028456,2,2nd,16:30,444,CGY,6367,Dryden Hunt,15,LW,Tripping,2.00,1,0,6367,Dryden Hunt,Jack Young,Tatu Kunto,,
+1028456,3,3rd,5:34,402,BAK,10599,Rhett Pitlick,68,RW,Tripping,2.00,1,0,10599,Rhett Pitlick,Jack Young,Tatu Kunto,,
+1028456,3,3rd,12:13,444,CGY,7099,Turner Ottenbreit,2,D,Interference,2.00,1,0,7099,Turner Ottenbreit,Jack Young,Tatu Kunto,,

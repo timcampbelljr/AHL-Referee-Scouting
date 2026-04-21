@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028402,1,1st,8:12,419,COL,9118,Wyatt Aamodt,5,D,Interference,2.00,1,0,9118,Wyatt Aamodt,Jackson Kozari,Jordan Watt,,
+1028402,1,1st,18:46,403,ONT,6784,Glenn Gawdin,21,F,Roughing,2.00,1,0,6784,Glenn Gawdin,Jackson Kozari,Jordan Watt,,
+1028402,2,2nd,12:44,419,COL,10654,Alex Gagne,45,D,Roughing,2.00,0,0,10654,Alex Gagne,Jackson Kozari,Jordan Watt,,
+1028402,2,2nd,12:44,403,ONT,10199,Jakub Dvořák,55,D,Roughing,2.00,0,0,10199,Jakub Dvořák,Jackson Kozari,Jordan Watt,,
+1028402,3,3rd,0:55,403,ONT,10199,Jakub Dvořák,55,D,Interference,2.00,1,0,10199,Jakub Dvořák,Jackson Kozari,Jordan Watt,,
+1028402,3,3rd,6:03,419,COL,8929,Tristen Nielsen,57,F,Cross-checking,2.00,1,0,8929,Tristen Nielsen,Jackson Kozari,Jordan Watt,,
+1028402,3,3rd,6:44,419,COL,10654,Alex Gagne,45,D,Tripping,2.00,1,0,10654,Alex Gagne,Jackson Kozari,Jordan Watt,,
+1028402,3,3rd,18:33,403,ONT,9239,Francesco Pinelli,71,F,Roughing,2.00,0,0,9239,Francesco Pinelli,Jackson Kozari,Jordan Watt,,
+1028402,3,3rd,18:33,419,COL,7090,Tye Felhaber,48,F,Misconduct,10.00,0,0,7090,Tye Felhaber,Jackson Kozari,Jordan Watt,,
+1028402,3,3rd,18:33,419,COL,7090,Tye Felhaber,48,F,Roughing,2.00,0,0,7090,Tye Felhaber,Jackson Kozari,Jordan Watt,,

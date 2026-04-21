@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028497,1,1st,9:51,412,TUC,10665,Dmitri Simashev,26,D,Slashing,2.00,1,0,10665,Dmitri Simashev,Alex Lepkowski,Adam Tobias,,
+1028497,2,2nd,3:20,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,1,0,8625,Ian McKinnon,Alex Lepkowski,Adam Tobias,,
+1028497,2,2nd,9:32,445,CV,9797,Jakov Novak,68,F,Slashing,2.00,1,0,9797,Jakov Novak,Alex Lepkowski,Adam Tobias,,
+1028497,3,3rd,2:48,445,CV,9764,Ty Nelson,24,D,Slashing,2.00,1,0,9764,Ty Nelson,Alex Lepkowski,Adam Tobias,,
+1028497,3,3rd,14:35,445,CV,10385,Charlie Wright,50,D,Tripping,2.00,1,0,10385,Charlie Wright,Alex Lepkowski,Adam Tobias,,

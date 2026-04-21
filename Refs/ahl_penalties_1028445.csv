@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028445,1,1st,11:02,307,HFD,9119,Brendan Brisson,19,F,Hooking,2.00,1,0,9119,Brendan Brisson,Damian Figueira,Adam Tobias,,
+1028445,1,1st,11:43,411,SPR,5896,Matthew Peca,63,C,Tripping,2.00,1,0,5896,Matthew Peca,Damian Figueira,Adam Tobias,,
+1028445,1,1st,12:22,411,SPR,7682,Akil Thomas,16,F,Tripping,2.00,1,0,7682,Akil Thomas,Damian Figueira,Adam Tobias,,
+1028445,1,1st,14:56,307,HFD,10276,Carey Terrance,11,F,Slashing,2.00,1,0,10276,Carey Terrance,Damian Figueira,Adam Tobias,,
+1028445,2,2nd,0:43,307,HFD,7569,Casey Fitzgerald,4,D,Holding,2.00,1,0,7569,Casey Fitzgerald,Damian Figueira,Adam Tobias,,
+1028445,2,2nd,10:00,411,SPR,9268,Zach Dean,14,F,Roughing,2.00,0,0,9268,Zach Dean,Damian Figueira,Adam Tobias,,
+1028445,2,2nd,10:00,411,SPR,8630,Hunter Skinner,55,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,8630,Hunter Skinner,Damian Figueira,Adam Tobias,,
+1028445,2,2nd,10:00,307,HFD,5944,Daniel Walcott,85,LW,Roughing,2.00,0,0,5944,Daniel Walcott,Damian Figueira,Adam Tobias,,
+1028445,2,2nd,19:07,411,SPR,5896,Matthew Peca,63,C,Roughing,2.00,1,0,5896,Matthew Peca,Damian Figueira,Adam Tobias,,
+1028445,2,2nd,19:07,411,SPR,10495,Otto Stenberg,28,F,Roughing,2.00,0,0,10495,Otto Stenberg,Damian Figueira,Adam Tobias,,
+1028445,2,2nd,19:07,307,HFD,9119,Brendan Brisson,19,F,Roughing,2.00,0,0,9119,Brendan Brisson,Damian Figueira,Adam Tobias,,
+1028445,3,3rd,6:34,411,SPR,7682,Akil Thomas,16,F,Hooking,2.00,1,0,7682,Akil Thomas,Damian Figueira,Adam Tobias,,

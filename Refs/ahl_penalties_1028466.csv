@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028466,1,1st,4:12,316,WBS,10504,Chase Pietila,44,D,Tripping,2.00,1,0,10504,Chase Pietila,Andrew Bell,Patrick Hanrahan,,
+1028466,1,1st,16:04,316,WBS,10848,Finn Harding,50,D,Holding the stick,2.00,1,0,10848,Finn Harding,Andrew Bell,Patrick Hanrahan,,
+1028466,2,2nd,0:38,316,WBS,10851,Aaron Huglen,10,C,Holding,2.00,1,0,10851,Aaron Huglen,Andrew Bell,Patrick Hanrahan,,
+1028466,2,2nd,1:19,316,WBS,10504,Chase Pietila,44,D,Tripping,2.00,1,0,10504,Chase Pietila,Andrew Bell,Patrick Hanrahan,,
+1028466,2,2nd,11:52,319,HER,10573,David Gucciardi,48,D,Elbowing,2.00,1,0,10573,David Gucciardi,Andrew Bell,Patrick Hanrahan,,
+1028466,2,2nd,17:05,316,WBS,9649,Ville Koivunen,41,RW,Tripping,2.00,1,0,9649,Ville Koivunen,Andrew Bell,Patrick Hanrahan,,
+1028466,3,3rd,6:53,319,HER,10644,Ilya Protas,40,C,Roughing,2.00,1,0,10644,Ilya Protas,Andrew Bell,Patrick Hanrahan,,

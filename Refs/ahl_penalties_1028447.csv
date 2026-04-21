@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028447,1,1st,9:45,335,TOR,6014,Dakota Mermis,36,D,Fighting,5.00,0,0,6014,Dakota Mermis,Alex Lepkowski,Mike Sullivan,,
+1028447,1,1st,9:45,415,LAV,9796,Jared Davidson,49,F,Fighting,5.00,0,0,9796,Jared Davidson,Alex Lepkowski,Mike Sullivan,,
+1028447,1,1st,9:45,415,LAV,9796,Jared Davidson,49,F,Unsportsmanlike conduct,2.00,1,0,9796,Jared Davidson,Alex Lepkowski,Mike Sullivan,,
+1028447,1,1st,16:27,335,TOR,6681,Vinni Lettieri,71,C,Slashing,2.00,1,0,6681,Vinni Lettieri,Alex Lepkowski,Mike Sullivan,,
+1028447,1,1st,18:39,335,TOR,6014,Dakota Mermis,36,D,Slashing,2.00,1,0,6014,Dakota Mermis,Alex Lepkowski,Mike Sullivan,,
+1028447,2,2nd,2:41,415,LAV,8717,Marc Del Gaizo,2,D,Tripping,2.00,1,0,8717,Marc Del Gaizo,Alex Lepkowski,Mike Sullivan,,
+1028447,2,2nd,5:53,335,TOR,10053,Matthew Barbolini,68,F,Slashing,2.00,1,0,10053,Matthew Barbolini,Alex Lepkowski,Mike Sullivan,,
+1028447,2,2nd,10:51,335,TOR,7780,Cédric Paré,56,F,Double minor - High-sticking,4.00,1,0,7780,Cédric Paré,Alex Lepkowski,Mike Sullivan,,
+1028447,3,3rd,10:42,335,TOR,7579,Reese Johnson,65,RW,Fighting,5.00,0,0,7579,Reese Johnson,Alex Lepkowski,Mike Sullivan,,
+1028447,3,3rd,10:42,415,LAV,9520,William Trudeau,84,D,Fighting,5.00,0,0,9520,William Trudeau,Alex Lepkowski,Mike Sullivan,,

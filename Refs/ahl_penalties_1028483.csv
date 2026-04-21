@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028483,1,1st,18:29,317,BRI,2350,Chris Terry,25,F,Tripping,2.00,1,0,2350,Chris Terry,Austin Rook,Samuel Heidemann,,
+1028483,2,2nd,17:08,317,BRI,7627,Hunter Drew,36,RW,Hooking,2.00,1,0,7627,Hunter Drew,Austin Rook,Samuel Heidemann,,
+1028483,3,3rd,5:55,313,LV,10722,Oliver Bonk,59,D,Cross-checking,2.00,1,0,10722,Oliver Bonk,Austin Rook,Samuel Heidemann,,
+1028483,3,3rd,11:17,313,LV,10717,Devin Kaplan,12,F,Slashing,2.00,1,0,10717,Devin Kaplan,Austin Rook,Samuel Heidemann,,
+1028483,3,3rd,15:51,317,BRI,10389,Isaiah George,4,D,Tripping,2.00,1,0,10389,Isaiah George,Austin Rook,Samuel Heidemann,,

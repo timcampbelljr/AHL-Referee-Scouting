@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028404,1,1st,11:09,372,RFD,9833,Ethan Del Mastro,38,D,Roughing,2.00,1,0,9833,Ethan Del Mastro,Morgan MacPhee,Sydney Harris,,
+1028404,1,1st,17:39,330,CHI,9090,Noel Gunler,10,RW,Holding the stick,2.00,1,0,9090,Noel Gunler,Morgan MacPhee,Sydney Harris,,
+1028404,2,2nd,5:33,372,RFD,7027,Brett Seney,62,F,Roughing,2.00,0,0,7027,Brett Seney,Morgan MacPhee,Sydney Harris,,
+1028404,2,2nd,5:33,330,CHI,7490,Juuso Välimäki,4,D,Roughing,2.00,0,0,7490,Juuso Välimäki,Morgan MacPhee,Sydney Harris,,
+1028404,2,2nd,6:34,330,CHI,10463,Aleksi Heimosalmi,34,D,Holding,2.00,1,0,10463,Aleksi Heimosalmi,Morgan MacPhee,Sydney Harris,,
+1028404,2,2nd,14:03,330,CHI,10468,Bradly Nadeau,82,LW,Tripping,2.00,1,0,10468,Bradly Nadeau,Morgan MacPhee,Sydney Harris,,
+1028404,3,3rd,0:58,372,RFD,10177,Samuel Savoie,67,F,Slashing,2.00,1,0,10177,Samuel Savoie,Morgan MacPhee,Sydney Harris,,
+1028404,3,3rd,16:25,372,RFD,9833,Ethan Del Mastro,38,D,Holding,2.00,1,0,9833,Ethan Del Mastro,Morgan MacPhee,Sydney Harris,,

@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028455,1,1st,5:58,403,ONT,9081,Andre Lee,26,F,Fighting,5.00,0,0,9081,Andre Lee,Jacob Hicks,Tatu Kunto,,
+1028455,1,1st,5:58,445,CV,6956,John Hayden,15,F,Fighting,5.00,0,0,6956,John Hayden,Jacob Hicks,Tatu Kunto,,
+1028455,1,1st,7:37,445,CV,9706,Ville Ottavainen,36,D,Hooking,2.00,1,0,9706,Ville Ottavainen,Jacob Hicks,Tatu Kunto,,
+1028455,1,1st,15:45,403,ONT,9241,Aatu Jämsen,86,F,Hooking,2.00,1,0,9241,Aatu Jämsen,Jacob Hicks,Tatu Kunto,,
+1028455,1,1st,19:58,445,CV,9756,Logan Morrison,96,F,Hooking,2.00,1,0,9756,Logan Morrison,Jacob Hicks,Tatu Kunto,,
+1028455,2,2nd,12:49,445,CV,9710,David Goyette,88,F,Slashing,2.00,1,0,9710,David Goyette,Jacob Hicks,Tatu Kunto,,
+1028455,3,3rd,6:56,445,CV,10082,Lukas Dragicevic,2,D,Hooking,2.00,1,0,10082,Lukas Dragicevic,Jacob Hicks,Tatu Kunto,,
+1028455,3,3rd,11:58,403,ONT,9249,Angus Booth,24,D,Tripping,2.00,1,0,9249,Angus Booth,Jacob Hicks,Tatu Kunto,,

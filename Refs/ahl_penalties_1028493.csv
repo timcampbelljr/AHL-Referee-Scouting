@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028493,1,1st,10:52,380,TEX,10555,Harrison Scott,11,F,High-sticking,2.00,1,0,10555,Harrison Scott,Beau Halkidis,Bobby Jo Love,,
+1028493,1,1st,19:05,380,TEX,10044,Luke Krys,4,D,Roughing,2.00,0,0,10044,Luke Krys,Beau Halkidis,Bobby Jo Love,,
+1028493,1,1st,19:05,321,MB,7680,Samuel Fagemo,16,LW,Roughing,2.00,0,0,7680,Samuel Fagemo,Beau Halkidis,Bobby Jo Love,,
+1028493,2,2nd,13:29,321,MB,10908,Brayden Yager,29,C,Slashing,2.00,1,0,10908,Brayden Yager,Beau Halkidis,Bobby Jo Love,,
+1028493,3,3rd,13:31,380,TEX,10451,Justin Ertel,10,LW,Tripping,2.00,1,0,10451,Justin Ertel,Beau Halkidis,Bobby Jo Love,,

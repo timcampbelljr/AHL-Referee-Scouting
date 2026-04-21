@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028401,1,1st,8:57,327,MIL,10185,Andrew Gibson,6,D,Holding,2.00,1,0,10185,Andrew Gibson,Austin Rook,Adam Tobias,,
+1028401,1,1st,12:14,389,IA,6304,Nicolas Aubé-Kubel,96,RW,Interference,2.00,1,0,6304,Nicolas Aubé-Kubel,Austin Rook,Adam Tobias,,
+1028401,1,1st,13:55,389,IA,9799,Bradley Marek,10,F,Tripping,2.00,1,0,9799,Bradley Marek,Austin Rook,Adam Tobias,,
+1028401,2,2nd,4:13,327,MIL,9876,Reid Schaefer,49,LW,Roughing,2.00,1,0,9876,Reid Schaefer,Austin Rook,Adam Tobias,,
+1028401,2,2nd,11:18,389,IA,8937,Matt Kiersted,23,D,Tripping,2.00,1,0,8937,Matt Kiersted,Austin Rook,Adam Tobias,,
+1028401,2,2nd,19:34,389,IA,10067,Jack Peart,3,D,Tripping,2.00,1,0,10067,Jack Peart,Austin Rook,Adam Tobias,,
+1028401,3,3rd,4:11,389,IA,7653,Ben Jones,18,C,Broken stick,2.00,1,0,7653,Ben Jones,Austin Rook,Adam Tobias,,
+1028401,3,3rd,4:52,327,MIL,9874,Zach L’Heureux,68,LW,Interference,2.00,1,0,9874,Zach L’Heureux,Austin Rook,Adam Tobias,,
+1028401,3,3rd,9:09,327,MIL,8837,Shawn Element,22,LW,Tripping,2.00,1,0,8837,Shawn Element,Austin Rook,Adam Tobias,,
+1028401,3,3rd,19:30,389,IA,7375,Ben Gleason,6,D,Tripping,2.00,1,0,7375,Ben Gleason,Austin Rook,Adam Tobias,,

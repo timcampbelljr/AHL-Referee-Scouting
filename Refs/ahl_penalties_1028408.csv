@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028408,2,2nd,12:57,316,WBS,10848,Finn Harding,50,D,Delay of game,2.00,1,0,10848,Finn Harding,Mike Campbell,Jack Young,,
+1028408,2,2nd,18:45,316,WBS,10042,Scooter Brickey,63,D,Delay of game,2.00,1,0,10042,Scooter Brickey,Mike Campbell,Jack Young,,
+1028408,3,3rd,15:03,384,CLT,9990,Wilmer Skoog,25,F,High-sticking,2.00,1,0,9990,Wilmer Skoog,Mike Campbell,Jack Young,,
+1028408,3,3rd,17:09,316,WBS,0,None None,0,,Unsportsmanlike conduct - Bench minor,2.00,1,1,6865,Bokondji Imama,Mike Campbell,Jack Young,,
+1028408,3,3rd,17:09,316,WBS,9816,Avery Hayes,85,RW,Misconduct - Continuing altercation,10.00,0,0,9816,Avery Hayes,Mike Campbell,Jack Young,,
+1028408,3,3rd,17:09,316,WBS,9649,Ville Koivunen,41,RW,Misconduct - Abuse of officials,10.00,0,0,9649,Ville Koivunen,Mike Campbell,Jack Young,,
+1028408,3,3rd,17:09,384,CLT,7106,Jack Studnicka,23,F,Misconduct - Continuing altercation,10.00,0,0,7106,Jack Studnicka,Mike Campbell,Jack Young,,

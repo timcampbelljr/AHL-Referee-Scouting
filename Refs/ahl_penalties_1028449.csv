@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028449,1,1st,6:27,319,HER,7584,Matt Strome,45,LW,Slashing,2.00,1,0,7584,Matt Strome,Chad Ingalls,Jordan Deckard,,
+1028449,1,1st,13:02,390,UTC,10621,Cam Squires,12,F,Holding,2.00,1,0,10621,Cam Squires,Chad Ingalls,Jordan Deckard,,
+1028449,1,1st,14:45,319,HER,8598,Graeme Clarke,92,RW,Hooking,2.00,1,0,8598,Graeme Clarke,Chad Ingalls,Jordan Deckard,,
+1028449,2,2nd,18:51,390,UTC,9067,Brian Halonen,24,F,Slashing,2.00,1,0,9067,Brian Halonen,Chad Ingalls,Jordan Deckard,,
+1028449,3,3rd,1:48,390,UTC,9114,Thomas Bordeleau,74,F,Tripping,2.00,1,0,9114,Thomas Bordeleau,Chad Ingalls,Jordan Deckard,,
+1028449,3,3rd,1:48,390,UTC,10442,Mikaël Diotte,58,D,Roughing,2.00,0,0,10442,Mikaël Diotte,Chad Ingalls,Jordan Deckard,,
+1028449,3,3rd,1:48,319,HER,9972,Ivan Miroshnichenko,10,LW,Roughing,2.00,0,0,9972,Ivan Miroshnichenko,Chad Ingalls,Jordan Deckard,,

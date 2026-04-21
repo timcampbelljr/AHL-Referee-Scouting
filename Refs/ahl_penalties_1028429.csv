@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028429,1,1st,4:11,327,MIL,10833,Joey Willis,13,LW,Hooking,2.00,1,0,10833,Joey Willis,Alex Gagné,Kyle Bauman,,
+1028429,1,1st,14:51,327,MIL,9876,Reid Schaefer,49,LW,Slashing,2.00,1,0,9876,Reid Schaefer,Alex Gagné,Kyle Bauman,,
+1028429,2,2nd,4:07,327,MIL,9631,Joakim Kemell,25,F,Double minor - High-sticking,4.00,1,0,9631,Joakim Kemell,Alex Gagné,Kyle Bauman,,
+1028429,2,2nd,9:15,389,IA,10313,Hunter Haight,43,F,Interference,2.00,1,0,10313,Hunter Haight,Alex Gagné,Kyle Bauman,,
+1028429,2,2nd,12:55,389,IA,9472,Mark Liwiski,26,F,Fighting,5.00,0,0,9472,Mark Liwiski,Alex Gagné,Kyle Bauman,,
+1028429,2,2nd,12:55,327,MIL,7698,Zack Hayes,65,D,Fighting,5.00,0,0,7698,Zack Hayes,Alex Gagné,Kyle Bauman,,
+1028429,3,3rd,6:10,389,IA,8445,D.J. King,50,D,Roughing,2.00,1,0,8445,D.J. King,Alex Gagné,Kyle Bauman,,

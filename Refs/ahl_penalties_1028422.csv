@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028422,1,1st,4:16,319,HER,10023,Phip Waugh,22,D,Holding,2.00,1,0,10023,Phip Waugh,Chad Ingalls,Matt Mannella,,
+1028422,1,1st,5:27,323,ROC,9700,Trevor Kuntar,16,LW,Tripping,2.00,1,0,9700,Trevor Kuntar,Chad Ingalls,Matt Mannella,,
+1028422,1,1st,9:12,319,HER,10174,Andrew Cristall,20,LW,Delay of game,2.00,1,0,10174,Andrew Cristall,Chad Ingalls,Matt Mannella,,
+1028422,2,2nd,16:31,323,ROC,9700,Trevor Kuntar,16,LW,Tripping,2.00,1,0,9700,Trevor Kuntar,Chad Ingalls,Matt Mannella,,
+1028422,3,3rd,13:54,319,HER,9818,Ryan Hofer,25,C,High-sticking,2.00,1,0,9818,Ryan Hofer,Chad Ingalls,Matt Mannella,,

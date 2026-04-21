@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028420,1,1st,3:01,437,HSK,9279,Joe Fleming,50,F,Interference,2.00,1,0,9279,Joe Fleming,Tyler Spott,Jackson Kozari,,
+1028420,1,1st,9:13,437,HSK,9279,Joe Fleming,50,F,Fighting,5.00,0,0,9279,Joe Fleming,Tyler Spott,Jackson Kozari,,
+1028420,1,1st,9:13,402,BAK,9170,Tyson Feist,72,D,Fighting,5.00,0,0,9170,Tyson Feist,Tyler Spott,Jackson Kozari,,
+1028420,1,1st,15:39,402,BAK,10876,Viljami Marjala,57,C,Delay of game - Faceoff violation (batting puck with hand),2.00,1,0,10876,Viljami Marjala,Tyler Spott,Jackson Kozari,,
+1028420,2,2nd,3:25,437,HSK,9279,Joe Fleming,50,F,High-sticking,2.00,1,0,9279,Joe Fleming,Tyler Spott,Jackson Kozari,,
+1028420,2,2nd,8:05,402,BAK,0,None None,0,,Too many men - Bench minor,2.00,1,1,10876,Viljami Marjala,Tyler Spott,Jackson Kozari,,
+1028420,2,2nd,9:04,402,BAK,9384,Luke Prokop,77,D,Slashing,2.00,1,0,9384,Luke Prokop,Tyler Spott,Jackson Kozari,,
+1028420,2,2nd,17:18,437,HSK,5547,Jaycob Megna,88,D,High-sticking,2.00,1,0,5547,Jaycob Megna,Tyler Spott,Jackson Kozari,,
+1028420,3,3rd,11:40,402,BAK,5080,Seth Griffith,39,LW,Holding,2.00,1,0,5080,Seth Griffith,Tyler Spott,Jackson Kozari,,

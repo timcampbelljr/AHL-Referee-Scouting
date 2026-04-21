@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028428,1,1st,17:07,317,BRI,6861,Matthew Highmore,20,C,Slashing,2.00,1,0,6861,Matthew Highmore,Sydney Harris,Riley Brace,,
+1028428,2,2nd,0:18,307,HFD,7669,Trey Fix-Wolansky,64,F,Interference,2.00,1,0,7669,Trey Fix-Wolansky,Sydney Harris,Riley Brace,,
+1028428,2,2nd,3:55,307,HFD,7569,Casey Fitzgerald,4,D,Holding,2.00,1,0,7569,Casey Fitzgerald,Sydney Harris,Riley Brace,,
+1028428,2,2nd,18:27,307,HFD,5944,Daniel Walcott,85,LW,High-sticking,2.00,1,0,5944,Daniel Walcott,Sydney Harris,Riley Brace,,
+1028428,3,3rd,9:38,317,BRI,7248,Sean Day,47,D,Holding,2.00,1,0,7248,Sean Day,Sydney Harris,Riley Brace,,

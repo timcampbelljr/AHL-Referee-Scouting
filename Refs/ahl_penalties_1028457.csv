@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028457,1,1st,5:01,335,TOR,6681,Vinni Lettieri,71,C,Holding,2.00,1,0,6681,Vinni Lettieri,Chad Ingalls,Adam Tobias,,
+1028457,2,2nd,15:03,335,TOR,10144,Chas Sharpe,97,D,Slashing,2.00,1,0,10144,Chas Sharpe,Chad Ingalls,Adam Tobias,,
+1028457,3,3rd,7:09,335,TOR,10525,Luke Haymes,43,C,Tripping,2.00,1,0,10525,Luke Haymes,Chad Ingalls,Adam Tobias,,
+1028457,3,3rd,14:42,373,CLE,10176,Luca Pinelli,53,LW,Tripping,2.00,1,0,10176,Luca Pinelli,Chad Ingalls,Adam Tobias,,
+1028457,OT,OT,4:47,373,CLE,5645,Brendan Gaunce,16,C,Hooking,2.00,1,0,5645,Brendan Gaunce,Chad Ingalls,Adam Tobias,,

@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028460,1,1st,5:08,390,UTC,10529,Ethan Edwards,73,D,Slashing,2.00,1,0,10529,Ethan Edwards,Mathieu Menniti,Brendan Schreider,,
+1028460,1,1st,17:11,390,UTC,8891,Nathan Légaré,11,RW,Fighting,5.00,0,0,8891,Nathan Légaré,Mathieu Menniti,Brendan Schreider,,
+1028460,1,1st,17:11,415,LAV,10149,Luke Tuch,17,LW,Fighting,5.00,0,0,10149,Luke Tuch,Mathieu Menniti,Brendan Schreider,,
+1028460,1,1st,17:16,390,UTC,8778,Jackson van de Leest,55,D,Fighting,5.00,0,0,8778,Jackson van de Leest,Mathieu Menniti,Brendan Schreider,,
+1028460,1,1st,17:16,415,LAV,4830,Vincent Arseneau,18,LW,Fighting,5.00,0,0,4830,Vincent Arseneau,Mathieu Menniti,Brendan Schreider,,
+1028460,3,3rd,4:01,415,LAV,10139,Florian Xhekaj,63,C,Roughing,2.00,1,0,10139,Florian Xhekaj,Mathieu Menniti,Brendan Schreider,,
+1028460,3,3rd,5:48,390,UTC,0,None None,0,,Too many men - Bench minor,2.00,1,1,9681,Josh Filmon,Mathieu Menniti,Brendan Schreider,,
+1028460,3,3rd,7:14,390,UTC,8891,Nathan Légaré,11,RW,High-sticking,2.00,1,0,8891,Nathan Légaré,Mathieu Menniti,Brendan Schreider,,
+1028460,3,3rd,12:51,390,UTC,10632,Shane Lachance,18,F,Tripping,2.00,1,0,10632,Shane Lachance,Mathieu Menniti,Brendan Schreider,,
+1028460,3,3rd,19:05,415,LAV,9093,Lucas Condotta,42,LW,Fighting,5.00,0,0,9093,Lucas Condotta,Mathieu Menniti,Brendan Schreider,,
+1028460,3,3rd,19:05,390,UTC,7608,Jonathan Gruden,14,C,Fighting,5.00,0,0,7608,Jonathan Gruden,Mathieu Menniti,Brendan Schreider,,

@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028441,1,1st,16:18,317,BRI,9443,Matthew Maggio,18,F,Goaltender interference,2.00,1,0,9443,Matthew Maggio,Jack Young,Patrick Hanrahan,,
+1028441,2,2nd,5:36,313,LV,9484,Adam Ginning,37,D,Cross-checking,2.00,1,0,9484,Adam Ginning,Jack Young,Patrick Hanrahan,,
+1028441,2,2nd,7:52,317,BRI,7627,Hunter Drew,36,RW,Slashing,2.00,1,0,7627,Hunter Drew,Jack Young,Patrick Hanrahan,,
+1028441,2,2nd,14:51,313,LV,9378,Jacob Gaucher,56,F,Hooking,2.00,1,0,9378,Jacob Gaucher,Jack Young,Patrick Hanrahan,,
+1028441,3,3rd,10:24,313,LV,7788,Maxence Guenette,82,D,Hooking,2.00,1,0,7788,Maxence Guenette,Jack Young,Patrick Hanrahan,,

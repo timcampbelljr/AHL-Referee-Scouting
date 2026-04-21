@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028479,1,1st,0:06,321,MB,9759,Nikita Chibrikov,19,LW,High-sticking,2.00,1,0,9759,Nikita Chibrikov,Beau Halkidis,Bobby Jo Love,,
+1028479,1,1st,12:47,321,MB,7118,Jaret Anderson-Dolan,28,C,Double minor - High-sticking,4.00,1,0,7118,Jaret Anderson-Dolan,Beau Halkidis,Bobby Jo Love,,
+1028479,1,1st,14:03,380,TEX,9548,Cross Hanas,32,F,Hooking,2.00,0,0,9548,Cross Hanas,Beau Halkidis,Bobby Jo Love,,
+1028479,1,1st,19:52,321,MB,9759,Nikita Chibrikov,19,LW,Boarding,2.00,1,0,9759,Nikita Chibrikov,Beau Halkidis,Bobby Jo Love,,
+1028479,2,2nd,0:40,380,TEX,10546,Artem Shlaine,38,F,Hooking,2.00,1,0,10546,Artem Shlaine,Beau Halkidis,Bobby Jo Love,,
+1028479,2,2nd,14:48,321,MB,9557,Brad Lambert,13,F,High-sticking,2.00,1,0,9557,Brad Lambert,Beau Halkidis,Bobby Jo Love,,
+1028479,3,3rd,0:25,321,MB,7113,Mason Shaw,18,RW,High-sticking,2.00,1,0,7113,Mason Shaw,Beau Halkidis,Bobby Jo Love,,

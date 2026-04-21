@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028472,1,1st,8:05,445,CV,10083,Lleyton Roed,29,F,Hooking,2.00,1,0,10083,Lleyton Roed,Morgan MacPhee,Hayden Verbeek,,
+1028472,1,1st,18:00,445,CV,9706,Ville Ottavainen,36,D,Holding,2.00,1,0,9706,Ville Ottavainen,Morgan MacPhee,Hayden Verbeek,,
+1028472,2,2nd,6:11,445,CV,5471,Gustav Olofsson,23,D,Holding,2.00,1,0,5471,Gustav Olofsson,Morgan MacPhee,Hayden Verbeek,,
+1028472,2,2nd,8:20,445,CV,9706,Ville Ottavainen,36,D,Holding,2.00,1,0,9706,Ville Ottavainen,Morgan MacPhee,Hayden Verbeek,,
+1028472,3,3rd,5:35,437,HSK,7028,Mitch McLain,75,F,Hooking,2.00,1,0,7028,Mitch McLain,Morgan MacPhee,Hayden Verbeek,,
+1028472,3,3rd,16:11,437,HSK,10280,Tuomas Uronen,37,F,Holding,2.00,1,0,10280,Tuomas Uronen,Morgan MacPhee,Hayden Verbeek,,

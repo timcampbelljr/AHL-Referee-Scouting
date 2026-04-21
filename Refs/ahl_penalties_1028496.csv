@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028496,1,1st,0:28,404,SD,5912,Roland McKeown,37,D,Hooking,2.00,1,0,5912,Roland McKeown,Liam Maaskant,John Lindner,,
+1028496,1,1st,2:27,402,BAK,6058,Josh Brown,44,D,Tripping,2.00,1,0,6058,Josh Brown,Liam Maaskant,John Lindner,,
+1028496,1,1st,3:42,404,SD,10506,Stian Solberg,7,D,Interference,2.00,1,0,10506,Stian Solberg,Liam Maaskant,John Lindner,,
+1028496,3,3rd,7:20,404,SD,9702,Judd Caulfield,28,RW,Hooking,2.00,1,0,9702,Judd Caulfield,Liam Maaskant,John Lindner,,

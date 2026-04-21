@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028417,1,1st,1:40,419,COL,9127,Danil Gushchin,75,F,Hooking,2.00,1,0,9127,Danil Gushchin,Tatu Kunto,Bobby Jo Love,,
+1028417,1,1st,9:03,445,CV,10083,Lleyton Roed,29,F,Holding,2.00,0,0,10083,Lleyton Roed,Tatu Kunto,Bobby Jo Love,,
+1028417,1,1st,9:03,419,COL,9127,Danil Gushchin,75,F,Elbowing,2.00,0,0,9127,Danil Gushchin,Tatu Kunto,Bobby Jo Love,,
+1028417,1,1st,17:09,445,CV,9706,Ville Ottavainen,36,D,Interference,2.00,1,0,9706,Ville Ottavainen,Tatu Kunto,Bobby Jo Love,,
+1028417,2,2nd,7:58,445,CV,10083,Lleyton Roed,29,F,Tripping,2.00,1,0,10083,Lleyton Roed,Tatu Kunto,Bobby Jo Love,,
+1028417,2,2nd,18:27,419,COL,4584,Jayson Megna,21,F,Cross-checking,2.00,1,0,4584,Jayson Megna,Tatu Kunto,Bobby Jo Love,,
+1028417,3,3rd,1:08,419,COL,4584,Jayson Megna,21,F,Tripping,2.00,1,0,4584,Jayson Megna,Tatu Kunto,Bobby Jo Love,,
+1028417,3,3rd,3:38,445,CV,10082,Lukas Dragicevic,2,D,Holding,2.00,1,0,10082,Lukas Dragicevic,Tatu Kunto,Bobby Jo Love,,
+1028417,3,3rd,7:24,445,CV,5471,Gustav Olofsson,23,D,Tripping,2.00,1,0,5471,Gustav Olofsson,Tatu Kunto,Bobby Jo Love,,

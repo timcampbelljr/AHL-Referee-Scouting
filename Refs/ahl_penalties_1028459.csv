@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028459,1,1st,2:27,317,BRI,6828,Julien Gauthier,44,RW,Diving/Embellishment,2.00,0,0,6828,Julien Gauthier,Liam Maaskant,Rob Hennessey,,
+1028459,1,1st,2:27,309,PRO,10508,Ty Gallagher,24,D,Cross-checking,2.00,0,0,10508,Ty Gallagher,Liam Maaskant,Rob Hennessey,,
+1028459,2,2nd,4:01,317,BRI,10389,Isaiah George,4,D,High-sticking,2.00,1,0,10389,Isaiah George,Liam Maaskant,Rob Hennessey,,
+1028459,2,2nd,15:49,317,BRI,7627,Hunter Drew,36,RW,Fighting,5.00,0,0,7627,Hunter Drew,Liam Maaskant,Rob Hennessey,,
+1028459,2,2nd,15:49,309,PRO,9435,Joey Abate,47,LW,Fighting,5.00,0,0,9435,Joey Abate,Liam Maaskant,Rob Hennessey,,
+1028459,2,2nd,16:02,309,PRO,7704,Victor Söderström,29,D,High-sticking,2.00,1,0,7704,Victor Söderström,Liam Maaskant,Rob Hennessey,,
+1028459,3,3rd,9:54,317,BRI,9442,Daylan Kuefler,11,F,Interference,2.00,1,0,9442,Daylan Kuefler,Liam Maaskant,Rob Hennessey,,
+1028459,3,3rd,14:37,309,PRO,7943,Riley Tufte,27,LW,Tripping,2.00,1,0,7943,Riley Tufte,Liam Maaskant,Rob Hennessey,,
+1028459,3,3rd,14:43,317,BRI,6858,C.J. Smith,29,F,Interference,2.00,1,0,6858,C.J. Smith,Liam Maaskant,Rob Hennessey,,

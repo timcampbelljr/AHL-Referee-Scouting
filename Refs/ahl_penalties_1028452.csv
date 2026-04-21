@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028452,2,2nd,13:33,384,CLT,9880,Jake Livingstone,21,D,High-sticking,2.00,1,0,9880,Jake Livingstone,Jake Kamrass,Jesse Wood-Schatz,,
+1028452,3,3rd,11:24,384,CLT,8011,MacKenzie Entwistle,18,RW,Unsportsmanlike conduct,2.00,0,0,8011,MacKenzie Entwistle,Jake Kamrass,Jesse Wood-Schatz,,
+1028452,3,3rd,11:24,309,PRO,9032,Michael Callahan,23,D,Roughing,2.00,0,0,9032,Michael Callahan,Jake Kamrass,Jesse Wood-Schatz,,
+1028452,3,3rd,18:52,384,CLT,10056,Ben Steeves,6,F,Slashing,2.00,1,0,10056,Ben Steeves,Jake Kamrass,Jesse Wood-Schatz,,

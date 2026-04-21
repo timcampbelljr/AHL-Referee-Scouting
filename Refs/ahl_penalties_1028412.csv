@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028412,1,1st,4:03,321,MB,8424,Isaak Phillips,3,D,High-sticking,2.00,1,0,8424,Isaak Phillips,Alex Lepkowski,Koletrane Wilson,,
+1028412,2,2nd,12:57,328,GR,6856,Sheldon Dries,15,C,Hooking,2.00,1,0,6856,Sheldon Dries,Alex Lepkowski,Koletrane Wilson,,
+1028412,3,3rd,11:08,321,MB,9656,Parker Ford,25,RW,High-sticking,2.00,1,0,9656,Parker Ford,Alex Lepkowski,Koletrane Wilson,,

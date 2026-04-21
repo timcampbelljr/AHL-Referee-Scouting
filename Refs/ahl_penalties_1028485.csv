@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028485,1,1st,5:21,384,CLT,8405,Nolan Foote,28,LW,Roughing,2.00,0,0,8405,Nolan Foote,Liam Maaskant,Alex Gagné,,
+1028485,1,1st,5:21,328,GR,4085,Austin Watson,51,RW,Roughing,2.00,0,0,4085,Austin Watson,Liam Maaskant,Alex Gagné,,
+1028485,1,1st,9:49,328,GR,10475,Gabriel Seger,11,LW,Holding,2.00,1,0,10475,Gabriel Seger,Liam Maaskant,Alex Gagné,,
+1028485,1,1st,13:01,328,GR,8667,Ian Mitchell,55,D,Delay of game,2.00,1,0,8667,Ian Mitchell,Liam Maaskant,Alex Gagné,,
+1028485,1,1st,17:05,384,CLT,5614,Trevor Carrick,5,D,Roughing,2.00,1,0,5614,Trevor Carrick,Liam Maaskant,Alex Gagné,,
+1028485,2,2nd,13:44,384,CLT,9990,Wilmer Skoog,25,F,Closing hand on puck,2.00,1,0,9990,Wilmer Skoog,Liam Maaskant,Alex Gagné,,
+1028485,2,2nd,19:40,328,GR,9973,Antti Tuomisto,4,D,Cross-checking,2.00,1,0,9973,Antti Tuomisto,Liam Maaskant,Alex Gagné,,
+1028485,3,3rd,18:15,328,GR,4085,Austin Watson,51,RW,Misconduct,10.00,0,0,4085,Austin Watson,Liam Maaskant,Alex Gagné,,

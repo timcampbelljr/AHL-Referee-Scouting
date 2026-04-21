@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028413,1,1st,17:45,309,PRO,8462,Billy Sweezey,6,D,Double minor - High-sticking,4.00,1,0,8462,Billy Sweezey,Liam Maaskant,Jim Curtin,,
+1028413,2,2nd,1:45,335,TOR,10119,Noah Chadwick,58,D,Tripping,2.00,1,0,10119,Noah Chadwick,Liam Maaskant,Jim Curtin,,
+1028413,2,2nd,7:42,309,PRO,10574,Dans Locmelis,43,C,Hooking,2.00,1,0,10574,Dans Locmelis,Liam Maaskant,Jim Curtin,,
+1028413,2,2nd,18:00,335,TOR,6489,Alex Nylander,92,RW,Tripping,2.00,1,0,6489,Alex Nylander,Liam Maaskant,Jim Curtin,,
+1028413,2,2nd,18:00,335,TOR,10160,Sam Stevens,67,C,Tripping,2.00,1,0,10160,Sam Stevens,Liam Maaskant,Jim Curtin,,
+1028413,2,2nd,19:37,309,PRO,9712,Frederic Brunet,42,D,Interference,2.00,1,0,9712,Frederic Brunet,Liam Maaskant,Jim Curtin,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028442,1,1st,9:06,372,RFD,10317,Connor Mylymok,26,LW,Cross-checking,2.00,1,0,10317,Connor Mylymok,Mike Campbell,Kurtis Pare,,
+1028442,2,2nd,13:38,321,MB,5929,Ashton Sautner,6,D,Interference,2.00,1,0,5929,Ashton Sautner,Mike Campbell,Kurtis Pare,,
+1028442,2,2nd,19:09,372,RFD,10138,Nick Lardis,76,F,Slashing,2.00,0,0,10138,Nick Lardis,Mike Campbell,Kurtis Pare,,
+1028442,2,2nd,19:09,321,MB,7152,Kale Clague,56,D,Roughing,2.00,0,0,7152,Kale Clague,Mike Campbell,Kurtis Pare,,
+1028442,3,3rd,3:47,321,MB,8454,Dawson Barteaux,4,D,High-sticking,2.00,1,0,8454,Dawson Barteaux,Mike Campbell,Kurtis Pare,,
+1028442,3,3rd,19:17,372,RFD,10403,Dillon Boucher,36,F,Interference,2.00,1,0,10403,Dillon Boucher,Mike Campbell,Kurtis Pare,,

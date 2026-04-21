@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028444,1,1st,6:28,405,SJ,10086,Filip Bystedt,18,F,Tripping,2.00,1,0,10086,Filip Bystedt,Tyler Spott,David Elford,,
+1028444,2,2nd,3:44,444,CGY,6142,Alex Gallant,20,LW,Interference,2.00,1,0,6142,Alex Gallant,Tyler Spott,David Elford,,
+1028444,2,2nd,14:04,444,CGY,9726,Parker Bell,22,LW,Fighting,5.00,0,0,9726,Parker Bell,Tyler Spott,David Elford,,
+1028444,2,2nd,14:04,405,SJ,9153,Nolan Allan,7,D,Fighting,5.00,0,0,9153,Nolan Allan,Tyler Spott,David Elford,,
+1028444,2,2nd,18:33,444,CGY,7099,Turner Ottenbreit,2,D,Roughing,2.00,1,0,7099,Turner Ottenbreit,Tyler Spott,David Elford,,
+1028444,3,3rd,16:29,444,CGY,6142,Alex Gallant,20,LW,Game misconduct - Unsportsmanlike conduct,10.00,0,0,6142,Alex Gallant,Tyler Spott,David Elford,,
+1028444,3,3rd,16:29,444,CGY,6142,Alex Gallant,20,LW,Roughing,2.00,1,0,5018,Martin Frk,Tyler Spott,David Elford,,
+1028444,3,3rd,18:42,444,CGY,6453,Clark Bishop,19,C,High-sticking,2.00,1,0,6453,Clark Bishop,Tyler Spott,David Elford,,

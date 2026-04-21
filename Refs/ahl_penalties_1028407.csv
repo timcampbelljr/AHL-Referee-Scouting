@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028407,1,1st,10:30,390,UTC,0,None None,0,,Too many men - Bench minor,2.00,1,1,10621,Cam Squires,Mike Sullivan,Mitchell Hardy,,
+1028407,1,1st,14:36,390,UTC,10621,Cam Squires,12,F,Holding,2.00,1,0,10621,Cam Squires,Mike Sullivan,Mitchell Hardy,,
+1028407,2,2nd,3:46,324,SYR,10835,Wojciech Stachowiak,9,C,Hooking,2.00,1,0,10835,Wojciech Stachowiak,Mike Sullivan,Mitchell Hardy,,
+1028407,3,3rd,3:40,390,UTC,7624,Calen Addison,2,D,Roughing,2.00,0,0,7624,Calen Addison,Mike Sullivan,Mitchell Hardy,,
+1028407,3,3rd,3:40,324,SYR,9693,Brendan Furry,13,LW,Unsportsmanlike conduct,2.00,1,0,8680,Curtis Douglas,Mike Sullivan,Mitchell Hardy,,
+1028407,3,3rd,3:40,324,SYR,9693,Brendan Furry,13,LW,Roughing,2.00,0,0,9693,Brendan Furry,Mike Sullivan,Mitchell Hardy,,
+1028407,3,3rd,10:41,390,UTC,10474,Seamus Casey,22,D,Fighting,5.00,0,0,10474,Seamus Casey,Mike Sullivan,Mitchell Hardy,,
+1028407,3,3rd,10:41,324,SYR,10148,Dylan Duke,25,RW,Fighting,5.00,0,0,10148,Dylan Duke,Mike Sullivan,Mitchell Hardy,,
+1028407,3,3rd,19:42,324,SYR,9693,Brendan Furry,13,LW,Unsportsmanlike conduct,2.00,1,0,9693,Brendan Furry,Mike Sullivan,Mitchell Hardy,,

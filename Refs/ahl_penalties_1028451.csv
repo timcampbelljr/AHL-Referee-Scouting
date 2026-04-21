@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028451,1,1st,7:34,317,BRI,10020,Luke Rowe,24,D,Hooking,2.00,1,0,10020,Luke Rowe,Austin Rook,Hayden Verbeek,,
+1028451,1,1st,14:31,411,SPR,9737,Michael Buchinger,9,D,Delay of game,2.00,1,0,9737,Michael Buchinger,Austin Rook,Hayden Verbeek,,
+1028451,2,2nd,12:34,411,SPR,9802,Georgi Romanov,30,G,Roughing,2.00,0,0,9862,Leo Lööf,Austin Rook,Hayden Verbeek,,
+1028451,2,2nd,12:34,317,BRI,9443,Matthew Maggio,18,F,Roughing,2.00,0,0,9443,Matthew Maggio,Austin Rook,Hayden Verbeek,,
+1028451,2,2nd,18:12,411,SPR,8630,Hunter Skinner,55,D,Interference,2.00,1,0,8630,Hunter Skinner,Austin Rook,Hayden Verbeek,,
+1028451,3,3rd,1:59,317,BRI,7627,Hunter Drew,36,RW,Hooking,2.00,1,0,7627,Hunter Drew,Austin Rook,Hayden Verbeek,,
+1028451,3,3rd,1:59,317,BRI,6858,C.J. Smith,29,F,Tripping,2.00,1,0,6858,C.J. Smith,Austin Rook,Hayden Verbeek,,
+1028451,3,3rd,5:28,411,SPR,10920,Theo Lindstein,4,D,Interference,2.00,1,0,10920,Theo Lindstein,Austin Rook,Hayden Verbeek,,

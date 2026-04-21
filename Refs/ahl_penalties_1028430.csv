@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028430,1,1st,4:59,323,ROC,6633,Gavin Bayreuther,15,D,Hooking,2.00,1,0,6633,Gavin Bayreuther,Jordan Deckard,Alex Lepkowski,,
+1028430,1,1st,14:45,323,ROC,9930,Nikita Novikov,74,D,Slashing,2.00,1,0,9930,Nikita Novikov,Jordan Deckard,Alex Lepkowski,,
+1028430,2,2nd,1:07,319,HER,9972,Ivan Miroshnichenko,10,LW,Tripping,2.00,1,0,9972,Ivan Miroshnichenko,Jordan Deckard,Alex Lepkowski,,
+1028430,2,2nd,9:01,319,HER,8598,Graeme Clarke,92,RW,Double minor - High-sticking,4.00,1,0,8598,Graeme Clarke,Jordan Deckard,Alex Lepkowski,,
+1028430,3,3rd,10:48,319,HER,7921,Brett Leason,23,RW,Roughing,2.00,0,0,7921,Brett Leason,Jordan Deckard,Alex Lepkowski,,
+1028430,3,3rd,10:48,323,ROC,7622,Jake Leschyshyn,7,C,Roughing,2.00,0,0,7622,Jake Leschyshyn,Jordan Deckard,Alex Lepkowski,,
+1028430,3,3rd,17:16,323,ROC,6633,Gavin Bayreuther,15,D,Hooking,2.00,1,0,6633,Gavin Bayreuther,Jordan Deckard,Alex Lepkowski,,

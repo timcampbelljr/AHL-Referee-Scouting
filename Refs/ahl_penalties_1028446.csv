@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028446,1,1st,11:24,380,TEX,7016,Cameron Hughes,19,F,Holding,2.00,1,0,7016,Cameron Hughes,Harrison O’Pray,Austin O’Rourke,,
+1028446,1,1st,14:42,380,TEX,10535,Trey Taylor,2,D,Holding,2.00,1,0,10535,Trey Taylor,Harrison O’Pray,Austin O’Rourke,,
+1028446,1,1st,15:57,380,TEX,9964,Kyle McDonald,25,RW,Slashing,2.00,1,0,9964,Kyle McDonald,Harrison O’Pray,Austin O’Rourke,,
+1028446,1,1st,16:32,437,HSK,10284,Kai Uchacz,77,F,Roughing,2.00,0,0,10284,Kai Uchacz,Harrison O’Pray,Austin O’Rourke,,
+1028446,1,1st,16:32,380,TEX,7016,Cameron Hughes,19,F,Roughing,2.00,0,0,7016,Cameron Hughes,Harrison O’Pray,Austin O’Rourke,,
+1028446,2,2nd,6:16,437,HSK,10285,Viliam Kmec,74,D,Hooking,2.00,1,0,10285,Viliam Kmec,Harrison O’Pray,Austin O’Rourke,,
+1028446,2,2nd,17:20,437,HSK,7926,Jeremy Davies,84,D,Throwing equipment,2.00,1,0,7926,Jeremy Davies,Harrison O’Pray,Austin O’Rourke,,
+1028446,3,3rd,7:30,380,TEX,10535,Trey Taylor,2,D,Holding,2.00,1,0,10535,Trey Taylor,Harrison O’Pray,Austin O’Rourke,,
+1028446,3,3rd,7:30,437,HSK,10284,Kai Uchacz,77,F,Roughing,2.00,0,0,10284,Kai Uchacz,Harrison O’Pray,Austin O’Rourke,,
+1028446,3,3rd,7:30,380,TEX,9548,Cross Hanas,32,F,Roughing,2.00,0,0,9548,Cross Hanas,Harrison O’Pray,Austin O’Rourke,,
+1028446,3,3rd,19:54,437,HSK,8421,Riley McKay,89,F,Roughing,2.00,1,0,8421,Riley McKay,Harrison O’Pray,Austin O’Rourke,,
+1028446,3,3rd,19:54,437,HSK,8421,Riley McKay,89,F,Misconduct - Continuing altercation,10.00,0,0,8421,Riley McKay,Harrison O’Pray,Austin O’Rourke,,
