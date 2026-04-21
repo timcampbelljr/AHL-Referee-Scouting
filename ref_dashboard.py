@@ -47,15 +47,15 @@ def _pct_color(val):
         return YELLOW, YELLOW_TXT
     return RED_BG, RED_TXT
 
-def _tight_label(ppg, mean, sd):
+def _tight_label(ppg, median, sd):
     """
-    1 SD above mean = Tight (calls everything).
-    1 SD below mean = Loose (lets it go).
+    1 SD above median = Tight (calls everything).
+    1 SD below median = Loose (lets it go).
     Everything in between = Average.
     """
-    if ppg >= mean + sd:
+    if ppg >= median + sd:
         return "Tight"
-    elif ppg <= mean - sd:
+    elif ppg <= median - sd:
         return "Loose"
     return "Average"
 
@@ -71,7 +71,7 @@ def _tdl(txt):
 def _pv(txt, fg):
     return Paragraph(str(txt), ParagraphStyle("pv", fontSize=8, textColor=fg, fontName="Helvetica-Bold", alignment=1))
 
-def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_avg_ppg):
+def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg):
     buf = io.BytesIO()
     doc = SimpleDocTemplate(
         buf, pagesize=letter,
@@ -89,8 +89,8 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_avg_ppg):
         fontSize=9, textColor=GOLD)
 
     story = []
-    ref_mean = summary["pen_per_game"].mean()
-    ref_sd   = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
+    ref_median = summary["pen_per_game"].median()
+    ref_sd     = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
 
     # Cover banner
     banner = Table([[
@@ -116,9 +116,9 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_avg_ppg):
         row   = summary[summary["ref"] == ref_name].iloc[0]
         df_r  = df_stacked[df_stacked["_ref"] == ref_name]
         games = row["games"]
-        tight = _tight_label(row["pen_per_game"], ref_mean, ref_sd)
-        sign  = "+" if row["pen_per_game"] >= league_avg_ppg else ""
-        delta = round(row["pen_per_game"] - league_avg_ppg, 2)
+        tight = _tight_label(row["pen_per_game"], ref_median, ref_sd)
+        sign  = "+" if row["pen_per_game"] >= league_median_ppg else ""
+        delta = round(row["pen_per_game"] - league_median_ppg, 2)
         has_pct = games >= 3
 
         # Ref header
@@ -466,7 +466,7 @@ pct_df = summary.copy().set_index("ref")
 for col in STAT_COLS:
     pct_df[f"{col}_pct"] = pct_df[col].rank(pct=True).mul(100).round(0).astype(int)
 
-league_avg_ppg = round(summary["pen_per_game"].mean(), 2)
+league_median_ppg = round(summary["pen_per_game"].median(), 2)
 
 # ── Sidebar — two independent selectors ──────────────────────────────────────
 all_refs = sorted(summary["ref"].unique())
@@ -484,6 +484,8 @@ with st.sidebar:
     st.metric("Games loaded", df_all["game_id"].nunique())
     n_files = sum(len(glob.glob(os.path.join(d, "ahl_penalties_*.csv"))) for d in DATA_DIRS if os.path.isdir(d))
     st.metric("CSV files", n_files)
+    median_games = int(summary["games"].median()) if not summary.empty else 0
+    st.metric("Median games / ref", median_games)
     loaded = [os.path.basename(d) for d in DATA_DIRS if os.path.isdir(d)]
     st.caption("Folders: " + ", ".join(f"`{d}`" for d in loaded))
     if st.button("🔄 Refresh data"):
@@ -510,7 +512,7 @@ with st.sidebar:
                 summary=summary,
                 pct_df=pct_df,
                 df_stacked=df_stacked,
-                league_avg_ppg=league_avg_ppg,
+                league_median_ppg=league_median_ppg,
             )
         names_slug = "_vs_".join(r.split()[-1] for r in refs_for_pdf)
         st.download_button(
@@ -535,12 +537,12 @@ def pct_badge(ref_name: str, col: str) -> str:
     return f'<span class="{cls}">{val}</span>'
 
 def tightness_badge(ppg: float) -> str:
-    """1 SD above mean = Tight, 1 SD below mean = Loose, else Average."""
-    mean = summary["pen_per_game"].mean()
-    sd   = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
-    if ppg >= mean + sd:
+    """1 SD above median = Tight, 1 SD below median = Loose, else Average."""
+    median = summary["pen_per_game"].median()
+    sd     = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
+    if ppg >= median + sd:
         return '<span class="badge badge-tight">Tight</span>'
-    elif ppg <= mean - sd:
+    elif ppg <= median - sd:
         return '<span class="badge badge-loose">Loose</span>'
     return '<span class="badge badge-avg">Average</span>'
 
@@ -559,13 +561,13 @@ def render_ref_column(ref_name: str):
 
     # Quick metric cards
     mc1, mc2, mc3, mc4 = st.columns(4)
-    sign  = "+" if row["pen_per_game"] >= league_avg_ppg else ""
-    delta = round(row["pen_per_game"] - league_avg_ppg, 2)
+    sign  = "+" if row["pen_per_game"] >= league_median_ppg else ""
+    delta = round(row["pen_per_game"] - league_median_ppg, 2)
     for col_obj, val, lbl in [
         (mc1, row["games"],        "Games"),
         (mc2, row["pen_per_game"], "Pen / Game"),
         (mc3, row["pim_per_game"], "PIM / Game"),
-        (mc4, f"{sign}{delta}",    f"vs Avg ({league_avg_ppg})"),
+        (mc4, f"{sign}{delta}",    f"vs Avg ({league_median_ppg})"),
     ]:
         col_obj.markdown(
             f'<div class="metric-card"><div class="val">{val}</div>'
