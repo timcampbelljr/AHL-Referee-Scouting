@@ -30,6 +30,7 @@ from reportlab.platypus import (
 # ── Global constants ─────────────────────────────────────────────────────────────
 # Minimum games before a ref's stats are considered reliable for analysis
 RELIABILITY_THRESHOLD = 5
+BIAS_MIN_GAMES = 3  # Min games for bias — lower bar, directional read only
 
 # ── PDF generation ─────────────────────────────────────────────────────────────
 
@@ -839,8 +840,6 @@ def render_ref_column(ref_name: str):
     team_data["per_game"]     = team_data["team_abbrev"].apply(lambda t: _team_median(t, "pen"))
     team_data["pim_per_game"] = team_data["team_abbrev"].apply(lambda t: _team_median(t, "minutes"))
     # Bias = ref pen/g vs this team - team season pen/g baseline
-    BIAS_MIN_GAMES = 3  # Lower threshold for bias — 3G is enough for a directional read
-
     def _bias(row):
         team = row["team_abbrev"]
         if row["ref_games"] < BIAS_MIN_GAMES or team not in team_baseline.index:
@@ -990,7 +989,7 @@ if chosen_team:
             "Pen/G vs Team": ppg_vs_team,
             "Season Pen/G":  baseline_ppg,
             "Bias":          bias,
-            "_reliable":     g_together >= RELIABILITY_THRESHOLD,
+            "_reliable":     g_together >= BIAS_MIN_GAMES,
         })
 
     if not bias_rows:
