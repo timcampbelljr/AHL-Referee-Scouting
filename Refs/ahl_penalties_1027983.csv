@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027983,1,1st,2:41,412,TUC,9207,Julian Lutz,43,F,Delay of game,2.00,1,0,9207,Julian Lutz,Riley Brace,Jacob Hicks,,
+1027983,1,1st,6:08,419,COL,8929,Tristen Nielsen,57,F,Slashing,2.00,1,0,8929,Tristen Nielsen,Riley Brace,Jacob Hicks,,
+1027983,1,1st,18:50,419,COL,5540,T.J. Tynan,9,F,Holding the stick,2.00,0,0,5540,T.J. Tynan,Riley Brace,Jacob Hicks,,
+1027983,1,1st,18:50,412,TUC,8734,Ben McCartney,22,F,Interference,2.00,0,0,8734,Ben McCartney,Riley Brace,Jacob Hicks,,
+1027983,2,2nd,3:15,412,TUC,7401,Cameron Hebig,39,C,Slashing,2.00,1,0,7401,Cameron Hebig,Riley Brace,Jacob Hicks,,
+1027983,2,2nd,11:14,412,TUC,6263,Kevin Rooney,21,C,Hooking,2.00,1,0,6263,Kevin Rooney,Riley Brace,Jacob Hicks,,
+1027983,2,2nd,14:00,419,COL,9638,Mark Senden,51,F,Tripping,2.00,1,0,9638,Mark Senden,Riley Brace,Jacob Hicks,,
+1027983,3,3rd,10:17,419,COL,8500,Jack Ahcan,15,D,Holding,2.00,1,0,8500,Jack Ahcan,Riley Brace,Jacob Hicks,,

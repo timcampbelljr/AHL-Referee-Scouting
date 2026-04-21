@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027940,1,1st,4:00,413,BEL,8987,Tyler Boucher,16,RW,Hooking,2.00,1,0,8987,Tyler Boucher,Alex Joubert,Damian Figueira,,
+1027940,1,1st,10:46,307,HFD,10276,Carey Terrance,11,F,Cross-checking,2.00,1,0,10276,Carey Terrance,Alex Joubert,Damian Figueira,,
+1027940,2,2nd,4:43,413,BEL,7677,Arthur Kaliyev,43,RW,Slashing,2.00,1,0,7677,Arthur Kaliyev,Alex Joubert,Damian Figueira,,
+1027940,2,2nd,8:04,307,HFD,9857,Gavin Hain,6,C,Holding,2.00,1,0,9857,Gavin Hain,Alex Joubert,Damian Figueira,,
+1027940,2,2nd,13:49,413,BEL,10883,Landen Hookey,39,RW,Roughing,2.00,0,0,10883,Landen Hookey,Alex Joubert,Damian Figueira,,
+1027940,2,2nd,13:49,307,HFD,9666,Adam Sýkora,10,F,Roughing,2.00,0,0,9666,Adam Sýkora,Alex Joubert,Damian Figueira,,
+1027940,2,2nd,15:10,307,HFD,9970,Brennan Othmann,78,F,Roughing,2.00,1,0,9970,Brennan Othmann,Alex Joubert,Damian Figueira,,
+1027940,2,2nd,17:26,307,HFD,8789,Chris Ortiz,5,D,Interference,2.00,1,0,8789,Chris Ortiz,Alex Joubert,Damian Figueira,,
+1027940,3,3rd,0:09,307,HFD,5995,Anton Blidh,21,F,High-sticking,2.00,1,0,5995,Anton Blidh,Alex Joubert,Damian Figueira,,
+1027940,3,3rd,14:32,307,HFD,5995,Anton Blidh,21,F,Slashing,2.00,1,0,5995,Anton Blidh,Alex Joubert,Damian Figueira,,
+1027940,3,3rd,18:36,413,BEL,10048,Stephen Halliday,34,C,Tripping,2.00,1,0,10048,Stephen Halliday,Alex Joubert,Damian Figueira,,

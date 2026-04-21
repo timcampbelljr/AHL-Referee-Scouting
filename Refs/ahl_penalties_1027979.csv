@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027979,1,1st,0:31,316,WBS,7632,Alex Alexeyev,56,D,Cross-checking,2.00,1,0,7632,Alex Alexeyev,Chad Ingalls,Damian Figueira,,
+1027979,1,1st,3:32,316,WBS,9673,Owen Pickering,38,D,Interference,2.00,1,0,9673,Owen Pickering,Chad Ingalls,Damian Figueira,,
+1027979,2,2nd,7:04,317,BRI,8549,Adam Beckman,34,LW,Delay of game,2.00,1,0,8549,Adam Beckman,Chad Ingalls,Damian Figueira,,
+1027979,2,2nd,9:10,317,BRI,10388,Cam Thiesing,15,F,Hooking,2.00,1,0,10388,Cam Thiesing,Chad Ingalls,Damian Figueira,,
+1027979,2,2nd,15:50,316,WBS,8793,Valtteri Puustinen,48,RW,Interference,2.00,1,0,8793,Valtteri Puustinen,Chad Ingalls,Damian Figueira,,
+1027979,3,3rd,2:36,317,BRI,4874,Andrej Šustr,29,D,Hooking,2.00,1,0,4874,Andrej Šustr,Chad Ingalls,Damian Figueira,,

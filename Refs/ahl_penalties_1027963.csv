@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027963,1,1st,1:23,444,CGY,6453,Clark Bishop,19,C,Fighting,5.00,0,0,6453,Clark Bishop,Koletrane Wilson,David Elford,,
+1027963,1,1st,1:23,403,ONT,9043,Taylor Ward,34,F,Fighting,5.00,0,0,9043,Taylor Ward,Koletrane Wilson,David Elford,,
+1027963,1,1st,3:54,444,CGY,0,None None,0,,Too many men - Bench minor,2.00,1,1,5018,Martin Frk,Koletrane Wilson,David Elford,,
+1027963,2,2nd,7:57,403,ONT,10199,Jakub Dvořák,55,D,Roughing,2.00,0,0,10199,Jakub Dvořák,Koletrane Wilson,David Elford,,
+1027963,2,2nd,7:57,444,CGY,10923,Matvei Gridin,18,LW,Roughing,2.00,0,0,10923,Matvei Gridin,Koletrane Wilson,David Elford,,
+1027963,2,2nd,7:57,444,CGY,10923,Matvei Gridin,18,LW,Tripping,2.00,1,0,5018,Martin Frk,Koletrane Wilson,David Elford,,
+1027963,2,2nd,19:31,403,ONT,9249,Angus Booth,24,D,Holding,2.00,1,0,9249,Angus Booth,Koletrane Wilson,David Elford,,
+1027963,3,3rd,1:47,403,ONT,7822,Samuel Bolduc,58,D,Holding,2.00,1,0,7822,Samuel Bolduc,Koletrane Wilson,David Elford,,
+1027963,3,3rd,4:22,444,CGY,9726,Parker Bell,22,LW,Hooking,2.00,1,0,9726,Parker Bell,Koletrane Wilson,David Elford,,
+1027963,3,3rd,4:50,444,CGY,6453,Clark Bishop,19,C,Tripping,2.00,1,0,6453,Clark Bishop,Koletrane Wilson,David Elford,,
+1027963,3,3rd,7:36,403,ONT,6784,Glenn Gawdin,21,F,Slashing,2.00,1,0,6784,Glenn Gawdin,Koletrane Wilson,David Elford,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027946,1,1st,10:00,419,COL,10661,Reilly Connors,86,C,Holding,2.00,1,0,10661,Reilly Connors,Alex Lepkowski,Luke Stork,,
+1027946,2,2nd,3:22,440,ABB,10146,Joe Arntsen,3,D,Slashing,2.00,1,0,10146,Joe Arntsen,Alex Lepkowski,Luke Stork,,
+1027946,2,2nd,12:02,419,COL,10561,Taylor Makar,16,F,Delay of game,2.00,1,0,10561,Taylor Makar,Alex Lepkowski,Luke Stork,,
+1027946,3,3rd,6:58,440,ABB,10077,Sawyer Mynio,45,D,Roughing,2.00,0,0,10077,Sawyer Mynio,Alex Lepkowski,Luke Stork,,
+1027946,3,3rd,6:58,419,COL,8929,Tristen Nielsen,57,F,Roughing,2.00,0,0,8929,Tristen Nielsen,Alex Lepkowski,Luke Stork,,
+1027946,3,3rd,12:14,440,ABB,10117,Vilmer Alriksson,46,LW,Fighting,5.00,0,0,10117,Vilmer Alriksson,Alex Lepkowski,Luke Stork,,
+1027946,3,3rd,12:14,419,COL,10654,Alex Gagne,45,D,Fighting,5.00,0,0,10654,Alex Gagne,Alex Lepkowski,Luke Stork,,
+1027946,3,3rd,13:07,419,COL,10661,Reilly Connors,86,C,Interference,2.00,1,0,10661,Reilly Connors,Alex Lepkowski,Luke Stork,,
+1027946,OT,OT,0:47,440,ABB,10089,Ty Mueller,39,C,Hooking,2.00,1,0,10089,Ty Mueller,Alex Lepkowski,Luke Stork,,

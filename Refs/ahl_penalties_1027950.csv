@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027950,1,1st,6:29,380,TEX,4883,Curtis McKenzie,16,F,Tripping,2.00,1,0,4883,Curtis McKenzie,Graedy Hamilton,Hayden Verbeek,,
+1027950,1,1st,12:13,321,MB,10910,Chase Yoder,48,C,Cross-checking,2.00,1,0,10910,Chase Yoder,Graedy Hamilton,Hayden Verbeek,,
+1027950,1,1st,18:28,380,TEX,10135,Tristan Bertucci,3,D,High-sticking,2.00,1,0,10135,Tristan Bertucci,Graedy Hamilton,Hayden Verbeek,,
+1027950,2,2nd,13:46,321,MB,7777,David Gustafsson,27,C,Holding the stick,2.00,1,0,7777,David Gustafsson,Graedy Hamilton,Hayden Verbeek,,
+1027950,2,2nd,17:01,380,TEX,10555,Harrison Scott,11,F,High-sticking,2.00,1,0,10555,Harrison Scott,Graedy Hamilton,Hayden Verbeek,,
+1027950,2,2nd,20:00,380,TEX,7016,Cameron Hughes,19,F,Roughing,2.00,0,0,7016,Cameron Hughes,Graedy Hamilton,Hayden Verbeek,,
+1027950,2,2nd,20:00,321,MB,7118,Jaret Anderson-Dolan,28,C,Roughing,2.00,0,0,7118,Jaret Anderson-Dolan,Graedy Hamilton,Hayden Verbeek,,
+1027950,3,3rd,1:15,321,MB,7680,Samuel Fagemo,16,LW,Tripping,2.00,1,0,7680,Samuel Fagemo,Graedy Hamilton,Hayden Verbeek,,
+1027950,3,3rd,4:12,321,MB,5469,Phillip Di Giuseppe,34,LW,Cross-checking,2.00,1,0,5469,Phillip Di Giuseppe,Graedy Hamilton,Hayden Verbeek,,
+1027950,3,3rd,4:58,380,TEX,4883,Curtis McKenzie,16,F,Hooking,2.00,1,0,4883,Curtis McKenzie,Graedy Hamilton,Hayden Verbeek,,

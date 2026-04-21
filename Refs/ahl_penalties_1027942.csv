@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027942,1,1st,2:40,405,SJ,9621,Anthony Vincent,76,F,Fighting,5.00,0,0,9621,Anthony Vincent,Stephen Hiff,Harrison O’Pray,,
+1027942,1,1st,2:40,444,CGY,6142,Alex Gallant,20,LW,Fighting,5.00,0,0,6142,Alex Gallant,Stephen Hiff,Harrison O’Pray,,
+1027942,1,1st,10:32,444,CGY,6453,Clark Bishop,19,C,Hooking,2.00,1,0,6453,Clark Bishop,Stephen Hiff,Harrison O’Pray,,
+1027942,1,1st,13:30,444,CGY,8617,Rory Kerins,6,C,Interference,2.00,1,0,8617,Rory Kerins,Stephen Hiff,Harrison O’Pray,,
+1027942,2,2nd,16:06,405,SJ,7591,Shane Bowers,15,F,Interference,2.00,1,0,7591,Shane Bowers,Stephen Hiff,Harrison O’Pray,,
+1027942,2,2nd,19:13,405,SJ,7897,Jimmy Huntington,40,F,Fighting,5.00,0,0,7897,Jimmy Huntington,Stephen Hiff,Harrison O’Pray,,
+1027942,2,2nd,19:13,444,CGY,8741,Nick Cicek,41,D,Fighting,5.00,0,0,8741,Nick Cicek,Stephen Hiff,Harrison O’Pray,,
+1027942,3,3rd,7:06,405,SJ,9621,Anthony Vincent,76,F,High-sticking,2.00,1,0,9621,Anthony Vincent,Stephen Hiff,Harrison O’Pray,,
+1027942,3,3rd,18:58,444,CGY,6142,Alex Gallant,20,LW,Misconduct - Continuing altercation,10.00,0,0,6142,Alex Gallant,Stephen Hiff,Harrison O’Pray,,
+1027942,3,3rd,18:58,444,CGY,6142,Alex Gallant,20,LW,Cross-checking,2.00,1,0,6142,Alex Gallant,Stephen Hiff,Harrison O’Pray,,

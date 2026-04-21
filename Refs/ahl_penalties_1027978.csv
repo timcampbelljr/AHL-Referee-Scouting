@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027978,1,1st,7:38,413,BEL,9719,Jorian Donovan,11,D,High-sticking,2.00,1,0,9719,Jorian Donovan,Hayden Verbeek,Tyler Spott,,
+1027978,2,2nd,4:36,390,UTC,7251,Ryan Schmelzer,26,C,Holding,2.00,1,0,7251,Ryan Schmelzer,Hayden Verbeek,Tyler Spott,,
+1027978,2,2nd,5:23,390,UTC,7117,Austin Strand,7,D,Boarding,2.00,1,0,7117,Austin Strand,Hayden Verbeek,Tyler Spott,,
+1027978,2,2nd,6:10,413,BEL,8861,Philippe Daoust,10,LW,Slashing,2.00,1,0,8861,Philippe Daoust,Hayden Verbeek,Tyler Spott,,
+1027978,2,2nd,11:07,390,UTC,10529,Ethan Edwards,73,D,Tripping,2.00,1,0,10529,Ethan Edwards,Hayden Verbeek,Tyler Spott,,
+1027978,2,2nd,14:55,390,UTC,7117,Austin Strand,7,D,Roughing - Removing opponent's helmet,2.00,1,0,7117,Austin Strand,Hayden Verbeek,Tyler Spott,,
+1027978,2,2nd,20:00,390,UTC,7117,Austin Strand,7,D,Roughing,2.00,0,0,7117,Austin Strand,Hayden Verbeek,Tyler Spott,,
+1027978,2,2nd,20:00,413,BEL,10048,Stephen Halliday,34,C,Roughing,2.00,0,0,10048,Stephen Halliday,Hayden Verbeek,Tyler Spott,,
+1027978,3,3rd,8:21,390,UTC,6262,Kyle Criscuolo,15,C,Tripping,2.00,1,0,6262,Kyle Criscuolo,Hayden Verbeek,Tyler Spott,,

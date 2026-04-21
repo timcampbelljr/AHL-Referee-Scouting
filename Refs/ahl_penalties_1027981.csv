@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027981,1,1st,11:55,317,BRI,4874,Andrej Šustr,29,D,Delay of game,2.00,1,0,4874,Andrej Šustr,Hayden Verbeek,Jack Young,,
+1027981,1,1st,13:53,323,ROC,10544,Tyler Kopff,21,LW,Game misconduct - Fighting prior to/at puck drop,10.00,0,0,10544,Tyler Kopff,Hayden Verbeek,Jack Young,,
+1027981,1,1st,13:53,323,ROC,10544,Tyler Kopff,21,LW,Fighting,5.00,0,0,10544,Tyler Kopff,Hayden Verbeek,Jack Young,,
+1027981,1,1st,13:53,317,BRI,7627,Hunter Drew,36,RW,Fighting,5.00,0,0,7627,Hunter Drew,Hayden Verbeek,Jack Young,,
+1027981,1,1st,13:53,317,BRI,7627,Hunter Drew,36,RW,Game misconduct - Fighting prior to/at puck drop,10.00,0,0,7627,Hunter Drew,Hayden Verbeek,Jack Young,,
+1027981,1,1st,19:13,317,BRI,10152,Marshall Warren,6,D,Holding,2.00,1,0,10152,Marshall Warren,Hayden Verbeek,Jack Young,,
+1027981,2,2nd,6:36,323,ROC,9700,Trevor Kuntar,16,LW,Interference,2.00,1,0,9700,Trevor Kuntar,Hayden Verbeek,Jack Young,,
+1027981,2,2nd,18:46,317,BRI,10562,Joey Larson,17,F,Slashing,2.00,1,0,10562,Joey Larson,Hayden Verbeek,Jack Young,,
+1027981,3,3rd,1:17,323,ROC,9643,Jagger Joshua,8,LW,Tripping,2.00,1,0,9643,Jagger Joshua,Hayden Verbeek,Jack Young,,
+1027981,3,3rd,5:33,323,ROC,9767,Ryan Johnson,23,D,Double minor - High-sticking,4.00,1,0,9767,Ryan Johnson,Hayden Verbeek,Jack Young,,

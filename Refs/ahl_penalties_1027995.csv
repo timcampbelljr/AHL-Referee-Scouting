@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027995,1,1st,3:31,330,CHI,10469,Justin Robidas,93,RW,Hooking,2.00,1,0,10469,Justin Robidas,Graedy Hamilton,Shaun Davis,,
+1027995,1,1st,8:43,330,CHI,10182,Bryce Montgomery,58,D,Interference,2.00,1,0,10182,Bryce Montgomery,Graedy Hamilton,Shaun Davis,,
+1027995,1,1st,12:50,373,CLE,8633,Ole Julian Bjørgvik-Holm,8,D,Interference,2.00,1,0,8633,Ole Julian Bjørgvik-Holm,Graedy Hamilton,Shaun Davis,,
+1027995,1,1st,13:19,330,CHI,9168,Ronan Seeley,8,D,Tripping,2.00,1,0,9168,Ronan Seeley,Graedy Hamilton,Shaun Davis,,
+1027995,1,1st,18:45,330,CHI,9168,Ronan Seeley,8,D,Hooking,2.00,1,0,9168,Ronan Seeley,Graedy Hamilton,Shaun Davis,,
+1027995,2,2nd,6:30,330,CHI,6633,Gavin Bayreuther,55,D,Interference,2.00,1,0,6633,Gavin Bayreuther,Graedy Hamilton,Shaun Davis,,
+1027995,2,2nd,9:43,373,CLE,9633,Justin Pearson,24,LW,High-sticking,2.00,1,0,9633,Justin Pearson,Graedy Hamilton,Shaun Davis,,
+1027995,2,2nd,19:52,373,CLE,9618,Corson Ceulemans,4,D,Interference,2.00,1,0,9618,Corson Ceulemans,Graedy Hamilton,Shaun Davis,,
+1027995,3,3rd,14:23,373,CLE,10895,Caleb MacDonald,43,D,Interference,2.00,1,0,10895,Caleb MacDonald,Graedy Hamilton,Shaun Davis,,

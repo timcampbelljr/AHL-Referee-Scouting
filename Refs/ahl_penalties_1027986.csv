@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027986,1,1st,6:21,384,CLT,10110,Riese Gaber,39,F,Tripping,2.00,1,0,10110,Riese Gaber,Austin Rook,Kyle Bauman,,
+1027986,1,1st,13:32,389,IA,7375,Ben Gleason,6,D,Holding,2.00,1,0,7375,Ben Gleason,Austin Rook,Kyle Bauman,,
+1027986,2,2nd,5:31,384,CLT,0,None None,0,,Too many men - Bench minor,2.00,1,1,10615,Jack Devine,Austin Rook,Kyle Bauman,,
+1027986,2,2nd,11:26,389,IA,8937,Matt Kiersted,23,D,Cross-checking,2.00,1,0,8937,Matt Kiersted,Austin Rook,Kyle Bauman,,
+1027986,3,3rd,1:17,384,CLT,5614,Trevor Carrick,5,D,Tripping,2.00,1,0,5614,Trevor Carrick,Austin Rook,Kyle Bauman,,
+1027986,3,3rd,6:06,384,CLT,10512,Brett Chorske,36,F,Hooking,2.00,1,0,10512,Brett Chorske,Austin Rook,Kyle Bauman,,
+1027986,3,3rd,13:17,389,IA,10917,Rasmus Kumpulainen,95,F,Delay of game,2.00,1,0,10917,Rasmus Kumpulainen,Austin Rook,Kyle Bauman,,

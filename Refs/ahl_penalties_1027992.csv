@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027992,1,1st,1:38,405,SJ,9190,Pavol Regenda,84,LW,Roughing,2.00,1,0,9190,Pavol Regenda,Tatu Kunto,Jackson Kozari,,
+1027992,1,1st,12:19,403,ONT,5976,Joe Hicketts,27,D,Slashing,2.00,1,0,5976,Joe Hicketts,Tatu Kunto,Jackson Kozari,,
+1027992,1,1st,14:48,403,ONT,9357,Cole Guttman,81,F,Interference,2.00,1,0,9357,Cole Guttman,Tatu Kunto,Jackson Kozari,,
+1027992,2,2nd,2:15,405,SJ,7897,Jimmy Huntington,40,F,Tripping,2.00,1,0,7897,Jimmy Huntington,Tatu Kunto,Jackson Kozari,,
+1027992,2,2nd,11:26,405,SJ,0,None None,0,,Too many men - Bench minor,2.00,1,1,10231,Kasper Halttunen,Tatu Kunto,Jackson Kozari,,
+1027992,2,2nd,14:31,403,ONT,10705,Kenny Connors,17,F,Roughing,2.00,0,0,10705,Kenny Connors,Tatu Kunto,Jackson Kozari,,
+1027992,2,2nd,14:31,405,SJ,6669,Colin White,16,C,Roughing,2.00,0,0,6669,Colin White,Tatu Kunto,Jackson Kozari,,
+1027992,2,2nd,16:38,403,ONT,5478,Kyle Burroughs,7,D,Hooking,2.00,1,0,5478,Kyle Burroughs,Tatu Kunto,Jackson Kozari,,
+1027992,3,3rd,2:06,405,SJ,8916,Cole Clayton,59,D,Interference,2.00,1,0,8916,Cole Clayton,Tatu Kunto,Jackson Kozari,,
+1027992,3,3rd,5:23,405,SJ,7897,Jimmy Huntington,40,F,Tripping,2.00,1,0,7897,Jimmy Huntington,Tatu Kunto,Jackson Kozari,,
+1027992,3,3rd,12:18,405,SJ,10234,Quentin Musty,13,F,Roughing,2.00,0,0,10234,Quentin Musty,Tatu Kunto,Jackson Kozari,,
+1027992,3,3rd,12:18,403,ONT,10199,Jakub Dvořák,55,D,Roughing,2.00,0,0,10199,Jakub Dvořák,Tatu Kunto,Jackson Kozari,,

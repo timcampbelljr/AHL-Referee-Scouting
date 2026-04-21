@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027936,1,1st,10:23,321,MB,8706,Walker Duehr,7,RW,Tripping,2.00,1,0,8706,Walker Duehr,Graedy Hamilton,Hayden Verbeek,,
+1027936,2,2nd,6:07,380,TEX,10147,Kyle Looft,37,D,Slashing,2.00,1,0,10147,Kyle Looft,Graedy Hamilton,Hayden Verbeek,,
+1027936,2,2nd,12:41,321,MB,7118,Jaret Anderson-Dolan,28,C,Holding,2.00,1,0,7118,Jaret Anderson-Dolan,Graedy Hamilton,Hayden Verbeek,,
+1027936,3,3rd,2:22,380,TEX,9961,Matthew Seminoff,13,F,Slashing,2.00,1,0,9961,Matthew Seminoff,Graedy Hamilton,Hayden Verbeek,,
+1027936,3,3rd,4:40,380,TEX,10535,Trey Taylor,2,D,High-sticking,2.00,1,0,10535,Trey Taylor,Graedy Hamilton,Hayden Verbeek,,
+1027936,3,3rd,7:26,321,MB,7152,Kale Clague,56,D,Hooking,2.00,1,0,7152,Kale Clague,Graedy Hamilton,Hayden Verbeek,,
+1027936,3,3rd,15:44,380,TEX,4883,Curtis McKenzie,16,F,Tripping,2.00,1,0,4883,Curtis McKenzie,Graedy Hamilton,Hayden Verbeek,,

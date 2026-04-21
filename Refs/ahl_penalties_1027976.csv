@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027976,1,1st,17:00,404,SD,10686,Tim Washe,10,C,High-sticking,2.00,1,0,10686,Tim Washe,Jordan Deckard,Ben Solomon,,
+1027976,2,2nd,3:02,404,SD,5912,Roland McKeown,37,D,Fighting,5.00,0,0,5912,Roland McKeown,Jordan Deckard,Ben Solomon,,
+1027976,2,2nd,3:02,402,BAK,10595,Connor Clattenburg,64,LW,Fighting,5.00,0,0,10595,Connor Clattenburg,Jordan Deckard,Ben Solomon,,
+1027976,2,2nd,3:56,402,BAK,5080,Seth Griffith,39,LW,Interference,2.00,1,0,5080,Seth Griffith,Jordan Deckard,Ben Solomon,,
+1027976,2,2nd,10:50,404,SD,9197,Noah Warren,2,D,Slashing,2.00,1,0,9197,Noah Warren,Jordan Deckard,Ben Solomon,,
+1027976,2,2nd,15:01,402,BAK,10624,Matt Copponi,45,C,Tripping,2.00,1,0,10624,Matt Copponi,Jordan Deckard,Ben Solomon,,
+1027976,2,2nd,18:38,404,SD,6442,Nikolas Brouillard,15,D,Roughing,2.00,0,0,6442,Nikolas Brouillard,Jordan Deckard,Ben Solomon,,
+1027976,2,2nd,18:38,402,BAK,8485,James Hamblin,52,C,Diving/Embellishment,2.00,0,0,8485,James Hamblin,Jordan Deckard,Ben Solomon,,
+1027976,3,3rd,1:24,402,BAK,10877,Josh Samanski,81,C,High-sticking,2.00,1,0,10877,Josh Samanski,Jordan Deckard,Ben Solomon,,
+1027976,3,3rd,13:03,402,BAK,10874,Quinn Hutson,23,RW,Slashing,2.00,1,0,10874,Quinn Hutson,Jordan Deckard,Ben Solomon,,
+1027976,3,3rd,16:12,402,BAK,8726,Roby Järventie,15,RW,Double minor - High-sticking,4.00,1,0,8726,Roby Järventie,Jordan Deckard,Ben Solomon,,
+1027976,3,3rd,19:51,402,BAK,7352,Riley Stillman,61,D,Slashing,2.00,1,0,7352,Riley Stillman,Jordan Deckard,Ben Solomon,,

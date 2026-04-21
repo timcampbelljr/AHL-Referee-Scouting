@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027939,1,1st,0:37,437,HSK,7028,Mitch McLain,75,F,Fighting,5.00,0,0,7028,Mitch McLain,Ben Betker,Tyler Spott,,
+1027939,1,1st,0:37,402,BAK,6058,Josh Brown,44,D,Fighting,5.00,0,0,6058,Josh Brown,Ben Betker,Tyler Spott,,
+1027939,1,1st,11:48,402,BAK,6780,Max Jones,46,LW,Boarding,2.00,1,0,6780,Max Jones,Ben Betker,Tyler Spott,,
+1027939,1,1st,12:13,402,BAK,8846,Daniel D’Amato,19,LW,Tripping,2.00,1,0,8846,Daniel D’Amato,Ben Betker,Tyler Spott,,
+1027939,1,1st,18:23,437,HSK,6787,Lucas Johansen,78,D,Tripping,2.00,1,0,6787,Lucas Johansen,Ben Betker,Tyler Spott,,
+1027939,2,2nd,1:51,402,BAK,10879,Atro Leppanen,37,D,Tripping,2.00,1,0,10879,Atro Leppanen,Ben Betker,Tyler Spott,,
+1027939,2,2nd,3:26,402,BAK,7159,Cam Dineen,55,D,Slashing,2.00,1,0,7159,Cam Dineen,Ben Betker,Tyler Spott,,
+1027939,2,2nd,15:05,402,BAK,8726,Roby Järventie,15,RW,Goaltender interference,2.00,1,0,8726,Roby Järventie,Ben Betker,Tyler Spott,,

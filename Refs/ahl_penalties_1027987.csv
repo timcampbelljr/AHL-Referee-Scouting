@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027987,1,1st,8:12,319,HER,7584,Matt Strome,45,RW,Tripping,2.00,1,0,7584,Matt Strome,Chad Ingalls,Damian Figueira,,
+1027987,2,2nd,3:41,319,HER,7024,Louie Belpedio,7,D,Interference,2.00,1,0,7024,Louie Belpedio,Chad Ingalls,Damian Figueira,,
+1027987,2,2nd,15:40,313,LV,10552,Ty Murchison,4,D,Holding the stick,2.00,1,0,10552,Ty Murchison,Chad Ingalls,Damian Figueira,,
+1027987,3,3rd,10:53,319,HER,10133,Cam Allen,2,D,Holding the stick,2.00,1,0,10133,Cam Allen,Chad Ingalls,Damian Figueira,,
+1027987,3,3rd,13:32,319,HER,10572,Ryan Chesley,5,D,Delay of game,2.00,1,0,10572,Ryan Chesley,Chad Ingalls,Damian Figueira,,
+1027987,3,3rd,16:15,319,HER,10644,Ilya Protas,40,C,Delay of game,2.00,1,0,10644,Ilya Protas,Chad Ingalls,Damian Figueira,,
+1027987,3,3rd,16:43,313,LV,6872,Lane Pederson,25,C,Tripping,2.00,1,0,6872,Lane Pederson,Chad Ingalls,Damian Figueira,,

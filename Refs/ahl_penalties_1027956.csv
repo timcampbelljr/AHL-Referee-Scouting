@@ -1,0 +1,3 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027956,2,2nd,9:21,372,RFD,9833,Ethan Del Mastro,38,D,Holding,2.00,1,0,9833,Ethan Del Mastro,Morgan MacPhee,Will Kelly,,
+1027956,3,3rd,2:56,389,IA,8576,Jean-Luc Foudy,86,RW,Tripping,2.00,1,0,8576,Jean-Luc Foudy,Morgan MacPhee,Will Kelly,,

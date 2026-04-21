@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027962,1,1st,0:35,317,BRI,10020,Luke Rowe,24,D,Fighting,5.00,0,0,10020,Luke Rowe,Mike Sullivan,Hayden Verbeek,,
+1027962,1,1st,0:35,316,WBS,7733,Zach Gallant,62,RW,Fighting,5.00,0,0,7733,Zach Gallant,Mike Sullivan,Hayden Verbeek,,
+1027962,1,1st,2:43,316,WBS,10085,Mathieu De St. Phalle,54,RW,Interference,2.00,1,0,10085,Mathieu De St. Phalle,Mike Sullivan,Hayden Verbeek,,
+1027962,1,1st,14:17,317,BRI,9954,Eetu Liukas,26,F,Elbowing,2.00,1,0,9954,Eetu Liukas,Mike Sullivan,Hayden Verbeek,,
+1027962,2,2nd,1:34,316,WBS,8793,Valtteri Puustinen,48,RW,Holding,2.00,1,0,8793,Valtteri Puustinen,Mike Sullivan,Hayden Verbeek,,
+1027962,2,2nd,4:29,316,WBS,10504,Chase Pietila,44,D,Roughing - Removing opponent's helmet,2.00,1,0,10504,Chase Pietila,Mike Sullivan,Hayden Verbeek,,
+1027962,2,2nd,8:32,317,BRI,10562,Joey Larson,17,F,Interference,2.00,1,0,10562,Joey Larson,Mike Sullivan,Hayden Verbeek,,
+1027962,3,3rd,8:53,317,BRI,9886,Cole McWard,3,D,Delay of game,2.00,1,0,9886,Cole McWard,Mike Sullivan,Hayden Verbeek,,
+1027962,3,3rd,9:10,316,WBS,10164,Tristan Broz,26,C,High-sticking,2.00,1,0,10164,Tristan Broz,Mike Sullivan,Hayden Verbeek,,

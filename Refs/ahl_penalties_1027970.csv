@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027970,1,1st,5:38,419,COL,9638,Mark Senden,51,F,Tripping,2.00,1,0,9638,Mark Senden,Riley Brace,Jacob Hicks,,
+1027970,1,1st,8:50,419,COL,9571,Ronnie Attard,3,D,Interference,2.00,1,0,9571,Ronnie Attard,Riley Brace,Jacob Hicks,,
+1027970,1,1st,13:42,412,TUC,9207,Julian Lutz,43,F,Slashing,2.00,1,0,9207,Julian Lutz,Riley Brace,Jacob Hicks,,
+1027970,2,2nd,1:29,412,TUC,9217,Max Szuber,55,D,Holding,2.00,1,0,9217,Max Szuber,Riley Brace,Jacob Hicks,,
+1027970,3,3rd,7:15,419,COL,10161,Maroš Jedlička,55,F,High-sticking,2.00,1,0,10161,Maroš Jedlička,Riley Brace,Jacob Hicks,,
+1027970,3,3rd,15:04,412,TUC,10220,Maveric Lamoureux,10,D,High-sticking,2.00,1,0,10220,Maveric Lamoureux,Riley Brace,Jacob Hicks,,

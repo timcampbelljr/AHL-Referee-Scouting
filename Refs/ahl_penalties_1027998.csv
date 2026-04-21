@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027998,2,2nd,3:16,319,HER,6910,Spencer Smallman,11,C,Roughing,2.00,0,0,6910,Spencer Smallman,Chad Ingalls,Damian Figueira,,
+1027998,2,2nd,3:16,313,LV,10046,Hunter McDonald,19,D,Interference,2.00,0,0,9768,Tucker Robertson,Chad Ingalls,Damian Figueira,,
+1027998,2,2nd,5:48,319,HER,7545,Corey Schueneman,6,D,Hooking,2.00,1,0,7545,Corey Schueneman,Chad Ingalls,Damian Figueira,,
+1027998,2,2nd,7:59,313,LV,10717,Devin Kaplan,12,F,High-sticking,2.00,1,0,10717,Devin Kaplan,Chad Ingalls,Damian Figueira,,
+1027998,2,2nd,14:02,313,LV,8805,Helge Grans,3,D,High-sticking,2.00,1,0,8805,Helge Grans,Chad Ingalls,Damian Figueira,,
+1027998,3,3rd,2:24,319,HER,9356,Henrik Rybinski,12,C,Hooking,2.00,1,0,9356,Henrik Rybinski,Chad Ingalls,Damian Figueira,,
+1027998,3,3rd,8:11,319,HER,9881,Sam Bitten,43,RW,High-sticking,2.00,1,0,9881,Sam Bitten,Chad Ingalls,Damian Figueira,,
+1027998,3,3rd,9:39,313,LV,10633,Alex Bump,21,F,Slashing,2.00,1,0,10633,Alex Bump,Chad Ingalls,Damian Figueira,,
+1027998,3,3rd,16:37,313,LV,10046,Hunter McDonald,19,D,Holding,2.00,1,0,10046,Hunter McDonald,Chad Ingalls,Damian Figueira,,

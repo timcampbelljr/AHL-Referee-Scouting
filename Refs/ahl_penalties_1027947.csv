@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027947,1,1st,10:03,335,TOR,7780,Cédric Paré,56,F,Roughing,2.00,1,0,7780,Cédric Paré,Jim Curtin,Patrick Hanrahan,,
+1027947,1,1st,12:18,313,LV,10718,Karsen Dorwart,23,F,Holding,2.00,1,0,10718,Karsen Dorwart,Jim Curtin,Patrick Hanrahan,,
+1027947,2,2nd,9:28,335,TOR,7693,Benoit-Olivier Groulx,29,C,Double minor - High-sticking,4.00,1,0,7693,Benoit-Olivier Groulx,Jim Curtin,Patrick Hanrahan,,
+1027947,2,2nd,19:22,335,TOR,10929,Easton Cowan,53,LW,Tripping,2.00,1,0,10929,Easton Cowan,Jim Curtin,Patrick Hanrahan,,
+1027947,3,3rd,1:48,335,TOR,7693,Benoit-Olivier Groulx,29,C,Hooking,2.00,1,0,7693,Benoit-Olivier Groulx,Jim Curtin,Patrick Hanrahan,,
+1027947,3,3rd,13:44,313,LV,6872,Lane Pederson,25,C,Hooking,2.00,1,0,6872,Lane Pederson,Jim Curtin,Patrick Hanrahan,,

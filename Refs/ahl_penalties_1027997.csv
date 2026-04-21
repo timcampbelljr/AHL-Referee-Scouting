@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027997,1,1st,2:14,444,CGY,10103,David Silye,25,C,Hooking,2.00,1,0,10103,David Silye,Bobby Jo Love,Alex Gagné,,
+1027997,1,1st,13:39,437,HSK,9272,Ben Hemmerling,63,F,Slashing,2.00,1,0,9272,Ben Hemmerling,Bobby Jo Love,Alex Gagné,,
+1027997,1,1st,18:28,444,CGY,6426,Justin Kirkland,23,C,Holding,2.00,1,0,6426,Justin Kirkland,Bobby Jo Love,Alex Gagné,,
+1027997,2,2nd,1:43,437,HSK,7926,Jeremy Davies,84,D,Interference,2.00,1,0,7926,Jeremy Davies,Bobby Jo Love,Alex Gagné,,
+1027997,2,2nd,6:28,444,CGY,10626,Carter King,44,C,High-sticking,2.00,1,0,10626,Carter King,Bobby Jo Love,Alex Gagné,,
+1027997,2,2nd,10:29,437,HSK,9266,Jakub Brabenec,12,F,Tripping,2.00,1,0,9266,Jakub Brabenec,Bobby Jo Love,Alex Gagné,,
+1027997,2,2nd,20:00,444,CGY,9952,Lucas Ciona,17,LW,Cross-checking,2.00,0,0,9952,Lucas Ciona,Bobby Jo Love,Alex Gagné,,
+1027997,2,2nd,20:00,437,HSK,8421,Riley McKay,89,F,Roughing,2.00,0,0,8421,Riley McKay,Bobby Jo Love,Alex Gagné,,
+1027997,3,3rd,13:24,444,CGY,6453,Clark Bishop,19,C,Hooking,2.00,1,0,6453,Clark Bishop,Bobby Jo Love,Alex Gagné,,
+1027997,3,3rd,18:58,437,HSK,10284,Kai Uchacz,77,F,Hooking,2.00,1,0,10284,Kai Uchacz,Bobby Jo Love,Alex Gagné,,

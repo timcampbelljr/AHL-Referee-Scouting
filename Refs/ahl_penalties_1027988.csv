@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027988,1,1st,12:44,327,MIL,10645,David Edstrom,41,C,High-sticking,2.00,1,0,10645,David Edstrom,Jarrod Ragusin,Austin O’Rourke,,
+1027988,1,1st,13:44,327,MIL,5529,Kevin Gravel,5,D,Slashing,2.00,1,0,5529,Kevin Gravel,Jarrod Ragusin,Austin O’Rourke,,
+1027988,1,1st,16:32,380,TEX,10517,Tommy Bergsland,5,D,Tripping,2.00,1,0,10517,Tommy Bergsland,Jarrod Ragusin,Austin O’Rourke,,
+1027988,2,2nd,8:57,327,MIL,5671,Daniel Carr,43,LW,Elbowing,2.00,1,0,5671,Daniel Carr,Jarrod Ragusin,Austin O’Rourke,,
+1027988,2,2nd,12:20,327,MIL,7722,Navrin Mutter,47,LW,Elbowing,2.00,1,0,7722,Navrin Mutter,Jarrod Ragusin,Austin O’Rourke,,
+1027988,3,3rd,9:54,380,TEX,8459,Antonio Stranges,40,F,Tripping,2.00,1,0,8459,Antonio Stranges,Jarrod Ragusin,Austin O’Rourke,,
+1027988,3,3rd,17:09,380,TEX,10546,Artem Shlaine,38,F,Tripping,2.00,1,0,10546,Artem Shlaine,Jarrod Ragusin,Austin O’Rourke,,

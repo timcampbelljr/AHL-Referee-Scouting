@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027994,1,1st,3:11,316,WBS,6865,Bokondji Imama,14,LW,Fighting,5.00,0,0,6865,Bokondji Imama,Harrison O’Pray,Rob Hennessey,,
+1027994,1,1st,3:11,411,SPR,5039,Kale Kessy,13,LW,Fighting,5.00,0,0,5039,Kale Kessy,Harrison O’Pray,Rob Hennessey,,
+1027994,2,2nd,7:59,411,SPR,6917,Calle Rosén,43,D,Tripping,2.00,1,0,6917,Calle Rosén,Harrison O’Pray,Rob Hennessey,,
+1027994,2,2nd,10:35,316,WBS,10560,Nolan Renwick,23,C,Tripping,2.00,1,0,10560,Nolan Renwick,Harrison O’Pray,Rob Hennessey,,
+1027994,2,2nd,15:38,411,SPR,5896,Matthew Peca,63,C,Tripping,2.00,1,0,5896,Matthew Peca,Harrison O’Pray,Rob Hennessey,,
+1027994,3,3rd,4:21,316,WBS,10326,Atley Calvert,84,RW,Delay of game,2.00,1,0,10326,Atley Calvert,Harrison O’Pray,Rob Hennessey,,

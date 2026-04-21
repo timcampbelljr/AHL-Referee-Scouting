@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027974,1,1st,13:37,313,LV,10720,Denver Barkey,52,F,Slashing,2.00,1,0,10720,Denver Barkey,Beau Halkidis,Adam Tobias,,
+1027974,1,1st,18:04,313,LV,9768,Tucker Robertson,22,F,Hooking,2.00,1,0,9768,Tucker Robertson,Beau Halkidis,Adam Tobias,,
+1027974,1,1st,19:22,313,LV,10552,Ty Murchison,4,D,Roughing,2.00,0,0,10552,Ty Murchison,Beau Halkidis,Adam Tobias,,
+1027974,1,1st,19:22,411,SPR,3068,Milan Lucic,12,LW,Roughing,2.00,0,0,10846,Nikita Susuyev,Beau Halkidis,Adam Tobias,,
+1027974,1,1st,19:22,411,SPR,3068,Milan Lucic,12,LW,Roughing,2.00,1,0,3068,Milan Lucic,Beau Halkidis,Adam Tobias,,
+1027974,2,2nd,17:41,411,SPR,6917,Calle Rosén,43,D,Hooking,2.00,1,0,6917,Calle Rosén,Beau Halkidis,Adam Tobias,,

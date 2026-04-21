@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027958,1,1st,1:54,444,CGY,9669,William Strömgren,11,LW,High-sticking,2.00,1,0,9669,William Strömgren,Koletrane Wilson,David Elford,,
+1027958,1,1st,12:55,444,CGY,5018,Martin Frk,29,RW,Holding,2.00,1,0,5018,Martin Frk,Koletrane Wilson,David Elford,,
+1027958,2,2nd,5:01,444,CGY,10037,Sam Morton,45,C,Slashing,2.00,1,0,10037,Sam Morton,Koletrane Wilson,David Elford,,
+1027958,2,2nd,16:36,403,ONT,9249,Angus Booth,24,D,High-sticking,2.00,1,0,9249,Angus Booth,Koletrane Wilson,David Elford,,
+1027958,2,2nd,20:00,403,ONT,9357,Cole Guttman,81,F,Holding,2.00,1,0,9357,Cole Guttman,Koletrane Wilson,David Elford,,
+1027958,3,3rd,16:07,403,ONT,8714,Martin Chromiak,8,F,Slashing,2.00,1,0,8714,Martin Chromiak,Koletrane Wilson,David Elford,,

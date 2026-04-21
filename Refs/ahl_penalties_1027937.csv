@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027937,1,1st,7:15,412,TUC,10668,Michal Kunc,23,F,High-sticking,2.00,1,0,10668,Michal Kunc,Mike Campbell,John Lindner,,
+1027937,1,1st,10:05,412,TUC,8519,Scott Perunovich,7,D,Slashing,2.00,1,0,8519,Scott Perunovich,Mike Campbell,John Lindner,,
+1027937,2,2nd,6:19,445,CV,6956,John Hayden,15,F,Hooking,2.00,1,0,6956,John Hayden,Mike Campbell,John Lindner,,
+1027937,2,2nd,19:41,445,CV,6306,Mitchell Stephens,67,F,Holding,2.00,1,0,6306,Mitchell Stephens,Mike Campbell,John Lindner,,
+1027937,3,3rd,7:53,445,CV,10190,Tyson Jugnauth,43,D,Holding,2.00,1,0,10190,Tyson Jugnauth,Mike Campbell,John Lindner,,
+1027937,3,3rd,17:52,412,TUC,10664,Daniil But,50,F,Tripping,2.00,1,0,10664,Daniil But,Mike Campbell,John Lindner,,

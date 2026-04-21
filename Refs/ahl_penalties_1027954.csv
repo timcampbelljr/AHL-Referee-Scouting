@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027954,1,1st,8:45,330,CHI,10463,Aleksi Heimosalmi,34,D,Interference,2.00,1,0,10463,Aleksi Heimosalmi,Koletrane Wilson,Shaun Davis,,
+1027954,1,1st,11:25,328,GR,10476,Carson Bantle,21,LW,Goaltender interference,2.00,1,0,10476,Carson Bantle,Koletrane Wilson,Shaun Davis,,
+1027954,1,1st,14:24,330,CHI,10882,Ivan Ryabkin,27,C,Cross-checking,2.00,1,0,10882,Ivan Ryabkin,Koletrane Wilson,Shaun Davis,,
+1027954,2,2nd,4:55,330,CHI,9090,Noel Gunler,10,RW,High-sticking,2.00,1,0,9090,Noel Gunler,Koletrane Wilson,Shaun Davis,,
+1027954,2,2nd,10:53,330,CHI,8437,Ryan Suzuki,6,C,Slashing,2.00,1,0,8437,Ryan Suzuki,Koletrane Wilson,Shaun Davis,,
+1027954,2,2nd,18:14,328,GR,4085,Austin Watson,51,RW,Tripping,2.00,1,0,4085,Austin Watson,Koletrane Wilson,Shaun Davis,,
+1027954,3,3rd,2:38,330,CHI,10882,Ivan Ryabkin,27,C,Hooking,2.00,1,0,10882,Ivan Ryabkin,Koletrane Wilson,Shaun Davis,,
+1027954,3,3rd,11:48,328,GR,10453,Jakub Rychlovský,81,LW,Goaltender interference,2.00,1,0,10453,Jakub Rychlovský,Koletrane Wilson,Shaun Davis,,
+1027954,OT,OT,3:39,328,GR,9718,Amadeus Lombardi,93,C,Tripping,2.00,1,0,9718,Amadeus Lombardi,Koletrane Wilson,Shaun Davis,,

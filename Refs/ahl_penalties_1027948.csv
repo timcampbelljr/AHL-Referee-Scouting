@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027948,2,2nd,8:58,403,ONT,9239,Francesco Pinelli,71,F,Roughing,2.00,0,0,9239,Francesco Pinelli,Jordan Watt,Stan Szczurek,,
+1027948,2,2nd,8:58,404,SD,10506,Stian Solberg,7,D,Roughing,2.00,0,0,10506,Stian Solberg,Jordan Watt,Stan Szczurek,,
+1027948,2,2nd,11:21,403,ONT,10567,Otto Salin,10,D,Cross-checking,2.00,1,0,10567,Otto Salin,Jordan Watt,Stan Szczurek,,
+1027948,3,3rd,6:35,403,ONT,10623,Jared Wright,78,F,Hooking,2.00,1,0,10623,Jared Wright,Jordan Watt,Stan Szczurek,,
+1027948,3,3rd,7:35,403,ONT,6784,Glenn Gawdin,21,F,Tripping,2.00,1,0,6784,Glenn Gawdin,Jordan Watt,Stan Szczurek,,
+1027948,3,3rd,11:40,404,SD,10506,Stian Solberg,7,D,Cross-checking,2.00,1,0,10506,Stian Solberg,Jordan Watt,Stan Szczurek,,

@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027961,1,1st,16:13,440,ABB,10117,Vilmer Alriksson,46,LW,Roughing,2.00,1,0,10117,Vilmer Alriksson,Jesse Wood-Schatz,Mathieu Menniti,,
+1027961,1,1st,19:51,440,ABB,10089,Ty Mueller,39,C,Tripping,2.00,1,0,10089,Ty Mueller,Jesse Wood-Schatz,Mathieu Menniti,,
+1027961,2,2nd,8:26,405,SJ,7434,Lucas Carlsson,32,D,Delay of game,2.00,1,0,7434,Lucas Carlsson,Jesse Wood-Schatz,Mathieu Menniti,,
+1027961,3,3rd,3:46,405,SJ,7591,Shane Bowers,15,F,Fighting,5.00,0,0,7591,Shane Bowers,Jesse Wood-Schatz,Mathieu Menniti,,
+1027961,3,3rd,3:46,440,ABB,5882,Joseph LaBate,14,C,Fighting,5.00,0,0,5882,Joseph LaBate,Jesse Wood-Schatz,Mathieu Menniti,,
+1027961,3,3rd,8:19,440,ABB,10077,Sawyer Mynio,45,D,Holding,2.00,1,0,10077,Sawyer Mynio,Jesse Wood-Schatz,Mathieu Menniti,,
+1027961,3,3rd,15:07,405,SJ,10234,Quentin Musty,13,F,Slashing,2.00,1,0,10234,Quentin Musty,Jesse Wood-Schatz,Mathieu Menniti,,
+1027961,3,3rd,18:33,405,SJ,10086,Filip Bystedt,18,F,Holding,2.00,1,0,10086,Filip Bystedt,Jesse Wood-Schatz,Mathieu Menniti,,

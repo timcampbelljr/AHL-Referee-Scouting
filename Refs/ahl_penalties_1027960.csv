@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027960,1,1st,4:45,324,SYR,10835,Wojciech Stachowiak,9,C,Cross-checking,2.00,1,0,10835,Wojciech Stachowiak,Adam Tobias,Johnny Daniels,,
+1027960,1,1st,12:02,324,SYR,10148,Dylan Duke,25,LW,Tripping,2.00,1,0,10148,Dylan Duke,Adam Tobias,Johnny Daniels,,
+1027960,1,1st,18:29,390,UTC,7608,Jonathan Gruden,14,C,Hooking,2.00,1,0,7608,Jonathan Gruden,Adam Tobias,Johnny Daniels,,
+1027960,2,2nd,5:41,390,UTC,6879,Dmitry Osipov,44,D,Interference,2.00,1,0,6879,Dmitry Osipov,Adam Tobias,Johnny Daniels,,
+1027960,2,2nd,10:27,390,UTC,10474,Seamus Casey,22,D,Holding,2.00,1,0,10474,Seamus Casey,Adam Tobias,Johnny Daniels,,
+1027960,2,2nd,12:57,324,SYR,8884,Matteo Pietroniro,75,D,Roughing,2.00,1,0,8884,Matteo Pietroniro,Adam Tobias,Johnny Daniels,,
+1027960,3,3rd,3:48,390,UTC,8891,Nathan Légaré,11,RW,Cross-checking,2.00,1,0,8891,Nathan Légaré,Adam Tobias,Johnny Daniels,,
+1027960,3,3rd,16:23,390,UTC,8648,Angus Crookshank,9,LW,Roughing,2.00,0,0,8648,Angus Crookshank,Adam Tobias,Johnny Daniels,,
+1027960,3,3rd,16:23,324,SYR,10566,Lucas Mercuri,11,C,Roughing,2.00,0,0,10566,Lucas Mercuri,Adam Tobias,Johnny Daniels,,
+1027960,3,3rd,16:23,324,SYR,9754,Tristan Allard,14,LW,Interference,2.00,1,0,9754,Tristan Allard,Adam Tobias,Johnny Daniels,,
+1027960,3,3rd,19:08,390,UTC,10474,Seamus Casey,22,D,Slashing,2.00,1,0,10474,Seamus Casey,Adam Tobias,Johnny Daniels,,

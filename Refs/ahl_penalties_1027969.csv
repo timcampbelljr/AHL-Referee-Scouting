@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027969,1,1st,11:27,415,LAV,10139,Florian Xhekaj,63,C,Cross-checking,2.00,1,0,10139,Florian Xhekaj,Alex Lepkowski,Johnny Daniels,,
+1027969,2,2nd,13:26,411,SPR,9737,Michael Buchinger,9,D,Tripping,2.00,1,0,9737,Michael Buchinger,Alex Lepkowski,Johnny Daniels,,
+1027969,2,2nd,14:37,415,LAV,9522,Filip Mešár,48,RW,Tripping,2.00,1,0,9522,Filip Mešár,Alex Lepkowski,Johnny Daniels,,
+1027969,2,2nd,17:44,415,LAV,10437,Adam Engström,56,D,Holding,2.00,1,0,10437,Adam Engström,Alex Lepkowski,Johnny Daniels,,
+1027969,2,2nd,20:00,415,LAV,5927,Laurent Dauphin,27,F,Roughing,2.00,0,0,5927,Laurent Dauphin,Alex Lepkowski,Johnny Daniels,,
+1027969,2,2nd,20:00,411,SPR,4622,Chris Wagner,88,C,Roughing,2.00,1,0,10846,Nikita Susuyev,Alex Lepkowski,Johnny Daniels,,
+1027969,2,2nd,20:00,411,SPR,4622,Chris Wagner,88,C,Roughing,2.00,0,0,4622,Chris Wagner,Alex Lepkowski,Johnny Daniels,,
+1027969,3,3rd,12:13,411,SPR,8461,Hugh McGing,11,F,Tripping,2.00,1,0,8461,Hugh McGing,Alex Lepkowski,Johnny Daniels,,
+1027969,3,3rd,15:51,411,SPR,8461,Hugh McGing,11,F,Fighting,5.00,0,0,8461,Hugh McGing,Alex Lepkowski,Johnny Daniels,,
+1027969,3,3rd,15:51,411,SPR,8461,Hugh McGing,11,F,Game misconduct - Instigator (last 5:00),10.00,0,0,8461,Hugh McGing,Alex Lepkowski,Johnny Daniels,,
+1027969,3,3rd,15:51,415,LAV,10149,Luke Tuch,17,LW,Fighting,5.00,0,0,10149,Luke Tuch,Alex Lepkowski,Johnny Daniels,,
+1027969,3,3rd,15:51,411,SPR,8461,Hugh McGing,11,F,Instigating,2.00,1,0,10330,Simon Robertsson,Alex Lepkowski,Johnny Daniels,,

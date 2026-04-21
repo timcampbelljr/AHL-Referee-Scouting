@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027938,1,1st,9:09,390,UTC,6879,Dmitry Osipov,44,D,Tripping,2.00,1,0,6879,Dmitry Osipov,Bobby Jo Love,Mathieu Menniti,,
+1027938,1,1st,11:48,413,BEL,8987,Tyler Boucher,16,RW,Slashing,2.00,1,0,8987,Tyler Boucher,Bobby Jo Love,Mathieu Menniti,,
+1027938,1,1st,14:08,413,BEL,7713,Jan Jeník,24,C,High-sticking,2.00,1,0,7713,Jan Jeník,Bobby Jo Love,Mathieu Menniti,,
+1027938,1,1st,17:42,413,BEL,10922,Carter Yakemchuk,26,D,Hooking,2.00,1,0,10922,Carter Yakemchuk,Bobby Jo Love,Mathieu Menniti,,
+1027938,2,2nd,9:01,390,UTC,9114,Thomas Bordeleau,74,F,Slashing,2.00,1,0,9114,Thomas Bordeleau,Bobby Jo Love,Mathieu Menniti,,
+1027938,2,2nd,18:05,390,UTC,10529,Ethan Edwards,73,D,Fighting,5.00,0,0,10529,Ethan Edwards,Bobby Jo Love,Mathieu Menniti,,
+1027938,2,2nd,18:05,413,BEL,8720,Keean Washkurak,27,LW,Fighting,5.00,0,0,8720,Keean Washkurak,Bobby Jo Love,Mathieu Menniti,,
+1027938,2,2nd,19:01,390,UTC,0,None None,0,,Too many men - Bench minor,2.00,1,1,9516,Xavier Parent,Bobby Jo Love,Mathieu Menniti,,
+1027938,3,3rd,7:11,413,BEL,4955,Scott Harrington,14,D,Slashing,2.00,1,0,4955,Scott Harrington,Bobby Jo Love,Mathieu Menniti,,

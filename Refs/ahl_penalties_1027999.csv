@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027999,1,1st,6:36,415,LAV,8717,Marc Del Gaizo,2,D,High-sticking,2.00,1,0,8717,Marc Del Gaizo,Mike Sullivan,Jack Young,,
+1027999,1,1st,19:05,309,PRO,10584,Dalton Bancroft,17,RW,High-sticking,2.00,1,0,10584,Dalton Bancroft,Mike Sullivan,Jack Young,,
+1027999,2,2nd,14:27,415,LAV,9520,William Trudeau,84,D,Holding,2.00,1,0,9520,William Trudeau,Mike Sullivan,Jack Young,,
+1027999,3,3rd,0:52,415,LAV,4819,Alex Belzile,22,F,Tripping,2.00,1,0,4819,Alex Belzile,Mike Sullivan,Jack Young,,

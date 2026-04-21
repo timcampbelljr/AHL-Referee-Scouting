@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027989,1,1st,1:30,390,UTC,7608,Jonathan Gruden,14,C,Boarding,2.00,1,0,7608,Jonathan Gruden,Johnny Daniels,Patrick Hanrahan,,
+1027989,1,1st,7:03,309,PRO,0,None None,0,,Too many men - Bench minor,2.00,1,1,9524,Fabian Lysell,Johnny Daniels,Patrick Hanrahan,,
+1027989,1,1st,11:06,309,PRO,5721,Patrick Brown,38,C,Illegal check to the head,2.00,1,0,5721,Patrick Brown,Johnny Daniels,Patrick Hanrahan,,
+1027989,2,2nd,16:42,390,UTC,6879,Dmitry Osipov,44,D,Tripping,2.00,1,0,6879,Dmitry Osipov,Johnny Daniels,Patrick Hanrahan,,
+1027989,3,3rd,3:15,309,PRO,9435,Joey Abate,47,LW,Interference,2.00,1,0,9435,Joey Abate,Johnny Daniels,Patrick Hanrahan,,
+1027989,3,3rd,11:07,390,UTC,7624,Calen Addison,2,D,Roughing,2.00,1,0,7624,Calen Addison,Johnny Daniels,Patrick Hanrahan,,
+1027989,3,3rd,11:07,390,UTC,7624,Calen Addison,2,D,Roughing,2.00,0,0,9114,Thomas Bordeleau,Johnny Daniels,Patrick Hanrahan,,
+1027989,3,3rd,11:07,309,PRO,9524,Fabian Lysell,22,RW,Cross-checking,2.00,0,0,9524,Fabian Lysell,Johnny Daniels,Patrick Hanrahan,,
