@@ -511,17 +511,23 @@ def build_summary(df: pd.DataFrame):
         body  = _median_per_game(grp, "Rough|Fight|Cross|Charg|Board")
         misc  = _median_per_game(grp, "Misc|Unsport|Instig|Conduct")
         trap  = _median_per_game(grp, "Trip|Hold|Obstruct")
-        # P3/P1: compute ratio per game first, then take median of those ratios
-        def _p3p1_ratio(g):
-            p1_count = (g["period"] == 1).sum()
-            p3_count = (g["period"] == 3).sum()
-            # Returns the raw ratio for this specific game
-            return p3_count / p1_count if p1_count > 0 else None
-        per_game_ratios = grp.groupby("game_id").apply(_p3p1_ratio).dropna()
-        if len(per_game_ratios) > 0:
-            p3_ratio = round(float(per_game_ratios.median()), 3)
+        # P3/P1: avoid groupby.apply scalar issues in pandas 2.2+
+        # Explicitly count P1 and P3 penalties per game, then compute ratio per game
+        period_counts = (
+            grp.groupby(["game_id", "period"])
+            .size()
+            .unstack(fill_value=0)
+        )
+        p1_col = 1 if 1 in period_counts.columns else None
+        p3_col = 3 if 3 in period_counts.columns else None
+        if p1_col is not None and p3_col is not None:
+            p1_series = period_counts[p1_col]
+            p3_series = period_counts[p3_col]
+            valid = p1_series > 0
+            ratios = (p3_series[valid] / p1_series[valid]).dropna()
+            p3_ratio = round(float(ratios.median()), 3) if len(ratios) > 0 else 1.000
         else:
-            p3_ratio = 1.000  # Default baseline
+            p3_ratio = 1.000  # Default if period data missing
 
         rows.append({
             "ref":            ref_name,
