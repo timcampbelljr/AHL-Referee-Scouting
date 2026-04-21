@@ -76,7 +76,7 @@ def _tdl(txt):
 def _pv(txt, fg):
     return Paragraph(str(txt), ParagraphStyle("pv", fontSize=8, textColor=fg, fontName="Helvetica-Bold", alignment=1))
 
-def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg):
+def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg, team_baseline):
     buf = io.BytesIO()
     doc = SimpleDocTemplate(
         buf, pagesize=letter,
@@ -273,41 +273,88 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg):
                    .sort_values(ascending=False).head(8).reset_index(name="count"))
         top_inf["per_game"] = (top_inf["count"] / games).round(2)
 
+        # Teams table — smaller font/cols to fit bias column side by side
+        def _ths(txt):
+            return Paragraph(txt, ParagraphStyle("ths", fontSize=7, fontName="Helvetica-Bold", textColor=GOLD))
+        def _tds(txt):
+            return Paragraph(str(txt), ParagraphStyle("tds", fontSize=7, alignment=1))
+        def _tdls(txt):
+            return Paragraph(str(txt), ParagraphStyle("tdls", fontSize=7, alignment=0))
+
         team_d = (df_r.groupby("team_abbrev")
                   .agg(total=("infraction","count"), pim=("minutes","sum"))
-                  .sort_values("total", ascending=False).reset_index())
-        team_d["per_game"]     = (team_d["total"] / games).round(2)
-        team_d["pim_per_game"] = (team_d["pim"]   / games).round(2)
+                  .reset_index())
+
+        # Per-game using median per game
+        def _team_med_pdf(team, col):
+            g = df_r[df_r["team_abbrev"] == team]
+            if col == "pen":
+                return round(g.groupby("game_id").size().median(), 2)
+            return round(g.groupby("game_id")[col].sum().median(), 2)
+
+        team_d["g_together"]  = team_d["team_abbrev"].apply(
+            lambda t: df_r[df_r["team_abbrev"] == t]["game_id"].nunique())
+        team_d["per_game"]    = team_d["team_abbrev"].apply(lambda t: _team_med_pdf(t, "pen"))
+        team_d["pim_per_game"]= team_d["team_abbrev"].apply(lambda t: _team_med_pdf(t, "minutes"))
+
+        # Bias
+        def _bias_pdf(row):
+            team = row["team_abbrev"]
+            if row["g_together"] < BIAS_MIN_GAMES or team not in team_baseline.index:
+                return None
+            return round(row["per_game"] - team_baseline.loc[team, "season_ppg"], 2)
+        team_d["bias"] = team_d.apply(_bias_pdf, axis=1)
+        team_d = team_d.sort_values("g_together", ascending=False)
+
+        def _bias_cell_pdf(val):
+            if val is None:
+                return Paragraph("—", ParagraphStyle("nd", fontSize=7, textColor=colors.HexColor("#aaa"), alignment=1))
+            color = RED_TXT if val > 0 else GREEN_TXT
+            sign  = "+" if val > 0 else ""
+            return Paragraph(f"{sign}{val}", ParagraphStyle("bv", fontSize=7, textColor=color, fontName="Helvetica-Bold", alignment=1))
 
         inf_rows = [[_th("Infraction"), _th("Total"), _th("/Game")]]
         for _, r in top_inf.iterrows():
             inf_rows.append([_tdl(r["infraction"]), _td(r["count"]), _td(r["per_game"])])
-        inf_t = Table(inf_rows, colWidths=[2.3*inch,0.7*inch,0.7*inch])
+        inf_t = Table(inf_rows, colWidths=[2.0*inch, 0.6*inch, 0.6*inch])
         inf_t.setStyle(TableStyle([
             ("BACKGROUND",    (0,0),(-1,0), NAVY),
             ("ROWBACKGROUNDS",(0,1),(-1,-1),[WHITE,LIGHT]),
             ("ALIGN",         (1,0),(-1,-1),"CENTER"),
             ("GRID",          (0,0),(-1,-1),0.4,colors.HexColor("#dddddd")),
-            ("TOPPADDING",    (0,0),(-1,-1),3),
-            ("BOTTOMPADDING", (0,0),(-1,-1),3),
+            ("TOPPADDING",    (0,0),(-1,-1),2),
+            ("BOTTOMPADDING", (0,0),(-1,-1),2),
         ]))
 
-        team_rows = [[_th("Team"), _th("Total"), _th("Pen/G"), _th("PIM/G")]]
+        team_rows = [[_ths("Team"), _ths("G"), _ths("Pen/G"), _ths("PIM/G"), _ths("Bias")]]
         for _, r in team_d.iterrows():
-            team_rows.append([_td(r["team_abbrev"]),_td(r["total"]),_td(r["per_game"]),_td(r["pim_per_game"])])
-        team_t = Table(team_rows, colWidths=[0.9*inch,0.7*inch,0.75*inch,0.75*inch])
-        team_t.setStyle(TableStyle([
+            team_rows.append([
+                _tds(r["team_abbrev"]),
+                _tds(r["g_together"]),
+                _tds(r["per_game"]),
+                _tds(r["pim_per_game"]),
+                _bias_cell_pdf(r["bias"]),
+            ])
+        team_t = Table(team_rows, colWidths=[0.55*inch, 0.35*inch, 0.55*inch, 0.55*inch, 0.5*inch])
+        team_ts = TableStyle([
             ("BACKGROUND",    (0,0),(-1,0), NAVY),
             ("ROWBACKGROUNDS",(0,1),(-1,-1),[WHITE,LIGHT]),
             ("ALIGN",         (0,0),(-1,-1),"CENTER"),
             ("GRID",          (0,0),(-1,-1),0.4,colors.HexColor("#dddddd")),
-            ("TOPPADDING",    (0,0),(-1,-1),3),
-            ("BOTTOMPADDING", (0,0),(-1,-1),3),
-        ]))
+            ("TOPPADDING",    (0,0),(-1,-1),2),
+            ("BOTTOMPADDING", (0,0),(-1,-1),2),
+        ])
+        team_t.setStyle(team_ts)
 
-        side = Table([[inf_t, Spacer(0.2*inch, 1), team_t]])
+        side = Table([[inf_t, Spacer(0.15*inch, 1), team_t]])
         side.setStyle(TableStyle([("VALIGN",(0,0),(-1,-1),"TOP")]))
         story.append(side)
+        story.append(Paragraph(
+            f"Bias = ref median pen/G vs team - team season median pen/G  |  "
+            f"red = harder on team  |  green = easier  |  "
+            f"shown for {BIAS_MIN_GAMES}+ games together",
+            small_style,
+        ))
 
     story.append(Spacer(1, 20))
     story.append(HRFlowable(width="100%", thickness=0.5, color=colors.HexColor("#cccccc")))
@@ -667,6 +714,7 @@ with st.sidebar:
                 pct_df=pct_df,
                 df_stacked=df_stacked,
                 league_median_ppg=league_median_ppg,
+                team_baseline=team_baseline,
             )
         names_slug = "_vs_".join(r.split()[-1] for r in refs_for_pdf)
         st.download_button(
