@@ -27,6 +27,10 @@ from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, HRFlowable, PageBreak
 )
 
+# ── Global constants ─────────────────────────────────────────────────────────────
+# Minimum games before a ref's stats are considered reliable for analysis
+RELIABILITY_THRESHOLD = 5
+
 # ── PDF generation ─────────────────────────────────────────────────────────────
 
 NAVY   = colors.HexColor("#1a2744")
@@ -479,9 +483,6 @@ for col in STAT_COLS:
     pct_df[f"{col}_pct"] = pct_df[col].rank(pct=True).mul(100).round(0).astype(int)
 
 league_median_ppg = round(summary["pen_per_game"].median(), 2)
-
-# Minimum games before a ref's stats are considered reliable
-RELIABILITY_THRESHOLD = 5
 
 # ── Team season pen/game baseline (across all refs, all games) ────────────────
 # For each team: how many penalties called against them per game on average
@@ -944,4 +945,4 @@ if chosen_team:
         """, unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("Data source: AHL · Built with ahl_penalty_ref_scraper.py")
+st.caption("Data source: AHL / HockeyTech · Built with ahl_penalty_ref_scraper.py")
