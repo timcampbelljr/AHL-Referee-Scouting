@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027891,1,1st,0:04,319,HER,9012,Justin Nachbaur,32,LW,Game misconduct - Fighting prior to/at puck drop,10.00,0,0,9012,Justin Nachbaur,Beau Halkidis,Cole MacDonald,,
+1027891,1,1st,0:04,411,SPR,5039,Kale Kessy,13,LW,Fighting,5.00,0,0,5039,Kale Kessy,Beau Halkidis,Cole MacDonald,,
+1027891,1,1st,0:04,411,SPR,5039,Kale Kessy,13,LW,Game misconduct - Fighting prior to/at puck drop,10.00,0,0,5039,Kale Kessy,Beau Halkidis,Cole MacDonald,,
+1027891,1,1st,0:04,319,HER,9012,Justin Nachbaur,32,LW,Fighting,5.00,0,0,9012,Justin Nachbaur,Beau Halkidis,Cole MacDonald,,
+1027891,1,1st,8:35,319,HER,9356,Henrik Rybinski,12,C,Tripping,2.00,1,0,9356,Henrik Rybinski,Beau Halkidis,Cole MacDonald,,
+1027891,2,2nd,9:12,411,SPR,8630,Hunter Skinner,55,D,Cross-checking,2.00,1,0,8630,Hunter Skinner,Beau Halkidis,Cole MacDonald,,
+1027891,3,3rd,0:54,319,HER,6910,Spencer Smallman,11,C,Tripping,2.00,1,0,6910,Spencer Smallman,Beau Halkidis,Cole MacDonald,,
+1027891,3,3rd,12:30,411,SPR,10330,Simon Robertsson,26,F,Delay of game,2.00,1,0,10330,Simon Robertsson,Beau Halkidis,Cole MacDonald,,
+1027891,OT,OT,3:13,411,SPR,4622,Chris Wagner,88,C,Tripping,2.00,1,0,4622,Chris Wagner,Beau Halkidis,Cole MacDonald,,

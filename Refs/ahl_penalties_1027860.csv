@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027860,1,1st,4:39,327,MIL,9876,Reid Schaefer,49,LW,Delay of game,2.00,1,0,9876,Reid Schaefer,Ben Betker,Hayden Verbeek,,
+1027860,1,1st,6:34,405,SJ,10692,Cam Lund,46,F,Hooking,2.00,1,0,10692,Cam Lund,Ben Betker,Hayden Verbeek,,
+1027860,1,1st,15:12,327,MIL,6403,Andreas Englund,8,D,Roughing,2.00,1,0,6403,Andreas Englund,Ben Betker,Hayden Verbeek,,
+1027860,2,2nd,12:06,327,MIL,9622,Ryder Rolston,18,F,Holding,2.00,1,0,9622,Ryder Rolston,Ben Betker,Hayden Verbeek,,
+1027860,3,3rd,6:07,327,MIL,9874,Zach L’Heureux,68,LW,High-sticking,2.00,1,0,9874,Zach L’Heureux,Ben Betker,Hayden Verbeek,,
+1027860,3,3rd,8:40,327,MIL,0,None None,0,,Too many men - Bench minor,2.00,1,1,7722,Navrin Mutter,Ben Betker,Hayden Verbeek,,
+1027860,3,3rd,11:29,405,SJ,8916,Cole Clayton,59,D,High-sticking,2.00,1,0,8916,Cole Clayton,Ben Betker,Hayden Verbeek,,

@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027883,1,1st,18:23,324,SYR,9896,Maxim Groshev,23,D,Slashing,2.00,1,0,9896,Maxim Groshev,Alex Lepkowski,Hillary Brennan,,
+1027883,2,2nd,1:30,324,SYR,9202,Conor Geekie,94,C,High-sticking,2.00,1,0,9202,Conor Geekie,Alex Lepkowski,Hillary Brennan,,
+1027883,2,2nd,2:19,335,TOR,9994,Henry Thrun,3,D,Hooking,2.00,1,0,9994,Henry Thrun,Alex Lepkowski,Hillary Brennan,,
+1027883,2,2nd,7:21,324,SYR,9079,Tommy Miller,8,D,Interference,2.00,1,0,9079,Tommy Miller,Alex Lepkowski,Hillary Brennan,,
+1027883,2,2nd,9:08,335,TOR,10091,Jacob Quillan,26,C,Tripping,2.00,1,0,10091,Jacob Quillan,Alex Lepkowski,Hillary Brennan,,
+1027883,2,2nd,10:15,335,TOR,10119,Noah Chadwick,58,D,Delay of game,2.00,1,0,10119,Noah Chadwick,Alex Lepkowski,Hillary Brennan,,
+1027883,2,2nd,14:23,335,TOR,10635,Blake Smith,59,D,Slashing,2.00,1,0,10635,Blake Smith,Alex Lepkowski,Hillary Brennan,,
+1027883,3,3rd,10:22,324,SYR,9901,Gabriel Szturc,95,C,Holding,2.00,1,0,9901,Gabriel Szturc,Alex Lepkowski,Hillary Brennan,,
+1027883,3,3rd,14:10,324,SYR,4910,Scott Sabourin,49,RW,High-sticking,2.00,1,0,4910,Scott Sabourin,Alex Lepkowski,Hillary Brennan,,
+1027883,3,3rd,14:10,324,SYR,10566,Lucas Mercuri,11,C,Delay of game - Faceoff violation (batting puck with hand),2.00,1,0,10566,Lucas Mercuri,Alex Lepkowski,Hillary Brennan,,

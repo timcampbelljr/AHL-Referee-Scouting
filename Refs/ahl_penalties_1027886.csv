@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027886,1,1st,19:11,404,SD,10506,Stian Solberg,7,D,Interference,2.00,1,0,10506,Stian Solberg,Taylor Burzminski,Jackson Kozari,,
+1027886,2,2nd,6:17,445,CV,10190,Tyson Jugnauth,43,D,Interference,2.00,1,0,10190,Tyson Jugnauth,Taylor Burzminski,Jackson Kozari,,
+1027886,2,2nd,16:20,445,CV,10385,Charlie Wright,50,D,Tripping,2.00,1,0,10385,Charlie Wright,Taylor Burzminski,Jackson Kozari,,

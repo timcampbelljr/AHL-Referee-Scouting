@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027895,1,1st,18:44,444,CGY,8741,Nick Cicek,41,D,Tripping,2.00,1,0,8741,Nick Cicek,Chad Ingalls,Jarrett Burton,,
+1027895,2,2nd,10:17,444,CGY,6453,Clark Bishop,19,C,Holding the stick,2.00,0,0,6453,Clark Bishop,Chad Ingalls,Jarrett Burton,,
+1027895,2,2nd,10:17,402,BAK,7927,Rem Pitlick,16,LW,Interference,2.00,0,0,7927,Rem Pitlick,Chad Ingalls,Jarrett Burton,,
+1027895,2,2nd,18:44,444,CGY,9726,Parker Bell,22,LW,Interference,2.00,1,0,9726,Parker Bell,Chad Ingalls,Jarrett Burton,,
+1027895,3,3rd,8:22,402,BAK,10879,Atro Leppanen,37,D,Tripping,2.00,1,0,10879,Atro Leppanen,Chad Ingalls,Jarrett Burton,,
+1027895,3,3rd,12:04,444,CGY,6453,Clark Bishop,19,C,Roughing,2.00,0,0,6453,Clark Bishop,Chad Ingalls,Jarrett Burton,,
+1027895,3,3rd,12:04,402,BAK,5080,Seth Griffith,39,LW,Roughing,2.00,0,0,5080,Seth Griffith,Chad Ingalls,Jarrett Burton,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027866,1,1st,20:00,403,ONT,10705,Kenny Connors,17,F,Roughing,2.00,0,0,10705,Kenny Connors,Bobby Jo Love,Mike Campbell,,
+1027866,1,1st,20:00,440,ABB,8813,Dino Kambeitz,17,RW,Cross-checking,2.00,0,0,8813,Dino Kambeitz,Bobby Jo Love,Mike Campbell,,
+1027866,2,2nd,3:26,440,ABB,7767,Jimmy Schuldt,48,D,Holding,2.00,1,0,7767,Jimmy Schuldt,Bobby Jo Love,Mike Campbell,,
+1027866,2,2nd,8:30,403,ONT,5976,Joe Hicketts,27,D,Roughing,2.00,0,0,5976,Joe Hicketts,Bobby Jo Love,Mike Campbell,,
+1027866,2,2nd,8:30,440,ABB,7696,Chase Wouters,21,C,Roughing,2.00,0,0,7696,Chase Wouters,Bobby Jo Love,Mike Campbell,,
+1027866,2,2nd,9:45,403,ONT,10567,Otto Salin,10,D,Interference,2.00,1,0,10567,Otto Salin,Bobby Jo Love,Mike Campbell,,
+1027866,2,2nd,14:18,440,ABB,7696,Chase Wouters,21,C,Fighting,5.00,0,0,7696,Chase Wouters,Bobby Jo Love,Mike Campbell,,
+1027866,2,2nd,14:18,403,ONT,10125,Jack Millar,45,D,Fighting,5.00,0,0,10125,Jack Millar,Bobby Jo Love,Mike Campbell,,
+1027866,3,3rd,7:19,440,ABB,8928,Danila Klimovich,9,RW,Hooking,2.00,1,0,8928,Danila Klimovich,Bobby Jo Love,Mike Campbell,,

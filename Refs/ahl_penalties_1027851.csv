@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027851,2,2nd,2:08,380,TEX,4883,Curtis McKenzie,16,F,Hooking,2.00,1,0,4883,Curtis McKenzie,Harrison O’Pray,Damian Figueira,,
+1027851,2,2nd,6:03,380,TEX,8692,Vladislav Kolyachonok,18,D,High-sticking,2.00,1,0,8692,Vladislav Kolyachonok,Harrison O’Pray,Damian Figueira,,
+1027851,2,2nd,18:30,389,IA,9472,Mark Liwiski,26,F,Roughing,2.00,0,0,9472,Mark Liwiski,Harrison O’Pray,Damian Figueira,,
+1027851,2,2nd,18:30,380,TEX,6718,Kyle Capobianco,22,D,Roughing,2.00,0,0,6718,Kyle Capobianco,Harrison O’Pray,Damian Figueira,,
+1027851,3,3rd,17:39,380,TEX,7101,Kole Lind,17,F,Elbowing,2.00,1,0,7101,Kole Lind,Harrison O’Pray,Damian Figueira,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027912,1,1st,5:26,328,GR,8927,Alex Kannok Leipert,41,D,Fighting,5.00,0,0,8927,Alex Kannok Leipert,Jared Cummins,Jake Rekucki,,
+1027912,1,1st,5:26,372,RFD,10403,Dillon Boucher,36,F,Fighting,5.00,0,0,10403,Dillon Boucher,Jared Cummins,Jake Rekucki,,
+1027912,2,2nd,9:23,372,RFD,10563,Taige Harding,47,D,Roughing,2.00,0,0,10563,Taige Harding,Jared Cummins,Jake Rekucki,,
+1027912,2,2nd,9:23,328,GR,10476,Carson Bantle,21,LW,Roughing,2.00,0,0,10476,Carson Bantle,Jared Cummins,Jake Rekucki,,
+1027912,2,2nd,14:35,372,RFD,9839,Marcel Marcel,53,F,Hooking,2.00,1,0,9839,Marcel Marcel,Jared Cummins,Jake Rekucki,,
+1027912,2,2nd,19:01,328,GR,8927,Alex Kannok Leipert,41,D,Slashing,2.00,1,0,8927,Alex Kannok Leipert,Jared Cummins,Jake Rekucki,,
+1027912,3,3rd,5:32,372,RFD,7027,Brett Seney,62,F,Hooking,2.00,1,0,7027,Brett Seney,Jared Cummins,Jake Rekucki,,
+1027912,3,3rd,7:41,328,GR,10476,Carson Bantle,21,LW,Kneeing,2.00,1,0,10476,Carson Bantle,Jared Cummins,Jake Rekucki,,
+1027912,3,3rd,19:21,328,GR,10476,Carson Bantle,21,LW,Tripping,2.00,1,0,10476,Carson Bantle,Jared Cummins,Jake Rekucki,,

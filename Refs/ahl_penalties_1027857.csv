@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027857,1,1st,4:55,419,COL,10249,Chase Bradley,38,F,Slashing,2.00,1,0,10249,Chase Bradley,Tyler Spott,Mathieu Menniti,,
+1027857,1,1st,10:32,419,COL,5540,T.J. Tynan,9,F,Delay of game,2.00,1,0,5540,T.J. Tynan,Tyler Spott,Mathieu Menniti,,
+1027857,2,2nd,1:49,372,RFD,9153,Nolan Allan,42,D,Holding,2.00,1,0,9153,Nolan Allan,Tyler Spott,Mathieu Menniti,,
+1027857,2,2nd,19:34,419,COL,5540,T.J. Tynan,9,F,Slashing,2.00,1,0,5540,T.J. Tynan,Tyler Spott,Mathieu Menniti,,
+1027857,3,3rd,4:01,419,COL,10654,Alex Gagne,45,D,Tripping,2.00,1,0,10654,Alex Gagne,Tyler Spott,Mathieu Menniti,,
+1027857,3,3rd,10:12,372,RFD,9153,Nolan Allan,42,D,Roughing,2.00,1,0,9153,Nolan Allan,Tyler Spott,Mathieu Menniti,,
+1027857,3,3rd,12:52,419,COL,10561,Taylor Makar,16,F,Slashing,2.00,0,0,10561,Taylor Makar,Tyler Spott,Mathieu Menniti,,
+1027857,3,3rd,12:52,372,RFD,9833,Ethan Del Mastro,38,D,Roughing,2.00,0,0,9833,Ethan Del Mastro,Tyler Spott,Mathieu Menniti,,
+1027857,3,3rd,17:40,372,RFD,8768,Jackson Cates,63,F,Holding,2.00,1,0,8768,Jackson Cates,Tyler Spott,Mathieu Menniti,,

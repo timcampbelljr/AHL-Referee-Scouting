@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027915,1,1st,11:10,309,PRO,8462,Billy Sweezey,6,D,Hooking,2.00,1,0,8462,Billy Sweezey,Alex Lepkowski,Koletrane Wilson,,
+1027915,1,1st,18:15,384,CLT,9745,Marek Alscher,27,D,Holding,2.00,1,0,9745,Marek Alscher,Alex Lepkowski,Koletrane Wilson,,
+1027915,1,1st,19:01,384,CLT,5614,Trevor Carrick,5,D,Interference,2.00,1,0,5614,Trevor Carrick,Alex Lepkowski,Koletrane Wilson,,
+1027915,2,2nd,2:25,309,PRO,9108,Georgii Merkulov,10,LW,Slashing,2.00,1,0,9108,Georgii Merkulov,Alex Lepkowski,Koletrane Wilson,,
+1027915,2,2nd,6:50,309,PRO,9729,Matthew Poitras,21,C,Fighting,5.00,0,0,9729,Matthew Poitras,Alex Lepkowski,Koletrane Wilson,,
+1027915,2,2nd,6:50,384,CLT,10615,Jack Devine,4,F,Fighting,5.00,0,0,10615,Jack Devine,Alex Lepkowski,Koletrane Wilson,,
+1027915,2,2nd,9:56,384,CLT,9990,Wilmer Skoog,25,F,Roughing,2.00,0,0,9990,Wilmer Skoog,Alex Lepkowski,Koletrane Wilson,,
+1027915,2,2nd,9:56,309,PRO,10584,Dalton Bancroft,17,RW,Roughing,2.00,0,0,10584,Dalton Bancroft,Alex Lepkowski,Koletrane Wilson,,
+1027915,2,2nd,17:12,309,PRO,9729,Matthew Poitras,21,C,Slashing,2.00,1,0,9729,Matthew Poitras,Alex Lepkowski,Koletrane Wilson,,
+1027915,3,3rd,18:39,309,PRO,9524,Fabian Lysell,22,RW,Tripping,2.00,1,0,9435,Joey Abate,Alex Lepkowski,Koletrane Wilson,,
+1027915,3,3rd,18:39,384,CLT,10110,Riese Gaber,39,F,Misconduct,10.00,0,0,10110,Riese Gaber,Alex Lepkowski,Koletrane Wilson,,
+1027915,3,3rd,18:39,309,PRO,9524,Fabian Lysell,22,RW,Misconduct,10.00,0,0,9524,Fabian Lysell,Alex Lepkowski,Koletrane Wilson,,

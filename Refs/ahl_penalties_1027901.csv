@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027901,1,1st,8:16,373,CLE,10556,Guillaume Richard,26,D,Hooking,2.00,1,0,10556,Guillaume Richard,Jordan Deckard,Shaun Davis,,
+1027901,1,1st,15:12,373,CLE,10895,Caleb MacDonald,43,D,Holding,2.00,1,0,10895,Caleb MacDonald,Jordan Deckard,Shaun Davis,,
+1027901,1,1st,18:03,373,CLE,5645,Brendan Gaunce,16,C,Cross-checking,2.00,1,0,5645,Brendan Gaunce,Jordan Deckard,Shaun Davis,,
+1027901,1,1st,20:00,327,MIL,10832,Oasiz Wiesblatt,88,C,Unsportsmanlike conduct,2.00,1,0,10832,Oasiz Wiesblatt,Jordan Deckard,Shaun Davis,,
+1027901,2,2nd,1:27,327,MIL,10185,Andrew Gibson,6,D,Holding,2.00,1,0,10185,Andrew Gibson,Jordan Deckard,Shaun Davis,,
+1027901,2,2nd,4:59,373,CLE,9980,Hunter McKown,41,C,Boarding,2.00,1,0,9980,Hunter McKown,Jordan Deckard,Shaun Davis,,
+1027901,2,2nd,6:26,327,MIL,9876,Reid Schaefer,49,LW,Roughing,2.00,1,0,9876,Reid Schaefer,Jordan Deckard,Shaun Davis,,
+1027901,2,2nd,13:26,327,MIL,9631,Joakim Kemell,25,F,Slashing,2.00,1,0,9631,Joakim Kemell,Jordan Deckard,Shaun Davis,,
+1027901,3,3rd,10:42,373,CLE,10488,Jordan Dumais,88,RW,Holding,2.00,1,0,10488,Jordan Dumais,Jordan Deckard,Shaun Davis,,
+1027901,3,3rd,17:13,327,MIL,10833,Joey Willis,13,LW,Slashing,2.00,1,0,10833,Joey Willis,Jordan Deckard,Shaun Davis,,
+1027901,OT,OT,2:07,373,CLE,9978,James Malatesta,11,LW,Holding,2.00,1,0,9978,James Malatesta,Jordan Deckard,Shaun Davis,,
+1027901,OT,OT,2:51,373,CLE,9978,James Malatesta,11,LW,Misconduct,10.00,0,0,9978,James Malatesta,Jordan Deckard,Shaun Davis,,

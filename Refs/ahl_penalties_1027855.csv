@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027855,1,1st,2:51,330,CHI,10182,Bryce Montgomery,58,D,Fighting,5.00,0,0,10182,Bryce Montgomery,Austin Rook,Jarrod Ragusin,,
+1027855,1,1st,2:51,321,MB,8809,Tyson Empey,20,LW,Fighting,5.00,0,0,8809,Tyson Empey,Austin Rook,Jarrod Ragusin,,
+1027855,1,1st,15:59,321,MB,8706,Walker Duehr,7,RW,Hooking,2.00,1,0,8706,Walker Duehr,Austin Rook,Jarrod Ragusin,,
+1027855,2,2nd,2:24,330,CHI,10462,Felix Unger Sörum,14,RW,Hooking,2.00,1,0,10462,Felix Unger Sörum,Austin Rook,Jarrod Ragusin,,
+1027855,2,2nd,3:26,321,MB,5469,Phillip Di Giuseppe,34,LW,Interference,2.00,1,0,5469,Phillip Di Giuseppe,Austin Rook,Jarrod Ragusin,,
+1027855,3,3rd,11:10,321,MB,5469,Phillip Di Giuseppe,34,LW,Holding,2.00,1,0,5469,Phillip Di Giuseppe,Austin Rook,Jarrod Ragusin,,

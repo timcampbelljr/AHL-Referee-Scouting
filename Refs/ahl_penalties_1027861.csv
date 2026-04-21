@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027861,1,1st,6:47,307,HFD,10465,Scott Morrow,55,D,Interference,2.00,1,0,10465,Scott Morrow,Liam Maaskant,Mike Dietrich,,
+1027861,1,1st,15:53,411,SPR,10329,Dalibor Dvorský,15,F,Boarding,2.00,1,0,10329,Dalibor Dvorský,Liam Maaskant,Mike Dietrich,,
+1027861,2,2nd,9:37,307,HFD,9642,Brett Berard,9,F,Roughing,2.00,0,0,9642,Brett Berard,Liam Maaskant,Mike Dietrich,,
+1027861,2,2nd,9:37,411,SPR,9862,Leo Lööf,7,D,Roughing,2.00,0,0,9862,Leo Lööf,Liam Maaskant,Mike Dietrich,,
+1027861,2,2nd,17:49,411,SPR,9881,Sam Bitten,34,F,Slashing,2.00,1,0,9881,Sam Bitten,Liam Maaskant,Mike Dietrich,,
+1027861,3,3rd,1:25,307,HFD,9119,Brendan Brisson,19,F,Tripping,2.00,1,0,9119,Brendan Brisson,Liam Maaskant,Mike Dietrich,,
+1027861,3,3rd,4:35,307,HFD,5995,Anton Blidh,21,F,Roughing,2.00,1,0,5995,Anton Blidh,Liam Maaskant,Mike Dietrich,,
+1027861,3,3rd,10:33,411,SPR,10143,Dylan Peterson,22,F,Fighting,5.00,0,0,10143,Dylan Peterson,Liam Maaskant,Mike Dietrich,,
+1027861,3,3rd,10:33,411,SPR,10143,Dylan Peterson,22,F,Kneeing,2.00,1,0,10846,Nikita Susuyev,Liam Maaskant,Mike Dietrich,,
+1027861,3,3rd,10:33,307,HFD,10523,Jackson Dorrington,38,D,Fighting,5.00,0,0,10523,Jackson Dorrington,Liam Maaskant,Mike Dietrich,,
+1027861,3,3rd,14:18,307,HFD,7669,Trey Fix-Wolansky,64,F,Slashing,2.00,1,0,7669,Trey Fix-Wolansky,Liam Maaskant,Mike Dietrich,,

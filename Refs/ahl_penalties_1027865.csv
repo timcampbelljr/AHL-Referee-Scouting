@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027865,1,1st,8:34,415,LAV,9796,Jared Davidson,49,F,High-sticking,2.00,1,0,9796,Jared Davidson,Jordan Deckard,Jim Curtin,,
+1027865,1,1st,17:46,390,UTC,10815,Matyas Melovsky,21,F,Hooking,2.00,1,0,10815,Matyas Melovsky,Jordan Deckard,Jim Curtin,,
+1027865,1,1st,18:28,415,LAV,5927,Laurent Dauphin,27,F,Tripping,2.00,1,0,5927,Laurent Dauphin,Jordan Deckard,Jim Curtin,,
+1027865,2,2nd,5:09,390,UTC,7251,Ryan Schmelzer,26,C,Interference,2.00,1,0,7251,Ryan Schmelzer,Jordan Deckard,Jim Curtin,,
+1027865,2,2nd,16:29,390,UTC,9516,Xavier Parent,67,F,Cross-checking,2.00,1,0,9516,Xavier Parent,Jordan Deckard,Jim Curtin,,
+1027865,3,3rd,9:47,415,LAV,4830,Vincent Arseneau,18,LW,Slashing,2.00,1,0,4830,Vincent Arseneau,Jordan Deckard,Jim Curtin,,
+1027865,3,3rd,17:05,415,LAV,9093,Lucas Condotta,42,LW,Hooking,2.00,1,0,9093,Lucas Condotta,Jordan Deckard,Jim Curtin,,
+1027865,3,3rd,20:00,415,LAV,5927,Laurent Dauphin,27,F,Tripping,2.00,0,0,5927,Laurent Dauphin,Jordan Deckard,Jim Curtin,,

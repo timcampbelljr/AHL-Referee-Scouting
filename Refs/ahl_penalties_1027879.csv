@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027879,2,2nd,3:38,403,ONT,5592,Jacob Doty,37,F,Roughing,2.00,0,0,5592,Jacob Doty,Jackson Kozari,John Lindner,,
+1027879,2,2nd,3:38,437,HSK,9279,Joe Fleming,50,F,Roughing,2.00,0,0,9279,Joe Fleming,Jackson Kozari,John Lindner,,
+1027879,3,3rd,10:59,403,ONT,5592,Jacob Doty,37,F,Cross-checking,2.00,1,0,5592,Jacob Doty,Jackson Kozari,John Lindner,,
+1027879,3,3rd,14:01,437,HSK,10680,Jackson Hallum,59,F,Interference,2.00,1,0,10680,Jackson Hallum,Jackson Kozari,John Lindner,,

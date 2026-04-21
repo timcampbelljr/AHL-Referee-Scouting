@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027907,1,1st,4:48,390,UTC,8891,Nathan Légaré,11,RW,Holding,2.00,1,0,8891,Nathan Légaré,David Elford,Jake Kamrass,,
+1027907,1,1st,11:31,390,UTC,8891,Nathan Légaré,11,RW,Roughing,2.00,0,0,8891,Nathan Légaré,David Elford,Jake Kamrass,,
+1027907,1,1st,11:31,316,WBS,8664,Phil Kemp,52,D,Roughing,2.00,0,0,8664,Phil Kemp,David Elford,Jake Kamrass,,
+1027907,1,1st,11:31,316,WBS,8664,Phil Kemp,52,D,Roughing,2.00,0,0,8664,Phil Kemp,David Elford,Jake Kamrass,,
+1027907,1,1st,11:31,390,UTC,8891,Nathan Légaré,11,RW,Roughing,2.00,0,0,8891,Nathan Légaré,David Elford,Jake Kamrass,,
+1027907,2,2nd,2:21,316,WBS,10851,Aaron Huglen,10,C,Hooking,2.00,1,0,10851,Aaron Huglen,David Elford,Jake Kamrass,,
+1027907,2,2nd,4:57,390,UTC,10442,Mikaël Diotte,58,D,Interference,2.00,1,0,10442,Mikaël Diotte,David Elford,Jake Kamrass,,
+1027907,2,2nd,19:48,390,UTC,9516,Xavier Parent,67,F,Hooking,2.00,1,0,9516,Xavier Parent,David Elford,Jake Kamrass,,
+1027907,3,3rd,18:50,316,WBS,10851,Aaron Huglen,10,C,High-sticking,2.00,1,0,10851,Aaron Huglen,David Elford,Jake Kamrass,,

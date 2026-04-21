@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027903,1,1st,8:10,372,RFD,8768,Jackson Cates,63,F,Hooking,2.00,1,0,8768,Jackson Cates,Stephen Hiff,Hayden Verbeek,,
+1027903,1,1st,10:15,372,RFD,10177,Samuel Savoie,67,F,Tripping,2.00,1,0,10177,Samuel Savoie,Stephen Hiff,Hayden Verbeek,,
+1027903,1,1st,12:24,328,GR,9672,William Wallinder,22,D,High-sticking,2.00,1,0,9672,William Wallinder,Stephen Hiff,Hayden Verbeek,,
+1027903,1,1st,16:42,372,RFD,9739,Dmitry Kuzmin,93,D,Interference,2.00,1,0,9739,Dmitry Kuzmin,Stephen Hiff,Hayden Verbeek,,
+1027903,2,2nd,16:15,328,GR,6627,Dominik Shine,65,RW,Closing hand on puck,2.00,1,0,6627,Dominik Shine,Stephen Hiff,Hayden Verbeek,,
+1027903,3,3rd,9:40,372,RFD,10403,Dillon Boucher,36,F,Roughing,2.00,1,0,10403,Dillon Boucher,Stephen Hiff,Hayden Verbeek,,
+1027903,3,3rd,14:49,328,GR,10008,Alex Doucet,47,LW,Tripping,2.00,1,0,10008,Alex Doucet,Stephen Hiff,Hayden Verbeek,,

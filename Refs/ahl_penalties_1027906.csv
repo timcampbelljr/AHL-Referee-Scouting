@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027906,1,1st,8:09,324,SYR,10148,Dylan Duke,25,LW,Tripping,2.00,1,0,10148,Dylan Duke,Mike Dietrich,Rob Hennessey,,
+1027906,1,1st,19:26,413,BEL,8412,Cameron Crotty,4,D,Roughing,2.00,0,0,8412,Cameron Crotty,Mike Dietrich,Rob Hennessey,,
+1027906,1,1st,19:26,324,SYR,10835,Wojciech Stachowiak,9,C,Roughing,2.00,0,0,10835,Wojciech Stachowiak,Mike Dietrich,Rob Hennessey,,
+1027906,2,2nd,3:57,324,SYR,9171,Niko Huuhtanen,88,RW,Holding,2.00,1,0,9171,Niko Huuhtanen,Mike Dietrich,Rob Hennessey,,
+1027906,2,2nd,13:05,413,BEL,10883,Landen Hookey,39,C,Holding,2.00,1,0,10883,Landen Hookey,Mike Dietrich,Rob Hennessey,,
+1027906,2,2nd,17:30,413,BEL,8861,Philippe Daoust,10,LW,Delay of game - Faceoff violation (batting puck with hand),2.00,1,0,8861,Philippe Daoust,Mike Dietrich,Rob Hennessey,,

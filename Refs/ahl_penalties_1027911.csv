@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027911,1,1st,2:37,330,CHI,9090,Noel Gunler,10,RW,Tripping,2.00,1,0,9090,Noel Gunler,Stephen Hiff,Hayden Verbeek,,
+1027911,1,1st,9:22,335,TOR,10119,Noah Chadwick,58,D,Interference,2.00,1,0,10119,Noah Chadwick,Stephen Hiff,Hayden Verbeek,,
+1027911,1,1st,12:54,335,TOR,5926,Brandon Baddock,48,LW,Holding,2.00,1,0,5926,Brandon Baddock,Stephen Hiff,Hayden Verbeek,,
+1027911,2,2nd,5:34,330,CHI,6657,Givani Smith,24,LW,Tripping,2.00,1,0,6657,Givani Smith,Stephen Hiff,Hayden Verbeek,,
+1027911,2,2nd,10:48,335,TOR,10119,Noah Chadwick,58,D,Roughing,2.00,0,0,10119,Noah Chadwick,Stephen Hiff,Hayden Verbeek,,
+1027911,2,2nd,10:48,330,CHI,6657,Givani Smith,24,LW,Roughing,2.00,0,0,6657,Givani Smith,Stephen Hiff,Hayden Verbeek,,
+1027911,2,2nd,18:13,330,CHI,9742,Skyler Brind’Amour,22,C,Hooking,2.00,1,0,9742,Skyler Brind’Amour,Stephen Hiff,Hayden Verbeek,,
+1027911,3,3rd,10:53,335,TOR,6681,Vinni Lettieri,71,C,Tripping,2.00,1,0,6681,Vinni Lettieri,Stephen Hiff,Hayden Verbeek,,

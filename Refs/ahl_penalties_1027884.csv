@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027884,1,1st,9:21,321,MB,10910,Chase Yoder,48,C,Tripping,2.00,1,0,10910,Chase Yoder,Stan Szczurek,Koletrane Wilson,,
+1027884,1,1st,19:53,412,TUC,10220,Maveric Lamoureux,10,D,Holding,2.00,1,0,10220,Maveric Lamoureux,Stan Szczurek,Koletrane Wilson,,
+1027884,2,2nd,8:16,321,MB,10910,Chase Yoder,48,C,Slashing,2.00,1,0,10910,Chase Yoder,Stan Szczurek,Koletrane Wilson,,
+1027884,2,2nd,10:17,321,MB,7777,David Gustafsson,27,C,Tripping,2.00,1,0,7777,David Gustafsson,Stan Szczurek,Koletrane Wilson,,
+1027884,3,3rd,0:09,412,TUC,8734,Ben McCartney,22,F,Tripping,2.00,1,0,8734,Ben McCartney,Stan Szczurek,Koletrane Wilson,,
+1027884,3,3rd,16:18,321,MB,9555,Tyrel Bauer,2,D,Tripping,2.00,1,0,9555,Tyrel Bauer,Stan Szczurek,Koletrane Wilson,,
+1027884,3,3rd,17:24,321,MB,8424,Isaak Phillips,3,D,Tripping,2.00,1,0,8424,Isaak Phillips,Stan Szczurek,Koletrane Wilson,,

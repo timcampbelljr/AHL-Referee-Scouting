@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027871,1,1st,9:13,402,BAK,10879,Atro Leppanen,37,D,Hooking,2.00,1,0,10879,Atro Leppanen,Jack Young,Mike Dietrich,,
+1027871,1,1st,15:27,419,COL,4584,Jayson Megna,21,F,Hooking,2.00,1,0,4584,Jayson Megna,Jack Young,Mike Dietrich,,
+1027871,1,1st,18:15,419,COL,10561,Taylor Makar,16,F,Boarding,2.00,1,0,10561,Taylor Makar,Jack Young,Mike Dietrich,,
+1027871,2,2nd,2:32,402,BAK,10594,Damien Carfagna,73,D,High-sticking,2.00,1,0,10594,Damien Carfagna,Jack Young,Mike Dietrich,,
+1027871,2,2nd,13:36,402,BAK,0,None None,0,,Too many men - Bench minor,2.00,1,1,10595,Connor Clattenburg,Jack Young,Mike Dietrich,,
+1027871,2,2nd,17:58,402,BAK,9384,Luke Prokop,77,D,Delay of game,2.00,1,0,9384,Luke Prokop,Jack Young,Mike Dietrich,,
+1027871,2,2nd,18:43,419,COL,9127,Danil Gushchin,75,F,Interference,2.00,0,0,9127,Danil Gushchin,Jack Young,Mike Dietrich,,
+1027871,2,2nd,18:43,402,BAK,7352,Riley Stillman,61,D,Interference,2.00,0,0,7352,Riley Stillman,Jack Young,Mike Dietrich,,
+1027871,3,3rd,15:34,419,COL,9127,Danil Gushchin,75,F,Double minor - High-sticking,4.00,1,0,9127,Danil Gushchin,Jack Young,Mike Dietrich,,
+1027871,3,3rd,19:51,402,BAK,8485,James Hamblin,52,C,Interference,2.00,1,0,8485,James Hamblin,Jack Young,Mike Dietrich,,

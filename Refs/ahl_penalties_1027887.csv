@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027887,1,1st,6:42,307,HFD,4957,Derrick Pouliot,51,D,Interference,2.00,1,0,4957,Derrick Pouliot,Mike Sullivan,Austin Rook,,
+1027887,1,1st,10:45,313,LV,10432,Oscar Eklind,43,F,Interference,2.00,1,0,10432,Oscar Eklind,Mike Sullivan,Austin Rook,,
+1027887,1,1st,12:05,313,LV,10552,Ty Murchison,4,D,Roughing,2.00,0,0,10552,Ty Murchison,Mike Sullivan,Austin Rook,,
+1027887,1,1st,12:05,307,HFD,9642,Brett Berard,9,F,Slashing,2.00,0,0,9642,Brett Berard,Mike Sullivan,Austin Rook,,
+1027887,2,2nd,5:28,307,HFD,9642,Brett Berard,9,F,High-sticking,2.00,1,0,9642,Brett Berard,Mike Sullivan,Austin Rook,,
+1027887,2,2nd,8:09,313,LV,10717,Devin Kaplan,12,F,Interference,2.00,1,0,10717,Devin Kaplan,Mike Sullivan,Austin Rook,,
+1027887,2,2nd,13:25,307,HFD,10062,Jaroslav Chmelar,42,F,Slashing,2.00,1,0,10062,Jaroslav Chmelar,Mike Sullivan,Austin Rook,,
+1027887,2,2nd,19:50,313,LV,8805,Helge Grans,3,D,Delay of game,2.00,1,0,8805,Helge Grans,Mike Sullivan,Austin Rook,,
+1027887,3,3rd,4:00,307,HFD,8622,Connor Mackey,14,D,Tripping,2.00,1,0,8622,Connor Mackey,Mike Sullivan,Austin Rook,,
+1027887,3,3rd,18:07,307,HFD,4957,Derrick Pouliot,51,D,Tripping,2.00,1,0,4957,Derrick Pouliot,Mike Sullivan,Austin Rook,,

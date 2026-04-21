@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027878,1,1st,14:06,384,CLT,10110,Riese Gaber,39,F,High-sticking,2.00,1,0,10110,Riese Gaber,Jeremy Tufts,Johnny Daniels,,
+1027878,1,1st,17:39,384,CLT,10913,Ludvig Jansson,3,D,Hooking,2.00,1,0,10913,Ludvig Jansson,Jeremy Tufts,Johnny Daniels,,
+1027878,2,2nd,9:10,384,CLT,10056,Ben Steeves,6,F,Slashing,2.00,1,0,10056,Ben Steeves,Jeremy Tufts,Johnny Daniels,,
+1027878,2,2nd,12:15,307,HFD,10737,Gabe Perreault,94,F,Interference,2.00,1,0,10737,Gabe Perreault,Jeremy Tufts,Johnny Daniels,,
+1027878,3,3rd,10:08,307,HFD,9642,Brett Berard,9,F,Hooking,2.00,1,0,9642,Brett Berard,Jeremy Tufts,Johnny Daniels,,

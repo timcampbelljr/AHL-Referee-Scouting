@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027917,2,2nd,9:56,380,TEX,10555,Harrison Scott,11,F,Slashing,2.00,1,0,10555,Harrison Scott,Riley Brace,Brendan Schreider,,
+1027917,2,2nd,14:08,380,TEX,10527,Sean Chisholm,21,F,Roughing,2.00,0,0,10527,Sean Chisholm,Riley Brace,Brendan Schreider,,
+1027917,2,2nd,14:08,321,MB,7118,Jaret Anderson-Dolan,28,C,Roughing,2.00,0,0,7118,Jaret Anderson-Dolan,Riley Brace,Brendan Schreider,,
+1027917,3,3rd,2:16,380,TEX,9962,Gavin White,8,D,Holding,2.00,1,0,9962,Gavin White,Riley Brace,Brendan Schreider,,
+1027917,3,3rd,6:48,380,TEX,10555,Harrison Scott,11,F,Holding,2.00,1,0,10555,Harrison Scott,Riley Brace,Brendan Schreider,,
+1027917,3,3rd,9:16,321,MB,7152,Kale Clague,56,D,Slashing,2.00,1,0,7152,Kale Clague,Riley Brace,Brendan Schreider,,

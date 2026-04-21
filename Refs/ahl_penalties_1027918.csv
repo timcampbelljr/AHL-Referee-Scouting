@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027918,2,2nd,0:59,405,SJ,8916,Cole Clayton,59,D,High-sticking,2.00,1,0,8916,Cole Clayton,John Lindner,Jake Jackson,,
+1027918,2,2nd,16:20,405,SJ,10234,Quentin Musty,13,F,High-sticking,2.00,1,0,10234,Quentin Musty,John Lindner,Jake Jackson,,
+1027918,3,3rd,8:02,403,ONT,9241,Aatu Jämsen,86,F,Tripping,2.00,1,0,9241,Aatu Jämsen,John Lindner,Jake Jackson,,
+1027918,3,3rd,13:23,405,SJ,8709,Jack Thompson,26,D,High-sticking,2.00,1,0,8709,Jack Thompson,John Lindner,Jake Jackson,,

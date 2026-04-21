@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027924,1,1st,0:51,405,SJ,6669,Colin White,16,C,Cross-checking,2.00,1,0,6669,Colin White,Stephen Hiff,Harrison O’Pray,,
+1027924,1,1st,9:17,444,CGY,9447,Jérémie Poirier,4,D,Roughing,2.00,1,0,9447,Jérémie Poirier,Stephen Hiff,Harrison O’Pray,,
+1027924,1,1st,13:45,444,CGY,9669,William Strömgren,11,LW,Tripping,2.00,1,0,9669,William Strömgren,Stephen Hiff,Harrison O’Pray,,
+1027924,1,1st,19:55,444,CGY,7099,Turner Ottenbreit,2,D,High-sticking,2.00,1,0,7099,Turner Ottenbreit,Stephen Hiff,Harrison O’Pray,,
+1027924,2,2nd,9:10,405,SJ,7897,Jimmy Huntington,40,F,Tripping,2.00,1,0,7897,Jimmy Huntington,Stephen Hiff,Harrison O’Pray,,
+1027924,2,2nd,11:29,405,SJ,9040,Patrick Giles,54,F,Interference,2.00,1,0,9040,Patrick Giles,Stephen Hiff,Harrison O’Pray,,
+1027924,2,2nd,18:41,444,CGY,8741,Nick Cicek,41,D,High-sticking,2.00,1,0,8741,Nick Cicek,Stephen Hiff,Harrison O’Pray,,
+1027924,3,3rd,5:55,405,SJ,8709,Jack Thompson,26,D,Interference,2.00,1,0,8709,Jack Thompson,Stephen Hiff,Harrison O’Pray,,
+1027924,3,3rd,12:22,405,SJ,7575,Oliver Wahlstrom,24,F,Interference,2.00,1,0,7575,Oliver Wahlstrom,Stephen Hiff,Harrison O’Pray,,
+1027924,3,3rd,15:27,444,CGY,8741,Nick Cicek,41,D,Interference,2.00,1,0,8741,Nick Cicek,Stephen Hiff,Harrison O’Pray,,

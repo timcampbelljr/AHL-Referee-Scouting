@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027920,1,1st,1:38,445,CV,9706,Ville Ottavainen,36,D,Interference,2.00,1,0,9706,Ville Ottavainen,Ben Betker,Jake Jackson,,
+1027920,1,1st,18:11,419,COL,7090,Tye Felhaber,48,F,Tripping,2.00,1,0,7090,Tye Felhaber,Ben Betker,Jake Jackson,,
+1027920,2,2nd,1:11,419,COL,9118,Wyatt Aamodt,5,D,Holding,2.00,1,0,9118,Wyatt Aamodt,Ben Betker,Jake Jackson,,
+1027920,2,2nd,5:35,419,COL,9571,Ronnie Attard,3,D,Double minor - High-sticking,4.00,1,0,9571,Ronnie Attard,Ben Betker,Jake Jackson,,
+1027920,2,2nd,5:35,445,CV,8625,Ian McKinnon,21,F,Roughing,2.00,0,0,8625,Ian McKinnon,Ben Betker,Jake Jackson,,
+1027920,2,2nd,13:32,445,CV,6956,John Hayden,15,F,Fighting,5.00,0,0,6956,John Hayden,Ben Betker,Jake Jackson,,
+1027920,2,2nd,13:32,419,COL,9571,Ronnie Attard,3,D,Fighting,5.00,0,0,9571,Ronnie Attard,Ben Betker,Jake Jackson,,
+1027920,2,2nd,15:42,419,COL,5540,T.J. Tynan,9,F,Slashing,2.00,1,0,5540,T.J. Tynan,Ben Betker,Jake Jackson,,

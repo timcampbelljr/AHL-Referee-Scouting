@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027882,1,1st,0:46,405,SJ,0,None None,0,,Too many men - Bench minor,2.00,1,1,8914,Egor Afanasyev,Graedy Hamilton,Taylor Burzminski,,
+1027882,1,1st,4:14,405,SJ,10234,Quentin Musty,13,F,Tripping,2.00,1,0,10234,Quentin Musty,Graedy Hamilton,Taylor Burzminski,,
+1027882,1,1st,10:23,404,SD,6080,Justin Bailey,12,RW,Roughing,2.00,1,0,6080,Justin Bailey,Graedy Hamilton,Taylor Burzminski,,
+1027882,2,2nd,0:48,405,SJ,9251,Ethan Cardwell,56,F,Hooking,2.00,1,0,9251,Ethan Cardwell,Graedy Hamilton,Taylor Burzminski,,
+1027882,2,2nd,16:28,404,SD,6442,Nikolas Brouillard,15,D,Hooking,2.00,1,0,6442,Nikolas Brouillard,Graedy Hamilton,Taylor Burzminski,,
+1027882,3,3rd,1:01,404,SD,0,None None,0,,Too many men - Bench minor,2.00,1,1,10274,Yegor Sidorov,Graedy Hamilton,Taylor Burzminski,,
+1027882,3,3rd,6:23,404,SD,8575,Cal Burke,25,LW,High-sticking,2.00,1,0,8575,Cal Burke,Graedy Hamilton,Taylor Burzminski,,
+1027882,3,3rd,7:50,405,SJ,9251,Ethan Cardwell,56,F,Tripping,2.00,1,0,9251,Ethan Cardwell,Graedy Hamilton,Taylor Burzminski,,
+1027882,3,3rd,17:38,404,SD,10076,Nico Myatovic,21,LW,Cross-checking,2.00,1,0,10076,Nico Myatovic,Graedy Hamilton,Taylor Burzminski,,
+1027882,3,3rd,18:15,404,SD,7309,Travis Howe,24,RW,Misconduct - Continuing altercation,10.00,0,0,7309,Travis Howe,Graedy Hamilton,Taylor Burzminski,,

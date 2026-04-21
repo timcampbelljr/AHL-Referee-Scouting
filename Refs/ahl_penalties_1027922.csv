@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027922,1,1st,13:35,323,ROC,8619,Jack Rathbone,5,D,Delay of game,2.00,1,0,8619,Jack Rathbone,Jared Cummins,Chad Ingalls,,
+1027922,1,1st,15:01,324,SYR,9171,Niko Huuhtanen,88,RW,Hooking,2.00,1,0,9171,Niko Huuhtanen,Jared Cummins,Chad Ingalls,,
+1027922,1,1st,18:57,324,SYR,9901,Gabriel Szturc,95,C,Tripping,2.00,1,0,9901,Gabriel Szturc,Jared Cummins,Chad Ingalls,,
+1027922,2,2nd,3:48,324,SYR,9563,Nick Abruzzese,80,RW,High-sticking,2.00,1,0,9563,Nick Abruzzese,Jared Cummins,Chad Ingalls,,
+1027922,2,2nd,10:18,323,ROC,8864,Zac Jones,39,D,Cross-checking,2.00,1,0,8864,Zac Jones,Jared Cummins,Chad Ingalls,,
+1027922,2,2nd,17:59,324,SYR,9171,Niko Huuhtanen,88,RW,Roughing,2.00,0,0,9171,Niko Huuhtanen,Jared Cummins,Chad Ingalls,,
+1027922,2,2nd,17:59,323,ROC,9923,Riley Fiddler-Schultz,12,LW,Roughing,2.00,0,0,9923,Riley Fiddler-Schultz,Jared Cummins,Chad Ingalls,,
+1027922,2,2nd,18:32,323,ROC,9215,Noah Laaouan,36,D,Holding,2.00,1,0,9215,Noah Laaouan,Jared Cummins,Chad Ingalls,,
+1027922,3,3rd,2:43,324,SYR,10835,Wojciech Stachowiak,9,C,Tripping,2.00,1,0,10835,Wojciech Stachowiak,Jared Cummins,Chad Ingalls,,
+1027922,3,3rd,16:58,324,SYR,9096,Ryan Fanti,59,G,Delay of game,2.00,1,0,9563,Nick Abruzzese,Jared Cummins,Chad Ingalls,,
+1027922,3,3rd,19:27,324,SYR,9034,Declan Carlile,72,D,Interference,2.00,1,0,9034,Declan Carlile,Jared Cummins,Chad Ingalls,,

@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027923,2,2nd,11:04,316,WBS,10504,Chase Pietila,44,D,Interference,2.00,1,0,10504,Chase Pietila,Adam Tobias,Mason Riley,,
+1027923,2,2nd,17:19,316,WBS,10164,Tristan Broz,26,C,Boarding,2.00,1,0,10164,Tristan Broz,Adam Tobias,Mason Riley,,
+1027923,2,2nd,17:39,335,TOR,9994,Henry Thrun,3,D,Interference,2.00,1,0,9994,Henry Thrun,Adam Tobias,Mason Riley,,
+1027923,3,3rd,4:51,316,WBS,10848,Finn Harding,50,D,Holding,2.00,1,0,10848,Finn Harding,Adam Tobias,Mason Riley,,

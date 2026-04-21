@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027850,1,1st,4:00,390,UTC,10529,Ethan Edwards,73,D,Slashing,2.00,1,0,10529,Ethan Edwards,Jarrett Burton,Jared Cummins,,
+1027850,2,2nd,12:32,390,UTC,9516,Xavier Parent,67,F,Slashing,2.00,1,0,9516,Xavier Parent,Jarrett Burton,Jared Cummins,,
+1027850,3,3rd,4:55,390,UTC,7251,Ryan Schmelzer,26,C,Holding,2.00,1,0,7251,Ryan Schmelzer,Jarrett Burton,Jared Cummins,,

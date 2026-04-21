@@ -1,0 +1,5 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027899,2,2nd,10:58,412,TUC,10220,Maveric Lamoureux,10,D,Cross-checking,2.00,1,0,10220,Maveric Lamoureux,Ben Betker,Kurtis Pare,,
+1027899,3,3rd,4:19,412,TUC,7401,Cameron Hebig,39,C,Tripping,2.00,1,0,7401,Cameron Hebig,Ben Betker,Kurtis Pare,,
+1027899,3,3rd,9:51,389,IA,0,None None,0,,Too many men - Bench minor,2.00,1,1,8576,Jean-Luc Foudy,Ben Betker,Kurtis Pare,,
+1027899,3,3rd,15:33,412,TUC,10668,Michal Kunc,23,F,Tripping,2.00,1,0,10668,Michal Kunc,Ben Betker,Kurtis Pare,,

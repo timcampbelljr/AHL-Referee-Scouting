@@ -1,0 +1,9 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027893,2,2nd,0:32,317,BRI,10040,Alex Jefferies,16,F,Hooking,2.00,1,0,10040,Alex Jefferies,Rob Hennessey,Patrick Hanrahan,,
+1027893,2,2nd,9:28,317,BRI,0,None None,0,,Too many men - Bench minor,2.00,1,1,7627,Hunter Drew,Rob Hennessey,Patrick Hanrahan,,
+1027893,2,2nd,14:08,316,WBS,10848,Finn Harding,50,D,Hooking,2.00,1,0,10848,Finn Harding,Rob Hennessey,Patrick Hanrahan,,
+1027893,3,3rd,0:14,316,WBS,6082,Ryan Graves,27,D,Interference,2.00,1,0,6082,Ryan Graves,Rob Hennessey,Patrick Hanrahan,,
+1027893,3,3rd,2:51,317,BRI,9443,Matthew Maggio,18,F,Holding,2.00,1,0,9443,Matthew Maggio,Rob Hennessey,Patrick Hanrahan,,
+1027893,3,3rd,3:58,316,WBS,6354,Danton Heinen,43,C,Interference,2.00,1,0,6354,Danton Heinen,Rob Hennessey,Patrick Hanrahan,,
+1027893,3,3rd,7:53,317,BRI,10388,Cam Thiesing,15,F,Hooking,2.00,1,0,10388,Cam Thiesing,Rob Hennessey,Patrick Hanrahan,,
+1027893,3,3rd,8:34,316,WBS,6082,Ryan Graves,27,D,Cross-checking,2.00,1,0,6082,Ryan Graves,Rob Hennessey,Patrick Hanrahan,,

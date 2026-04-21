@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027852,1,1st,5:16,402,BAK,10874,Quinn Hutson,23,RW,Slashing,2.00,1,0,10874,Quinn Hutson,Mike Sullivan,Nolan Bloyer,,
+1027852,1,1st,9:13,412,TUC,9207,Julian Lutz,43,F,Roughing,2.00,1,0,9207,Julian Lutz,Mike Sullivan,Nolan Bloyer,,
+1027852,1,1st,12:51,412,TUC,7401,Cameron Hebig,39,C,Tripping,2.00,1,0,7401,Cameron Hebig,Mike Sullivan,Nolan Bloyer,,
+1027852,1,1st,15:14,402,BAK,7352,Riley Stillman,61,D,Roughing,2.00,1,0,7352,Riley Stillman,Mike Sullivan,Nolan Bloyer,,
+1027852,2,2nd,2:25,412,TUC,8519,Scott Perunovich,7,D,Interference,2.00,1,0,8519,Scott Perunovich,Mike Sullivan,Nolan Bloyer,,
+1027852,2,2nd,8:12,412,TUC,8519,Scott Perunovich,7,D,High-sticking,2.00,1,0,8519,Scott Perunovich,Mike Sullivan,Nolan Bloyer,,
+1027852,3,3rd,8:40,412,TUC,10211,Miko Matikka,94,F,Slashing,2.00,1,0,10211,Miko Matikka,Mike Sullivan,Nolan Bloyer,,
+1027852,3,3rd,8:40,412,TUC,10208,Owen Allard,12,F,Tripping,2.00,1,0,10208,Owen Allard,Mike Sullivan,Nolan Bloyer,,
+1027852,3,3rd,12:51,402,BAK,8726,Roby Järventie,15,RW,Interference,2.00,1,0,8726,Roby Järventie,Mike Sullivan,Nolan Bloyer,,
+1027852,3,3rd,17:08,412,TUC,3697,Kevin Connauton,44,D,Slashing,2.00,0,0,3697,Kevin Connauton,Mike Sullivan,Nolan Bloyer,,
+1027852,3,3rd,17:08,402,BAK,8726,Roby Järventie,15,RW,Slashing,2.00,0,0,8726,Roby Järventie,Mike Sullivan,Nolan Bloyer,,
+1027852,3,3rd,19:11,402,BAK,8485,James Hamblin,52,C,High-sticking,2.00,1,0,8485,James Hamblin,Mike Sullivan,Nolan Bloyer,,

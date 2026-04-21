@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027914,1,1st,8:24,380,TEX,8777,Samu Tuomaala,34,F,Tripping,2.00,1,0,8777,Samu Tuomaala,Riley Brace,Brendan Schreider,,
+1027914,1,1st,17:20,321,MB,10910,Chase Yoder,48,C,Tripping,2.00,1,0,10910,Chase Yoder,Riley Brace,Brendan Schreider,,
+1027914,2,2nd,10:18,321,MB,10000,Thomas Milic,32,G,Tripping,2.00,1,0,10121,Colby Barlow,Riley Brace,Brendan Schreider,,
+1027914,3,3rd,7:47,321,MB,9555,Tyrel Bauer,2,D,High-sticking,2.00,1,0,9555,Tyrel Bauer,Riley Brace,Brendan Schreider,,
+1027914,3,3rd,13:35,380,TEX,10451,Justin Ertel,10,LW,Double minor - High-sticking,4.00,1,0,10451,Justin Ertel,Riley Brace,Brendan Schreider,,

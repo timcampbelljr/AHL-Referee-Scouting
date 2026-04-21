@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027864,1,1st,5:24,402,BAK,7352,Riley Stillman,61,D,Interference,2.00,1,0,7352,Riley Stillman,Mike Sullivan,Nolan Bloyer,,
+1027864,1,1st,14:57,412,TUC,3642,Andrew Agozzino,29,C,Holding,2.00,1,0,3642,Andrew Agozzino,Mike Sullivan,Nolan Bloyer,,
+1027864,2,2nd,4:02,402,BAK,6058,Josh Brown,44,D,Interference,2.00,1,0,6058,Josh Brown,Mike Sullivan,Nolan Bloyer,,
+1027864,2,2nd,6:21,412,TUC,7069,Austin Poganski,27,RW,Hooking,2.00,1,0,7069,Austin Poganski,Mike Sullivan,Nolan Bloyer,,
+1027864,2,2nd,7:47,412,TUC,8734,Ben McCartney,22,F,Tripping,2.00,1,0,8734,Ben McCartney,Mike Sullivan,Nolan Bloyer,,
+1027864,2,2nd,13:05,402,BAK,10595,Connor Clattenburg,64,LW,Roughing,2.00,0,0,10595,Connor Clattenburg,Mike Sullivan,Nolan Bloyer,,
+1027864,2,2nd,13:05,412,TUC,9207,Julian Lutz,43,F,Roughing,2.00,1,0,10211,Miko Matikka,Mike Sullivan,Nolan Bloyer,,
+1027864,2,2nd,13:05,412,TUC,9207,Julian Lutz,43,F,Roughing,2.00,0,0,9207,Julian Lutz,Mike Sullivan,Nolan Bloyer,,
+1027864,3,3rd,5:17,402,BAK,5080,Seth Griffith,39,LW,Interference,2.00,1,0,5080,Seth Griffith,Mike Sullivan,Nolan Bloyer,,
+1027864,3,3rd,8:05,402,BAK,10595,Connor Clattenburg,64,LW,Boarding,2.00,1,0,10595,Connor Clattenburg,Mike Sullivan,Nolan Bloyer,,
+1027864,3,3rd,15:06,402,BAK,7159,Cam Dineen,55,D,Holding,2.00,1,0,7159,Cam Dineen,Mike Sullivan,Nolan Bloyer,,
+1027864,3,3rd,18:57,412,TUC,9217,Max Szuber,55,D,Tripping,2.00,1,0,9217,Max Szuber,Mike Sullivan,Nolan Bloyer,,

@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027873,1,1st,13:04,412,TUC,8519,Scott Perunovich,7,D,Hooking,2.00,1,0,8519,Scott Perunovich,Stan Szczurek,Koletrane Wilson,,
+1027873,1,1st,19:23,321,MB,7118,Jaret Anderson-Dolan,28,C,Holding,2.00,1,0,7118,Jaret Anderson-Dolan,Stan Szczurek,Koletrane Wilson,,
+1027873,2,2nd,4:42,412,TUC,10218,Artem Duda,8,D,Boarding,2.00,1,0,10218,Artem Duda,Stan Szczurek,Koletrane Wilson,,
+1027873,2,2nd,7:14,412,TUC,8734,Ben McCartney,22,F,Roughing,2.00,1,0,8734,Ben McCartney,Stan Szczurek,Koletrane Wilson,,
+1027873,3,3rd,3:47,412,TUC,8519,Scott Perunovich,7,D,Hooking,2.00,1,0,8519,Scott Perunovich,Stan Szczurek,Koletrane Wilson,,
+1027873,3,3rd,9:49,321,MB,8424,Isaak Phillips,3,D,Tripping,2.00,1,0,8424,Isaak Phillips,Stan Szczurek,Koletrane Wilson,,

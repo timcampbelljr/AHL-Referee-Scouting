@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027896,1,1st,13:07,330,CHI,9090,Noel Gunler,10,RW,Hooking,2.00,1,0,9090,Noel Gunler,Tyler Spott,Jared Cummins,,
+1027896,1,1st,17:29,330,CHI,9742,Skyler Brind’Amour,22,C,Boarding,2.00,1,0,9742,Skyler Brind’Amour,Tyler Spott,Jared Cummins,,
+1027896,2,2nd,1:49,335,TOR,10119,Noah Chadwick,58,D,Interference,2.00,1,0,10119,Noah Chadwick,Tyler Spott,Jared Cummins,,
+1027896,2,2nd,5:28,335,TOR,10053,Matthew Barbolini,68,F,Holding,2.00,1,0,10053,Matthew Barbolini,Tyler Spott,Jared Cummins,,
+1027896,2,2nd,17:54,335,TOR,10613,Borya Valis,39,F,Hooking,2.00,1,0,10613,Borya Valis,Tyler Spott,Jared Cummins,,
+1027896,3,3rd,13:04,330,CHI,9742,Skyler Brind’Amour,22,C,Slashing,2.00,1,0,9742,Skyler Brind’Amour,Tyler Spott,Jared Cummins,,
+1027896,3,3rd,15:49,335,TOR,10525,Luke Haymes,43,C,Tripping,2.00,1,0,10525,Luke Haymes,Tyler Spott,Jared Cummins,,

@@ -1,0 +1,3 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027885,1,1st,12:19,316,WBS,10042,Scooter Brickey,63,D,Interference,2.00,1,0,10042,Scooter Brickey,Mason Riley,Andrew Bell,,
+1027885,2,2nd,10:12,309,PRO,5721,Patrick Brown,38,C,Goaltender interference,2.00,1,0,5721,Patrick Brown,Mason Riley,Andrew Bell,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027913,1,1st,7:49,389,IA,6616,Gerry Mayhew,20,C,Slashing,2.00,1,0,6616,Gerry Mayhew,Ben Betker,Kurtis Pare,,
+1027913,1,1st,12:02,412,TUC,10214,Noel Nordh,45,F,Holding,2.00,1,0,10214,Noel Nordh,Ben Betker,Kurtis Pare,,
+1027913,1,1st,14:09,412,TUC,8734,Ben McCartney,22,F,Unsportsmanlike conduct,2.00,0,0,8734,Ben McCartney,Ben Betker,Kurtis Pare,,
+1027913,1,1st,14:09,389,IA,10608,Riley Heidt,27,C,Unsportsmanlike conduct,2.00,0,0,10608,Riley Heidt,Ben Betker,Kurtis Pare,,
+1027913,2,2nd,6:11,389,IA,10608,Riley Heidt,27,C,Tripping,2.00,1,0,10608,Riley Heidt,Ben Betker,Kurtis Pare,,
+1027913,2,2nd,12:35,389,IA,9472,Mark Liwiski,26,F,Fighting,5.00,0,0,9472,Mark Liwiski,Ben Betker,Kurtis Pare,,
+1027913,2,2nd,12:35,412,TUC,8734,Ben McCartney,22,F,Fighting,5.00,0,0,8734,Ben McCartney,Ben Betker,Kurtis Pare,,
+1027913,2,2nd,16:39,412,TUC,10220,Maveric Lamoureux,10,D,Roughing,2.00,1,0,10220,Maveric Lamoureux,Ben Betker,Kurtis Pare,,
+1027913,3,3rd,3:15,389,IA,8937,Matt Kiersted,23,D,Tripping,2.00,1,0,8937,Matt Kiersted,Ben Betker,Kurtis Pare,,

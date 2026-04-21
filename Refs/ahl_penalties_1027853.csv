@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027853,1,1st,8:31,444,CGY,9669,William Strömgren,11,LW,Hooking,2.00,1,0,9669,William Strömgren,Morgan MacPhee,Jesse Wood-Schatz,,
+1027853,1,1st,20:00,444,CGY,9447,Jérémie Poirier,4,D,Tripping,2.00,1,0,9447,Jérémie Poirier,Morgan MacPhee,Jesse Wood-Schatz,,
+1027853,3,3rd,9:55,445,CV,0,None None,0,,Too many men - Bench minor,2.00,1,1,10548,Justin Janicke,Morgan MacPhee,Jesse Wood-Schatz,,
+1027853,3,3rd,14:17,444,CGY,9447,Jérémie Poirier,4,D,Roughing,2.00,0,0,9447,Jérémie Poirier,Morgan MacPhee,Jesse Wood-Schatz,,
+1027853,3,3rd,14:17,445,CV,9710,David Goyette,88,F,Roughing,2.00,0,0,9710,David Goyette,Morgan MacPhee,Jesse Wood-Schatz,,
+1027853,3,3rd,19:17,444,CGY,6367,Dryden Hunt,15,LW,Roughing,2.00,1,0,6367,Dryden Hunt,Morgan MacPhee,Jesse Wood-Schatz,,

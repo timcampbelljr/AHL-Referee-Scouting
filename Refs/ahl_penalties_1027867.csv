@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027867,1,1st,16:10,317,BRI,10520,Jesse Pulkkinen,27,D,Holding,2.00,1,0,10520,Jesse Pulkkinen,Liam Maaskant,Adam Tobias,,
+1027867,2,2nd,6:08,317,BRI,8549,Adam Beckman,34,LW,Tripping,2.00,1,0,8549,Adam Beckman,Liam Maaskant,Adam Tobias,,
+1027867,2,2nd,9:05,309,PRO,10349,Jackson Edward,93,D,High-sticking,2.00,1,0,10349,Jackson Edward,Liam Maaskant,Adam Tobias,,
+1027867,3,3rd,13:32,317,BRI,9091,Marc Gatcomb,12,F,Roughing,2.00,0,0,9091,Marc Gatcomb,Liam Maaskant,Adam Tobias,,
+1027867,3,3rd,13:32,309,PRO,9729,Matthew Poitras,21,C,Slashing,2.00,0,0,9729,Matthew Poitras,Liam Maaskant,Adam Tobias,,
+1027867,3,3rd,14:08,309,PRO,7943,Riley Tufte,27,LW,Hooking,2.00,1,0,7943,Riley Tufte,Liam Maaskant,Adam Tobias,,

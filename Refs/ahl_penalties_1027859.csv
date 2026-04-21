@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027859,1,1st,4:50,319,HER,9012,Justin Nachbaur,32,LW,Fighting,5.00,0,0,9012,Justin Nachbaur,Jack Young,Jake Kamrass,,
+1027859,1,1st,4:50,313,LV,4334,Garrett Wilson,17,LW,Fighting,5.00,0,0,4334,Garrett Wilson,Jack Young,Jake Kamrass,,
+1027859,1,1st,7:34,313,LV,9628,Emil Andrae,6,D,Holding,2.00,1,0,9628,Emil Andrae,Jack Young,Jake Kamrass,,
+1027859,1,1st,12:49,313,LV,9768,Tucker Robertson,22,F,Hooking,2.00,1,0,9768,Tucker Robertson,Jack Young,Jake Kamrass,,
+1027859,1,1st,19:43,313,LV,9825,Alexis Gendron,72,F,Roughing,2.00,0,0,9825,Alexis Gendron,Jack Young,Jake Kamrass,,
+1027859,1,1st,19:43,319,HER,9012,Justin Nachbaur,32,LW,Roughing,2.00,0,0,9012,Justin Nachbaur,Jack Young,Jake Kamrass,,
+1027859,2,2nd,5:34,313,LV,10625,Carson Bjarnason,64,G,Delay of game - Restricted area,2.00,1,0,10633,Alex Bump,Jack Young,Jake Kamrass,,
+1027859,2,2nd,9:17,319,HER,4026,Aaron Ness,27,D,Hooking,2.00,1,0,4026,Aaron Ness,Jack Young,Jake Kamrass,,
+1027859,2,2nd,16:45,313,LV,4334,Garrett Wilson,17,LW,Tripping,2.00,1,0,4334,Garrett Wilson,Jack Young,Jake Kamrass,,
+1027859,2,2nd,19:54,313,LV,7145,Dennis Gilbert,48,D,Interference,2.00,1,0,7145,Dennis Gilbert,Jack Young,Jake Kamrass,,
+1027859,3,3rd,14:51,319,HER,10573,David Gucciardi,48,D,Roughing,2.00,1,0,10573,David Gucciardi,Jack Young,Jake Kamrass,,

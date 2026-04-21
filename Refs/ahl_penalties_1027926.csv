@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027926,1,1st,14:59,402,BAK,6780,Max Jones,46,LW,Cross-checking,2.00,1,0,6780,Max Jones,Ben Betker,Tyler Spott,,
+1027926,1,1st,19:24,402,BAK,7352,Riley Stillman,61,D,Slashing,2.00,1,0,7352,Riley Stillman,Ben Betker,Tyler Spott,,
+1027926,2,2nd,10:33,437,HSK,5547,Jaycob Megna,88,D,Hooking,2.00,1,0,5547,Jaycob Megna,Ben Betker,Tyler Spott,,
+1027926,3,3rd,11:19,402,BAK,6780,Max Jones,46,LW,High-sticking,2.00,1,0,6780,Max Jones,Ben Betker,Tyler Spott,,
+1027926,3,3rd,16:53,402,BAK,6058,Josh Brown,44,D,Interference,2.00,1,0,6058,Josh Brown,Ben Betker,Tyler Spott,,

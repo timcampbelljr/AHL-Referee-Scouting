@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027928,1,1st,14:58,309,PRO,9533,Matěj Blümel,18,LW,Tripping,2.00,1,0,9533,Matěj Blümel,Chad Ingalls,Chris Conway,,
+1027928,2,2nd,5:27,309,PRO,9533,Matěj Blümel,18,LW,Tripping,2.00,1,0,9533,Matěj Blümel,Chad Ingalls,Chris Conway,,
+1027928,2,2nd,10:44,309,PRO,9435,Joey Abate,47,LW,Roughing,2.00,0,0,9435,Joey Abate,Chad Ingalls,Chris Conway,,
+1027928,2,2nd,10:44,373,CLE,9025,Roman Ahcan,37,LW,Roughing,2.00,0,0,9025,Roman Ahcan,Chad Ingalls,Chris Conway,,
+1027928,2,2nd,14:26,373,CLE,10471,Max McCue,93,C,Holding,2.00,1,0,10471,Max McCue,Chad Ingalls,Chris Conway,,
+1027928,2,2nd,16:56,373,CLE,10471,Max McCue,93,C,Fighting,5.00,0,0,10471,Max McCue,Chad Ingalls,Chris Conway,,
+1027928,2,2nd,16:56,309,PRO,8462,Billy Sweezey,6,D,Fighting,5.00,0,0,8462,Billy Sweezey,Chad Ingalls,Chris Conway,,
+1027928,2,2nd,17:43,373,CLE,9980,Hunter McKown,41,C,Tripping,2.00,1,0,9980,Hunter McKown,Chad Ingalls,Chris Conway,,
+1027928,2,2nd,20:00,309,PRO,9524,Fabian Lysell,22,RW,Cross-checking,2.00,1,0,9524,Fabian Lysell,Chad Ingalls,Chris Conway,,

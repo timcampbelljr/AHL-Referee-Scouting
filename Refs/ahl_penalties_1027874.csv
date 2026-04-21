@@ -1,0 +1,4 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027874,1,1st,4:12,440,ABB,7746,Nikolai Knyzhov,72,D,High-sticking,2.00,1,0,7746,Nikolai Knyzhov,Ben Betker,Jacob Hicks,,
+1027874,1,1st,9:47,444,CGY,8741,Nick Cicek,41,D,Holding,2.00,1,0,8741,Nick Cicek,Ben Betker,Jacob Hicks,,
+1027874,2,2nd,11:33,440,ABB,10146,Joe Arntsen,3,D,Hooking,2.00,1,0,10146,Joe Arntsen,Ben Betker,Jacob Hicks,,

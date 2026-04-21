@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027881,1,1st,7:51,330,CHI,6657,Givani Smith,24,LW,Tripping,2.00,1,0,6657,Givani Smith,Harrison O’Pray,Kyle Bauman,,
+1027881,2,2nd,6:14,327,MIL,10078,Ryan Ufko,12,D,Interference,2.00,1,0,10078,Ryan Ufko,Harrison O’Pray,Kyle Bauman,,
+1027881,2,2nd,17:28,330,CHI,10463,Aleksi Heimosalmi,34,D,Slashing,2.00,1,0,10463,Aleksi Heimosalmi,Harrison O’Pray,Kyle Bauman,,
+1027881,3,3rd,5:50,330,CHI,10182,Bryce Montgomery,58,D,High-sticking,2.00,1,0,10182,Bryce Montgomery,Harrison O’Pray,Kyle Bauman,,
+1027881,3,3rd,6:59,327,MIL,9631,Joakim Kemell,25,F,Cross-checking,2.00,1,0,9631,Joakim Kemell,Harrison O’Pray,Kyle Bauman,,
+1027881,3,3rd,10:19,330,CHI,10463,Aleksi Heimosalmi,34,D,Tripping,2.00,1,0,10463,Aleksi Heimosalmi,Harrison O’Pray,Kyle Bauman,,

@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1027916,1,1st,3:02,419,COL,10161,Maroš Jedlička,55,F,Slashing,2.00,1,0,10161,Maroš Jedlička,Graedy Hamilton,Bobby Jo Love,,
+1027916,1,1st,7:28,419,COL,9969,Ivan Ivan,82,F,Hooking,2.00,1,0,9969,Ivan Ivan,Graedy Hamilton,Bobby Jo Love,,
+1027916,2,2nd,7:09,404,SD,10274,Yegor Sidorov,19,LW,Slashing,2.00,1,0,10274,Yegor Sidorov,Graedy Hamilton,Bobby Jo Love,,
+1027916,2,2nd,16:10,419,COL,9571,Ronnie Attard,3,D,Tripping,2.00,1,0,9571,Ronnie Attard,Graedy Hamilton,Bobby Jo Love,,
+1027916,3,3rd,9:57,404,SD,10076,Nico Myatovic,21,LW,Slashing,2.00,1,0,10076,Nico Myatovic,Graedy Hamilton,Bobby Jo Love,,
+1027916,3,3rd,16:49,404,SD,6729,Matthew Phillips,18,RW,Delay of game,2.00,1,0,6729,Matthew Phillips,Graedy Hamilton,Bobby Jo Love,,
+1027916,3,3rd,18:10,419,COL,8929,Tristen Nielsen,57,F,High-sticking,2.00,1,0,8929,Tristen Nielsen,Graedy Hamilton,Bobby Jo Love,,
