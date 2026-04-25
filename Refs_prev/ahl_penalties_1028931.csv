@@ -1,0 +1,13 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028931,1,1st,1:52,436,ANA,10506,Stian Solberg,50,D,Delay of game,2.00,1,0,10506,Stian Solberg,Jordan Watt,Ian Flick,,
+1028931,1,1st,11:08,433,LA,10623,Jared Wright,53,F,Fighting,5.00,0,0,10623,Jared Wright,Jordan Watt,Ian Flick,,
+1028931,1,1st,11:08,436,ANA,9779,Jaxsen Wiebe,83,RW,Fighting,5.00,0,0,9779,Jaxsen Wiebe,Jordan Watt,Ian Flick,,
+1028931,1,1st,15:12,433,LA,9245,Kaleb Lawrence,88,F,Roughing,2.00,1,0,9245,Kaleb Lawrence,Jordan Watt,Ian Flick,,
+1028931,2,2nd,7:43,436,ANA,10116,Konnor Smith,63,D,Misconduct - Instigating,10.00,0,0,10116,Konnor Smith,Jordan Watt,Ian Flick,,
+1028931,2,2nd,7:43,436,ANA,10116,Konnor Smith,63,D,Fighting,5.00,0,0,10116,Konnor Smith,Jordan Watt,Ian Flick,,
+1028931,2,2nd,7:43,436,ANA,10116,Konnor Smith,63,D,Instigating,2.00,1,0,10683,Emile Guite,Jordan Watt,Ian Flick,,
+1028931,2,2nd,7:43,433,LA,10710,Nate Corbet,63,D,Fighting,5.00,0,0,10710,Nate Corbet,Jordan Watt,Ian Flick,,
+1028931,2,2nd,9:14,433,LA,9245,Kaleb Lawrence,88,F,Roughing,2.00,1,0,9245,Kaleb Lawrence,Jordan Watt,Ian Flick,,
+1028931,3,3rd,0:21,433,LA,10203,Jared Woolley,80,D,High-sticking,2.00,1,0,10203,Jared Woolley,Jordan Watt,Ian Flick,,
+1028931,3,3rd,4:35,433,LA,10199,Jakub Dvořák,51,D,Hooking,2.00,1,0,10199,Jakub Dvořák,Jordan Watt,Ian Flick,,
+1028931,3,3rd,15:49,436,ANA,10688,Alexis Mathieu,85,D,Slashing,2.00,1,0,10688,Alexis Mathieu,Jordan Watt,Ian Flick,,

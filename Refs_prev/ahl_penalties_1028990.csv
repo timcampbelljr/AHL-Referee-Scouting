@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028990,1,1st,7:15,319,HER,9820,Jon McDonald,47,D,Holding,2.00,1,0,9820,Jon McDonald,Jordan Deckard,Mathieu Menniti,,
+1028990,1,1st,12:51,317,BRI,10020,Luke Rowe,24,D,Holding,2.00,1,0,10020,Luke Rowe,Jordan Deckard,Mathieu Menniti,,
+1028990,1,1st,14:32,319,HER,7545,Corey Schueneman,6,D,Roughing,2.00,0,0,7545,Corey Schueneman,Jordan Deckard,Mathieu Menniti,,
+1028990,1,1st,14:32,317,BRI,9442,Daylan Kuefler,11,F,Slashing,2.00,0,0,9442,Daylan Kuefler,Jordan Deckard,Mathieu Menniti,,
+1028990,1,1st,15:12,319,HER,10174,Andrew Cristall,20,LW,High-sticking,2.00,1,0,10174,Andrew Cristall,Jordan Deckard,Mathieu Menniti,,
+1028990,1,1st,18:22,319,HER,9161,Bogdan Trineyev,44,RW,Roughing,2.00,0,0,9161,Bogdan Trineyev,Jordan Deckard,Mathieu Menniti,,
+1028990,1,1st,18:22,317,BRI,6733,Matt Luff,29,RW,Roughing,2.00,0,0,6733,Matt Luff,Jordan Deckard,Mathieu Menniti,,
+1028990,1,1st,18:22,317,BRI,6861,Matthew Highmore,20,C,Goaltender interference,2.00,1,0,6861,Matthew Highmore,Jordan Deckard,Mathieu Menniti,,
+1028990,2,2nd,0:34,319,HER,10573,David Gucciardi,48,D,Tripping,2.00,1,0,10573,David Gucciardi,Jordan Deckard,Mathieu Menniti,,
+1028990,2,2nd,4:39,319,HER,4026,Aaron Ness,27,D,High-sticking,2.00,1,0,4026,Aaron Ness,Jordan Deckard,Mathieu Menniti,,
+1028990,2,2nd,15:18,319,HER,7024,Louie Belpedio,7,D,Holding,2.00,1,0,7024,Louie Belpedio,Jordan Deckard,Mathieu Menniti,,

@@ -1,0 +1,6 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028917,1,1st,1:32,415,LAV,5970,Samuel Blais,19,LW,Hooking,2.00,1,0,5970,Samuel Blais,Ben Betker,Alex Lepkowski,,
+1028917,1,1st,3:09,415,LAV,10139,Florian Xhekaj,63,C,High-sticking,2.00,1,0,10139,Florian Xhekaj,Ben Betker,Alex Lepkowski,,
+1028917,2,2nd,3:52,335,TOR,6014,Dakota Mermis,36,D,Fighting,5.00,0,0,6014,Dakota Mermis,Ben Betker,Alex Lepkowski,,
+1028917,2,2nd,3:52,415,LAV,9093,Lucas Condotta,42,LW,Fighting,5.00,0,0,9093,Lucas Condotta,Ben Betker,Alex Lepkowski,,
+1028917,3,3rd,17:48,335,TOR,6510,Matt Benning,33,D,Holding,2.00,1,0,6510,Matt Benning,Ben Betker,Alex Lepkowski,,

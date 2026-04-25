@@ -1,0 +1,12 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028993,1,1st,6:26,323,ROC,8580,Carson Meyer,72,RW,High-sticking,2.00,1,0,8580,Carson Meyer,Riley Brace,Adam Tobias,,
+1028993,1,1st,13:15,335,TOR,9994,Henry Thrun,3,D,Slashing,2.00,1,0,9994,Henry Thrun,Riley Brace,Adam Tobias,,
+1028993,1,1st,18:37,323,ROC,9643,Jagger Joshua,8,LW,Cross-checking,2.00,1,0,9643,Jagger Joshua,Riley Brace,Adam Tobias,,
+1028993,2,2nd,5:59,335,TOR,7383,Michael Pezzetta,61,LW,Slashing,2.00,1,0,7383,Michael Pezzetta,Riley Brace,Adam Tobias,,
+1028993,2,2nd,16:00,335,TOR,7693,Benoit-Olivier Groulx,29,C,Slashing,2.00,0,0,7693,Benoit-Olivier Groulx,Riley Brace,Adam Tobias,,
+1028993,2,2nd,16:00,323,ROC,6633,Gavin Bayreuther,15,D,Roughing,2.00,0,0,6633,Gavin Bayreuther,Riley Brace,Adam Tobias,,
+1028993,3,3rd,9:44,323,ROC,9643,Jagger Joshua,8,LW,Hooking,2.00,1,0,9643,Jagger Joshua,Riley Brace,Adam Tobias,,
+1028993,3,3rd,16:18,323,ROC,5475,Mason Geertsen,4,LW,Misconduct - Unsportsmanlike conduct,10.00,0,0,5475,Mason Geertsen,Riley Brace,Adam Tobias,,
+1028993,3,3rd,16:18,335,TOR,7383,Michael Pezzetta,61,LW,Misconduct - Unsportsmanlike conduct,10.00,0,0,7383,Michael Pezzetta,Riley Brace,Adam Tobias,,
+1028993,3,3rd,18:13,323,ROC,10436,Vsevolod Komarov,83,D,Misconduct - Unsportsmanlike conduct,10.00,0,0,10436,Vsevolod Komarov,Riley Brace,Adam Tobias,,
+1028993,3,3rd,18:13,335,TOR,10525,Luke Haymes,43,C,Misconduct - Unsportsmanlike conduct,10.00,0,0,10525,Luke Haymes,Riley Brace,Adam Tobias,,

@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028927,1,1st,9:38,453,UTA,10217,Gabe Smith,93,F,Holding,2.00,1,0,10217,Gabe Smith,Koletrane Wilson,Eric MacDonald,,
+1028927,2,2nd,1:19,434,VGK,10680,Jackson Hallum,59,F,Tripping,2.00,1,0,10680,Jackson Hallum,Koletrane Wilson,Eric MacDonald,,
+1028927,2,2nd,18:59,434,VGK,10678,Carter Sotheran,56,D,Hooking,2.00,1,0,10678,Carter Sotheran,Koletrane Wilson,Eric MacDonald,,
+1028927,3,3rd,3:36,453,UTA,10220,Maveric Lamoureux,10,D,Roughing,2.00,1,0,10220,Maveric Lamoureux,Koletrane Wilson,Eric MacDonald,,
+1028927,3,3rd,10:14,453,UTA,10668,Michal Kunc,46,F,Hooking,2.00,1,0,10668,Michal Kunc,Koletrane Wilson,Eric MacDonald,,
+1028927,3,3rd,19:36,453,UTA,9207,Julian Lutz,43,F,Fighting,5.00,0,0,9207,Julian Lutz,Koletrane Wilson,Eric MacDonald,,
+1028927,3,3rd,19:36,434,VGK,10679,Bronson Ride,57,D,Game misconduct - Instigator (last 5:00),10.00,0,0,10679,Bronson Ride,Koletrane Wilson,Eric MacDonald,,
+1028927,3,3rd,19:36,434,VGK,10679,Bronson Ride,57,D,Fighting,5.00,0,0,10679,Bronson Ride,Koletrane Wilson,Eric MacDonald,,
+1028927,3,3rd,19:36,434,VGK,10679,Bronson Ride,57,D,Instigating,2.00,0,0,10679,Bronson Ride,Koletrane Wilson,Eric MacDonald,,

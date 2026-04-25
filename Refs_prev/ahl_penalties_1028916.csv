@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028916,1,1st,2:54,372,RFD,9341,Andrew Perrott,75,D,Double minor - High-sticking,4.00,1,0,9341,Andrew Perrott,Harrison O’Pray,Ben Solomon,,
+1028916,1,1st,9:23,380,TEX,10999,Dylan Hryckowian,14,F,High-sticking,2.00,1,0,10999,Dylan Hryckowian,Harrison O’Pray,Ben Solomon,,
+1028916,1,1st,12:11,372,RFD,10403,Dillon Boucher,36,F,Interference,2.00,1,0,10403,Dillon Boucher,Harrison O’Pray,Ben Solomon,,
+1028916,3,3rd,15:43,372,RFD,9341,Andrew Perrott,75,D,Fighting,5.00,0,0,9341,Andrew Perrott,Harrison O’Pray,Ben Solomon,,
+1028916,3,3rd,15:43,380,TEX,10989,Jack Anderson,35,D,Fighting,5.00,0,0,10989,Jack Anderson,Harrison O’Pray,Ben Solomon,,
+1028916,3,3rd,17:06,380,TEX,10527,Sean Chisholm,21,F,Holding,2.00,0,0,10527,Sean Chisholm,Harrison O’Pray,Ben Solomon,,
+1028916,3,3rd,17:06,372,RFD,10317,Connor Mylymok,26,LW,Roughing,2.00,0,0,10317,Connor Mylymok,Harrison O’Pray,Ben Solomon,,

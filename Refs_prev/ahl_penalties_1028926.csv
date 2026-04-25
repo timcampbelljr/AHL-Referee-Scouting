@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028926,1,1st,6:33,453,UTA,10672,Carson Harmer,81,F,Kneeing,2.00,1,0,10672,Carson Harmer,Koletrane Wilson,Eric MacDonald,,
+1028926,1,1st,13:49,453,UTA,10221,Tomas Lavoie,75,D,Holding,2.00,1,0,10221,Tomas Lavoie,Koletrane Wilson,Eric MacDonald,,
+1028926,2,2nd,3:22,431,COL,10660,Lucas Romeo,83,RW,Roughing,2.00,1,0,10660,Lucas Romeo,Koletrane Wilson,Eric MacDonald,,
+1028926,2,2nd,19:09,431,COL,10656,Christian Humphreys,63,C,Hooking,2.00,1,0,10656,Christian Humphreys,Koletrane Wilson,Eric MacDonald,,
+1028926,3,3rd,6:28,431,COL,10654,Alex Gagne,45,D,Cross-checking,2.00,1,0,10654,Alex Gagne,Koletrane Wilson,Eric MacDonald,,
+1028926,3,3rd,7:24,453,UTA,10217,Gabe Smith,93,F,Roughing,2.00,1,0,10217,Gabe Smith,Koletrane Wilson,Eric MacDonald,,
+1028926,3,3rd,7:53,431,COL,10656,Christian Humphreys,63,C,High-sticking,2.00,1,0,10656,Christian Humphreys,Koletrane Wilson,Eric MacDonald,,

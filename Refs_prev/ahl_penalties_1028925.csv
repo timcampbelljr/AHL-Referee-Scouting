@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028925,1,1st,9:26,415,LAV,10149,Luke Tuch,17,LW,Holding,2.00,1,0,10149,Luke Tuch,Ben Betker,Alex Lepkowski,,
+1028925,2,2nd,7:28,415,LAV,4830,Vincent Arseneau,18,LW,Roughing,2.00,1,0,4830,Vincent Arseneau,Ben Betker,Alex Lepkowski,,
+1028925,2,2nd,7:28,415,LAV,4830,Vincent Arseneau,18,LW,High-sticking,2.00,1,0,4830,Vincent Arseneau,Ben Betker,Alex Lepkowski,,
+1028925,2,2nd,14:54,335,TOR,7693,Benoit-Olivier Groulx,29,C,Interference,2.00,1,0,7693,Benoit-Olivier Groulx,Ben Betker,Alex Lepkowski,,
+1028925,3,3rd,2:23,415,LAV,11089,Aiden Dubinsky,7,D,Holding,2.00,1,0,11089,Aiden Dubinsky,Ben Betker,Alex Lepkowski,,
+1028925,3,3rd,8:35,415,LAV,10139,Florian Xhekaj,63,C,Roughing,2.00,1,0,10139,Florian Xhekaj,Ben Betker,Alex Lepkowski,,
+1028925,3,3rd,8:35,415,LAV,10139,Florian Xhekaj,63,C,Roughing,2.00,0,0,10139,Florian Xhekaj,Ben Betker,Alex Lepkowski,,
+1028925,3,3rd,8:35,415,LAV,10139,Florian Xhekaj,63,C,Misconduct,10.00,0,0,10139,Florian Xhekaj,Ben Betker,Alex Lepkowski,,
+1028925,3,3rd,8:35,335,TOR,9624,Ryan Tverberg,77,F,Roughing,2.00,0,0,9624,Ryan Tverberg,Ben Betker,Alex Lepkowski,,

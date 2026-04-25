@@ -1,0 +1,11 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028928,1,1st,10:58,434,VGK,9279,Joe Fleming,50,F,Roughing,2.00,1,0,9279,Joe Fleming,Koletrane Wilson,Eric MacDonald,,
+1028928,1,1st,11:58,431,COL,10741,Maxmilian Curran,90,,Tripping,2.00,1,0,10741,Maxmilian Curran,Koletrane Wilson,Eric MacDonald,,
+1028928,1,1st,12:12,431,COL,10545,Cooper Gay,58,RW,Holding,2.00,1,0,10545,Cooper Gay,Koletrane Wilson,Eric MacDonald,,
+1028928,1,1st,16:38,434,VGK,10679,Bronson Ride,57,D,Fighting,5.00,0,0,10679,Bronson Ride,Koletrane Wilson,Eric MacDonald,,
+1028928,1,1st,16:38,431,COL,10741,Maxmilian Curran,90,,Fighting,5.00,0,0,10741,Maxmilian Curran,Koletrane Wilson,Eric MacDonald,,
+1028928,2,2nd,2:00,431,COL,10660,Lucas Romeo,83,RW,Cross-checking,2.00,1,0,10660,Lucas Romeo,Koletrane Wilson,Eric MacDonald,,
+1028928,2,2nd,6:37,434,VGK,10280,Tuomas Uronen,37,F,Roughing,2.00,1,0,10280,Tuomas Uronen,Koletrane Wilson,Eric MacDonald,,
+1028928,2,2nd,14:05,431,COL,10254,Rilen Kovacevic,47,F,High-sticking,2.00,1,0,10254,Rilen Kovacevic,Koletrane Wilson,Eric MacDonald,,
+1028928,3,3rd,10:47,431,COL,10660,Lucas Romeo,83,RW,High-sticking,2.00,1,0,10660,Lucas Romeo,Koletrane Wilson,Eric MacDonald,,
+1028928,3,3rd,13:24,431,COL,10587,Connor Kelley,73,D,Tripping,2.00,1,0,10587,Connor Kelley,Koletrane Wilson,Eric MacDonald,,

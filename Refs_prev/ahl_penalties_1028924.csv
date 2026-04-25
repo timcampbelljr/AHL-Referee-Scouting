@@ -1,0 +1,10 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028924,1,1st,9:39,319,HER,4026,Aaron Ness,27,D,Cross-checking,2.00,1,0,4026,Aaron Ness,Beau Halkidis,Morgan MacPhee,,
+1028924,2,2nd,1:27,323,ROC,8619,Jack Rathbone,5,D,Fighting,5.00,0,0,8619,Jack Rathbone,Beau Halkidis,Morgan MacPhee,,
+1028924,2,2nd,1:27,319,HER,7545,Corey Schueneman,6,D,Roughing,2.00,1,0,10345,Kyler Kupka,Beau Halkidis,Morgan MacPhee,,
+1028924,2,2nd,1:27,319,HER,7545,Corey Schueneman,6,D,Fighting,5.00,0,0,7545,Corey Schueneman,Beau Halkidis,Morgan MacPhee,,
+1028924,2,2nd,6:02,323,ROC,9923,Riley Fiddler-Schultz,12,LW,Double minor - High-sticking,4.00,1,0,9923,Riley Fiddler-Schultz,Beau Halkidis,Morgan MacPhee,,
+1028924,2,2nd,10:41,319,HER,9161,Bogdan Trineyev,44,RW,Boarding,2.00,1,0,9161,Bogdan Trineyev,Beau Halkidis,Morgan MacPhee,,
+1028924,2,2nd,12:36,323,ROC,6633,Gavin Bayreuther,15,D,Hooking,2.00,1,0,6633,Gavin Bayreuther,Beau Halkidis,Morgan MacPhee,,
+1028924,2,2nd,17:21,323,ROC,10926,Red Savage,17,C,Tripping,2.00,1,0,10926,Red Savage,Beau Halkidis,Morgan MacPhee,,
+1028924,3,3rd,10:56,319,HER,10573,David Gucciardi,48,D,Hooking,2.00,1,0,10573,David Gucciardi,Beau Halkidis,Morgan MacPhee,,

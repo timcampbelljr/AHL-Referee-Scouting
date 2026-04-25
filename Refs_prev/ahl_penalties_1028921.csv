@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028921,1,1st,3:56,330,CHI,8615,Nikita Pavlychev,15,C,Hooking,2.00,1,0,8615,Nikita Pavlychev,Riley Brace,Shaun Davis,,
+1028921,2,2nd,17:48,327,MIL,10832,Oasiz Wiesblatt,88,C,Slashing,2.00,0,0,10832,Oasiz Wiesblatt,Riley Brace,Shaun Davis,,
+1028921,2,2nd,17:48,330,CHI,9742,Skyler Brind’Amour,22,C,Slashing,2.00,0,0,9742,Skyler Brind’Amour,Riley Brace,Shaun Davis,,
+1028921,3,3rd,12:37,330,CHI,6657,Givani Smith,24,LW,Misconduct - Unsportsmanlike conduct,10.00,0,0,6657,Givani Smith,Riley Brace,Shaun Davis,,
+1028921,3,3rd,15:06,330,CHI,10511,Blake Biondi,25,RW,High-sticking,2.00,1,0,10511,Blake Biondi,Riley Brace,Shaun Davis,,
+1028921,3,3rd,15:36,327,MIL,5489,Jordan Oesterle,82,D,Hooking,2.00,1,0,5489,Jordan Oesterle,Riley Brace,Shaun Davis,,

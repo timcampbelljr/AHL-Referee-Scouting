@@ -1,0 +1,8 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028922,1,1st,1:36,373,CLE,9633,Justin Pearson,24,LW,Holding,2.00,1,0,9633,Justin Pearson,Jake Rekucki,Sean Fernandez,,
+1028922,2,2nd,6:54,328,GR,8581,Tyler Angle,77,RW,Holding the stick,2.00,1,0,8581,Tyler Angle,Jake Rekucki,Sean Fernandez,,
+1028922,3,3rd,7:54,328,GR,10629,Michael Brandsegg-Nygård,28,RW,Roughing,2.00,0,0,10629,Michael Brandsegg-Nygård,Jake Rekucki,Sean Fernandez,,
+1028922,3,3rd,7:54,373,CLE,9735,Stanislav Svozil,5,D,Roughing,2.00,0,0,9735,Stanislav Svozil,Jake Rekucki,Sean Fernandez,,
+1028922,3,3rd,11:04,328,GR,9973,Antti Tuomisto,4,D,Interference,2.00,1,0,9973,Antti Tuomisto,Jake Rekucki,Sean Fernandez,,
+1028922,3,3rd,19:46,373,CLE,6644,Zach Aston-Reese,21,LW,Major - Slashing,5.00,1,0,6644,Zach Aston-Reese,Jake Rekucki,Sean Fernandez,,
+1028922,3,3rd,19:46,373,CLE,6644,Zach Aston-Reese,21,LW,Game misconduct - Slashing,10.00,0,0,6644,Zach Aston-Reese,Jake Rekucki,Sean Fernandez,,

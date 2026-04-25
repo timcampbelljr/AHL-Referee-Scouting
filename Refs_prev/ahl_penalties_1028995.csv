@@ -1,0 +1,7 @@
+game_id,period,period_long,time,team_id,team_abbrev,player_id,player,jersey,position,infraction,minutes,is_power_play,is_bench,served_by_id,served_by,ref1,ref2,linesman1,linesman2
+1028995,1,1st,13:13,373,CLE,9735,Stanislav Svozil,5,D,Holding the stick,2.00,0,0,9735,Stanislav Svozil,Alex Lepkowski,Harrison O’Pray,,
+1028995,1,1st,13:13,324,SYR,8744,Jakob Pelletier,22,LW,Roughing,2.00,0,0,8744,Jakob Pelletier,Alex Lepkowski,Harrison O’Pray,,
+1028995,1,1st,19:43,324,SYR,10148,Dylan Duke,25,LW,Roughing,2.00,0,0,10148,Dylan Duke,Alex Lepkowski,Harrison O’Pray,,
+1028995,1,1st,19:43,373,CLE,9025,Roman Ahcan,37,LW,Roughing,2.00,0,0,9025,Roman Ahcan,Alex Lepkowski,Harrison O’Pray,,
+1028995,3,3rd,4:33,373,CLE,10176,Luca Pinelli,53,LW,Roughing,2.00,0,0,10176,Luca Pinelli,Alex Lepkowski,Harrison O’Pray,,
+1028995,3,3rd,4:33,324,SYR,10148,Dylan Duke,25,LW,Roughing,2.00,0,0,10148,Dylan Duke,Alex Lepkowski,Harrison O’Pray,,
