@@ -510,6 +510,57 @@ def load_data(data_dirs: tuple) -> pd.DataFrame:
 
 df_all = load_data(tuple(DATA_DIRS))
 
+
+# ── Offsetting pair detection ─────────────────────────────────────────────────
+@st.cache_data
+def flag_offsetting_pairs(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Marks rows that are part of same-time offsetting minor pairs so the
+    projector can exclude them from PP-relevant calculations.
+
+    Logic: within each (game_id, period, time) group, if two rows belong to
+    *different* teams, are both minors (minutes <= 2), and both have
+    is_power_play == 0, they offset each other (4v4 situation).
+    We tag every such row with is_offsetting = True.
+
+    Rows that don't meet ALL criteria — e.g. a minor + a major at the same
+    time, or a bench minor that produces a PP — are left as is_offsetting = False.
+    """
+    df = df.copy()
+    df["is_offsetting"] = False
+
+    groups = df.groupby(["game_id", "period", "time"])
+    for _, grp in groups:
+        if len(grp) < 2:
+            continue
+        teams = grp["team_abbrev"].unique()
+        if len(teams) < 2:
+            continue
+        # Candidate offsetting rows: minor penalty, no PP produced
+        candidates = grp[
+            (grp["minutes"] <= 2) &
+            (grp["is_power_play"] == 0) &
+            (grp["is_bench"] == 0)
+        ]
+        # Need at least one candidate from each of two different teams
+        if candidates["team_abbrev"].nunique() < 2:
+            continue
+        df.loc[candidates.index, "is_offsetting"] = True
+
+    return df
+
+
+df_all = flag_offsetting_pairs(df_all)
+
+# Flag fighting penalties — refs have no discretion on these calls
+df_all["is_fighting"] = df_all["infraction"].str.contains(
+    r"Fight|Instig|Aggress", case=False, regex=True
+)
+
+# Clean view for projector: strip offsetting pairs AND fighting penalties.
+# Both are non-discretionary — they tell us nothing about a ref's calling tendencies.
+df_proj = df_all[~df_all["is_offsetting"] & ~df_all["is_fighting"]].copy()
+
 # ── Header ────────────────────────────────────────────────────────────────────
 st.markdown('<div class="dash-header">🏒 AHL Referee Analysis Dashboard</div>', unsafe_allow_html=True)
 
@@ -547,8 +598,8 @@ def build_summary(df: pd.DataFrame):
             )
             return counts.median() if len(counts) else 0
         stick = _median_per_game(grp, "High-stick|Slash|Hook|Interfer")
-        body  = _median_per_game(grp, "Rough|Fight|Cross|Charg|Board")
-        misc  = _median_per_game(grp, "Misc|Unsport|Instig|Conduct")
+        body  = _median_per_game(grp, "Rough|Cross|Charg|Board")
+        misc  = _median_per_game(grp, "Misc|Unsport|Fight")
         trap  = _median_per_game(grp, "Trip|Hold|Obstruct")
         period_int = pd.to_numeric(grp["period"], errors="coerce")
         p1_total   = (period_int == 1).sum()
@@ -581,6 +632,17 @@ def build_summary(df: pd.DataFrame):
 
 summary, df_stacked = build_summary(df_all)
 
+# Projector stacked view — offsetting pairs removed
+@st.cache_data
+def build_proj_stacked(df: pd.DataFrame) -> pd.DataFrame:
+    stacked = pd.concat([
+        df.assign(_ref=df["ref1"]),
+        df.assign(_ref=df["ref2"]),
+    ], ignore_index=True)
+    return stacked[stacked["_ref"] != ""]
+
+proj_stacked = build_proj_stacked(df_proj)
+
 # ── Percentile table ──────────────────────────────────────────────────────────
 STAT_COLS = [
     "pen_per_game", "pim_per_game", "pp_pct",
@@ -611,6 +673,9 @@ def build_team_baseline(df: pd.DataFrame) -> pd.DataFrame:
     return team_stats.set_index("team_abbrev")
 
 team_baseline = build_team_baseline(df_all)
+
+# Projector uses a clean baseline (offsetting pairs stripped)
+proj_team_baseline = build_team_baseline(df_proj)
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 all_refs = sorted(summary["ref"].unique())
@@ -1153,36 +1218,53 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 def get_ref_bias_vs_team(ref_name, team):
     """
-    Returns (bias_value, games_together).
-    bias = ref's median pen/game vs that team − team's season baseline.
+    Returns (bias_value, games_together) using the offsetting-stripped data.
+    bias = ref's clean median pen/game vs that team − team's clean season baseline.
+    Excludes same-time opposite-team minor pairs (4v4 situations) so the bias
+    reflects penalties that actually produced or could produce PP opportunities.
     Returns (None, 0) if no shared history or no team baseline.
     """
-    df_r  = df_stacked[df_stacked["_ref"] == ref_name]
+    df_r  = proj_stacked[proj_stacked["_ref"] == ref_name]
     df_rt = df_r[df_r["team_abbrev"] == team]
     g     = df_rt["game_id"].nunique()
-    if g == 0 or team not in team_baseline.index:
+    if g == 0 or team not in proj_team_baseline.index:
         return None, 0
     ref_ppg_vs = df_rt.groupby("game_id").size().median()
-    bias = round(ref_ppg_vs - team_baseline.loc[team, "season_ppg"], 2)
+    bias = round(ref_ppg_vs - proj_team_baseline.loc[team, "season_ppg"], 2)
     return bias, g
 
 
 def compute_projection(ref1, ref2, team_home, team_away):
     """
-    Weighted blend of two refs' medians, then apply averaged team bias.
-    The ref with the higher pen/game median gets a proportionally larger weight.
+    Weighted blend of two refs' clean (offsetting-stripped) medians,
+    then apply averaged team bias computed on the same clean data.
+    The ref with the higher clean pen/game median gets a proportionally larger weight.
     """
-    r1 = summary[summary["ref"] == ref1].iloc[0]
-    r2 = summary[summary["ref"] == ref2].iloc[0]
+    # Use clean per-game stats for each ref from proj_stacked
+    def _clean_ref_stats(ref_name):
+        grp = proj_stacked[proj_stacked["_ref"] == ref_name]
+        if grp.empty:
+            # Fall back to raw summary if ref has no clean data (edge case)
+            row = summary[summary["ref"] == ref_name].iloc[0]
+            return row["pen_per_game"], row["pim_per_game"], row["pp_pct"] / 100.0, {}
+        games = grp["game_id"].nunique()
+        ppg = grp.groupby("game_id").size().median() if games else 0
+        pim = grp.groupby("game_id")["minutes"].sum().median() if games else 0
+        # PP% on clean data: PP calls / total clean calls per game
+        game_pp  = grp.groupby("game_id")["is_power_play"].sum()
+        game_pen = grp.groupby("game_id").size()
+        pp_rate  = (game_pp / game_pen).median() if len(game_pp) else 0
+        # Per-period medians on clean data
+        per_period = {}
+        for p in [1, 2, 3]:
+            pg = grp[pd.to_numeric(grp["period"], errors="coerce") == p]
+            per_period[p] = pg.groupby("game_id").size().median() if games else 0
+        return ppg, pim, pp_rate, per_period
 
-    ppg1 = r1["pen_per_game"]
-    ppg2 = r2["pen_per_game"]
-    pim1 = r1["pim_per_game"]
-    pim2 = r2["pim_per_game"]
-    pp1  = r1["pp_pct"] / 100.0
-    pp2  = r2["pp_pct"] / 100.0
+    ppg1, pim1, pp1, period1 = _clean_ref_stats(ref1)
+    ppg2, pim2, pp2, period2 = _clean_ref_stats(ref2)
 
-    # Weight by penalty volume: higher-median ref gets bigger say
+    # Weight by clean penalty volume: higher-median ref gets bigger say
     total_ppg = ppg1 + ppg2
     w1 = (ppg1 / total_ppg) if total_ppg > 0 else 0.5
     w2 = (ppg2 / total_ppg) if total_ppg > 0 else 0.5
@@ -1211,14 +1293,17 @@ def compute_projection(ref1, ref2, team_home, team_away):
 
     proj_total = max(0.0, round(base_ppg + total_bias, 2))
 
-    # Confidence range: ±1 blended std dev of per-game penalty counts
+    # Confidence range: ±1 blended std dev of clean per-game penalty counts
     def _ref_std(ref_name):
-        per_game = df_stacked[df_stacked["_ref"] == ref_name].groupby("game_id").size()
+        per_game = proj_stacked[proj_stacked["_ref"] == ref_name].groupby("game_id").size()
         return per_game.std(ddof=1) if len(per_game) > 1 else 1.0
 
     std1 = _ref_std(ref1)
     std2 = _ref_std(ref2)
-    blended_std = w1 * std1 + w2 * std2
+    # Quadrature sum: the two refs are independent so their variances add,
+    # giving a combined SD that properly reflects the full game's variability
+    # rather than the weighted average (which always understates the spread).
+    blended_std = round((std1 ** 2 + std2 ** 2) ** 0.5, 3)
 
     proj_low  = max(0.0, round(proj_total - blended_std, 1))
     proj_high = max(0.0, round(proj_total + blended_std, 1))
@@ -1236,19 +1321,17 @@ def compute_projection(ref1, ref2, team_home, team_away):
         team_pen_proj = max(0.0, (base_ppg / 2) + tb)
         pp_by_team[team] = round(team_pen_proj * base_pp, 2)
 
-    # Per-period split: blend each ref's historical period fractions
-    def _period_fracs(row):
-        total = row["pen_per_game"]
-        if total == 0:
+    # Per-period split: blend each ref's historical clean period fractions
+    def _period_fracs(per_period_dict, ppg):
+        if ppg == 0:
             return {1: 1/3, 2: 1/3, 3: 1/3}
-        raw = {p: row.get(f"p{p}_median", 0) for p in [1, 2, 3]}
-        s = sum(raw.values())
-        return {p: (v / s if s > 0 else 1/3) for p, v in raw.items()}
+        s = sum(per_period_dict.values())
+        return {p: (v / s if s > 0 else 1/3) for p, v in per_period_dict.items()}
 
-    fracs1 = _period_fracs(r1)
-    fracs2 = _period_fracs(r2)
+    fracs1 = _period_fracs(period1, ppg1)
+    fracs2 = _period_fracs(period2, ppg2)
     period_proj = {
-        p: round(proj_total * (w1 * fracs1[p] + w2 * fracs2[p]), 2)
+        p: round(proj_total * (w1 * fracs1.get(p, 1/3) + w2 * fracs2.get(p, 1/3)), 2)
         for p in [1, 2, 3]
     }
 
@@ -1264,8 +1347,8 @@ def compute_projection(ref1, ref2, team_home, team_away):
         "base_ppg":       round(base_ppg, 3),
         "w1":             round(w1, 3),
         "w2":             round(w2, 3),
-        "ppg1":           ppg1,
-        "ppg2":           ppg2,
+        "ppg1":           round(ppg1, 2),
+        "ppg2":           round(ppg2, 2),
         "blended_std":    round(blended_std, 3),
         "total_bias_adj": round(total_bias, 3),
         "base_pp_pct":    round(base_pp * 100, 1),
@@ -1437,31 +1520,42 @@ st.markdown("<br>", unsafe_allow_html=True)
 with st.expander("📐 How this projection works"):
     st.markdown(f"""
     <div class="methodology-box">
+    <b>Offsetting pair & fighting filters</b><br>
+    Before any projection math runs, two categories of non-discretionary penalties
+    are removed from the projector's input data:<br>
+    &nbsp;&nbsp;• <b>Offsetting minors</b> — same time, opposite teams, is_power_play = 0 (4v4 situations)<br>
+    &nbsp;&nbsp;• <b>Fighting penalties</b> — Fighting, Instigating, Aggressor (refs have no choice)<br>
+    Both still appear in the main dashboard and penalty logs — they just don't feed
+    the projection. All stats below are computed on this clean dataset.<br><br>
+
     <b>Step 1 — Weighted blend of ref medians</b><br>
-    Each ref's historical median pen/game is the base. The higher-median ref gets a
+    Each ref's clean median pen/game is the base. The higher-median ref gets a
     proportionally larger weight (their median ÷ the sum of both medians), so their
     tendencies drive the estimate more when there's a meaningful difference.<br>
-    &nbsp;&nbsp;• <b>{proj_ref1}</b>: {proj['ppg1']} pen/G → weight <b>{proj['w1']:.1%}</b><br>
-    &nbsp;&nbsp;• <b>{proj_ref2}</b>: {proj['ppg2']} pen/G → weight <b>{proj['w2']:.1%}</b><br>
+    &nbsp;&nbsp;• <b>{proj_ref1}</b>: {proj['ppg1']} pen/G (clean) → weight <b>{proj['w1']:.1%}</b><br>
+    &nbsp;&nbsp;• <b>{proj_ref2}</b>: {proj['ppg2']} pen/G (clean) → weight <b>{proj['w2']:.1%}</b><br>
     &nbsp;&nbsp;• Blended base: <b>{proj['base_ppg']}</b> pen/game<br><br>
 
     <b>Step 2 — Team bias adjustments</b><br>
-    For each team, we look at how each ref's median pen/game against them compares
-    to that team's season average. Both refs' biases are averaged (where data exists)
-    to get a blended bias per team. The sum of both teams' blended biases is then
-    added to the base projection.<br>
+    For each team, we look at how each ref's clean median pen/game against them compares
+    to that team's clean season average. Both refs' biases are averaged (where data exists)
+    to get a blended bias per team. The sum of both teams' blended biases is added
+    to the base projection.<br>
     &nbsp;&nbsp;• Total bias adjustment applied: <b>{"+" if proj["total_bias_adj"] >= 0 else ""}{proj["total_bias_adj"]}</b><br><br>
 
     <b>Step 3 — Confidence range</b><br>
-    Each ref's standard deviation of per-game penalty counts is blended using the
-    same weights. Low = projection − 1 blended SD, High = projection + 1 blended SD.<br>
-    &nbsp;&nbsp;• Blended SD: <b>{proj['blended_std']}</b><br><br>
+    Each ref's standard deviation of clean per-game penalty counts is combined using
+    quadrature (√(SD₁² + SD₂²)) rather than a weighted average — because the two refs
+    are independent, their variances add. A weighted average always lands between the
+    two individual SDs and understates the true spread of a two-ref game.
+    Low = projection − combined SD, High = projection + combined SD.<br>
+    &nbsp;&nbsp;• Combined SD: <b>{proj['blended_std']}</b><br><br><br><br>
 
     <b>Step 4 — PIM, PP opportunities, and period splits</b><br>
-    PIM uses the blended PIM/game rate with the same bias scaling (each penalty ≈ 2 min).
-    PP opportunities = projected total penalties × blended PP%. Per-team PP opps use
+    PIM uses the blended clean PIM/game rate with the same bias scaling (each penalty ≈ 2 min).
+    PP opportunities = projected total penalties × blended clean PP%. Per-team PP opps use
     each team's bias-adjusted penalty projection. Period splits use each ref's
-    historical share of calls per period, blended by the same weights.
+    historical share of clean calls per period, blended by the same weights.
     </div>
     """, unsafe_allow_html=True)
 
