@@ -273,7 +273,6 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg, tea
                    .sort_values(ascending=False).head(8).reset_index(name="count"))
         top_inf["per_game"] = (top_inf["count"] / games).round(2)
 
-        # Teams table — smaller font/cols to fit bias column side by side
         def _ths(txt):
             return Paragraph(txt, ParagraphStyle("ths", fontSize=7, fontName="Helvetica-Bold", textColor=GOLD))
         def _tds(txt):
@@ -285,7 +284,6 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg, tea
                   .agg(total=("infraction","count"), pim=("minutes","sum"))
                   .reset_index())
 
-        # Per-game using median per game
         def _team_med_pdf(team, col):
             g = df_r[df_r["team_abbrev"] == team]
             if col == "pen":
@@ -297,7 +295,6 @@ def build_ref_pdf(ref_names, summary, pct_df, df_stacked, league_median_ppg, tea
         team_d["per_game"]    = team_d["team_abbrev"].apply(lambda t: _team_med_pdf(t, "pen"))
         team_d["pim_per_game"]= team_d["team_abbrev"].apply(lambda t: _team_med_pdf(t, "minutes"))
 
-        # Bias
         def _bias_pdf(row):
             team = row["team_abbrev"]
             if row["g_together"] < BIAS_MIN_GAMES or team not in team_baseline.index:
@@ -420,11 +417,58 @@ st.markdown("""
     }
     .metric-card .val { font-size: 22px; font-weight: 700; color: #1a2744; }
     .metric-card .lbl { font-size: 10px; color: #666; margin-top: 2px; }
+
+    /* ── Projection section ── */
+    .proj-header {
+        background: linear-gradient(135deg, #1a2744 0%, #2e4070 100%);
+        color: #f0c040; padding: 16px 24px; border-radius: 10px;
+        font-size: 20px; font-weight: 700; margin-bottom: 1rem;
+        letter-spacing: .5px;
+    }
+    .proj-card {
+        background: #1a2744; color: white;
+        border-radius: 10px; padding: 14px 10px; text-align: center;
+        margin-bottom: 8px;
+    }
+    .proj-card .pval { font-size: 28px; font-weight: 800; color: #f0c040; }
+    .proj-card .plbl { font-size: 11px; color: #aab8d0; margin-top: 3px; }
+    .proj-card .psub { font-size: 10px; color: #90a0c0; margin-top: 4px; }
+    .range-bar {
+        display: flex; align-items: center; gap: 12px;
+        background: #f0f4fa; border-radius: 8px; padding: 12px 20px;
+        margin: 8px 0;
+    }
+    .range-low  { color: #1a6b16; font-weight: 700; font-size: 18px; }
+    .range-mid  { color: #1a2744; font-weight: 800; font-size: 24px; flex: 1; text-align: center; }
+    .range-high { color: #8b0000; font-weight: 700; font-size: 18px; }
+    .period-table { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 6px; }
+    .period-table th {
+        background: #1a2744; color: #f0c040;
+        padding: 6px 10px; text-align: center; font-size: 12px;
+    }
+    .period-table td {
+        padding: 6px 10px; text-align: center;
+        border-bottom: 1px solid #e8eaf0;
+    }
+    .period-table tr:nth-child(even) td { background: #f5f7fb; }
+    .team-proj-table { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 6px; }
+    .team-proj-table th {
+        background: #1a2744; color: #f0c040;
+        padding: 6px 10px; text-align: center; font-size: 12px;
+    }
+    .team-proj-table td {
+        padding: 7px 10px; text-align: center;
+        border-bottom: 1px solid #e8eaf0;
+    }
+    .methodology-box {
+        background: #f8f9fb; border-left: 3px solid #1a2744;
+        border-radius: 0 6px 6px 0; padding: 12px 16px;
+        font-size: 11px; color: #444; line-height: 1.7;
+    }
 </style>
 """, unsafe_allow_html=True)
 
 # ── Load data ─────────────────────────────────────────────────────────────────
-# Add as many folder names as you need — all CSVs across all folders are combined.
 DATA_DIRS = [
     os.path.join(os.path.dirname(__file__), "Refs"),
     os.path.join(os.path.dirname(__file__), "Refs_prev"),
@@ -432,7 +476,6 @@ DATA_DIRS = [
 
 @st.cache_data
 def load_data(data_dirs: tuple) -> pd.DataFrame:
-    # Collect all CSV files across all folders
     files = []
     for d in data_dirs:
         if os.path.isdir(d):
@@ -440,13 +483,10 @@ def load_data(data_dirs: tuple) -> pd.DataFrame:
     if not files:
         return pd.DataFrame()
 
-    # Deduplicate at the file level — if the same game_id CSV exists in
-    # multiple folders, only load it once (first one wins).
     seen_game_ids = set()
     dfs = []
     for f in files:
         try:
-            # Extract game_id from filename: ahl_penalties_1028894.csv -> 1028894
             basename = os.path.basename(f)
             gid = int(basename.replace("ahl_penalties_", "").replace(".csv", ""))
             if gid in seen_game_ids:
@@ -494,7 +534,6 @@ def build_summary(df: pd.DataFrame):
         games     = grp["game_id"].nunique()
         pens      = len(grp)
         pim       = grp["minutes"].sum()
-        # Per-game PP and bench rates using median across games
         game_pp    = grp.groupby("game_id")["is_power_play"].sum()
         game_pen   = grp.groupby("game_id").size()
         game_pp_rate = (game_pp / game_pen * 100)
@@ -511,11 +550,16 @@ def build_summary(df: pd.DataFrame):
         body  = _median_per_game(grp, "Rough|Fight|Cross|Charg|Board")
         misc  = _median_per_game(grp, "Misc|Unsport|Instig|Conduct")
         trap  = _median_per_game(grp, "Trip|Hold|Obstruct")
-        # P3/P1: total P3 penalties / total P1 penalties across all games
         period_int = pd.to_numeric(grp["period"], errors="coerce")
         p1_total   = (period_int == 1).sum()
         p3_total   = (period_int == 3).sum()
         p3_ratio   = round(p3_total / p1_total, 3) if p1_total > 0 else 1.000
+
+        # Per-period median per game (used for projector period splits)
+        per_period = {}
+        for p in [1, 2, 3]:
+            pg = grp[pd.to_numeric(grp["period"], errors="coerce") == p]
+            per_period[f"p{p}_median"] = round(pg.groupby("game_id").size().median(), 3) if games else 0
 
         rows.append({
             "ref":            ref_name,
@@ -531,6 +575,7 @@ def build_summary(df: pd.DataFrame):
             "misc_per_game":  round(misc,  2),
             "trap_per_game":  round(trap,  2),
             "p3_ratio":       p3_ratio,
+            **per_period,
         })
     return pd.DataFrame(rows), stacked
 
@@ -547,16 +592,9 @@ for col in STAT_COLS:
 
 league_median_ppg = round(summary["pen_per_game"].median(), 2)
 
-# ── Team season pen/game baseline (across all refs, all games) ────────────────
-# For each team: how many penalties called against them per game on average
-# Used for the ref bias metric: ref pen/g vs team - team season pen/g
+# ── Team season pen/game baseline ────────────────────────────────────────────
 @st.cache_data
 def build_team_baseline(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Returns a DataFrame with team_abbrev and their season pen/game baseline.
-    Uses median of per-game penalty counts — resistant to blowout/brawl games
-    skewing the baseline.
-    """
     per_game = (
         df.groupby(["team_abbrev", "game_id"])
         .size().reset_index(name="pen")
@@ -574,7 +612,7 @@ def build_team_baseline(df: pd.DataFrame) -> pd.DataFrame:
 
 team_baseline = build_team_baseline(df_all)
 
-# ── Sidebar — two independent selectors ──────────────────────────────────────
+# ── Sidebar ───────────────────────────────────────────────────────────────────
 all_refs = sorted(summary["ref"].unique())
 
 with st.sidebar:
@@ -588,10 +626,8 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### 🔍 Game Scouting Snapshot")
 
-    # Build "TEAM_A vs TEAM_B (game_id)" labels for each game
     @st.cache_data
     def build_game_labels(df: pd.DataFrame) -> dict:
-        """Returns {label: game_id} sorted by game_id descending (most recent first)."""
         labels = {}
         for gid, grp in df.groupby("game_id"):
             teams = sorted(grp["team_abbrev"].dropna().unique())
@@ -602,7 +638,6 @@ with st.sidebar:
             else:
                 label = f"Game #{gid}"
             labels[label] = gid
-        # Sort most recent game first
         return dict(sorted(labels.items(), key=lambda x: x[1], reverse=True))
 
     game_labels = build_game_labels(df_all)
@@ -615,7 +650,6 @@ with st.sidebar:
         if not game_data.empty:
             crew = [game_data["ref1"].iloc[0], game_data["ref2"].iloc[0]]
             crew = [r for r in crew if r and str(r).strip()]
-        # Get the two teams in this game
         game_teams = sorted(game_data["team_abbrev"].dropna().unique()) if not game_data.empty else []
 
         if crew:
@@ -635,7 +669,6 @@ with st.sidebar:
                 style_color  = "#8b0000" if style == "Tight" else ("#1a6b16" if style == "Loose" else "#7a5c00")
                 ppg          = o_stats["pen_per_game"]
 
-                # Build bias lines for each team in this game
                 df_ref_all = df_stacked[df_stacked["_ref"] == official]
                 bias_lines = []
                 for team in game_teams:
@@ -732,7 +765,6 @@ def pct_badge(ref_name: str, col: str) -> str:
     return f'<span class="{cls}">{val}</span>'
 
 def tightness_badge(ppg: float) -> str:
-    """1 SD above median = Tight, 1 SD below median = Loose, else Average."""
     median = summary["pen_per_game"].median()
     sd     = summary["pen_per_game"].std(ddof=1) if len(summary) > 1 else 0
     if ppg >= median + sd:
@@ -742,12 +774,10 @@ def tightness_badge(ppg: float) -> str:
     return '<span class="badge badge-avg">Average</span>'
 
 def render_ref_column(ref_name: str):
-    """Render all stats for one referee into the current Streamlit column."""
     row   = summary[summary["ref"] == ref_name].iloc[0]
     df_r  = df_stacked[df_stacked["_ref"] == ref_name].copy()
     games = row["games"]
 
-    # Name header + badge
     badge = tightness_badge(row["pen_per_game"])
     reliable_warn = "" if row.get("reliable", True) else " &nbsp; ⚠️ Low sample"
     st.markdown(
@@ -755,7 +785,6 @@ def render_ref_column(ref_name: str):
         unsafe_allow_html=True,
     )
 
-    # Quick metric cards
     mc1, mc2, mc3, mc4 = st.columns(4)
     sign  = "+" if row["pen_per_game"] >= league_median_ppg else ""
     delta = round(row["pen_per_game"] - league_median_ppg, 2)
@@ -773,7 +802,6 @@ def render_ref_column(ref_name: str):
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # Total calls table + percentiles
     st.markdown('<div class="section-title">Total Calls</div>', unsafe_allow_html=True)
     cols_display = {
         "Games":  ("games",        False),
@@ -805,7 +833,6 @@ def render_ref_column(ref_name: str):
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # Infraction categories + percentiles
     st.markdown('<div class="section-title">Infraction Categories / Game</div>', unsafe_allow_html=True)
     cat_cols = {
         "Stick":      ("stick_per_game", True),
@@ -833,7 +860,6 @@ def render_ref_column(ref_name: str):
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # Period breakdown
     st.markdown('<div class="section-title">Period Breakdown</div>', unsafe_allow_html=True)
     p_data   = df_r.groupby("period").size().reindex([1, 2, 3, 4], fill_value=0)
     p_header = "".join(f"<th>P{int(p)}/G</th>" for p in p_data.index)
@@ -853,7 +879,6 @@ def render_ref_column(ref_name: str):
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # Top infractions
     st.markdown('<div class="section-title">Top Infractions Called</div>', unsafe_allow_html=True)
     top_inf = (
         df_r.groupby("infraction").size()
@@ -876,7 +901,6 @@ def render_ref_column(ref_name: str):
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # Teams called against + bias
     st.markdown('<div class="section-title">Teams Called Against</div>', unsafe_allow_html=True)
     team_games_ref = df_r.groupby("team_abbrev")["game_id"].nunique().rename("ref_games")
     team_data = (
@@ -885,7 +909,6 @@ def render_ref_column(ref_name: str):
         .reset_index()
         .join(team_games_ref, on="team_abbrev")
     )
-    # Use median of per-game counts for each ref-team combo
     def _team_median(team_abbrev, col):
         grp = df_r[df_r["team_abbrev"] == team_abbrev]
         if col == "pen":
@@ -893,7 +916,6 @@ def render_ref_column(ref_name: str):
         return round(grp.groupby("game_id")[col].sum().median(), 2)
     team_data["per_game"]     = team_data["team_abbrev"].apply(lambda t: _team_median(t, "pen"))
     team_data["pim_per_game"] = team_data["team_abbrev"].apply(lambda t: _team_median(t, "minutes"))
-    # Bias = ref pen/g vs this team - team season pen/g baseline
     def _bias(row):
         team = row["team_abbrev"]
         if row["ref_games"] < BIAS_MIN_GAMES or team not in team_baseline.index:
@@ -930,7 +952,6 @@ def render_ref_column(ref_name: str):
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # Game log
     with st.expander(f"📋 Full penalty log — {ref_name}"):
         log_cols = ["game_id", "period", "time", "team_abbrev", "player",
                     "infraction", "minutes", "is_power_play", "is_bench"]
@@ -1002,7 +1023,7 @@ with st.expander("📊 All Referees Comparison"):
         unsafe_allow_html=True,
     )
 
-# ── Team View — pick a team, rank all refs by bias ────────────────────────────
+# ── Team View ─────────────────────────────────────────────────────────────────
 st.markdown("---")
 st.markdown('<div class="dash-header">🏒 Team View — Referee Bias by Team</div>', unsafe_allow_html=True)
 
@@ -1015,7 +1036,7 @@ if chosen_team:
 
     tc1, tc2 = st.columns(2)
     tc1.markdown(
-        f'<div class="metric-card"><div class="val">{total_team_games}</div>' 
+        f'<div class="metric-card"><div class="val">{total_team_games}</div>'
         f'<div class="lbl">Season games (in dataset)</div></div>',
         unsafe_allow_html=True,
     )
@@ -1026,7 +1047,6 @@ if chosen_team:
     )
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # Build per-ref bias against this team
     bias_rows = []
     for _, ref_row in summary.iterrows():
         ref_name = ref_row["ref"]
@@ -1039,7 +1059,7 @@ if chosen_team:
         bias = round(ppg_vs_team - baseline_ppg, 2) if baseline_ppg is not None else None
         bias_rows.append({
             "Referee":       ref_name,
-            "G Together":    g_together,  # renamed in display below
+            "G Together":    g_together,
             "Pen/G vs Team": ppg_vs_team,
             "Season Pen/G":  baseline_ppg,
             "Bias":          bias,
@@ -1086,6 +1106,365 @@ if chosen_team:
           green = easier &nbsp;|&nbsp; grey = fewer than 3 games together (unreliable)
         </small>
         """, unsafe_allow_html=True)
+
+
+# ════════════════════════════════════════════════════════════════════════════════
+# ── GAME PENALTY PROJECTOR ────────────────────────────────────────────────────
+# ════════════════════════════════════════════════════════════════════════════════
+
+st.markdown("---")
+st.markdown('<div class="proj-header">🎯 Game Penalty Projector</div>', unsafe_allow_html=True)
+st.markdown(
+    "Select a referee crew and the two teams for an upcoming game. "
+    "The projector blends both refs' penalty tendencies — weighting the higher-volume "
+    "ref more — then adjusts using each ref's known historical bias against the specific teams.",
+)
+st.markdown("<br>", unsafe_allow_html=True)
+
+# ── Independent selectors ────────────────────────────────────────────────────
+pcol1, pcol2, pcol3, pcol4 = st.columns(4)
+with pcol1:
+    st.markdown("**Referee 1**")
+    proj_ref1 = st.selectbox(
+        "Proj Ref 1", all_refs, index=0, key="proj_ref1", label_visibility="collapsed"
+    )
+with pcol2:
+    st.markdown("**Referee 2**")
+    proj_ref2 = st.selectbox(
+        "Proj Ref 2", all_refs, index=min(1, len(all_refs) - 1),
+        key="proj_ref2", label_visibility="collapsed"
+    )
+with pcol3:
+    st.markdown("**Home Team**")
+    proj_home = st.selectbox(
+        "Proj Home", all_teams, index=0, key="proj_home", label_visibility="collapsed"
+    )
+with pcol4:
+    st.markdown("**Away Team**")
+    proj_away = st.selectbox(
+        "Proj Away", all_teams, index=min(1, len(all_teams) - 1),
+        key="proj_away", label_visibility="collapsed"
+    )
+
+st.markdown("<br>", unsafe_allow_html=True)
+
+
+# ── Core projection functions ────────────────────────────────────────────────
+
+def get_ref_bias_vs_team(ref_name, team):
+    """
+    Returns (bias_value, games_together).
+    bias = ref's median pen/game vs that team − team's season baseline.
+    Returns (None, 0) if no shared history or no team baseline.
+    """
+    df_r  = df_stacked[df_stacked["_ref"] == ref_name]
+    df_rt = df_r[df_r["team_abbrev"] == team]
+    g     = df_rt["game_id"].nunique()
+    if g == 0 or team not in team_baseline.index:
+        return None, 0
+    ref_ppg_vs = df_rt.groupby("game_id").size().median()
+    bias = round(ref_ppg_vs - team_baseline.loc[team, "season_ppg"], 2)
+    return bias, g
+
+
+def compute_projection(ref1, ref2, team_home, team_away):
+    """
+    Weighted blend of two refs' medians, then apply averaged team bias.
+    The ref with the higher pen/game median gets a proportionally larger weight.
+    """
+    r1 = summary[summary["ref"] == ref1].iloc[0]
+    r2 = summary[summary["ref"] == ref2].iloc[0]
+
+    ppg1 = r1["pen_per_game"]
+    ppg2 = r2["pen_per_game"]
+    pim1 = r1["pim_per_game"]
+    pim2 = r2["pim_per_game"]
+    pp1  = r1["pp_pct"] / 100.0
+    pp2  = r2["pp_pct"] / 100.0
+
+    # Weight by penalty volume: higher-median ref gets bigger say
+    total_ppg = ppg1 + ppg2
+    w1 = (ppg1 / total_ppg) if total_ppg > 0 else 0.5
+    w2 = (ppg2 / total_ppg) if total_ppg > 0 else 0.5
+
+    base_ppg = w1 * ppg1 + w2 * ppg2
+    base_pim = w1 * pim1 + w2 * pim2
+    base_pp  = w1 * pp1  + w2 * pp2
+
+    # Bias per team: average both refs' biases where data exists
+    teams = [team_home, team_away]
+    team_detail = {}
+    total_bias  = 0.0
+
+    for team in teams:
+        b1, g1 = get_ref_bias_vs_team(ref1, team)
+        b2, g2 = get_ref_bias_vs_team(ref2, team)
+        available = [b for b in [b1, b2] if b is not None]
+        blended   = round(sum(available) / len(available), 3) if available else None
+        team_detail[team] = {
+            "bias_ref1": b1, "games_ref1": g1,
+            "bias_ref2": b2, "games_ref2": g2,
+            "blended_bias": blended,
+        }
+        if blended is not None:
+            total_bias += blended
+
+    proj_total = max(0.0, round(base_ppg + total_bias, 2))
+
+    # Confidence range: ±1 blended std dev of per-game penalty counts
+    def _ref_std(ref_name):
+        per_game = df_stacked[df_stacked["_ref"] == ref_name].groupby("game_id").size()
+        return per_game.std(ddof=1) if len(per_game) > 1 else 1.0
+
+    std1 = _ref_std(ref1)
+    std2 = _ref_std(ref2)
+    blended_std = w1 * std1 + w2 * std2
+
+    proj_low  = max(0.0, round(proj_total - blended_std, 1))
+    proj_high = max(0.0, round(proj_total + blended_std, 1))
+
+    # PIM: scale by same total bias (each penalty ~ 2 min, bias in penalty units)
+    proj_pim  = max(0.0, round(base_pim + total_bias * 2.0, 2))
+
+    # PP opportunities: projected total × blended PP%
+    proj_pp_total = round(proj_total * base_pp, 2)
+
+    # Per-team PP opportunities (penalties called *against* the opponent)
+    pp_by_team = {}
+    for team in teams:
+        tb = team_detail[team]["blended_bias"] or 0.0
+        team_pen_proj = max(0.0, (base_ppg / 2) + tb)
+        pp_by_team[team] = round(team_pen_proj * base_pp, 2)
+
+    # Per-period split: blend each ref's historical period fractions
+    def _period_fracs(row):
+        total = row["pen_per_game"]
+        if total == 0:
+            return {1: 1/3, 2: 1/3, 3: 1/3}
+        raw = {p: row.get(f"p{p}_median", 0) for p in [1, 2, 3]}
+        s = sum(raw.values())
+        return {p: (v / s if s > 0 else 1/3) for p, v in raw.items()}
+
+    fracs1 = _period_fracs(r1)
+    fracs2 = _period_fracs(r2)
+    period_proj = {
+        p: round(proj_total * (w1 * fracs1[p] + w2 * fracs2[p]), 2)
+        for p in [1, 2, 3]
+    }
+
+    return {
+        "proj_total":     proj_total,
+        "proj_low":       proj_low,
+        "proj_high":      proj_high,
+        "proj_pim":       proj_pim,
+        "proj_pp_total":  proj_pp_total,
+        "pp_by_team":     pp_by_team,
+        "period_proj":    period_proj,
+        "team_detail":    team_detail,
+        "base_ppg":       round(base_ppg, 3),
+        "w1":             round(w1, 3),
+        "w2":             round(w2, 3),
+        "ppg1":           ppg1,
+        "ppg2":           ppg2,
+        "blended_std":    round(blended_std, 3),
+        "total_bias_adj": round(total_bias, 3),
+        "base_pp_pct":    round(base_pp * 100, 1),
+    }
+
+
+proj = compute_projection(proj_ref1, proj_ref2, proj_home, proj_away)
+
+# ── Headline metric cards ────────────────────────────────────────────────────
+st.markdown("#### Projected Totals for This Game")
+hc1, hc2, hc3, hc4 = st.columns(4)
+
+bias_sign = "+" if proj["total_bias_adj"] >= 0 else ""
+
+hc1.markdown(
+    f'<div class="proj-card">'
+    f'<div class="plbl">Total Penalties</div>'
+    f'<div class="pval">{proj["proj_total"]}</div>'
+    f'<div class="psub">Range {proj["proj_low"]} – {proj["proj_high"]}</div>'
+    f'</div>',
+    unsafe_allow_html=True,
+)
+hc2.markdown(
+    f'<div class="proj-card">'
+    f'<div class="plbl">Total PIM</div>'
+    f'<div class="pval">{proj["proj_pim"]}</div>'
+    f'<div class="psub">penalty minutes</div>'
+    f'</div>',
+    unsafe_allow_html=True,
+)
+hc3.markdown(
+    f'<div class="proj-card">'
+    f'<div class="plbl">PP Opportunities</div>'
+    f'<div class="pval">{proj["proj_pp_total"]}</div>'
+    f'<div class="psub">at {proj["base_pp_pct"]}% PP rate</div>'
+    f'</div>',
+    unsafe_allow_html=True,
+)
+hc4.markdown(
+    f'<div class="proj-card">'
+    f'<div class="plbl">Bias Adjustment</div>'
+    f'<div class="pval">{bias_sign}{proj["total_bias_adj"]}</div>'
+    f'<div class="psub">from team history</div>'
+    f'</div>',
+    unsafe_allow_html=True,
+)
+
+st.markdown("<br>", unsafe_allow_html=True)
+
+# ── Confidence range ─────────────────────────────────────────────────────────
+st.markdown("#### Confidence Range")
+st.markdown(
+    f'<div class="range-bar">'
+    f'<div><span style="font-size:11px;color:#888">LOW</span><br>'
+    f'<span class="range-low">{proj["proj_low"]}</span></div>'
+    f'<div style="flex:1;text-align:center;color:#ccc;font-size:20px">————————————</div>'
+    f'<div><span style="font-size:11px;color:#888">PROJECTED</span><br>'
+    f'<span class="range-mid">{proj["proj_total"]}</span></div>'
+    f'<div style="flex:1;text-align:center;color:#ccc;font-size:20px">————————————</div>'
+    f'<div><span style="font-size:11px;color:#888">HIGH</span><br>'
+    f'<span class="range-high">{proj["proj_high"]}</span></div>'
+    f'</div>'
+    f'<small style="color:#888">±1 blended std dev of both refs\' per-game penalty distributions '
+    f'(blended SD: {proj["blended_std"]})</small>',
+    unsafe_allow_html=True,
+)
+
+st.markdown("<br>", unsafe_allow_html=True)
+
+# ── Period breakdown + PP by team ────────────────────────────────────────────
+left_col, right_col = st.columns(2)
+
+with left_col:
+    st.markdown("#### Per-Period Breakdown")
+    share_rows = ""
+    for p in [1, 2, 3]:
+        pval  = proj["period_proj"][p]
+        share = round(pval / proj["proj_total"] * 100, 1) if proj["proj_total"] > 0 else "—"
+        share_rows += f"<tr><td><b>Period {p}</b></td><td>{pval}</td><td>{share}%</td></tr>"
+    st.markdown(f"""
+    <table class="period-table">
+      <tr><th>Period</th><th>Proj. Penalties</th><th>Share</th></tr>
+      {share_rows}
+    </table>
+    <small style="color:#888">
+      Based on each ref's historical per-period distribution, blended by weight
+    </small>
+    """, unsafe_allow_html=True)
+
+with right_col:
+    st.markdown("#### PP Opportunities by Team")
+    pp_rows = "".join(
+        f"<tr><td style='text-align:left;font-weight:700'>{team}</td>"
+        f"<td>{proj['pp_by_team'].get(team, '—')}</td></tr>"
+        for team in [proj_home, proj_away]
+    )
+    st.markdown(f"""
+    <table class="period-table">
+      <tr><th style="text-align:left">Team</th><th>Proj. PP Opps</th></tr>
+      {pp_rows}
+    </table>
+    <small style="color:#888">
+      PP opps = penalties projected against the opponent × blended PP% ({proj["base_pp_pct"]}%).<br>
+      Team-specific bias adjustments are factored into each team's penalty projection.
+    </small>
+    """, unsafe_allow_html=True)
+
+st.markdown("<br>", unsafe_allow_html=True)
+
+# ── Team bias detail ──────────────────────────────────────────────────────────
+st.markdown("#### Team Bias Detail")
+
+r1_short = proj_ref1.split()[-1]
+r2_short = proj_ref2.split()[-1]
+
+bias_detail_rows = ""
+for team in [proj_home, proj_away]:
+    td = proj["team_detail"][team]
+    season_ppg = team_baseline.loc[team, "season_ppg"] if team in team_baseline.index else "—"
+
+    def _fmt_bias(bias, games):
+        if bias is None:
+            return "<span style='color:#aaa'>— (no data)</span>"
+        sign  = "+" if bias > 0 else ""
+        color = "#8b0000" if bias > 0 else "#1a6b16"
+        flag  = f" ({games}G)" if games >= BIAS_MIN_GAMES else f" ({games}G) ⚠️"
+        return f"<span style='color:{color};font-weight:700'>{sign}{bias}</span><span style='font-size:10px;color:#888'>{flag}</span>"
+
+    def _fmt_blended(bias):
+        if bias is None:
+            return "<span style='color:#aaa'>—</span>"
+        sign  = "+" if bias > 0 else ""
+        color = "#8b0000" if bias > 0 else "#1a6b16"
+        return f"<span style='color:{color};font-weight:800;font-size:14px'>{sign}{bias}</span>"
+
+    bias_detail_rows += (
+        f"<tr>"
+        f"<td style='text-align:left;font-weight:700;font-size:14px'>{team}</td>"
+        f"<td>{season_ppg}</td>"
+        f"<td>{_fmt_bias(td['bias_ref1'], td['games_ref1'])}</td>"
+        f"<td>{_fmt_bias(td['bias_ref2'], td['games_ref2'])}</td>"
+        f"<td>{_fmt_blended(td['blended_bias'])}</td>"
+        f"</tr>"
+    )
+
+st.markdown(f"""
+<table class="team-proj-table">
+  <tr>
+    <th style="text-align:left">Team</th>
+    <th>Season Pen/G</th>
+    <th>{r1_short} Bias</th>
+    <th>{r2_short} Bias</th>
+    <th>Blended Bias</th>
+  </tr>
+  {bias_detail_rows}
+</table>
+<small style="color:#888">
+  Bias = ref's median pen/G vs team − team season pen/G &nbsp;|&nbsp;
+  <span style="color:#8b0000;font-weight:600">red = ref historically harder on that team</span> &nbsp;|&nbsp;
+  <span style="color:#1a6b16;font-weight:600">green = easier</span> &nbsp;|&nbsp;
+  ⚠️ fewer than {BIAS_MIN_GAMES} games together — treat as directional only &nbsp;|&nbsp;
+  blended = average of the two refs' biases where data exists
+</small>
+""", unsafe_allow_html=True)
+
+st.markdown("<br>", unsafe_allow_html=True)
+
+# ── Methodology expander ──────────────────────────────────────────────────────
+with st.expander("📐 How this projection works"):
+    st.markdown(f"""
+    <div class="methodology-box">
+    <b>Step 1 — Weighted blend of ref medians</b><br>
+    Each ref's historical median pen/game is the base. The higher-median ref gets a
+    proportionally larger weight (their median ÷ the sum of both medians), so their
+    tendencies drive the estimate more when there's a meaningful difference.<br>
+    &nbsp;&nbsp;• <b>{proj_ref1}</b>: {proj['ppg1']} pen/G → weight <b>{proj['w1']:.1%}</b><br>
+    &nbsp;&nbsp;• <b>{proj_ref2}</b>: {proj['ppg2']} pen/G → weight <b>{proj['w2']:.1%}</b><br>
+    &nbsp;&nbsp;• Blended base: <b>{proj['base_ppg']}</b> pen/game<br><br>
+
+    <b>Step 2 — Team bias adjustments</b><br>
+    For each team, we look at how each ref's median pen/game against them compares
+    to that team's season average. Both refs' biases are averaged (where data exists)
+    to get a blended bias per team. The sum of both teams' blended biases is then
+    added to the base projection.<br>
+    &nbsp;&nbsp;• Total bias adjustment applied: <b>{"+" if proj["total_bias_adj"] >= 0 else ""}{proj["total_bias_adj"]}</b><br><br>
+
+    <b>Step 3 — Confidence range</b><br>
+    Each ref's standard deviation of per-game penalty counts is blended using the
+    same weights. Low = projection − 1 blended SD, High = projection + 1 blended SD.<br>
+    &nbsp;&nbsp;• Blended SD: <b>{proj['blended_std']}</b><br><br>
+
+    <b>Step 4 — PIM, PP opportunities, and period splits</b><br>
+    PIM uses the blended PIM/game rate with the same bias scaling (each penalty ≈ 2 min).
+    PP opportunities = projected total penalties × blended PP%. Per-team PP opps use
+    each team's bias-adjusted penalty projection. Period splits use each ref's
+    historical share of calls per period, blended by the same weights.
+    </div>
+    """, unsafe_allow_html=True)
+
 
 st.markdown("---")
 st.caption("Data source: AHL / HockeyTech · Built with ahl_penalty_ref_scraper.py")
