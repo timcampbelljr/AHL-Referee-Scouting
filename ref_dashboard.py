@@ -1291,7 +1291,7 @@ def compute_projection(ref1, ref2, team_home, team_away):
         if blended is not None:
             total_bias += blended
 
-    proj_total = max(0.0, round(base_ppg + total_bias, 2))
+    proj_total = max(0.0, round(base_ppg + total_bias, 3))
 
     # Confidence range: ±1 blended std dev of clean per-game penalty counts
     def _ref_games_and_std(ref_name):
@@ -1305,7 +1305,7 @@ def compute_projection(ref1, ref2, team_home, team_away):
 
     denom = n1 + n2 - 2
     if denom < 1:
-        blended_std = round(2.5 / (2 ** 0.5), 3)  # → 1.768
+        blended_std = round(2.5 / (2 ** 0.5), 3)
     else:
         pooled_var = (((n1 - 1) * std1**2) + ((n2 - 1) * std2**2)) / denom
         blended_std = round((pooled_var ** 0.5) / (2 ** 0.5), 3)
