@@ -1294,16 +1294,18 @@ def compute_projection(ref1, ref2, team_home, team_away):
     proj_total = max(0.0, round(base_ppg + total_bias, 2))
 
     # Confidence range: ±1 blended std dev of clean per-game penalty counts
-    def _ref_std(ref_name):
-        per_game = proj_stacked[proj_stacked["_ref"] == ref_name].groupby("game_id").size()
-        return per_game.std(ddof=1) if len(per_game) > 1 else 1.0
+    def _ref_games_and_std(ref_name):
+      per_game = proj_stacked[proj_stacked["_ref"] == ref_name].groupby("game_id").size()
+      n = len(per_game)
+      sd = per_game.std(ddof=1) if n > 1 else 2.5  # 2.5 = reasonable AHL prior
+      return n, sd
 
-    std1 = _ref_std(ref1)
-    std2 = _ref_std(ref2)
-    # Quadrature sum: the two refs are independent so their variances add,
-    # giving a combined SD that properly reflects the full game's variability
-    # rather than the weighted average (which always understates the spread).
-    blended_std = round((std1 ** 2 + std2 ** 2) ** 0.5, 3)
+    n1, std1 = _ref_games_and_std(ref1)
+    n2, std2 = _ref_games_and_std(ref2)
+
+
+    pooled_var = (((n1 - 1) * std1**2) + ((n2 - 1) * std2**2)) / max(n1 + n2 - 2, 1)
+    blended_std = round((pooled_var ** 0.5) / (2 ** 0.5), 3)
 
     proj_low  = max(0.0, round(proj_total - blended_std, 1))
     proj_high = max(0.0, round(proj_total + blended_std, 1))
