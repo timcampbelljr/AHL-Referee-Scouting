@@ -1304,11 +1304,11 @@ def compute_projection(ref1, ref2, team_home, team_away):
     n2, std2 = _ref_games_and_std(ref2)
 
 
-    pooled_var = (((n1 - 1) * std1**2) + ((n2 - 1) * std2**2)) / max(n1 + n2 - 2, 1)
+    pooled_var = (((n1 - 1) * std1**2) + ((n2 - 1) * std2**2)) / max(n1 + n2 - 2, 3)
     blended_std = round((pooled_var ** 0.5) / (2 ** 0.5), 3)
 
-    proj_low  = max(0.0, round(proj_total - blended_std, 1))
-    proj_high = max(0.0, round(proj_total + blended_std, 1))
+    proj_low  = max(0.0, round(proj_total - blended_std, 2))
+    proj_high = max(0.0, round(proj_total + blended_std, 2))
 
     # PIM: scale by same total bias (each penalty ~ 2 min, bias in penalty units)
     proj_pim  = max(0.0, round(base_pim + total_bias * 2.0, 2))
