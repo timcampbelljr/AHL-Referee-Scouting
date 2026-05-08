@@ -973,6 +973,15 @@ if active == "dashboard":
         </small>
         """, unsafe_allow_html=True)
 
+        st.markdown("""
+<small style="color:#888">
+  <b>Stick:</b> Hooking, Slashing, High-sticking, Interference &nbsp;·&nbsp;
+  <b>Body:</b> Roughing, Cross-checking, Charging, Boarding &nbsp;·&nbsp;
+  <b>Trapping:</b> Tripping, Holding, Obstruction &nbsp;·&nbsp;
+  <b>Misconduct:</b> Misconduct, Unsportsmanlike conduct, Fighting
+</small>
+        """, unsafe_allow_html=True)
+
         st.markdown("<br>", unsafe_allow_html=True)
 
         st.markdown('<div class="section-title">Period Breakdown</div>', unsafe_allow_html=True)
