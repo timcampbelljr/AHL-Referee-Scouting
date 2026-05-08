@@ -600,8 +600,8 @@ def build_summary(df: pd.DataFrame):
                 lambda x: x.str.contains(pattern, case=False).sum()
             )
             return counts.median() if len(counts) else 0
-        stick = _median_per_game(grp, "High-stick|Slash|Hook|Interfer")
-        body  = _median_per_game(grp, "Rough|Cross|Charg|Board")
+        stick = _median_per_game(grp, "High-stick|Slash|Hook|Cross")
+        body  = _median_per_game(grp, "Rough|Interfer|Charg|Board")
         misc  = _median_per_game(grp, "Misc|Unsport|Fight")
         trap  = _median_per_game(grp, "Trip|Hold|Obstruct")
         period_int = pd.to_numeric(grp["period"], errors="coerce")
@@ -975,8 +975,8 @@ if active == "dashboard":
 
         st.markdown("""
 <small style="color:#888">
-  <b>Stick:</b> Hooking, Slashing, High-sticking, Interference &nbsp;·&nbsp;
-  <b>Body:</b> Roughing, Cross-checking, Charging, Boarding &nbsp;·&nbsp;
+  <b>Stick:</b> Hooking, Slashing, High-sticking, Cross-checking &nbsp;·&nbsp;
+  <b>Body:</b> Roughing, Interference, Charging, Boarding &nbsp;·&nbsp;
   <b>Trapping:</b> Tripping, Holding, Obstruction &nbsp;·&nbsp;
   <b>Misconduct:</b> Misconduct, Unsportsmanlike conduct, Fighting
 </small>
